@@ -13,46 +13,53 @@ author:
 date: 2022-11-17
 ---
 
-# Twitter assignment
-This assignment is designed to be used as a teaching aid.
+{% include toc.html %}
 
-## Goals
-To understand how historians / socials scientist can capture tweets to use as primary sources
-Introduction to the Twitter API
-including the limitations of the search API
-first harvesting of tweets (hashtag-based)
-examples of memory hashtags
-first basic analyses of the collected corpus
-text analysis
-social network analysis
+## Introduction 
+The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can then use as primary sources for research purposes. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first harvesting of tweets that will be hashtag-based, i.e. using selected hashtags (some examples of historical memory hashtags will be provided). Finally, we will provide a basic analysis of the corpus of the colected tweets, by operating text and social network analysis. 
+
+There are various ways to collect this kind of data; we propose here to use Netlytic, an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a [Netlytic](https://netlytic.org/) account.   
+
+
+<!-- 
 (optional) Highest level: CSV-related analyses.
 nodegoat
-VoyantTools
+VoyantTools 
+-->
 
-### Overview of Netlytic
-Netlytic is a cloud-based tool for collecting, visualising, and analysing social media data from several platforms such as Twitter, YouTube, and Reddit. Data are imported using #hashtags, keywords, @mentions, and other custom-built filters. Users can also carry out network analysis and basic text analysis. The current version of Netlytic uses the Twitter REST API v1.1.
+## Overview of Netlytic
+Netlytic is a cloud-based tool for collecting, visualising, and analysing social media data from several platforms such as Twitter, YouTube, and Reddit. <!-- It was developed by researchers especially for researchers who need not be familiar with a programming language or with the Twitter API. --> Netlytic offers three types of accounts (called ‘Tiers’), two of which are free of charge and offer the basic functionalities a user needs to create small projects. For larger projects, a third option is offered via subscription that allows to create more and larger datasets. A free account should suffice largely for this tutorial. 
 
-There are 3 account ‘Tiers,’ the first two being free and the third of which is community supported and allows you to collect up to 100 datasets or up to 10 million records (in our case tweets).
+The data to collect are selected either using [hashtags](https://en.wikipedia.org/wiki/Hashtag) (#keyword) or simple keywords (not preceded by hashtags), or even replies/mentions (@username), and other custom-built filters. The current version of Netlytic uses the Twitter REST API v1.1. 
 
-Datasets are stored online by default, so users should consider whether this complies with university ethical guidelines for social media research. The number of tweets and datasets a user can store at any one time is limited, but datasets can be downloaded as CSV files for working offline with other programmes and freeing up space for more data collection. Existing datasets can also be uploaded for analysis.
 
-## Requirements
+Datasets are stored online by default, so users should consider whether this complies with their university's ethical guidelines for social media research <!-- a link? -->. The number of tweets and datasets a user can store at any one time is limited. However, datasets can be downloaded as [CSV files](https://en.wikipedia.org/wiki/Comma-separated_values) for working offline with other programmes and freeing up space for more data collection. After collecting the data, users can also carry out network analysis and basic text analysis. Furthermore, existing datasets can also be uploaded for analysis.
+
+<!-- moved to the Introduction and mentioned as requirements, for what it is of having a Twiiter and a Netlytic account. Omitted nodegoat account as nowhere in the tutorial the use of nodegoat is explained.
+  
+Requirements
 Twitter account (https://www.twitter.com)
 Netlytic account (https://netlytic.org/)
+ 
 (optional) nodegoat account
+-->
+## Setting the scene: what is the Twitter API and how does it work?
 
-## Setting the Scene: What is an API and how does it work?
 
-### First assignment: find a definition of an API
+*Provide here a definition and a link to a resource (Wikipedia is fine)* 
+First assignment: find a definition of an API
 (see on wikipedia)
-### Second assignment: the Twitter API
+
+*Present here briefly what is the Twitter API and how it can be useful to the reader. Explain the possibilities but also the limitations* 
+Second assignment: the Twitter API
 Go there: https://developer.twitter.com/en/docs.
 
 
-And rephrase with your own words what you understand by the Twitter API.
+And rephrase with your own words what you understand by the Twitter API. *Let us avoid this and provide instead the basic information to someone who whant to understand what the Twitter API is* 
 
-To have a broader image of the possibilities of the Twitter API, you can read this post: https://help.twitter.com/en/rules-and-policies/twitter-api 
-### Third assignment: the twitter API limitations
+To have a broader image of the possibilities of the Twitter API, you can read this post: https://help.twitter.com/en/rules-and-policies/twitter-api *Please present here the possibilities*
+
+Third assignment: the twitter API limitations *Please present here the limitations instead of assigning this to the reader - they will very probably not do it*
 
 Go to: https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets and to: https://developer.twitter.com/en/docs/twitter-api/search-overview 
 
@@ -67,20 +74,14 @@ rate limits
 not all matching tweets are captured through the free API
 only Premium (i.e., paid) or approved academic accounts can access the full gamot of tweets available through the API
 https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/api-reference/get-search-tweets 
+Further reading section:
 
-### Further reading section:
 What is a REST API: https://www.redhat.com/en/topics/api/what-is-a-rest-api 
 The COVID-19 stream: https://developer.twitter.com/en/docs/labs/covid19-stream/overview 
 
-
 ## Your first harvest of tweets
-### Create a netlytic account
-Go to https://netlytic.org/ and choose one of the options for creating an account.
 
-
-Got to “My account” and link your Netlytic account to your Twitter account
-
-Click on the “Sign in with Twitter” button and follow the instructions.
+After creating an account on Netlytic, once you are connected, please go to the "My account" bar in the main menu and link your Netlytic account to your Twitter account. Then click on the “Sign in with Twitter” button and follow the instructions. 
 This is a mandatory step. If you do not authorize your Netlytic account to access your Twitter account, you will not be able to collect Twitter data.
 
 Before you can begin to collect data, you will need to choose a topic and find your hashtags. To choose a hashtags / keywords, please go the the “How to choose your hashtag?” section below.
@@ -175,7 +176,7 @@ You can download the file, and then do further analyses with Gephi. To learn how
 
 For a more general introduction to social networks analysis in history, please go to: http://www.martingrandjean.ch/introduction-to-social-network-analysis/ 
 
-## Further Reading and Links:
+## Further Reading and Links
 
 For more case studies and tutorials using Netlytic see: https://netlytic.org/home/?page_id=11204 
 
