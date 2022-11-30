@@ -15,10 +15,10 @@ date: 2022-11-17
 
 {% include toc.html %}
 
-## Introduction 
-The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can then use as primary sources for research purposes. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first harvesting of tweets that will be hashtag-based, i.e. using selected hashtags (some examples of historical memory hashtags will be provided). Finally, we will provide a basic analysis of the corpus of the colected tweets, by operating text and social network analysis. 
+## Introduction <a id="section0></a> 
+The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can then use as primary sources for research purposes. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first harvesting of tweets that will be hashtag-based, i.e. using selected hashtags (some examples of historical memory hashtags will be provided). Finally, we will provide a basic analysis of the corpus of the collected tweets, by operating text and social network analysis. 
 
-There are various ways to collect this kind of data; we propose here to use Netlytic, an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a [Netlytic](https://netlytic.org/) account.   
+There are various ways to collect this kind of data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
 
 
 <!-- 
@@ -27,15 +27,12 @@ nodegoat
 VoyantTools 
 -->
 
-## Overview of Netlytic
-Netlytic is a cloud-based tool for collecting, visualising, and analysing social media data from several platforms such as Twitter, YouTube, and Reddit. <!-- It was developed by researchers especially for researchers who need not be familiar with a programming language or with the Twitter API. --> Netlytic offers three types of accounts (called ‘Tiers’), two of which are free of charge and offer the basic functionalities a user needs to create small projects. For larger projects, a third option is offered via subscription that allows to create more and larger datasets. A free account should suffice largely for this tutorial. 
+## Overview of Netlytic <a id="section1"></a>
+Netlytic is a cloud-based tool for collecting, visualising, and analysing social media data from several platforms such as Twitter, YouTube, and Reddit. It has specifically been conceived for researchers who need not be familiar with a programming language or with the Twitter API. Netlytic offers three types of accounts (called ‘Tiers’), two of which are free of charge and offer the basic functionalities a user needs to create small projects. For larger projects, a third option is offered via subscription that allows to create more and larger datasets. A free account is largely sufficient to follow this tutorial. 
 
-The data to collect are selected either using [hashtags](https://en.wikipedia.org/wiki/Hashtag) (#keyword) or simple keywords (not preceded by hashtags), or even replies/mentions (@username), and other custom-built filters. The current version of Netlytic uses the Twitter REST API v1.1. 
+Once you have an account, you can select the data to collect either using [hashtags](https://en.wikipedia.org/wiki/Hashtag) (#keyword) or simple keywords (not preceded by hashtags), or even replies/mentions (@username), and other custom-built filters. To collect the data, the current version of Netlytic uses the Twitter REST API v1.1. Once collected, the datasets are stored online by default, so users should consider whether this complies with their university's ethical guidelines for social media research. The number of tweets and datasets a user can store at any one time is limited. However, datasets can be downloaded as [CSV files](https://en.wikipedia.org/wiki/Comma-separated_values) for working offline with other programmes and freeing up space for more data collection. After collecting the data, users can also carry out network analysis and basic text analysis. Furthermore, existing datasets can also be uploaded for analysis.
 
-
-Datasets are stored online by default, so users should consider whether this complies with their university's ethical guidelines for social media research <!-- a link? -->. The number of tweets and datasets a user can store at any one time is limited. However, datasets can be downloaded as [CSV files](https://en.wikipedia.org/wiki/Comma-separated_values) for working offline with other programmes and freeing up space for more data collection. After collecting the data, users can also carry out network analysis and basic text analysis. Furthermore, existing datasets can also be uploaded for analysis.
-
-<!-- moved to the Introduction and mentioned as requirements, for what it is of having a Twiiter and a Netlytic account. Omitted nodegoat account as nowhere in the tutorial the use of nodegoat is explained.
+<!-- moved to the Introduction and mentioned as requirements, for what it is of having a Twitter and a Netlytic account. Omitted nodegoat account as nowhere in the tutorial the use of nodegoat is explained.
   
 Requirements
 Twitter account (https://www.twitter.com)
@@ -43,19 +40,19 @@ Netlytic account (https://netlytic.org/)
  
 (optional) nodegoat account
 -->
-## Setting the scene: what is the Twitter API and how does it work?
+## Setting the scene: what is the Twitter API and how does it work? <a id="section2"</a>
 
 
 *Provide here a definition and a link to a resource (Wikipedia is fine)* 
 First assignment: find a definition of an API
 (see on wikipedia)
 
-*Present here briefly what is the Twitter API and how it can be useful to the reader. Explain the possibilities but also the limitations* 
+*Present here briefly what the Twitter API is and how it can be useful to the reader. Explain the possibilities but also the limitations* 
 Second assignment: the Twitter API
 Go there: https://developer.twitter.com/en/docs.
 
 
-And rephrase with your own words what you understand by the Twitter API. *Let us avoid this and provide instead the basic information to someone who whant to understand what the Twitter API is* 
+And rephrase with your own words what you understand by the Twitter API. *Let us avoid this and provide instead the basic information to someone who wants to understand what the Twitter API is* 
 
 To have a broader image of the possibilities of the Twitter API, you can read this post: https://help.twitter.com/en/rules-and-policies/twitter-api *Please present here the possibilities*
 
@@ -79,7 +76,7 @@ Further reading section:
 What is a REST API: https://www.redhat.com/en/topics/api/what-is-a-rest-api 
 The COVID-19 stream: https://developer.twitter.com/en/docs/labs/covid19-stream/overview 
 
-## Your first harvest of tweets
+## Your first harvest of tweets <a id="section3"</a>
 
 After creating an account on Netlytic, once you are connected, please go to the "My account" bar in the main menu and link your Netlytic account to your Twitter account. Then click on the “Sign in with Twitter” button and follow the instructions. 
 This is a mandatory step. If you do not authorize your Netlytic account to access your Twitter account, you will not be able to collect Twitter data.
@@ -100,7 +97,7 @@ Fill in the form (screenshots)
 
 
 
-### How to choose your hashtag?
+### How to choose your hashtag? <a id="section3-1"</a>
 Find a trending topics website or use Twitter’s
 Go to Twitter, search for the hashtags, follow the chain of hashtag links to collect the most relevant ones for your query. This is known as the “snowballing” technique.
 How big should your corpus be? This will depend on what you want to study and how you want to study it
@@ -120,7 +117,7 @@ Please beware: the “Test Query on Twitter” will send you to the Twitter sear
 
 Congratulations! You now have your first Twitter dataset ready. Click on “Next Step.”
 
-### Text analysis
+### Text analysis <a id="section3-2"</a>
 In “Preview” you will see a table of the tweets you have collected. Here, you can download an Exel or CSV of your Tweets if you wish. You can also search tweets using the search bar at the top.
 
 
@@ -140,7 +137,7 @@ Further reading on the limitations of word clouds: https://towardsdatascience.co
 
 (Optional) Download the CSV and explore your data in another text analysis tool such as Voyant Tools (https://voyant-tools.org/) or another tool from TAPOR http://tapor.ca/home. However, this requires data cleaning.
 
-### Network analysis
+### Network analysis <a id="section3-3"</a>
 Next, click on the “Network Analysis” tab. You will see several options for different types of “ties”. Ties are the different relationships between tweeters based on the type of interaction (retweeting, quoting, mentioning, replying).
 
 
@@ -176,7 +173,7 @@ You can download the file, and then do further analyses with Gephi. To learn how
 
 For a more general introduction to social networks analysis in history, please go to: http://www.martingrandjean.ch/introduction-to-social-network-analysis/ 
 
-## Further Reading and Links
+## Further Reading and Links <a id="section4"</a>
 
 For more case studies and tutorials using Netlytic see: https://netlytic.org/home/?page_id=11204 
 
