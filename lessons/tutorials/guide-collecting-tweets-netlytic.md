@@ -118,14 +118,13 @@ To build your dataset, you may want to study a trending topic <!-- explain what 
 
 queue your request / analyses by enabling Netlytic to continue collecting tweets every 15 minutes for a specified number of days (up to one month).
 
-Please beware: the “Test Query on Twitter” will send you to the Twitter search interface (which we advise you to do) but it will not create your dataset. You need to then click on the “import” button to create the dataset. A new page will be loaded: do not close your window and wait for the “You can now close the browser!” message.
+Please beware: the “Test Query on Twitter” will direct you towards the Twitter search interface, which we advise you to use, but it will not create your dataset. You need to then click on the “import” button to create the dataset. A new page will be loaded: do not close your window and wait for the “You can now close the browser!” message.
 
-
-
-
-Congratulations! You now have your first Twitter dataset ready. Click on “Next Step.”
+Congratulations! You now have your first Twitter dataset ready and can analyse it in various ways. To do this, click on “Next Step.”
 
 ### Text analysis <a id="section3-2"</a>
+Text analysis is one of the basic operations of analysis you can apply on a corpus of tweets. If you export your data, you can analyse them with any method and tool you prefer. Netlify also offers functionalities for text analysis, that you can use as follows. 
+
 In “Preview” you will see a table of the tweets you have collected. Here, you can download an Excel or CSV file of your Tweets, if you wish. You can also search tweets using the search bar at the top.
 
 
