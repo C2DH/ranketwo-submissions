@@ -40,7 +40,7 @@ Netlytic account (https://netlytic.org/)
  
 (optional) nodegoat account
 -->
-## Setting the scene: what is the Twitter API and how does it work? <a id="section2"</a>
+## Setting the scene: what is the Twitter API and how does it work? <a id="section2"></a>
 
 
 *Provide here a definition and a link to a resource (Wikipedia is fine)* 
@@ -79,7 +79,7 @@ Further reading section: *Please explain*
 What is a REST API: https://www.redhat.com/en/topics/api/what-is-a-rest-api 
 The COVID-19 stream: https://developer.twitter.com/en/docs/labs/covid19-stream/overview 
 
-## Your first harvest of tweets <a id="section3"</a>
+## Your first harvest of tweets <a id="section3"></a>
 
 After creating an account on Netlytic, once you are connected, please go to the "My account" bar in the main menu and link your Netlytic account to your Twitter account. Then click on the “Sign in with Twitter” button and follow the instructions. 
 This is a mandatory step. If you do not authorize your Netlytic account to access your Twitter account, you will not be able to collect any Twitter data.
@@ -105,7 +105,7 @@ We will not use those filters, but depending on your research, they might be of 
 
 
 
-### Choose your hashtag and build your dataset <a id="section3-1"</a>
+### Choose your hashtag and build your dataset <a id="section3-1"></a>
 
 To build your dataset, you may want to study a trending topic <!-- explain what is a trending topic here-->. To find the most discussed issues, you can explore dedicated websites <!-- provide an example?--> < or the trending hashtags directly via Twitter’s interface. For example, you can go to Twitter, use the Explore tab of the menu to search for the hashtags. There, you follow the chain of hashtag links to collect the most relevant ones for your query. This is known as the “snowballing” technique. Of course, you may have already a defined object of interest and look for specific keywords independently of the trending topics. 
 * How big should your corpus be? This will depend on what you want to study and how you want to study it
@@ -120,67 +120,44 @@ queue your request / analyses by enabling Netlytic to continue collecting tweets
 
 Please beware: the “Test Query on Twitter” will direct you towards the Twitter search interface, which we advise you to use, but it will not create your dataset. You need to then click on the “import” button to create the dataset. A new page will be loaded: do not close your window and wait for the “You can now close the browser!” message.
 
+<!-- insert guide-netlytic-5.png-->
+
 Congratulations! You now have your first Twitter dataset ready and can analyse it in various ways. To do this, click on “Next Step.”
 
-### Text analysis <a id="section3-2"</a>
-Text analysis is one of the basic operations of analysis you can apply on a corpus of tweets. If you export your data, you can analyse them with any method and tool you prefer. Netlify also offers functionalities for text analysis, that you can use as follows. 
+### Text analysis <a id="section3-2"></a>
+Text analysis is one of the basic operations of analysis you can apply to a corpus of tweets. Below we present how you can use the functionalities for text analysis offered by Netlytic. Be aware, however, that you have the possibility to export your data and analyse them with any method and tool you prefer - we mention some at the end of this section.  
 
-In “Preview” you will see a table of the tweets you have collected. Here, you can download an Excel or CSV file of your Tweets, if you wish. You can also search tweets using the search bar at the top.
+Once you have your dataset, as shown in the [previous step](#section3-1), go to “Preview” where you can browse a table of the tweets you have collected; a search bar is available for you at the top if necessary. At this point, you can download an Excel or CSV file of your Tweets, if you wish. We strongly recommend you do so, to preserve your data and be able to reuse them in your future research activities. 
 
+<!-- insert guide-netlytic-6.png-->
 
-Next, click on “Text Analysis” in the tab. Here, you will see two options: “Keyword Extractor” and “Dictionaries”. In the Keyword Extractor, make sure the “field” is set to “description” and then click “Analyze” to generate a word cloud of top terms and hashtags in your dataset (this will be queued in the server and you may need to wait a few moments). Click “Visualize” to see and explore the word cloud. You may also download this as a CSV if you wish.
-Click on a keyword or hashtag to see it in context (i.e. where the term appears in the tweets).
+Next, let's see how you can visualize the words that are the most present in your corpus. If you click on “Text Analysis” in the tab, you will see two options: “Keyword Extractor” and “Dictionaries”. At this point, we are interested in the first one, that allows you to obtain a visual representation of your textual data based on quantitative analysis. In the Keyword Extractor, make sure the “field” is set to “description” and then click “Analyze” to generate a [word cloud](https://en.wikipedia.org/wiki/Tag_cloud) of the top terms and hashtags in your dataset - this will be queued in the server and you may need to wait a few moments. Then click on “Visualize” to view and explore the word cloud. You may also download these data as a CSV file, if you wish - and again, we strongly recommend you download and preserve any data you use for your analysis. <!-- Specify whether it is possible to export an image file of the visualisation? --> 
 
+<!-- insert guide-netlytic-8.png-->
 
-In “Dictionaries” click “Analyze”. Dictionaries are groups of words that are linked to concepts. Netlytic has preloaded dictionaries, but you can create your own. From the dictionary, this analysis will create groups of tweets that are linked to those concepts.
+But you can do more than this. For example, you can also click on a keyword or hashtag to inspect it [in context](https://en.wikipedia.org/wiki/Key_Word_in_Context) (i.e. where the term appears in the tweets). Or you can use the functionality of “Dictionaries” to create groups of tweets that are linked to specific concepts. Netlytic has preloaded dictionaries, but you can create your own as well. You may also visualize the dictionaries of your corpus as a “tree graph” or click on the boxes to dig deeper into the categories, and see the different keywords in context. You can explore more in depth in what ways dictionaries can be used for analyzing social media data in [an article that examines toxic discourse in YouTube commentaries](https://netlytic.org/home/?p=11810).
 
-You may then visualize the Dictionaries as a “tree graph”. Click on the boxes to dig deeper into the categories, and see the different keywords in context.
+You learnt a lot of things, now let's take some time to think. Netlytic allowed you to generate and explore the word cloud based on your corpus, but in what ways did this precisely help you to understand and analyze your data? Can you think how this has been useful to you or perhaps not? You may be interested in reading an article that discusses the limits of [word clouds](https://towardsdatascience.com/word-clouds-are-lame-263d9cbc49b7). You can even try to use other tools and compare the visualizations you will get: [Voyant Tools](https://voyant-tools.org/) is an option, but you can browse the [Text Analysis Portal for Research (TAPOR)](http://tapor.ca/home) to pick up your preferred tool. Note that using different tools may require to do some data cleaning or special formating. You can also discuss your experience with your colleagues or classmates or even a community of users. 
 
-If you wish to use a bit more the dictionaries, here is a good example of how you can use them: https://netlytic.org/home/?p=11810 
+### Network analysis <a id="section3-3"></a>
+Network analysis involves a second kind of analytical operations one can apply to a social media data corpus. If you are not familiar with the domain, [Marten Duering's lesson on data extraction and network visualization of historical sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) can offer a nice introduction for beginners. [Once you have your dataset](#section3-1), click on the “Network Analysis” tab and you will see several options for different types of what in Netlytic is called “ties”. The ties represent interactions between tweeters, which can be of different types: retweeting, quoting, mentioning, replying. The tweeters are the nodes of the network you wish to inspect and the ties of different types are the relationships that connect these nodes between them.  
 
-Task: After exploring your word cloud that you have generated in this assignment, reflect on whether word clouds are useful for analysis and discuss with your classmates. Explain why you think word clouds are useful, or why not.
+<!-- insert guide-netlytic-9.png-->
 
-Further reading on the limitations of word clouds: https://towardsdatascience.com/word-clouds-are-lame-263d9cbc49b7 
+Choose the type of interaction you want to examine and click on "Analyze". You will first obtain the number of tweeters who are tied by retweets or tied in self-loops (a self-loop represents a user that only tweets, so actually a non-retweet). Next click on “Visualize” and a pop-out will appear of a retweet network visualisation.
 
-(Optional) Download the CSV and explore your data in another text analysis tool such as Voyant Tools (https://voyant-tools.org/) or another tool from TAPOR http://tapor.ca/home. However, this requires data cleaning.
+There are here two important things to mention. First, the nodes - the Twitter accounts - are grouped in clusters which means these accounts share some form of similarity. These clusters are calculated by [an algorithm that detects what we call communities of users](https://netlytic.org/home/?page_id=2#cmtoc_anchor_id_11). Second, you have the possibility to [choose a layout](https://netlytic.org/home/?page_id=2#cmtoc_anchor_id_8) for the visualisation of the network you study. A layout is a way to display the nodes (Twitter accounts) and the edges, which is another way to talk of what we know as ties or links. A layout allows you to see patterns in the structure of your network. Layouts are based on algorithms, which is why there exist different possible layouts. The best layout is the one that fits your dataset and your research purpose, there are no “good” or “bad” layouts per se.
 
-### Network analysis <a id="section3-3"</a>
-Next, click on the “Network Analysis” tab. You will see several options for different types of “ties”. Ties are the different relationships between tweeters based on the type of interaction (retweeting, quoting, mentioning, replying).
+<!-- insert guide-netlytic-10.png-->
 
+You can use your visualisation to experiment with different layouts and see what kind of visualisations they produce for your network. You can also take a closer look to what constitutes your network. For example, you can hover over the “nodes” to check the usernames, if you need to, and you can even uncheck “Edges” (the ties between the nodes) to focus on nodes only. Furthermore, you can explore the metrics that define in what ways the network's nodes are central or not and make these metrics visible by playing with the node sizes. If you wish to focus on different parts of your network, you can uncheck “layers” to remove noise and focus on larger nodes. All these are different ways of representing the data - remember, visualisations are interpretations, they are not raw data. If you are happy with the results, you can also save and export your visualisation to integrate it in a future report/presentation.
 
+How can network visualizations be useful for historians? There is a vast bibliography but his is not the object of the curent tutorial. What is useful to remember, however, is that there need to be a research objective that is part of a hisotrical question. You may benefit from [Martin Grandjean's general introduction to social networks analysis in history](http://www.martingrandjean.ch/introduction-to-social-network-analysis/), also to learn more about networks metrics such as the centrality degrees or the communities. These are metrics that help analyse social media, and specifically tweets, networks, in order to identify dominant voices (nodes / Twitter account) in the network (official, news media, themed accounts, cultural institutions, individual influencers...).  
 
-Choose one, e.g. Retweets and click “Analyze”. You will see the number of tweeters who are tied by retweets or tied in self-loops. Next click “Visualize” and a pop-out will appear of a retweet network visualisation.
-
-There are here two important things to mention:
-the nodes (ie twitter accounts) are grouped by clusters. Clusters are calculated based on an algorithm that detects communities of users (see: https://netlytic.org/home/?page_id=2#cmtoc_anchor_id_11 for more details)
-you can choose a layout. A layout is a way to display nodes (Twitter accounts) and edges (the links / ties). It allows you to see patterns. There are different possible layouts. For more details on the layouts, see: https://netlytic.org/home/?page_id=2#cmtoc_anchor_id_8 
-The “best” layout depends on your dataset and the analysis you would like to perform. There are no “good” or “bad” layouts per se.
+As in the previous type of analysis, you can download your network's data as well and do further analyses with [Gephi](https://gephi.org/) or your preferred tool of social network analysis. To learn how to use Gephi, you can follow [Martin Grandjean's tutorial](http://www.martingrandjean.ch/gephi-introduction/). 
 
 
-
-Hover over the “nodes” to see usernames. Experiment with different layouts and node sizes (degrees). Uncheck “layers” to remove noise and focus on larger nodes. Uncheck “Edges” (these tie the nodes together) to focus on nodes only. These are different ways of representing the data - remember, visualisations are interpretations, they are not raw data. 
-You can also “Save Image” for your report/presentation later.
-
-Task: What do you think network visualization might be useful for? What do you expect to be able to find out from this type of analysis? (Discuss with classmates)
-
-Task: What is the difference between in- and outdegree in a retweet network visualisation?
-
-How can those two types of degree help you identify the dominant “voices” (nodes / Twitter account) in the network ? Official, news media, themed accounts, cultural institutions, individual influencers?
-
-(non mandatory / more advanced) Task: Degree (whether total, in- or out-) are a way to define “centrality” in social networks. Can you define “Centrality”?
-Can you define “betweenness centrality” and write why it can be useful for your analysis?
-
-Task: Focus on the two or three biggest communities and try to characterize them.
-
-
-
-
-
-You can download the file, and then do further analyses with Gephi. To learn how to use Gephi, you can follow this tutorial: http://www.martingrandjean.ch/gephi-introduction/
-
-For a more general introduction to social networks analysis in history, please go to: http://www.martingrandjean.ch/introduction-to-social-network-analysis/ 
-
-## Further Reading and Links <a id="section4"</a>
+## Further Reading and Links <a id="section4"></a>
 
 For more case studies and tutorials using Netlytic see: https://netlytic.org/home/?page_id=11204 
 
@@ -189,9 +166,15 @@ LSE Blog - Using Twitter as a Data Source
 Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter
 
 Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In The Ethics of Online Research, edited by Bath Peter A. and Kandy Woodfield, 2:79–107. Advances in Research Ethics and Integrity. Emerald Publishing Limited. https://doi.org/10.1108/S2398-601820180000002004.
+
 Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” Information Communication and Society 15 (5): 662–79. https://doi.org/10.1080/1369118X.2012.678878.
+
 Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” French Journal for Media Research. Special Issue: Le Web 2.0 : Lieux de Perception Des Transformations Des Sociétés 10. http://orbilu.uni.lu/handle/10993/36120.
+
 Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In The SAGE Handbook of Social Media Research Methods, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. https://doi.org/10.4135/9781473983847.
+
 Rantasila, A, A Sirola, A Kekkonen, K Valaskivi, and R Kunelius. 2018. “#fukushima Five Years On: A Multimethod Analysis of Twitter on the Anniversary of the Nuclear Disaster.” International Journal Of Communication 12: 928–49.
+
 Rockwell, Geoffrey, and Stéfan Sinclair. 2016. Hermeneutica: Computer-Assisted Interpretation in the Humanities. Cambridge, Massachusetts: The MIT Press.
+
 Rogers, Richard. 2019. Doing Digital Methods. London: SAGE Publications.
