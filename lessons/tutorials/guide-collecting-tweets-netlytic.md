@@ -16,7 +16,7 @@ date: 2022-11-17
 {% include toc.html %}
 
 ## Introduction <a id="section0"></a> 
-The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can then use as primary sources for research purposes. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first harvesting of tweets that will be hashtag-based, i.e. using selected hashtags (some examples of historical memory hashtags will be provided). Finally, we will provide a basic analysis of the corpus of the collected tweets, by operating text and social network analysis. 
+The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can use as primary sources for research purposes or as teaching materials. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first hashtag-based harvesting of tweets, for which we will use selected hashtags and provide examples of several that are relevant to historical memory. Finally, we will provide a basic analysis of the corpus of the collected tweets, by operating text and social network analysis. 
 
 There are various ways to collect this kind of data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
 
@@ -152,12 +152,12 @@ There are here two important things to mention. First, the nodes - the Twitter a
 
 You can use your visualisation to experiment with different layouts and see what kind of visualisations they produce for your network. You can also take a closer look to what constitutes your network. For example, you can hover over the “nodes” to check the usernames, if you need to, and you can even uncheck “Edges” (the ties between the nodes) to focus on nodes only. Furthermore, you can explore the metrics that define in what ways the network's nodes are central or not and make these metrics visible by playing with the node sizes. If you wish to focus on different parts of your network, you can uncheck “layers” to remove noise and focus on larger nodes. All these are different ways of representing the data - remember, visualisations are interpretations, they are not raw data. If you are happy with the results, you can also save and export your visualisation to integrate it in a future report/presentation.
 
-How can network visualizations be useful for historians? There is a vast bibliography but his is not the object of the curent tutorial. What is useful to remember, however, is that there need to be a research objective that is part of a hisotrical question. You may benefit from [Martin Grandjean's general introduction to social networks analysis in history](http://www.martingrandjean.ch/introduction-to-social-network-analysis/), also to learn more about networks metrics such as the centrality degrees or the communities. These are metrics that help analyse social media, and specifically tweets, networks, in order to identify dominant voices (nodes / Twitter account) in the network (official, news media, themed accounts, cultural institutions, individual influencers...).  
+How can network visualizations be useful for historians? There is a vast bibliography but this is not the object of the current tutorial. What is useful to remember, however, is that there need to be a research objective that is part of a historical question. You may benefit from [Martin Grandjean's general introduction to social networks analysis in history](http://www.martingrandjean.ch/introduction-to-social-network-analysis/), that will also help you to learn more about networks metrics and structure, such as the centrality degrees or the communities. These are metrics that help analyse social media, and specifically tweets, networks, in order to identify dominant voices (nodes / Twitter account) in the network (official, news media, themed accounts, cultural institutions, individual influencers...).  
 
 As in the previous type of analysis, you can download your network's data as well and do further analyses with [Gephi](https://gephi.org/) or your preferred tool of social network analysis. To learn how to use Gephi, you can follow [Martin Grandjean's tutorial](http://www.martingrandjean.ch/gephi-introduction/). 
 
 
-## Further Reading and Links <a id="section4"></a>
+## Reading suggestions <a id="section4"></a>
 
 For more case studies and tutorials using Netlytic see: https://netlytic.org/home/?page_id=11204 
 
@@ -165,16 +165,18 @@ LSE Blog - Using Twitter as a Data Source
 
 Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter
 
-Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In The Ethics of Online Research, edited by Bath Peter A. and Kandy Woodfield, 2:79–107. Advances in Research Ethics and Integrity. Emerald Publishing Limited. https://doi.org/10.1108/S2398-601820180000002004.
+Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In *The Ethics of Online Research (Advances in Research Ethics and Integrity, vol. 2)*, edited by Bath Peter A. and Kandy Woodfield, 79–107. Bingley: Emerald Publishing Limited. https://doi.org/10.1108/S2398-601820180000002004.
 
-Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” Information Communication and Society 15 (5): 662–79. https://doi.org/10.1080/1369118X.2012.678878.
+Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” *Information Communication and Society* 15, no. 5: 662–79. https://doi.org/10.1080/1369118X.2012.678878.
 
-Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” French Journal for Media Research. Special Issue: Le Web 2.0 : Lieux de Perception Des Transformations Des Sociétés 10. http://orbilu.uni.lu/handle/10993/36120.
+Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” *French Journal for Media Research* 10, (special issue: Le Web 2.0 : lieux de perception des transformations des sociétés). http://orbilu.uni.lu/handle/10993/36120.
 
-Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In The SAGE Handbook of Social Media Research Methods, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. https://doi.org/10.4135/9781473983847.
+Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In *The SAGE Handbook of Social Media Research Methods*, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. https://doi.org/10.4135/9781473983847.
 
-Rantasila, A, A Sirola, A Kekkonen, K Valaskivi, and R Kunelius. 2018. “#fukushima Five Years On: A Multimethod Analysis of Twitter on the Anniversary of the Nuclear Disaster.” International Journal Of Communication 12: 928–49.
+Rantasila, Anna, Anu Sirola, Arto Kekkonen, Katja Valaskivi, and Risto Kunelius. 2018. “#fukushima Five Years On: A Multimethod Analysis of Twitter on the Anniversary of the Nuclear Disaster.” *International Journal Of Communication* 12: 928–49.
 
-Rockwell, Geoffrey, and Stéfan Sinclair. 2016. Hermeneutica: Computer-Assisted Interpretation in the Humanities. Cambridge, Massachusetts: The MIT Press.
+Rockwell, Geoffrey, and Stéfan Sinclair. 2016. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. Cambridge, Massachusetts: The MIT Press.
 
-Rogers, Richard. 2019. Doing Digital Methods. London: SAGE Publications.
+Rogers, Richard. 2019. *Doing Digital Methods*. London: SAGE Publications.
+
+Thoreau, Henry David. 2016. “Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press.
