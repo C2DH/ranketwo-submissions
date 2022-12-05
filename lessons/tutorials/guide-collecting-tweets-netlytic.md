@@ -49,6 +49,9 @@ First assignment: find a definition of an API
 
 <!-- insert guide-netlytic-1.png-->
 
+
+![Twitter API screenshot from Twiitter documentation](/images/guide-collecting-tweets-netlytic/guide-netlytic-1.png "Fig. 1 What does the Twitter API do?")
+
 *Please present here briefly what the Twitter API is and how it can be useful to the reader. Explain the possibilities but also the limitations* 
 Second assignment: the Twitter API
 Go there: https://developer.twitter.com/en/docs.
