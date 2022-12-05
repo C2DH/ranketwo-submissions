@@ -15,7 +15,7 @@ date: 2022-11-17
 
 {% include toc.html %}
 
-## Introduction <a id="section0></a> 
+## Introduction <a id="section0"></a> 
 The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can then use as primary sources for research purposes. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first harvesting of tweets that will be hashtag-based, i.e. using selected hashtags (some examples of historical memory hashtags will be provided). Finally, we will provide a basic analysis of the corpus of the collected tweets, by operating text and social network analysis. 
 
 There are various ways to collect this kind of data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
