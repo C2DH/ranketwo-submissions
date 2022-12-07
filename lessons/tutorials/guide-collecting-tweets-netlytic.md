@@ -50,7 +50,7 @@ First assignment: find a definition of an API
 <!-- insert guide-netlytic-1.png-->
 
 
-![Twitter API screenshot from Twitter documentation](/images/guide-collecting-tweets-netlytic/guide-netlytic-1.png "Fig. 1 What does the Twitter API do?")
+![Twitter API screenshot from Twitter documentation](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-1.png "Fig. 1 What does the Twitter API do?")
 
 *Please present here briefly what the Twitter API is and how it can be useful to the reader. Explain the possibilities but also the limitations* 
 Second assignment: the Twitter API
@@ -88,11 +88,11 @@ After creating an account on Netlytic, once you are connected, please go to the 
 This is a mandatory step. If you do not authorize your Netlytic account to access your Twitter account, you will not be able to collect any Twitter data.
 
 <!-- insert guide-netlytic-2.png-->
-![Creating a Netlytic account](/images/guide-collecting-tweets-netlytic/guide-netlytic-2.png "Fig. 2 Creating a Netlytic account") 
+![Creating a Netlytic account](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-2.png "Fig. 2 Creating a Netlytic account") 
 
 <!-- insert guide-netlytic-3.png-->
 
-![Linking Twitter and Netlytic accounts](/images/guide-collecting-tweets-netlytic/guide-netlytic-3.png "Fig. 3 Linking your Netlytic account to your Twitter account")
+![Linking Twitter and Netlytic accounts](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-3.png "Fig. 3 Linking your Netlytic account to your Twitter account")
 
 Before you begin to collect data, you will need to choose a topic and find your hashtags. To choose a hashtag or a simple keyword, please go the [“How to choose your hashtag?” section](#section3-1) below. Once you know what you are looking for, click on “New Dataset” and choose the “Twitter” tab. 
 
@@ -104,7 +104,7 @@ As you see, you will be asked to:
 You will have to fill in a form to register all this information.
 
 <!-- insert guide-netlytic-4.png-->
-![Form of filters to harvest tweets with Netlytic](/images/guide-collecting-tweets-netlytic/guide-netlytic-4.png "Fig. 4 Setting the filters to collect your dataset")
+![Form of filters to harvest tweets with Netlytic](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-4.png "Fig. 4 Setting the filters to collect your dataset")
 
 
 Caution, the filters may not be perfect. For instance, while setting the “language” filter to “French” you will have a dataset with a very large majority of tweets in French, but it will also harvest a minority of tweets in other languages. Similarly, because most users do not disclose their location, the geolocation filter may greatly reduce the number of tweets you can collect. You can try the filters by going to the Twitter advanced search interface.  
@@ -130,7 +130,7 @@ Please beware: the “Test Query on Twitter” will direct you towards the Twitt
 
 <!-- insert guide-netlytic-5.png-->
 
-![Progress of the dataset import from the Twitter API](/images/guide-collecting-tweets-netlytic/guide-netlytic-5.png "Fig. 5 Importing your dataset")
+![Progress of the dataset import from the Twitter API](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-5.png "Fig. 5 Importing your dataset")
 
 
 Congratulations! You now have your first Twitter dataset ready and can analyse it in various ways. To do this, click on “Next Step.”
@@ -142,14 +142,14 @@ Once you have your dataset, as shown in the [previous step](#section3-1), go to 
 
 <!-- insert guide-netlytic-6.png-->
 
-![View of the table of the tweets dataset in Netlytic after preview](/images/guide-collecting-tweets-netlytic/guide-netlytic-6.png "Fig. 6 The table of the tweets of your dataset in Netlytic")
+![View of the table of the tweets dataset in Netlytic after preview](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-6.png "Fig. 6 The table of the tweets of your dataset in Netlytic")
 
 
 Next, let's see how you can visualize the words that are the most present in your corpus. If you click on “Text Analysis” in the tab, you will see two options: “Keyword Extractor” and “Dictionaries”. At this point, we are interested in the first one, that allows you to obtain a visual representation of your textual data based on quantitative analysis. In the Keyword Extractor, make sure the “field” is set to “description” and then click “Analyze” to generate a [word cloud](https://en.wikipedia.org/wiki/Tag_cloud) of the top terms and hashtags in your dataset - this will be queued in the server and you may need to wait a few moments. Then click on “Visualize” to view and explore the word cloud. You may also download these data as a CSV file, if you wish - and again, we strongly recommend you download and preserve any data you use for your analysis. <!-- Specify whether it is possible to export an image file of the visualisation? --> 
 
 <!-- insert guide-netlytic-8.png-->
 
-![Text analysis tab in Netlytic](/images/guide-collecting-tweets-netlytic/guide-netlytic-8.png "Fig. 8 Text analysis with Netlytic")
+![Text analysis tab in Netlytic](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-8.png "Fig. 8 Text analysis with Netlytic")
 
 
 But you can do more than this. For example, you can also click on a keyword or hashtag to inspect it [in context](https://en.wikipedia.org/wiki/Key_Word_in_Context) (i.e. where the term appears in the tweets). Or you can use the functionality of “Dictionaries” to create groups of tweets that are linked to specific concepts. Netlytic has preloaded dictionaries, but you can create your own as well. You may also visualize the dictionaries of your corpus as a “tree graph” or click on the boxes to dig deeper into the categories, and see the different keywords in context. You can explore more in depth in what ways dictionaries can be used for analyzing social media data in [an article that examines toxic discourse in YouTube commentaries](https://netlytic.org/home/?p=11810).
@@ -160,7 +160,7 @@ You learnt a lot of things, now let's take some time to think. Netlytic allowed 
 Network analysis involves a second kind of analytical operations one can apply to a social media data corpus. If you are not familiar with the domain, [Marten Duering's lesson on data extraction and network visualization of historical sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) can offer a nice introduction for beginners. [Once you have your dataset](#section3-1), click on the “Network Analysis” tab and you will see several options for different types of what in Netlytic is called “ties”. The ties represent interactions between tweeters, which can be of different types: retweeting, quoting, mentioning, replying. The tweeters are the nodes of the network you wish to inspect and the ties of different types are the relationships that connect these nodes between them.  
 
 <!-- insert guide-netlytic-9.png-->
-![Network analysis tab in Netlytic](/images/guide-collecting-tweets-netlytic/guide-netlytic-9.png "Fig. 9 Network analysis with Netlytic")
+![Network analysis tab in Netlytic](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-9.png "Fig. 9 Network analysis with Netlytic")
 
 Choose the type of interaction you want to examine and click on "Analyze". You will first obtain the number of tweeters who are tied by retweets or tied in self-loops (a self-loop represents a user that only tweets, so actually a non-retweet). Next click on “Visualize” and a pop-out will appear of a retweet network visualisation.
 
@@ -168,13 +168,13 @@ There are here two important things to mention. First, the nodes - the Twitter a
 
 <!-- insert guide-netlytic-10.png-->
 
-![Graph produced with a dataset of tweets](/images/guide-collecting-tweets-netlytic/guide-netlytic-10.png "Fig. 10 Network visualisation of a tweets dataset")
+![Graph produced with a dataset of tweets](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-10.png "Fig. 10 Network visualisation of a tweets dataset")
 
 You can use your visualisation to experiment with different layouts and see what kind of visualisations they produce for your network. You can also take a closer look to what constitutes your network. For example, you can hover over the “nodes” to check the usernames, if you need to, and you can even uncheck “Edges” (the ties between the nodes) to focus on nodes only. Furthermore, you can explore the metrics that define in what ways the network's nodes are central or not and make these metrics visible by playing with the node sizes. If you wish to focus on different parts of your network, you can uncheck “layers” to remove noise and focus on larger nodes. All these are different ways of representing the data - remember, visualisations are interpretations, they are not raw data. If you are happy with the results, you can also save and export your visualisation to integrate it in a future report/presentation.
 
 How can network visualizations be useful for historians? There is a vast bibliography but this is not the object of the current tutorial. What is useful to remember, however, is that there need to be a research objective that is part of a historical question. You may benefit from [Martin Grandjean's general introduction to social networks analysis in history](http://www.martingrandjean.ch/introduction-to-social-network-analysis/), that will also help you to learn more about networks metrics and structure, such as the centrality degrees or the communities. These are metrics that help analyse social media, and specifically tweets, networks, in order to identify dominant voices (nodes / Twitter account) in the network (official, news media, themed accounts, cultural institutions, individual influencers...). 
 
-![Communities formed in a graph produced with a dataset of tweets](/images/guide-collecting-tweets-netlytic/guide-netlytic-11.png "Fig. 11 Network visualisation of a tweets dataset: communities formed by the Twitter accounts") 
+![Communities formed in a graph produced with a dataset of tweets](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-11.png "Fig. 11 Network visualisation of a tweets dataset: communities formed by the Twitter accounts") 
 
 As in the previous type of analysis, you can download your network's data as well and do further analyses with [Gephi](https://gephi.org/) or your preferred tool of social network analysis. To learn how to use Gephi, you can follow [Martin Grandjean's tutorial](http://www.martingrandjean.ch/gephi-introduction/). 
 
