@@ -77,15 +77,18 @@ The assignments below allow historians to experiment with multiple potential use
 ### Reading/viewing suggestions 
 
 *On the creation of Wikipedia, the aborted project of Nupedia and the importance of the wiki technology:* 
-Justin Franco. “The History of Wikipedia (in two minutes).” YouTube Video, 02:47 minutes. 3 December 2009, https://youtu.be/oVFPW0r4jWk   
+- Justin Franco. “The History of Wikipedia (in two minutes).” YouTube Video, 02:47 minutes. 3 December 2009, https://youtu.be/oVFPW0r4jWk   
 *On the reliability, verifiability and Wikipedia  community engagement in fact-checking:* 
-Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube Video, 03:45 minutes. 22 December 2016, https://youtu.be/xQ4ba28-oGs  
+- Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube Video, 03:45 minutes. 22 December 2016, https://youtu.be/xQ4ba28-oGs  
 
 Bibliography used by the author
-Andrew Lih, *The Wikipedia Revolution. How a bunch of Nobodies Created the World’s Greatest Encyclopedia* (London: Hyperion ebook, 2009), 14, 44, 61.
-Marshall Poe, “The Hive,” The Atlantic, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/. 
-Roy Rosenzweig, *Clio Wired: The Future of the Past in the Digital Age* (New York: Columbia University Press, 2011, 65, 119
-Fethi Erinç Salor, *Sum of all Knowledge: Wikipedia and the Encyclopedic Urge* (Ph.D. diss., University of Amsterdam, 2012), 93.
+Andrew Lih, *The Wikipedia Revolution. How a bunch of Nobodies Created the World’s Greatest Encyclopedia* (London: Hyperion ebook, 2009), 14, 44, 61 
+
+Marshall Poe, “The Hive,” The Atlantic, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/  
+
+Roy Rosenzweig, *Clio Wired: The Future of the Past in the Digital Age* (New York: Columbia University Press, 2011, 65, 119 
+
+Fethi Erinç Salor, *Sum of all Knowledge: Wikipedia and the Encyclopedic Urge* (Ph.D. diss., University of Amsterdam, 2012), 93
 
 
 ## Assignment 2 - Exploring Wikipedia’s Infrastructure
