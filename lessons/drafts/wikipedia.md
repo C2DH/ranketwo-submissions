@@ -131,16 +131,20 @@ Besides the policies and guidelines that define knowledge production on Wikipedi
 
 ![How to access "talk" and "view history" pages of a Wikipedia article](/assets/images/wikipedia/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article"){:target="_blank"}
 
-In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles.
+In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional internal source criticism about who and in what context a source was created. 
 
-In the two links below, you will find more information on the “talk pages” and “view history,” please read the content of the two articles.
-https://en.wikipedia.org/wiki/Help:Talk_pages.
-https://en.wikipedia.org/wiki/Help:Page_history. 
+In the two links below, you will find more information provided by Wikipedia on the “talk pages” and “view history,” please read the content of the two articles: 
+
+[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages) - alternatively, you can watch a two minutes video provided in the page.  
+
+[“View history”](https://en.wikipedia.org/wiki/Help:Page_history) - alternatively, you can wath a nine minutes video provided in the page. 
 
 Then, try to answer the following questions:
-How can “talk pages” and “view history” portals of Wikipedia articles be useful for historians?
-What historical questions can the data from “talk pages” and “view history” answer?
-2c. History on Wikipedia
+
+- How can “talk pages” and “view history” portals of Wikipedia articles be useful for historians?
+- What historical questions can the data from “talk pages” and “view history” answer?
+
+### 2c. History on Wikipedia
 History constitutes one of the several subjects that Wikipedia covers. Apart from its general guidelines and policies, Wikipedia has defined more specific rules for each topic that it covers. For example, the sources that Wikipedia editors are allowed to use in the coverage of each topic differ. Wikipedia also includes a separate portal for each subject, where it analyzes the subject and provides further information on the different subfields, categorizations, etc. In the two links below, you will find information on the perception of History by Wikipedia and on the sources that Wikipedia editors are allowed to use when they write about history on Wikipedia. 
 
 https://en.wikipedia.org/wiki/Portal:History.
