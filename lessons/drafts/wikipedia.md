@@ -224,15 +224,17 @@ Then, try to answer the following questions:
 - Why do Wikipedians want to edit the September 11 attacks Wikipedia page? What is the meaning of editing for them?
 - How do Wikipedia users involved in discussions and debates try to reach a consensus?
 
-4b. Historical articles in constant motion
-Historical narratives are not stable; instead, they change over time. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. The links below refer to two pages with the most recent revisions of the article. Click on the two links and try to detect all the editing changes of the article and the editors who have made those changes. 
-https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579. 
-https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755. 
+### 4.b Historical articles in constant motion
+Historical narratives are not stable; instead, they change over time. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. The links below refer to two pages with the most recent revisions of the article. Click on the two links and try to detect all the editing changes of the article and the editors who have made those changes.
+
+[Revision history page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579) 
+
+[Revision history page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755) 
 
 Then, try to answer the following questions:
-How does the historical narrative of a Wikipedia article change over time? 
-What kind of editing changes has the article received? Do the changes include major changes in the narrative or minor ones (grammar or spelling corrections)?
-Taking also into account that thousands of bots, and non-human actors, contribute to the updating of the article, what does the collaboration between humans and non-human agents signify for the production of history in the digital age?
+
+- How does the historical narrative of a Wikipedia article change over time? 
+- Taking also into account that thousands of bots, and non-human actors, contribute to the updating of the article, what does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
 ### 5 - Comparing Wikipedias in different languages 
 
