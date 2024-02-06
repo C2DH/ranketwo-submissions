@@ -184,16 +184,25 @@ Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxfor
 
 ## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative
 
-Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users and each article has a different structure, e.g., (chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements, (e.g., graphs, videos, images, sounds), and bibliographical references. Once you have a better understanding of how Wikipedia works and its main policies and guidelines for the production of knowledge, let’s look at the historical narratives of some Wikipedia articles. First, read the following Wikipedia articles, which represent two different historical topics, the Vietnam War and the September 11 attacks. While you read them, pay attention to the following elements: 1. how historical narratives of Wikipedia articles are structured and the way they differ from traditional historical narratives. 2. the visual and audio materials that are part of the articles’ narrative. 3. the bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
+Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users and each article has a different structure, e.g., (chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements, (e.g., graphs, videos, images, sounds), and bibliographical references. Once you have a better understanding of how Wikipedia works and its main policies and guidelines for the production of knowledge, let’s look at the historical narratives of some Wikipedia articles. First, read the following Wikipedia articles, which represent two different historical topics, the [Vietnam War](https://en.wikipedia.org/wiki/Vietnam_War) and the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks). While you read them, pay attention to the following elements: 
+
+- how historical narratives of Wikipedia articles are structured and the way they differ from traditional historical narratives. 
+
+- the visual and audio materials that are part of the articles’ narrative.
+
+- the bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
 
 Then, think critically and try to answer the following questions:
-How have Wikipedia users organized the historical narratives of the Wikipedia pages? 
-Do you detect any similarities or differences with the way traditional historians organize their historical narratives in academic books or articles?
-What kind of visual and audio materials (e.g., graphs, videos, images, sounds, etc.) do Wikipedia pages include and how do they affect the historical narrative they present?
-Do you detect differences and similarities in the way the two events are narrated?
-How do hyperlinks work in the two case studies and how do they affect the way a potential user reads and understands a historical narrative?
-How would you characterize the types of works that Wikipedia users cite in the two case studies? Do they use academic works, journalistic, or any other type? Are the cited works available online?
-4. Behind the Scenes of Wikipedia Articles
+
+- How have Wikipedia users organized the historical narratives of the Wikipedia pages?
+- What kind of visual and audio materials (e.g., graphs, videos, images, sounds, etc.) do Wikipedia pages include? How do they affect the historical narrative they present?
+- Do you detect differences and similarities in the way the two events are narrated?
+- How do hyperlinks work in the two case studies and how do they affect the way a potential user reads and understands a historical narrative?
+- How would you characterize the types of works that Wikipedia users cite in the two case studies? Do they use academic works, journalistic, or any other type? Are the cited works available online?
+- Do you detect any similarities or differences with the way traditional historians organize their historical narratives in academic books or articles?
+
+
+### Assignment 4 - Behind the Scenes of Wikipedia Articles
 
 Many people have visited Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are products of long debates, conflicts, collaborations, discussions, and consensus between different Wikipedia editors. Wikipedia provides us the opportunity to look “behind the scenes” and explore how Wikipedia articles take shape and change over time. The “talk page” and “view history” portals of Wikipedia reveal the discussions between users on each entry and the logs of all the changes and copies of older versions of the article. Both portals reveal significant information for historical research. How do Wikipedia users create and edit articles? How do they perceive the past? What historical arguments do they make? How do they reach a consensus? How does the historical narrative of a Wikipedia article change over time? In the third part of this lesson, we will investigate what happens “behind the scenes” of a Wikipedia page by unveiling the discussions and debates that shape the historical narrative of the page. To do that, we will focus on one case study, the Wikipedia page of the September 11 attacks. 
 4a. Historical discussions and debates
@@ -220,7 +229,8 @@ Then, try to answer the following questions:
 How does the historical narrative of a Wikipedia article change over time? 
 What kind of editing changes has the article received? Do the changes include major changes in the narrative or minor ones (grammar or spelling corrections)?
 Taking also into account that thousands of bots, and non-human actors, contribute to the updating of the article, what does the collaboration between humans and non-human agents signify for the production of history in the digital age?
-5. Comparing Wikipedias
+
+### 5 - Comparing Wikipedias in different languages 
 
 Wikipedia does not exist only in the English language. Instead, it includes 339 language editions as of December 2023. The different editions are not just simple translations from one language to another but constitute different historical narratives about the past with different representations, structures, and discussions. Wikipedia's multilingual character allows historians to compare historical narratives across different languages.  In this part, we will compare two different Wikipedia language editions, the English language Wikipedia and the French one. Specifically, we will focus on a specific historical event, May 1968, as it is represented in the English and French Wikipedia. Even though the English language Wikipedia contains the most active registered users and covers more articles than other editions, May 1968 constitutes a major event in French history, which also affected a broader non-French audience. The participants of this course will investigate if the interface of Wikipedia encourages a specific way of presenting and displaying across different language editions by comparing the historical narratives of the two articles.
  
