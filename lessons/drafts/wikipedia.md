@@ -1,11 +1,12 @@
 ---
 title: "Wikipedia as Historical Source"
 layout: unit
+date: 2024-02-06
 publication_date: 
 toc: on
 research-phase: 
 activities: 
-  - 
+  -  
 tags:
   - 
 authors: 
@@ -126,7 +127,11 @@ Now, after also reflecting on your previous readings - or discussing with your c
 
 
 ### 2.b Talk pages and revision history 
-Besides the policies and guidelines that define knowledge production on Wikipedia, every Wikipedia article has two portals, the “talk page” or discussion page and the “view history” portal. In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles.
+Besides the policies and guidelines that define knowledge production on Wikipedia, every Wikipedia article has two portals, the “talk page” or discussion page and the “view history” portal. You can access these from the main menu that you see under the title of the article. 
+
+![How to access "talk" and "view history" pages of a Wikipedia article](/../assets/images/wikipedia/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article"){:target="_blank"}
+
+In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles.
 
 In the two links below, you will find more information on the “talk pages” and “view history,” please read the content of the two articles.
 https://en.wikipedia.org/wiki/Help:Talk_pages.
