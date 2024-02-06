@@ -212,7 +212,7 @@ The September 11 attacks constitute a traumatic event that shaped modern United 
 - Talk on: [Article Title](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
 - Talk on deleting the word terrorist: [Deleting terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
 - Talk on use of terms: ["terrorist", "terrorism" and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) 
-[In Memorium](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) 
+- [In Memorium](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) 
 - Talk on: [Memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial) 
 
 Then, try to answer the following questions:
