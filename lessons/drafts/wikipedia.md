@@ -241,16 +241,19 @@ Then, try to answer the following questions:
 Wikipedia does not exist only in the English language. Instead, it includes 339 language editions as of December 2023. The different editions are not just simple translations from one language to another but constitute different historical narratives about the past with different representations, structures, and discussions. Wikipedia's multilingual character allows historians to compare historical narratives across different languages.  In this part, we will compare two different Wikipedia language editions, the English language Wikipedia and the French one. Specifically, we will focus on a specific historical event, May 1968, as it is represented in the English and French Wikipedia. Even though the English language Wikipedia contains the most active registered users and covers more articles than other editions, May 1968 constitutes a major event in French history, which also affected a broader non-French audience. The participants of this course will investigate if the interface of Wikipedia encourages a specific way of presenting and displaying across different language editions by comparing the historical narratives of the two articles.
  
 First, read the historical narratives of the following two articles:
-May 1968, in English language Wikipedia, https://en.wikipedia.org/wiki/May_68#:~:text=Beginning%20in%20May%201968%2C%20a,France%20came%20to%20a%20halt.  
-May 1968, in French language Wikipedia, https://fr.wikipedia.org/wiki/Mai_68.
+
+[May 1968, in English language Wikipedia](https://en.wikipedia.org/wiki/May_68#:~:text=Beginning%20in%20May%201968%2C%20a,France%20came%20to%20a%20halt)
+
+[May 1968, in French language Wikipedia](https://fr.wikipedia.org/wiki/Mai_68)
  
 After reading both articles, you will notice that apart from some obvious historical details that both historical narratives include, the representation of May 1968 is not the same. The two articles have different structures, sections, and sub-sections, different visual details, use different bibliographical references, etc. 
 
 Now, please try to answer the following questions:
-What are the main similarities and differences in the way the two Wikipedia articles present the May 1968 historical events? How do you explain these similarities/differences?
-Which article does it cover May 1968 “better” (extensive analysis, more textual and visual details, etc.) and why?
-Do you detect any similarities or differences in the bibliography that the two articles cite?
-Based on these two case studies, does Wikipedia promote a specific way of presenting and displaying a historical event across the two Wikipedia editions? Does the location of a historical event mean more extensive coverage or more user engagement in the related language Wikipedia?
+
+- What are the main similarities and differences in the way the two Wikipedia articles present the May 1968 historical events? How do you explain these similarities/differences?
+- Which article does it cover May 1968 “better” (extensive analysis, more textual and visual details, etc.) and why?
+- Do you detect any similarities or differences in the bibliography that the two articles cite?
+- Based on these two case studies, does Wikipedia promote a specific way of presenting and displaying a historical event across the two Wikipedia editions? Does the location of a historical event mean more extensive coverage or more user engagement in the related language Wikipedia?
 
 
  
