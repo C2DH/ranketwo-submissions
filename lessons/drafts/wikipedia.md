@@ -115,14 +115,16 @@ The principles you just examined provide the basis for a set of specific instruc
 - Check the general framework of the [policies for developing content](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines#%C2%ADContent) 
 - Read the [guidelines of Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines).
 
-Then answer the following questions: 
-Which policies encourage Wikipedia users to engage with its content?
-Why does this system of rules, policies, and guidelines not prevent users from editing and instead motivate them to create or update more and more Wikipedia articles? 
+Then answer the following questions:
+
+- Which policies encourage Wikipedia users to engage with its content?
+- Why does this system of rules, policies, and guidelines not prevent users from editing and instead motivate them to create or update more and more Wikipedia articles? 
 
 Finally, read the detailed [explanations for sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources). Wikipedia creators attach apparently a great importance on assuring information reliability and content quality.  
 
 
 Now, after also reflecting on your previous readings - or discussing with your class comrades, if you have the possibility - try to answer the following question: 
+
 - How do policies and guidelines of Wikipedia may affect the production of historical knowledge on Wikipedia? 
 
 
@@ -144,16 +146,43 @@ Then, try to answer the following questions:
 - How can “talk pages” and “view history” portals of Wikipedia articles be useful for historians?
 - What historical questions can the data from “talk pages” and “view history” answer?
 
-### 2c. History on Wikipedia
-History constitutes one of the several subjects that Wikipedia covers. Apart from its general guidelines and policies, Wikipedia has defined more specific rules for each topic that it covers. For example, the sources that Wikipedia editors are allowed to use in the coverage of each topic differ. Wikipedia also includes a separate portal for each subject, where it analyzes the subject and provides further information on the different subfields, categorizations, etc. In the two links below, you will find information on the perception of History by Wikipedia and on the sources that Wikipedia editors are allowed to use when they write about history on Wikipedia. 
+<!-- If 2B is realized with viewing the videos rather than reading the lengthy pages for talk and history, then 30 minutes are sufficient to execute this part of the lesson -->
 
-https://en.wikipedia.org/wiki/Portal:History.
-https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History.
+### 2.c History on Wikipedia
+Wikipedia also includes separate portals for main topics, where it provides definitions and further information on the different subfields, and categorizations these may englobe. Apart from its general guidelines and policies, Wikipedia has defined more specific rules for the main topics that it covers. History constitutes one of Wikipedia's portals, and as such it is subject to specific rules of writing: for example, the sources that Wikipedia editors are allowed to use in the coverage of each topic differ. 
+
+Please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and walk through 
+- the definition of history the page provides 
+- the ways you can access the contents via this page (featured articles and pictures, commemorations, quotes, categories...)
+- the lists of associated elements
+
+Now, try to answer the following questions:
+
+- How does Wikipedia seem to perceive history? 
+- In what ways is this perception similar or different from definitions provided by [academic historians](https://www.historytoday.com/archive/head-head/what-history) or by a [large public audience](https://www.historians.org/research-and-publications/history-the-past-and-public-culture-results-from-a-national-survey/1-how-does-the-public-define-history)?
+
+### 2.d Sources of History according to Wikipedia
+To conduct historical research, historians use evidence from the past: primary sources; e.g. materials created during the course of a historical process (documents, artefacts, data...). The study of primary sources is combined with use of secondary sources, e.g. any analysis using primary sources (books, articles, etc.). 
+
+Please go the [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
 
 Then, try to answer the following questions:
-How does Wikipedia seem to perceive history? Does it differ from how academic historians define it?
-What sources can Wikipedia editors use to create or edit pages related to history? Are the sources that Wikipedia encourages, different from the sources that academic historians use?
-3. Writing on Wikipedia: Structure and Historical Narrative
+
+- What sources can Wikipedia editors use to create or edit pages related to history? 
+- Are the sources that Wikipedia recommends different from the sources that academic historians use?
+
+### Reading/viewing suggestions 
+
+"Beginner’s guide to historical research". In Mulrennan Kirsten and Rachel Murphy. Opening a window to the past: Researching archival diaries. University of Limerick Special Collections and Archives Department website (https://specialcollections.ul.ie/research-diaries/) (Date accessed: 6 February 2024). [URL](https://specialcollections.ul.ie/beginners-guide-history/)
+
+Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 October 2018. https://youtu.be/gkdzu8X84fo 
+
+"What is History?". *History Today* 70(8), August 2020 https://www.historytoday.com/archive/head-head/what-history 
+
+Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxford: Princeton University Press, 2021
+
+
+## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative
 
 Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users and each article has a different structure, e.g., (chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements, (e.g., graphs, videos, images, sounds), and bibliographical references. Once you have a better understanding of how Wikipedia works and its main policies and guidelines for the production of knowledge, let’s look at the historical narratives of some Wikipedia articles. First, read the following Wikipedia articles, which represent two different historical topics, the Vietnam War and the September 11 attacks. While you read them, pay attention to the following elements: 1. how historical narratives of Wikipedia articles are structured and the way they differ from traditional historical narratives. 2. the visual and audio materials that are part of the articles’ narrative. 3. the bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
 
