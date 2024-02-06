@@ -202,18 +202,21 @@ Then, think critically and try to answer the following questions:
 - Do you detect any similarities or differences with the way traditional historians organize their historical narratives in academic books or articles?
 
 
-### Assignment 4 - Behind the Scenes of Wikipedia Articles
+## Assignment 4 - Behind the Scenes of Wikipedia Articles
 
-Many people have visited Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are products of long debates, conflicts, collaborations, discussions, and consensus between different Wikipedia editors. Wikipedia provides us the opportunity to look “behind the scenes” and explore how Wikipedia articles take shape and change over time. The “talk page” and “view history” portals of Wikipedia reveal the discussions between users on each entry and the logs of all the changes and copies of older versions of the article. Both portals reveal significant information for historical research. How do Wikipedia users create and edit articles? How do they perceive the past? What historical arguments do they make? How do they reach a consensus? How does the historical narrative of a Wikipedia article change over time? In the third part of this lesson, we will investigate what happens “behind the scenes” of a Wikipedia page by unveiling the discussions and debates that shape the historical narrative of the page. To do that, we will focus on one case study, the Wikipedia page of the September 11 attacks. 
-4a. Historical discussions and debates
-The September 11 attacks constitute a traumatic event that shared modern United States history but also had a broader global impact. If you click on the “talk page” of the article, you will see that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia page. Specifically, the examples below include information on how Wikipedians should honor the memory of the victims, how to describe the people who caused the attacks, how to name the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the parentheses. If there is no parenthesis, please read the whole article.
-https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title (Article Title)
-https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist (Deleting terrorist)
-https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22 ("Terrorist", "terrorism" and "freedom fighter")
-https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium (In Memorium)
-https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial (Memorial)
+Many people visit Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are products of long debates, conflicts, collaborations, discussions, and consensus between different Wikipedia editors. Wikipedia provides us the opportunity to look “behind the scenes” and explore how Wikipedia articles take shape and change over time. The “talk page” and “view history” portals of Wikipedia reveal the discussions between users on each entry and the logs of all the changes and copies of older versions of the article. Both portals reveal significant information for historical research. As Wikipedia users create and edit articles, their activity provides evidence about how they perceive the past or what historical arguments they make and how do they reach a consensus. It is also evidence how the historical narrative of a Wikipedia article changse over time. In this part of the lesson, we will investigate what happens “behind the scenes” of a Wikipedia page by unveiling the discussions and debates that shape the historical narrative of the page. To do that, we will focus on one case study, the [Wikipedia page of the September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks).
+
+### 4.a Historical discussions and debates
+The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the “talk page” of the article, you will see that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia page. Specifically, the examples below include information on how Wikipedians should honor the memory of the victims, how to describe the people who caused the attacks, how to name the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the parentheses. If there is no parenthesis, please read the whole article.
+
+Talk on: [Article Title](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
+Talk on deleting the word terrorist: [Deleting terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
+Talk on use of terms: ["terrorist", "terrorism" and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) 
+[In Memorium](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) 
+Talk on: [Memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial) 
 
 Then, try to answer the following questions:
+
 Which topics related to the September 11 attacks do most Wikipedia users discuss?
 Why do Wikipedia users get involved in debates?
 What arguments do they make to support their opinions, and what reactions do they receive from other Wikipedians in the specific case studies?
