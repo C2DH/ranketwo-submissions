@@ -209,20 +209,21 @@ Many people visit Wikipedia to learn about history. However, few of them probabl
 ### 4.a Historical discussions and debates
 The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the “talk page” of the article, you will see that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia page. Specifically, the examples below include information on how Wikipedians should honor the memory of the victims, how to describe the people who caused the attacks, how to name the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the parentheses. If there is no parenthesis, please read the whole article.
 
-Talk on: [Article Title](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
-Talk on deleting the word terrorist: [Deleting terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
-Talk on use of terms: ["terrorist", "terrorism" and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) 
+- Talk on: [Article Title](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
+- Talk on deleting the word terrorist: [Deleting terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
+- Talk on use of terms: ["terrorist", "terrorism" and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) 
 [In Memorium](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) 
-Talk on: [Memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial) 
+- Talk on: [Memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial) 
 
 Then, try to answer the following questions:
 
-Which topics related to the September 11 attacks do most Wikipedia users discuss?
-Why do Wikipedia users get involved in debates?
-What arguments do they make to support their opinions, and what reactions do they receive from other Wikipedians in the specific case studies?
-How do Wikipedia users perceive the September 11 attacks? Do they express any personal emotions and memories about the past of the September 11 attacks?
-Why do Wikipedians want to edit the September 11 attacks Wikipedia page? What is the meaning of editing for them?
-How do Wikipedia users involved in discussions and debates try to reach a consensus?
+- Which topics related to the September 11 attacks do most Wikipedia users discuss?
+- Why do Wikipedia users get involved in debates?
+- What arguments do they make to support their opinions, and what reactions do they receive from other Wikipedians in the specific case studies?
+- How do Wikipedia users perceive the September 11 attacks? Do they express any personal emotions and memories about the past of the September 11 attacks?
+- Why do Wikipedians want to edit the September 11 attacks Wikipedia page? What is the meaning of editing for them?
+- How do Wikipedia users involved in discussions and debates try to reach a consensus?
+
 4b. Historical articles in constant motion
 Historical narratives are not stable; instead, they change over time. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. The links below refer to two pages with the most recent revisions of the article. Click on the two links and try to detect all the editing changes of the article and the editors who have made those changes. 
 https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579. 
