@@ -209,7 +209,7 @@ Many people visit Wikipedia to learn about history. However, few of them probabl
 ### 4.a Historical discussions and debates
 The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the “talk page” of the article, you will notice that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia article. Specifically, the examples below include different types of information, such as how Wikipedians should honor the memory of the victims, how they should describe the people who caused the attacks, what title they should place into the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the titles.
 
-- [Talk on the title of article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
+- [Talk on the title of the article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
 - [Talk on deleting the word terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
 - [Talk on the use of terms, "terrorist", "terrorism," and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) 
 - [Talk on memory](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) 
