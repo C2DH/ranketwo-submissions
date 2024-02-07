@@ -149,11 +149,11 @@ Then, try to answer the following questions:
 <!-- If 2B is realized with viewing the videos rather than reading the lengthy pages for talk and history, then 30 minutes are sufficient to execute this part of the lesson -->
 
 ### 2.c History on Wikipedia
-As Wikipedia covers multiple topics, it includes separate portals for each subject it covers. In these portals, there are definitions of the subject and further information on the different subfields and categories of the subject. Apart from its general guidelines and policies, Wikipedia has established more specific rules that guide the coverage of its subjects. History constitutes one of Wikipedia's subjects, and as such it has its own portal and is subject to specific rules of writing. For example, Wikipedia determines the types of sources that Wikipedia editors are allowed to use for the coverage of historical topics.
+As Wikipedia covers multiple subjects, it has created separate portals for each subject it covers. In these portals, there are definitions of the subject and further information on the different subfields and categories of the subject. Apart from its general guidelines and policies, Wikipedia has also established more specific instructions about the coverage of each subject. History constitutes one of Wikipedia's subjects, and, therefore, it has its own portal and is subject to specific rules of writing. For example, Wikipedia specifies the types of sources that Wikipedia editors are allowed to use for the coverage of historical topics.
 
-Please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and explore: 
+To learn more about the subject of history on Wikipedia, please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and explore the following aspects: 
 - the definition of history the page provides 
-- the ways you can access the contents via this page (featured articles and pictures, commemorations, quotes, categories...)
+- the ways you can access the contents via this page (featured articles and pictures, commemorations, quotes, categories, etc.)
 - the lists of associated elements
 
 Now, try to answer the following questions:
@@ -163,9 +163,9 @@ Now, try to answer the following questions:
 - Based on your personal experience, how do you navigate Wikipedia's content? How do you find a Wikipedia article that you are looking for?
 
 ### 2.d Sources of History according to Wikipedia
-To conduct historical research, historians use evidence from the past: primary sources; e.g. materials created during the course of a historical process (documents, artefacts, data...). The study of primary sources is combined with use of secondary sources, e.g. any analysis using primary sources (books, articles, etc.). 
+To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g., written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics, and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources into the broader historical context of the period. By combining both primary and secondary sources, historians write a story about the past.
 
-Please go the [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
+Please read the [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
 
 Then, try to answer the following questions:
 
