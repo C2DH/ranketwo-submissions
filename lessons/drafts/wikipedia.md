@@ -73,7 +73,7 @@ Based on your personal experience with Wikipedia, please try to answer the follo
 ### 1.c Wikipedia as a source of historical knowledge
 Since the emergence of Wikipedia in 2001, several researchers have started examining the online encyclopedia. They studied Wikipedia from different perspectives, ranging from the accuracy of Wikipedia and how Wikipedia works to more recent works on how Wikipedia can become diverse and inclusive and the datafication of its content. However, most of those studies were written by scholars in media and communication studies, and information science. Historians were absent from this type of research. Any explanations why? As this lesson will show, Wikipedia constitutes a valuable resource of historical knowledge. Being familiar with how history is constructed on Wikipedia means that historians will be able to take advantage of the opportunities that Wikipedia’s content and data offer. Historians can use Wikipedia as a historical source to better understand what stories about the past Wikipedia articles tell, how these stories are shaped, discussed, and produced in the digital age, and by whom. By doing that, historians will be able to discern what Wikipedia articles reveal about history-making in the digital age, and, therefore, they will open up new inquiries and approaches to historical research. 
 
-The assignments below allow historians to experiment with multiple potential uses of Wikipedia as a source of historical knowledge through the lenses of digital source criticism. Wikipedia articles constitute born-digital sources published on the web, to which historians can ask questions related to digital source criticism, e.g., how are Wikipedia articles related to history created and by whom? How do Wikipedia articles change over time? how do Wikipedia editors discuss a historical topic while they edit or create a Wikipedia article? Wwat historical questions can historians answer by using Wikipedia articles?
+The assignments below allow historians to experiment with multiple potential uses of Wikipedia as a source of historical knowledge through the lenses of digital source criticism. Wikipedia articles constitute born-digital sources published on the web, to which historians can ask questions related to digital source criticism, e.g., how are Wikipedia articles related to history created and by whom? How do Wikipedia articles change over time? how do Wikipedia editors discuss a historical topic while they update or create a Wikipedia article? What historical questions can historians answer by using Wikipedia articles?
 
 ### Reading/viewing suggestions 
 
@@ -89,7 +89,7 @@ Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube Video, 03:45 min
 
 Andrew Lih, *The Wikipedia Revolution. How a bunch of Nobodies Created the World’s Greatest Encyclopedia* (London: Hyperion ebook, 2009), 14, 44, 61 
 
-Marshall Poe, “The Hive,” The Atlantic, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/  
+Marshall Poe, “The Hive,” The Atlantic, September 2006, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/  
 
 Roy Rosenzweig, *Clio Wired: The Future of the Past in the Digital Age* (New York: Columbia University Press, 2011, 65, 119 
 
@@ -105,11 +105,11 @@ To explore the opportunities that Wikipedia offers for historical research, we s
 
 Please visit the following Wikipedia pages that contain specific information on Wikipedia’s policies, guidelines, and rules, which determine how knowledge is produced on Wikipedia and how users can engage with its contents. 
 
-- You can first check [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta). These will give you a quick view of the principles that inspire the (more elaborate) guidelines of Wikipedia. 
-- For a more detailed view, you can then check the so-called [five pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars), alias the more elaborate principles that form the basis of the editorial policy of Wikipedia. 
-- If you wish to go further, you can also read the [statement of principles from Wikipedia founder Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles) - this reading is not necessary to do the exercice, however.
+- You can first check [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta). These will give you a quick view of the main principles of Wikipedia. 
+- For a more detailed view, you can then check the so-called [five pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars), alias the more detailed principles that form the basis of the editorial policy of Wikipedia. 
+- If you wish to go further, you can also read the [statement of principles from Wikipedia founder Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles) - however, this reading is not necessary to do the exercise.
 
-Now, try to answer the following question: what are the most important values and policies of Wikipedia? 
+Now, try to answer the following question: what are the most important principles and policies of Wikipedia? 
 
 The principles you just examined provide the basis for a set of specific instructions that guide the authors of Wikipedia to develop content: these are the Wikipedia guidelines. 
 - Check the general framework of the [policies for developing content](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines#%C2%ADContent) 
@@ -118,14 +118,14 @@ The principles you just examined provide the basis for a set of specific instruc
 Then answer the following questions:
 
 - Which policies encourage Wikipedia users to engage with its content?
-- Why does this system of rules, policies, and guidelines not prevent users from editing and instead motivate them to create or update more and more Wikipedia articles? 
+- Why does this system of rules, policies, and guidelines not prevent users from editing and instead it motivates them to create or update more and more Wikipedia articles? 
 
-Finally, read the detailed [explanations for sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources). Wikipedia creators attach apparently a great importance on assuring information reliability and content quality.  
+Finally, read the detailed [explanations for sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources). Wikipedia creators attach great importance to information reliability and content quality.  
 
 
 Now, after also reflecting on your previous readings - or discussing with your class comrades, if you have the possibility - try to answer the following question: 
 
-- How do policies and guidelines of Wikipedia may affect the production of historical knowledge on Wikipedia? 
+- How do the policies and guidelines of Wikipedia shape the production of historical knowledge on Wikipedia? 
 
 
 ### 2.b Talk pages and revision history 
@@ -133,13 +133,13 @@ Besides the policies and guidelines that define knowledge production on Wikipedi
 
 ![How to access "talk" and "view history" pages of a Wikipedia article](/assets/images/wikipedia/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
 
-In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional internal source criticism about who and in what context a source was created. 
+In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users often question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional internal source criticism to identify how a source was created and by whom. 
 
 In the two links below, you will find more information provided by Wikipedia on the “talk pages” and “view history,” please read the content of the two articles: 
 
-[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages) - alternatively, you can watch a two minutes video provided in the page.  
+[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages) - alternatively, you can watch a two minutes video provided on the page.  
 
-[“View history”](https://en.wikipedia.org/wiki/Help:Page_history) - alternatively, you can wath a nine minutes video provided in the page. 
+[“View history”](https://en.wikipedia.org/wiki/Help:Page_history) - alternatively, you can watch a nine-minute video provided on the page. 
 
 Then, try to answer the following questions:
 
