@@ -163,7 +163,7 @@ Now, try to answer the following questions:
 - Based on your personal experience, how do you navigate Wikipedia's content? How do you find a Wikipedia article that you are looking for?
 
 ### 2.d Sources of History according to Wikipedia
-To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g., written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics, and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources into the broader historical context of the period. By combining both primary and secondary sources, historians write a story about the past.
+To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g., written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics, and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources into the broader historical context of the period. By combining primary with secondary sources, historians write a story about the past.
 
 Please read the [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
 
@@ -185,21 +185,20 @@ Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxfor
 
 ## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative
 
-Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users and each article has a different structure, e.g., (chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements, (e.g., graphs, videos, images, sounds), and bibliographical references. Once you have a better understanding of how Wikipedia works and its main policies and guidelines for the production of knowledge, let’s look at the historical narratives of some Wikipedia articles. First, read the following Wikipedia articles, which represent two different historical topics, the [Vietnam War](https://en.wikipedia.org/wiki/Vietnam_War) and the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks). While you read them, pay attention to the following elements: 
+Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users and each article has a different structure, e.g., (chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements, (e.g., graphs, videos, images, sounds), and bibliographical references. As you have a better understanding of how Wikipedia works and its main policies and guidelines for the production of historical knowledge, let’s look at the historical narrative of a Wikipedia article. First, read the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks), and, while you read it, please pay attention to the following elements: 
 
-- how historical narratives of Wikipedia articles are structured and the way they differ from traditional historical narratives. 
+- how the historical narrative of the Wikipedia article is structured and how it differs from traditional historical narratives. 
 
-- the visual and audio materials that are part of the articles’ narrative.
+- the visual and audio materials that are part of the article's narrative.
 
 - the bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
 
 Then, think critically and try to answer the following questions:
 
-- How have Wikipedia users organized the historical narratives of the Wikipedia pages?
-- What kind of visual and audio materials (e.g., graphs, videos, images, sounds, etc.) do Wikipedia pages include? How do they affect the historical narrative they present?
-- Do you detect differences and similarities in the way the two events are narrated?
-- How do hyperlinks work in the two case studies and how do they affect the way a potential user reads and understands a historical narrative?
-- How would you characterize the types of works that Wikipedia users cite in the two case studies? Do they use academic works, journalistic, or any other type? Are the cited works available online?
+- How have Wikipedia users organized the historical narrative of the Wikipedia article?
+- What kind of visual and audio materials (e.g., graphs, videos, images, sounds, etc.) does the Wikipedia article include? How do those materials affect the historical narrative of the article?
+- How do hyperlinks work and how do they affect the way a potential user reads and understands the article?
+- How would you characterize the types of works that Wikipedia users cite in the article? Do they use academic works, journalistic, or any other types? Are the cited works available online?
 - Do you detect any similarities or differences with the way traditional historians organize their historical narratives in academic books or articles?
 
 
