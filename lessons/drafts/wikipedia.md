@@ -149,9 +149,9 @@ Then, try to answer the following questions:
 <!-- If 2B is realized with viewing the videos rather than reading the lengthy pages for talk and history, then 30 minutes are sufficient to execute this part of the lesson -->
 
 ### 2.c History on Wikipedia
-Wikipedia also includes separate portals for main topics, where it provides definitions and further information on the different subfields, and categorizations these may englobe. Apart from its general guidelines and policies, Wikipedia has defined more specific rules for the main topics that it covers. History constitutes one of Wikipedia's portals, and as such it is subject to specific rules of writing: for example, the sources that Wikipedia editors are allowed to use in the coverage of each topic differ. 
+As Wikipedia covers multiple topics, it includes separate portals for each subject it covers. In these portals, there are definitions of the subject and further information on the different subfields and categories of the subject. Apart from its general guidelines and policies, Wikipedia has established more specific rules that guide the coverage of its subjects. History constitutes one of Wikipedia's subjects, and as such it has its own portal and is subject to specific rules of writing. For example, Wikipedia determines the types of sources that Wikipedia editors are allowed to use for the coverage of historical topics.
 
-Please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and walk through 
+Please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and explore: 
 - the definition of history the page provides 
 - the ways you can access the contents via this page (featured articles and pictures, commemorations, quotes, categories...)
 - the lists of associated elements
@@ -160,6 +160,7 @@ Now, try to answer the following questions:
 
 - How does Wikipedia seem to perceive history? 
 - In what ways is this perception similar or different from definitions provided by [academic historians](https://www.historytoday.com/archive/head-head/what-history) or by a [large public audience](https://www.historians.org/research-and-publications/history-the-past-and-public-culture-results-from-a-national-survey/1-how-does-the-public-define-history)?
+- Based on your personal experience, how do you navigate Wikipedia's content? How do you find a Wikipedia article that you are looking for?
 
 ### 2.d Sources of History according to Wikipedia
 To conduct historical research, historians use evidence from the past: primary sources; e.g. materials created during the course of a historical process (documents, artefacts, data...). The study of primary sources is combined with use of secondary sources, e.g. any analysis using primary sources (books, articles, etc.). 
