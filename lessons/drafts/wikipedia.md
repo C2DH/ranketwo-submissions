@@ -238,7 +238,7 @@ For more information on how to use the "view history" portal, please watch the v
 
 Even though our sample is small (only two pages from a very extensive revision history), please try to answer the following questions:
 
-- How does the historical narrative of a Wikipedia article change over time?
+- How does the historical narrative of the article change over time?
 - What type of contributions do editors make?
 - By looking at the names of editors, do you notice the existence of bots? What does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
