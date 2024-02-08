@@ -236,11 +236,11 @@ For more information on how to use the "view history" portal, please watch the v
 
 [Revision history page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755) 
 
-Then, try to answer the following questions:
+Even though our sample is small (only two pages from a very extensive revision history), please try to answer the following questions:
 
 - How does the historical narrative of a Wikipedia article change over time?
-- By 
-- Taking also into account that thousands of bots, and non-human actors, contribute to the updating of the article, what does the collaboration between humans and non-human agents signify for the production of history in the digital age?
+- What type of contributions do editors make?
+- By looking at the names of editors, do you notice the existence of bots? What does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
 ### 5 - Comparing Wikipedias in different languages 
 
