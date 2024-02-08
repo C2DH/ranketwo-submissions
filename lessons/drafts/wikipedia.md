@@ -207,7 +207,7 @@ Then, think critically and try to answer the following questions:
 Many people visit Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are products of long debates, conflicts, collaborations, discussions, and consensus between different Wikipedia editors. Wikipedia provides us the opportunity to look “behind the scenes” and explore how Wikipedia articles take shape and change over time. The “talk page” and “view history” portals of Wikipedia reveal the discussions between users on each entry and the logs of all the changes and copies of older versions of the article. Both portals include significant data for historical research. As Wikipedia users get involved with the creation and editing of articles, they participate in discussions and debates, which provide useful data about how Wikipedians perceive the past, what historical arguments they make, how they try to reach a consensus, etc. In the "view history" portal, there is also data on how the historical narrative of a Wikipedia article changes over time. In this part of the lesson, we will investigate what happens “behind the scenes” of a Wikipedia article by unveiling both the discussions between the users and the editing history of an article. To do that, we will focus on one case study, the [Wikipedia page of the September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks).
 
 ### 4.a Historical discussions and debates
-The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the “talk page” of the article, you will notice that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia article. Specifically, the examples below include different types of information, such as how Wikipedians should honor the memory of the victims, how they should describe the people who caused the attacks, what title they should place into the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the titles.
+The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the article's " talk page, " you will notice that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia article. Specifically, the examples below include different types of information, such as how Wikipedians should honor the memory of the victims, how they should describe the people who caused the attacks, what title they should place into the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the titles. For more information on "talk pages" and how to use them, see the video in assignment 2.b.
 
 - [Talk on the title of the article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
 - [Talk on deleting the word terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
@@ -225,7 +225,12 @@ Then, try to answer the following questions:
 - How do Wikipedia users involved in discussions and debates try to reach a consensus?
 
 ### 4.b Historical articles in constant motion
-Historical narratives are not stable; instead, they change over time. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. The links below refer to two pages with the most recent revisions of the article. Click on the two links and try to detect all the editing changes of the article and the editors who have made those changes.
+Historical narratives are not stable; instead, they change over time. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. The links below refer to two pages with the most recent revisions of the article. Please click on the two links below, which contain the most recent editing changes to the article and the editors who made those changes. While you read the pages, please pay attention to: 
+
+1. the type of editing changes, e.g., correcting vocabulary and grammar mistakes, adding more visual materials, reorganizing the text of the article, etc. 
+2. the editors who make those changes.
+
+For more information on how to use the "view history" portal, please watch the video in assignment 2.b. 
 
 [Revision history page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579) 
 
@@ -233,7 +238,8 @@ Historical narratives are not stable; instead, they change over time. Now let’
 
 Then, try to answer the following questions:
 
-- How does the historical narrative of a Wikipedia article change over time? 
+- How does the historical narrative of a Wikipedia article change over time?
+- By 
 - Taking also into account that thousands of bots, and non-human actors, contribute to the updating of the article, what does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
 ### 5 - Comparing Wikipedias in different languages 
@@ -250,7 +256,7 @@ After reading both articles, you will notice that apart from some obvious histor
 
 Now, please try to answer the following questions:
 
-- What are the main similarities and differences in the way the two Wikipedia articles present the May 1968 historical events? How do you explain these similarities/differences?
+- What are the main similarities and differences in how the two Wikipedia articles present the May 1968 historical events? How do you explain these similarities/differences?
 - Which article does it cover May 1968 “better” (extensive analysis, more textual and visual details, etc.) and why?
 - Do you detect any similarities or differences in the bibliography that the two articles cite?
 - Based on these two case studies, does Wikipedia promote a specific way of presenting and displaying a historical event across the two Wikipedia editions? Does the location of a historical event mean more extensive coverage or more user engagement in the related language Wikipedia?
