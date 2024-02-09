@@ -4,11 +4,12 @@ layout: unit
 date: 2024-02-06
 publication_date: 
 toc: on
-research-phase: 
+research-phase: hermeneutics
 activities: 
-  -  
+  - content-analysis 
 tags:
-  - 
+  - web-page
+  - web-object
 authors: 
   - petros-apostolopoulos
 editors: 
