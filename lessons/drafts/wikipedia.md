@@ -7,7 +7,7 @@ toc: on
 research-phase: hermeneutics
 activities: 
   - content-analysis 
-tags:
+mediatypes:
   - web-page
   - web-object
 authors: 
@@ -22,11 +22,6 @@ audience:
 components:
   small: animation
   medium: animation + 4 assignments
-mediatypes: 
-  - 
-research-phase: 
-activities: 
-  - 
 cover:
   url: 
 order: 
@@ -243,7 +238,7 @@ Even though our sample is small (only two pages from a very extensive revision h
 - What type of contributions do editors make?
 - By looking at the names of editors, do you notice the existence of bots? What does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
-### 5 - Comparing Wikipedias in different languages 
+### Addignment 5 - Comparing Wikipedias in different languages 
 
 Wikipedia does not exist only in the English language. Instead, it includes 339 language editions as of December 2023. The different editions are not just simple translations from one language to another but constitute different historical narratives about the past with different representations, structures, and discussions. Wikipedia's multilingual character allows historians to compare historical narratives across different languages.  In this part, we will compare two different Wikipedia language editions, the English language Wikipedia and the French one. Specifically, we will focus on a specific historical event, May 1968, as it is represented in the English and French Wikipedia. Even though the English language Wikipedia contains the most active registered users and covers more articles than other editions, May 1968 constitutes a major event in French history, which also affected a broader non-French audience. The participants of this course will investigate if the interface of Wikipedia encourages a specific way of presenting and displaying across different language editions by comparing the historical narratives of the two articles.
  
