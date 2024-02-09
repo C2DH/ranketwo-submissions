@@ -14,6 +14,8 @@ authors:
   - petros-apostolopoulos
 editors: 
   - sofia-papastamkou
+reviewers:
+- marejke-huismans
 lang: en
 unit_id: wikipedia-as-historical-source
 link: /u/wikipedia-as-historical-source/
