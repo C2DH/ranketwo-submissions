@@ -15,7 +15,7 @@ authors:
 editors: 
   - sofia-papastamkou
 reviewers:
-- marejke-huismans
+- marijke-huisman
 lang: en
 unit_id: wikipedia-as-historical-source
 link: /u/wikipedia-as-historical-source/
@@ -81,17 +81,26 @@ Justin Franco. “The History of Wikipedia (in two minutes).” YouTube Video, 0
 
 *On the reliability, verifiability and Wikipedia  community engagement in fact-checking:* 
 
-Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube Video, 03:45 minutes. 22 December 2016, https://youtu.be/xQ4ba28-oGs  
+Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube Video, 03:45 minutes. 22 December 2016, https://youtu.be/xQ4ba28-oGs 
+
+Apostolopoulos, Petros. *Discussing the Past: The Production of Historical Knowledge on Wikipedia*. (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapter 1)
+
+Cummings, Robert E. “The First Twenty Years of Teaching with Wikipedia: From Faculty Enemy to Faculty Enabler.” In _Wikipedia @20. Stories of an Incomplete Revolution_, edited by Joseph Reagle and Jackie Koerner. Massachusetts: MIT Press 2020.[https://wikipedia20.pubpub.org/pub/0e9c3f8e/release/1](https://wikipedia20.pubpub.org/pub/0e9c3f8e/release/1) 
+
+Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. (Chapter 2)
 
 **Bibliography used by the author**
 
-Andrew Lih, *The Wikipedia Revolution. How a bunch of Nobodies Created the World’s Greatest Encyclopedia* (London: Hyperion ebook, 2009), 14, 44, 61 
+Burkholder, Pete, and Dana Schaffer. “A Snapshot of the Public’s Views on History.” _Perspectives on History_. Accessed February 9, 2024. [https://www.historians.org/publications-and-directories/perspectives-on-history/september-2021/a-snapshot-of-the-publics-views-on-history-national-poll-offers-valuable-insights-for-historians-and-advocates](https://www.historians.org/publications-and-directories/perspectives-on-history/september-2021/a-snapshot-of-the-publics-views-on-history-national-poll-offers-valuable-insights-for-historians-and-advocates)
 
-Marshall Poe, “The Hive,” The Atlantic, September 2006, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/  
+Lih, Andrew. *The Wikipedia Revolution. How a bunch of Nobodies Created the World’s Greatest Encyclopedia* (London: Hyperion ebook, 2009), 14, 44, 61 
 
-Roy Rosenzweig, *Clio Wired: The Future of the Past in the Digital Age* (New York: Columbia University Press, 2011, 65, 119 
+Poe, Marshall. “The Hive,” *The Atlantic*, September 2006 Issue, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/ 
 
-Fethi Erinç Salor, *Sum of all Knowledge: Wikipedia and the Encyclopedic Urge* (Ph.D. diss., University of Amsterdam, 2012), 93
+
+Rosenzweig, Roy. *Clio Wired: The Future of the Past in the Digital Age* (New York: Columbia University Press, 2011, 65, 119 
+
+Salor, Fethi Erinç. *Sum of all Knowledge: Wikipedia and the Encyclopedic Urge* (Ph.D. diss., University of Amsterdam, 2012), 93
 
 
 ## Assignment 2 - Exploring Wikipedia’s Infrastructure
@@ -172,6 +181,7 @@ Then, try to answer the following questions:
 
 ### Reading/viewing suggestions 
 
+**On the notion of sources in history, in case you need help with the sub-assignment 2.d**
 "Beginner’s guide to historical research". In Mulrennan Kirsten and Rachel Murphy. Opening a window to the past: Researching archival diaries. University of Limerick Special Collections and Archives Department website (https://specialcollections.ul.ie/research-diaries/) (Date accessed: 6 February 2024). [URL](https://specialcollections.ul.ie/beginners-guide-history/)
 
 Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 October 2018. https://youtu.be/gkdzu8X84fo 
@@ -179,6 +189,16 @@ Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 Octob
 "What is History?". *History Today* 70(8), August 2020 https://www.historytoday.com/archive/head-head/what-history 
 
 Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxford: Princeton University Press, 2021
+
+**On Wikipedia infrastructure**
+
+Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapter 1)
+
+Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in the Digital Age_. Cambridge, Massachusetts and London, England: MIT Press, 2022. (Chapter 1)
+
+Jemielniak, Dariusz. _Common Knowledge? An Ethnography of Wikipedia_. Stanford: Stanford University Press, 2014.
+
+Reagle, Joseph. _Good Faith Collaboration: The Culture of Wikipedia_. Massachusetts: The MIT Press, 2010. (Chapters 3, 4, 6 & Conclusion)
 
 
 ## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative
@@ -240,7 +260,16 @@ Even though our sample is small (only two pages from a very extensive revision h
 - What type of contributions do editors make?
 - By looking at the names of editors, do you notice the existence of bots? What does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
-### Addignment 5 - Comparing Wikipedias in different languages 
+### Reading/viewing suggestions
+
+Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapters 2 & 3)
+
+Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in the Digital Age_. Cambridge, Massachusetts and London, England: MIT Press, 2022. (Chapters 2, 3 & 4)
+
+Pentzold, Christian. “Fixing the floating gap: The online encyclopaedia Wikipedia as a global memory place.” _Memory Studies_ 2, no. 2 (May 2009): 255-272. DOI: https://doi.org/10.1177/1750698008102055 
+Available at: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf](https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf)
+
+## Assignment 5 - Comparing Wikipedias in different languages 
 
 Wikipedia does not exist only in the English language. Instead, it includes 339 language editions as of December 2023. The different editions are not just simple translations from one language to another but constitute different historical narratives about the past with different representations, structures, and discussions. Wikipedia's multilingual character allows historians to compare historical narratives across different languages.  In this part, we will compare two different Wikipedia language editions, the English language Wikipedia and the French one. Specifically, we will focus on a specific historical event, May 1968, as it is represented in the English and French Wikipedia. Even though the English language Wikipedia contains the most active registered users and covers more articles than other editions, May 1968 constitutes a major event in French history, which also affected a broader non-French audience. The participants of this course will investigate if the interface of Wikipedia encourages a specific way of presenting and displaying across different language editions by comparing the historical narratives of the two articles.
  
@@ -259,6 +288,11 @@ Now, please try to answer the following questions:
 - Do you detect any similarities or differences in the bibliography that the two articles cite?
 - Based on these two case studies, does Wikipedia promote a specific way of presenting and displaying a historical event across the two Wikipedia editions? Does the location of a historical event mean more extensive coverage or more user engagement in the related language Wikipedia?
 
+### Reading/viewing suggestions
+
+Vrandečić, Denny. “Collaborating on the Sum of All Knowledge Across Languages.” In _Wikipedia @20. Stories of an Incomplete Revolution_, edited by Joseph Reagle and Jackie Koerner. Massachusetts: MIT Press 2020, [https://wikipedia20.mitpress.mit.edu/pub/svu3uy1z/release/2](https://wikipedia20.mitpress.mit.edu/pub/svu3uy1z/release/2)
+
+Fichman, Pnina, and Noriko Hara. _Global Wikipedia: International and Cross-Cultural Issues in Online Collaboration_. Lanham: Rowman et Littlefield, 2014
 
  
  
