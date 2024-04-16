@@ -84,9 +84,12 @@ Maps can be an impressive tool to visualize power. Since early modern times, car
 
 ![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
 
-
+Illustration 1.1.: Chambers of Commerce Atlas, General Reference Map, 1928
 
 The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The Chambers are one of the main British institution to facilitate world-wide trade. The Atlas was directed to British and other English speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which belong to the British Empire. Besides this obvious (and colourful) technique to highlight British influence over the world, there are a few less obvious techniques, such as the use of place names: For example, the map uses the names Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul, because  Bombay and Constantinopole were the names commonly in use in English language for these two cities. For British readers, these place names gave suitable orientation. At the same time, the use of these place names suggests a world which is British, or at least: a world that is an English speaking world. While English was (and is) of course a main language for global trade, these place names neglect the presence of other cultures and languages, which could have been represented in place names like Mumbaī, İstanbul and others.
+
+![Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "International Movements of Capital, 1938")
+
 
 Illustration 1.2.: Radó, “International Movements of Capital”, 1938
 
