@@ -42,20 +42,23 @@ In historical research, maps can be useful in many regards: a topographic map ma
 
 ## Assignment 1 - Access to Maps
 
-In the digital age, it is far more easier to access maps, than it was before. Digital libraries and repositories provide manifold cartographic sources. However, differences between libraries are huge regarding the amount of available maps, the quality of digitisation, the technical features to access maps as well as the additional information which are provided to each map.
+In the digital age, it is far easier to access maps, than it was before. Digital libraries and repositories provide manifold cartographic sources. However, differences between libraries are huge regarding the amount of available maps, the quality of digitisation, the technical features to access maps as well as the additional information provided for each map.
 
 Each online library has its advantages and disadvantages. It depends upon the project what kind of online library provides the best maps to a specific research question. For some projects, a simple map giving an overview over a certain region may be already sufficient. For other projects, we may need very large scale maps including information about the date of production, the publisher, etc.
 
 The following list shows a small number of interesting online map libraries. There are many more, but we can start exploring here:
-https://www.oldmapsonline.org/
-https://www.davidrumsey.com/
-https://kartenforum.slub-dresden.de/
-https://maps.arcanum.com/en/
-http://chartae-antiquae.cz/en/
-http://igrek.amzp.pl/
+
+[OldMapsOnline](https://www.oldmapsonline.org/)
+[David Rumsey Map Collection](https://www.davidrumsey.com/)
+[Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/)
+[Arcanum Maps - The Historical Map Portal](https://maps.arcanum.com/en/)
+[Virtual Map Collection](http://chartae-antiquae.cz/en/)
+[Mapster](http://igrek.amzp.pl/)
+
+
 
 Assignment A-1:
-Compare topographic maps which you can find on Kartenforum (https://kartenforum.slub-dresden.de/) and on Arcanum (https://maps.arcanum.com/en/). What kind of additional information are given to the map, such as date of publication, cartographer or editor? What are advantages and disadvantages of these two online libraries?
+Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/) and on [Arcanum](https://maps.arcanum.com/en/). What kind of additional information are on the map, such as date of publication, cartographer or editor? What are the advantages and disadvantages of these two online libraries?
 
 
 
