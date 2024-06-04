@@ -202,7 +202,9 @@ Times of war are times of massive map production. While military maps are kept s
 
 In this part of the lesson, we compare maps from the First World War 1914-1918 and maps of the Russian-Ukrainian War since 2022. During the First World War, public maps about the war were mainly published in newspapers and journals. Most of these maps had a relatively small scale, i.e. the map showed a rough sketch of the front line between two countries in a scale of 1:1 Million to 1:5 Million. In case a part of the front line was of particular interest, some publishers added medium scale maps, for example about Verdun and its surroundings on the Franco-German front.
 
-Illustration 4-1: file “Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01”, Verein für Kriegshilfe: Map of the Western front as of February 1915
+![Verein für Kriegshilfe: Map of the Western front as of February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01 "Verein für Kriegshilfe: Map of the Western front as of February 1915")
+
+Illustration 4-1: Verein für Kriegshilfe: Map of the Western front as of February 1915
 
 This kind of small scale public maps were issued weekly. The regular rhythm of publication made these maps an important medium of information and propaganda: It showed the progress or non-progress of front lines, it informed readers at least roughly about areas in danger to be directly affected by the war, and it demonstrated gain and loss of territory. However, these small scale maps did not let the reader get closer to the situation along the front line. The armies kept large scale maps secret which showed trenches and fortified places, because publicly known details would allow the enemy to more precisely direct its attacks.
 
@@ -211,7 +213,11 @@ Illustration 4-2: Large scale map, Franco-German front, February 1915
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
 Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time.
 
-Illustration 4-3: files “Reporting-War_2023_LiveUkraineMap_01” and “LiveUAmap_2023-06-07_Ukraine”, a Screenshot of Ukraine on LiveUAmap (Live Universal Awareness Map)
+![Screenshot of Ukraine on the service Live Universal Awareness Map](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+
+Illustration 4-3: files “Reporting-War_2023_LiveUkraineMap_01” and “LiveUAmap_2023-06-07_Ukraine”, a Screenshot of Ukraine on LiveUAmap ()
+
+![Screenshot of Ukraine on the service Live Universal Awareness Map](/assets/images/maps-as-historical-sources/LiveUAmap_2023-06-07_Ukraine.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 
 The example of the LiveUAmap is a multi-scale map. In a small scale it allows for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map derives from various sources, such as the Telegramm messager service. The LiveUAmap is provided by a Non Governmental Organisation based in McLean (Virginia, USA). Although we can zoom in to a large scale map, and although we can find information about the front line in detail, the map does not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
