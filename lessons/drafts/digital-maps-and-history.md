@@ -121,18 +121,20 @@ Further reading:
 
 Mapping an area is a means of accessing, naming, and, in a sense, ruling it. This proves particularly important in warfare. Precise maps were needed to identify weak points and crucial targets. On maps for public use, fortifications and military information often remained invisible, only outlined in vague shapes or blank spaces. One could argue due to the cruciality of this information, maps published by administrative authorities are the most precise ones. Nevertheless, the existence of precise maps posed the danger of them falling into enemies’ hands. So, even with topographic maps by administrative authorities, a critical analysis is needed to understand the content of the map. With World War II, a new and powerful tool for surveying became popular: aerial photography. Military technology enabled new ways of scouting the surface of the earth for vital infrastructure. Moreover, it was used to evaluate damage caused by air raids. 
 
-During World War II, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Arial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on their website: https://ncap.org.uk/ 
+During World War II, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Arial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on [their website](https://ncap.org.uk/). 
 
 Each series of photographs allows us even to track the route of one specific plane during its flight. 
 
-Illustration 2.1: [file: “1945_Stettin_Soviet-1-50000_crop.png”] 
+![Detail of Topographic Map of Stettin, 1945](/assets/images/maps-as-historical-sources/1945-stettin-soviet-1-50000-crop.jpg "Detail of Topographic Map of Stettin, 1945")
+
+Illustration 2.1: Detail of Topographic Map of Stettin, 1945 
 
 The first illustration is a detail of a topographic map of Stettin in a scale of 1:50.000, created in 1945. Until the end of World War II, Stettin was a German town. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. This explains the first curiosity. The labelling is a Cyrillic transliteration of the German terms for the city: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. It is mixed with Russian expressions, such as “больн” ( the abbreviation for “hospital”). What errors might have occurred when considering the specific conditions of  map production? What is the estimated reliability of this topographic map as a representation of the city in 1945?
 
+![Royal Air Force, Aerial Photograph, 28th November 1943](/assets/images/maps-as-historical-sources/1943-11-28_NCAP-3070_TR_crop.png "Royal Air Force, Aerial Photograph, 28th November 1943") 
 Illustration 2.2: Royal Air Force, Aerial Photograph, 28th November 1943. 
 
 URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
-File: “1943-11-28_NCAP-3070_TR_crop.png”
 
 The NCAP provides the following information about the image in the file’s metadata: “Location: Pommerensdorf; West Pomeranian Province; Poland; 28th November 1943; Corporate bodies: 540 Squadron (RAF)”. Interestingly, it shows the city's current nationality (“Poland”), instead of the nationality during World War II (i.e. Germany). In addition, it does not regard the municipal incorporation of “Pommerensdorf [sic!]” into Stettin in 1939. Those research hurdles are the results of the city’s troubled history. 
 
