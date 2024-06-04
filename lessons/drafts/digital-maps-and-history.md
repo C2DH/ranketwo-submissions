@@ -170,19 +170,29 @@ Pál Teleki (1879-1941), future Prime Minister on two occasions, became the lead
 
 Illustration 3.2: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
 
+Assignment 3.1.
 Compare both maps and answer the following questions:
 
-Assignment 3.1.
-    • What exactly is shown on the maps? What national perspectives are presented here? 
-Assignment 3.2.
-    • What kind of borders do you see? What do the differently coloured territories stand for? What is the statistical basis for this map? What does the colour red stand for and what visual effect is it supposed to achieve? How should the white areas on the map be interpreted?
-Assignment 3.3.
-    • What does the map tell us about the political intention of the map author through the choice of map section and the drawn boundaries?
+* What exactly is shown on the maps? 
+* What national perspectives are presented here?
 
-Reading recommendations:
-    • Górny, Maciej: Drawing fatherlands. Geographers and borders in inter-war Europe. Leiden: Brill 2022.
-    • Seegle, Steven: Map men. Transnational lives and deaths of geographers in the making of Eastern Europe. Chicago / London: University of Chicago Press 2018.
-    • Haslinger, Peter: National geopolitics in Habsburg Central Europe. Imperial and post-imperial perspectives on Hungary and Poland, 1890-1930, in: Jan Arend (ed.): Science and Empire in Eastern Europe. Imperial Russia and the Habsburg Monarchy in the 19th Century, Munich 2020, pp. 205-236.
+Assignment 3.2.
+* What kind of borders do you see? 
+* What do the differently coloured territories stand for? 
+* What is the statistical basis for this map? 
+* What does the colour red stand for and what visual effect is it supposed to achieve? 
+* How should the white areas on the map be interpreted?
+
+Assignment 3.3.
+* What does the map tell us about the political intention of the map author through the choice of map section and the drawn boundaries?
+
+#### Reading recommendations
+
+Górny, Maciej: Drawing fatherlands. Geographers and borders in inter-war Europe. Leiden: Brill 2022
+
+Seegle, Steven: Map men. Transnational lives and deaths of geographers in the making of Eastern Europe. Chicago / London: University of Chicago Press 2018
+
+Haslinger, Peter: National geopolitics in Habsburg Central Europe. Imperial and post-imperial perspectives on Hungary and Poland, 1890-1930, in: Jan Arend (ed.): Science and Empire in Eastern Europe. Imperial Russia and the Habsburg Monarchy in the 19th Century, Munich 2020, pp. 205-236
 
 ### Topic 4: Reporting War 1914 and 2024
 
