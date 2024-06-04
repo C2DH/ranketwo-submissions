@@ -49,10 +49,15 @@ Each online library has its advantages and disadvantages. It depends upon the pr
 The following list shows a small number of interesting online map libraries. There are many more, but we can start exploring here:
 
 [OldMapsOnline](https://www.oldmapsonline.org/)
+
 [David Rumsey Map Collection](https://www.davidrumsey.com/)
+
 [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/)
+
 [Arcanum Maps - The Historical Map Portal](https://maps.arcanum.com/en/)
+
 [Virtual Map Collection](http://chartae-antiquae.cz/en/)
+
 [Mapster](http://igrek.amzp.pl/)
 
 
