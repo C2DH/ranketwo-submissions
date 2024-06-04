@@ -153,13 +153,15 @@ The following two examples give insight into aspects of these cartographic debat
 
 Eugeniusz Romer (1871-1954) had produced maps during the First World War, which now served as cartographic templates for the Polish delegation maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert Isiah Bowman, increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in it’s borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
 
-Illustration 3.1: file “Population - Romer 1916 Atlas Polski - Nr-9-Polacy 1922 A188”
-E. Romer, Polski atlas kongresowy. Atlas des problèmes territoriaux de la Pologne, Warszawa / Lwów 1921.
+![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy 1922 A188”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Romer 1916 Atlas Polski")
+
+Illustration 3.1: E. Romer, Polski atlas kongresowy. Atlas des problèmes territoriaux de la Pologne, Warszawa / Lwów 1921.
+
 Pál Teleki (1879-1941), future Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
-Illustration 3.2: file “Population - Telecki_1920_Ethnogr-Map-Hungary_03”
+![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03 "Ethnographic map of Hungary based on population density")
 
-P. Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
+Illustration 3.2: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
 
 Compare both maps and answer the following questions:
 
