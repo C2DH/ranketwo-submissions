@@ -222,6 +222,8 @@ The example of the LiveUAmap is a multi-scale map. In a small scale it allows fo
 Assignment 4-1: Explore the sources of information that are located on LiveUAmap?
 Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by ISW! (file: „ISW 2024-03-11 Ukraine - Russian Offensive Campaign Assessment 11-March-2024“)
 
+![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+
 ### Topic 5: Datasets as Maps? Evaluating GIS-data about historical phenomena
 
 (Christian Lotz)
