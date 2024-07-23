@@ -41,53 +41,71 @@ Specifically, the lesson includes a series of assignments that explore different
 
 
 
-## Assignment 1 - Wikipedia and Historians
+## Assignment 1 - Why should historians be interested in Wikipedia? | 45 min
+
+The appearance of Wikipedia in 2001 caused discussions and debates among historians and scholars in the humanities and social sciences. For some scholars, Wikipedia brought a novel, web-based and crowdsourced model of historical knowledge production beyond the traditional academic historical writing based on research expertise and peer-review. Those scholars saw Wikipedia as an intellectual opportunity to redefine historical writing and adapt it to the needs and challenges of the digital age. Other scholars criticized Wikipedia for including low-quality and superficial information written by people without any scientific expertise, exploiting free labor to keep its content alive, having gender and race-related disparities in terms of community members and thematic coverage. In spite of these debates, historians seem, or ought to, embrace the use of Wikipedia in their research and teaching. This assignment proposes to consider Wikipedia in a historical perspective and introduce to its importance for historians.    
 
 ### 1.a Background information on Wikipedia
-In 2000, the US entrepreneur, Jimmy Wales, wanted to create an online encyclopedia similar to past encyclopedias like the Encyclopedia Britannica, in which knowledge production would be based on a system of review by experts in every field. Wales created Nupedia which went online in September 2000 (Salor 2012). However, Wales realized soon that the process of creating and editing articles in Nupedia demanded a lot of time, as the topic had to be studied professionally, so every article had to be sent to experts for review. During the first months of Nupedia, from September 2000 to the end of 2000, there were only twenty-one articles online (Rosenzweig 2011). After the creation of Nupedia, Jimmy Wales, and his colleagues became aware of the success of open-source software, so they decided to change the structure and the model of Nupedia and to create an encyclopedia based on the tools of sharing and openness. In January 2001, Jimmy Wales learned about a website, called WikiWikiWeb, which “allowed anyone to edit any page at any time,” while no special software was needed and no log-in or password was required, and the changes on a page were saved immediately (Lih 2009). The WikiWikiWeb software was developed by the programmer Ward Cunningham in the 1990s, which allowed anyone to create and edit a Web page (Rosenzweig 2009). 
+In 2000, the United States based entrepreneur, [Jimmy Wales](https://en.wikipedia.org/wiki/Jimmy_Wales), wanted to create an online [encyclopedia](https://en.wikipedia.org/wiki/Encyclopedia) similar to past encyclopedias like the [Encyclopedia Britannica](https://www.britannica.com/), in which knowledge production would be based on a system of review by experts in every field. Wales created [Nupedia](https://en.wikipedia.org/wiki/Nupedia) which went online in September 2000 (Salor 2012). However, Wales realized soon that the process of creating and editing articles in Nupedia demanded a lot of time, as the topic had to be studied professionally and sent to experts for review. At the same time, Jimmy Wales and his colleagues became aware of the success of open-source software that allowed collaborative work, so they decided to change the structure and the model of Nupedia and to create an encyclopedia based on the tools of sharing and openness. They turned to the [WikiWikiWeb](https://fr.wikipedia.org/wiki/WikiWikiWeb) software developed by the programmer Ward Cunningham in the 1990s, which allowed anyone to create, edit, and instantly save a Web page (Rosenzweig 2009; Lih 2009). The software also allowed collaborative editing. By mid-January 2001, Wales and his colleagues had followed that model and changed the encyclopedia’s name to Wikipedia. From a free and online encyclopedia of experts, Wikipedia transformed into an encyclopedia, in which “anyone could edit any page at any time” (Lih 2009). Soon, Wikipedia managed to create a new community of people, who actively engage with its contents. At the end of 2001, Wikipedia had 15,000 articles and 350 editors (Poe 2006).
 
-By mid-January 2001, Wales and his colleagues had followed that model and changed the encyclopedia’s name to Wikipedia. From a free and online encyclopedia of experts, Wikipedia transformed into an encyclopedia, in which “anyone could edit any page at any time” (Lih 2009). Soon, Wikipedia managed to surpass Nupedia and create a new community of people, who actively engage with its contents. In late January, Wikipedia had managed to have seventeen articles, in late February it had 150 articles, in March 572, in April 835, in May 1,300, in June 1,700, in July 2,400, and in August, 3,700. At the end of 2001, Wikipedia had 15,000 articles and 350 Wikipedia editors  (Poe 2006).
+To explore how a new encyclopedia model was born in the Internet era, please watch the following YouTube video: 
+
+> Justin Franco. “The History of Wikipedia (in two minutes).” YouTube Video, 02:47 minutes. 3 December 2009, [https://youtu.be/oVFPW0r4jWk](https://youtu.be/oVFPW0r4jWk). 
 
 To better understand how and why Wikipedia was created and what new characteristics it brought in terms of knowledge production, please watch the YouTube video below, in which you will find a presentation of Wikipedia by its founder, Jimmy Wales, from 2007.
 
-> "Jimmy Wales: how a ragtag band created Wikipedia." YouTube Video. 20:48 minutes 
+> "Jimmy Wales: how a ragtag band created Wikipedia." YouTube Video. 20:48 minutes [https://youtu.be/WQR0gx0QBZ4](https://youtu.be/WQR0gx0QBZ4).
+ 
 
-https://youtu.be/WQR0gx0QBZ4
+Once you have watched the videos, try to answer the following questions and discuss your answers with your fellow students:
+- How do you explain the transition from Nupedia to Wikipedia? Try to find at least three major reasons - hint: think in terms of technology used, economic model, copyright issues, practices of knowledge construction...
+- How and why has Wikipedia managed to become a self-regulated community consisting of millions of users, who constantly create and update its content?
+- Which characteristics of Wikipedia as presented in the video did you as historians find most interesting?
+- How do those characteristics affect historical knowledge production in the digital age?
 
-Once you have watched the YouTube video, try to answer the following questions:
-- How and why <!--more precisions have to be added here on what is wanted from the audience to find--> has Wikipedia managed to become a self-regulated community consisting of millions of users, who constantly create and update its content? 
-- Which characteristics of Wikipedia as presented in the video did you as historians find most interesting? 
-- How do those characteristics affect historical knowledge production in the digital age? 
 
-### 1.b Why should historians be interested in Wikipedia? 
+### 1.b Why does Wikipedia matter for historians? 
 In 2021, the American Historical Association published [a study on how the American public perceives and understands the past](https://www.historians.org/research-and-publications/perspectives-on-history/september-2021/a-snapshot-of-the-publics-views-on-history-national-poll-offers-valuable-insights-for-historians-and-advocates). The study was based on a national survey of 1,816 people and signified the most current overview of the public’s view on history. According to AHA’s study, 46% of respondents turn to Wikipedia to learn about history and acquire a historical understanding of the past. Wikipedia was ranked higher than other historical activities, such as “Historic site visit,” “Museum visit,” “Genealogy work,” “Social media,” “Podcast/radio program,” “History lecture,” and “History-related video game.” Almost half of the respondents argued that they use Wikipedia as a source of historical knowledge. These findings combined with the current appropriation of Wikipedia’s corpus by [ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and Wikipedia’s partnership with the most central search engine in the digital world, Google, and other digital assistants, such as [Siri](https://en.wikipedia.org/wiki/Siri) and [Alexa](https://en.wikipedia.org/wiki/Amazon_Alexa), make clear how crucial the role of Wikipedia is in how the public learns about history and makes sense of the past away front traditional academic and publishing venues. 
 
-Based on your personal experience with Wikipedia, please try to answer the following questions: 
-- How have you used Wikipedia so far?  
-- Have you ever used Wikipedia to answer historical questions? Did you manage to answer them?  
-- How can historians use Wikipedia? 
-- Can historians use Wikipedia for historical research? If yes, what historical questions can they answer?
+Based on your personal experience with Wikipedia, please try to answer the questions below. If you are in a class, you can discuss your answers with your fellow students:
 
-### 1.c Wikipedia as a source of historical knowledge
-Since the emergence of Wikipedia in 2001, several researchers have started examining the online encyclopedia. They studied Wikipedia from different perspectives, ranging from the accuracy of Wikipedia and how Wikipedia works to more recent works on how Wikipedia can become diverse and inclusive and the datafication of its content. However, most of those studies were written by scholars in media and communication studies, and information science. Historians were absent from this type of research. Any explanations why? As this lesson will show, Wikipedia constitutes a valuable resource of historical knowledge. Being familiar with how history is constructed on Wikipedia means that historians will be able to take advantage of the opportunities that Wikipedia’s content and data offer. Historians can use Wikipedia as a historical source to better understand what stories about the past Wikipedia articles tell, how these stories are shaped, discussed, and produced in the digital age, and by whom. By doing that, historians will be able to discern what Wikipedia articles reveal about history-making in the digital age, and, therefore, they will open up new inquiries and approaches to historical research. 
+- Have you used Wikipedia so far? If yes, try to formulate clearly what kind of use you made, for example: to share your knowledge on a particular topic, to look for an information, to use available data…  
+- Have you ever used Wikipedia while working on historical questions? 
+  - Why did you choose Wikipedia?
+  - Did you manage to answer the questions?
+  - Were there particular parts of the article that were more useful than others?
+  - Did you check the sources?
+  - Did you combine use of Wikipedia with use of other sources of knowledge?
+  - Did you encounter mistakes? 
 
-The assignments below allow historians to experiment with multiple potential uses of Wikipedia as a source of historical knowledge through the lenses of digital source criticism. Wikipedia articles constitute born-digital sources published on the web, to which historians can ask questions related to digital source criticism, e.g., how are Wikipedia articles related to history created and by whom? How do Wikipedia articles change over time? how do Wikipedia editors discuss a historical topic while they update or create a Wikipedia article? What historical questions can historians answer by using Wikipedia articles?
+
+Now watch this video where the US historian [Jim Grossman](https://www.historians.org/person/jim-grossman/) evokes different possible uses of Wikipedia by historians: 
+
+Intelligent Channel. [“Wikipedia, history, and historians - Jim Grossman in INT's ENLIGHTENMENT MINUTES”.](https://youtu.be/S-Yj7V6d54Q) YouTube video. 4:32 min.   
+
+Then, also based on your knowledge about Wikipedia and your personal experiences, try to answer and discuss the following questions:
+- In what ways can historians use Wikipedia? 
+- Can historians use Wikipedia for historical research? If yes, can you imagine what historical questions can they can answer? 
+
 
 ### Reading/viewing suggestions 
 
+Apostolopoulos, Petros. *Discussing the Past: The Production of Historical Knowledge on Wikipedia*. (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapter 1)
+
+Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia) (Chapter 2)
+
+Rosenzweig, Roy. "Can History Be Open Source?". *The Journal of American History* 93 (1) (June 2006): 117-46 [https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/](https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/)
+
 *On the creation of Wikipedia, the aborted project of Nupedia and the importance of the wiki technology:*
 
-Justin Franco. “The History of Wikipedia (in two minutes).” YouTube Video, 02:47 minutes. 3 December 2009, https://youtu.be/oVFPW0r4jWk
+Franco, Justin. “The History of Wikipedia (in two minutes).” YouTube Video, 02:47 minutes. 3 December 2009, https://youtu.be/oVFPW0r4jWk
 
-*On the reliability, verifiability and Wikipedia  community engagement in fact-checking:* 
+*On the reliability, verifiability and Wikipedia community engagement in fact-checking:* 
 
 Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube Video, 03:45 minutes. 22 December 2016, https://youtu.be/xQ4ba28-oGs 
 
-Apostolopoulos, Petros. *Discussing the Past: The Production of Historical Knowledge on Wikipedia*. (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapter 1)
+Hocquet, Alexandre. "No, Wikipedia didn’t get Oscar-winning actress Olivia Colman’s birthdate wrong". *The Conversation*. 14 February 2019. [https://theconversation.com/no-wikipedia-didnt-get-oscar-winning-actress-olivia-colmans-birthdate-wrong-111848](https://theconversation.com/no-wikipedia-didnt-get-oscar-winning-actress-olivia-colmans-birthdate-wrong-111848)
 
-Cummings, Robert E. “The First Twenty Years of Teaching with Wikipedia: From Faculty Enemy to Faculty Enabler.” In _Wikipedia @20. Stories of an Incomplete Revolution_, edited by Joseph Reagle and Jackie Koerner. Massachusetts: MIT Press 2020.[https://wikipedia20.pubpub.org/pub/0e9c3f8e/release/1](https://wikipedia20.pubpub.org/pub/0e9c3f8e/release/1) 
-
-Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. (Chapter 2)
 
 **Bibliography used by the author**
 
