@@ -126,10 +126,10 @@ Wikipedia articles constitute born-digital sources that contain historically sti
 
 Since its foundation, Wikipedia has managed to become a self-regulated community and a public space where people can discuss, create, and edit historical articles. The digital structure of Wikipedia including its policies, guidelines, hierarchy, and sub-communities encourages dynamic, albeit multilayered, participation of its editors and an active engagement with the production of historical knowledge. The following subassignments investigate Wikipedia’s infrastructure, policies and guidelines, the “talk pages” where Wikipedians take part in discussions and debates about history, the editing changes of Wikipedia articles, and finally, the perception of History, as a field of knowledge, by Wikipedia.
 
-### 2.a General policies and guidelines | 20 Min
+### 2.a General policies and guidelines | 30 Min
 To explore the opportunities that Wikipedia offers for historical research, we should first understand how Wikipedia works. Even though Wikipedia promotes the idea that “anyone can edit nearly any page and improve articles immediately,” it includes a system of rules, policies, and guidelines that determine the production of knowledge and Wikipedia users’ engagement with its contents. As mentioned above, Wikipedia as an encyclopedia includes subjects ranging from mathematics and biology to sports, culture, and the arts. Although all guidelines and policies of Wikipedia are common for all its subjects, there are particular modifications and rules for each subject. This assignment aims to make participants explore the broader system of the Wikipedia community but, at the same time, focus on history as a content subject category of Wikipedia. 
 
-Please visit the following Wikipedia pages that contain specific information on Wikipedia’s policies, guidelines, and rules, which determine how knowledge is produced on Wikipedia and how users can engage with its contents. 
+Please visit the following Wikipedia pages that contain specific information on Wikipedia’s policies, guidelines, and rules, which determine how knowledge is produced on Wikipedia. 
 
 - You can first check [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta). These will give you a quick view of the main principles that guide editing on Wikipedia. 
 - For a more detailed view, you can then check the so-called [five pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars), alias the more detailed principles that form the basis of the editorial policy of Wikipedia. 
@@ -138,24 +138,10 @@ Please visit the following Wikipedia pages that contain specific information on 
 Now, try to answer and discuss the following questions: 
 - What are the most important principles and policies of Wikipedia?
 - Which policies and guidelines encourage Wikipedia users to engage with its content?
-- Why does this system of policies and guidelines not prevent users from editing and instead it motivates them to create or update more and more Wikipedia articles? 
+- Why does this system of policies and guidelines not prevent users from editing and instead it motivates them to create or update more and more Wikipedia articles?
 
-
-The principles you just examined provide the basis for a set of specific instructions that guide the authors of Wikipedia to develop content: these are the Wikipedia guidelines. 
-- Check the general framework of the [policies for developing content](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines#%C2%ADContent) 
-- Read the [guidelines of Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines).
-
-Then answer the following questions:
-
-
-
-Finally, read the detailed [explanations for sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources). Wikipedia creators attach great importance to information reliability and content quality.  
-
-
-Now, after also reflecting on your previous readings - or discussing with your class comrades, if you have the possibility - try to answer the following question: 
-
-- How do the policies and guidelines of Wikipedia shape the production of historical knowledge on Wikipedia? 
-
+As historians do, Wikipedians use sources to create and update Wikipedia articles. Wikipedia provides a comprehensive [summary of what sources Wikipedians can use](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources). Please read the introduction and [overview](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources#Overview) sections of the article and try to answer the following question:
+- What characteristics should the sources that Wikipedians can use have?
 
 ### 2.b Talk pages and revision history | 30 to 40 Min 
 Besides the policies and guidelines that define knowledge production on Wikipedia, every Wikipedia article page has two tabs, the “talk page” or discussion page and the “view history” tab (fig. 1). You can access these pages from the main menu that you see under the title of the article. 
