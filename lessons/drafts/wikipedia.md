@@ -174,10 +174,10 @@ Then, try to answer the following questions:
 - How can “talk pages” and “view history” portals of Wikipedia articles be useful for historians?
 - What historical questions can the data from “talk pages” and “view history” answer?
 
-<!-- If 2B is realized with viewing the videos rather than reading the lengthy pages for talk and history, then 30 minutes are sufficient to execute this part of the lesson -->
+<!-- If 2b is realized with viewing the videos rather than reading the lengthy pages for talk and history, then 30 minutes are sufficient to execute this part of the lesson -->
 
 ### 2.c History on Wikipedia
-As Wikipedia covers multiple subjects, it has created separate portals for each subject it covers. In these portals, there are definitions of the subject and further information on the different subfields and categories of the subject. Apart from its general guidelines and policies, Wikipedia has also established more specific instructions about the coverage of each subject. History constitutes one of Wikipedia's subjects, and, therefore, it has its own portal and is subject to specific rules of writing. For example, Wikipedia specifies the types of sources that Wikipedia editors are allowed to use for the coverage of historical topics.
+As Wikipedia covers multiple subjects, it has created separate portals for each subject it covers. In these portals, there are definitions of the subject and further information on the different subfields and categories of the subject. Apart from its general guidelines and policies,the community of Wikipedia has also established more specific instructions about the coverage of each subject. History constitutes one of Wikipedia's subjects, and, therefore, it has its own portal and is subject to specific rules of writing. For example, Wikipedia specifies the types of sources that Wikipedia editors are allowed to use for the coverage of historical topics.
 
 To learn more about the subject of history on Wikipedia, please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and explore the following aspects: 
 - the definition of history the page provides 
@@ -186,29 +186,42 @@ To learn more about the subject of history on Wikipedia, please go to the [homep
 Now, try to answer the following questions:
 
 - How does Wikipedia seem to perceive history? 
-- In what ways is this perception similar or different from definitions provided by [academic historians](https://www.historytoday.com/archive/head-head/what-history) or by a [large public audience](https://www.historians.org/research-and-publications/history-the-past-and-public-culture-results-from-a-national-survey/1-how-does-the-public-define-history)?
-- Based on your personal experience, how do you navigate Wikipedia's content? How do you find a Wikipedia article that you are looking for?
+- In what ways is this perception similar or different from definitions provided by academic historians?
 
-### 2.d Sources of History according to Wikipedia
+If necessary, you can find in the Reading/viewing suggestions section below some resources with various academic definitions of what history is. 
+
+
+### 2.d Sources of History according to Wikipedia | 40 Min
 To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g., written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics, and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources into the broader historical context of the period. By combining primary with secondary sources, historians write and tell a story about the past.
 
-Please read this [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
+Please read this [page of Wikipedia specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
 
 Then, try to answer the following questions:
 
 - What sources can Wikipedia editors use to create or edit pages related to history? 
 - Are the sources that Wikipedia recommends different from the sources that academic historians use?
 
+<!-- The time was estimated as follows: 25 minutes for reading plus 15 minutes for answering/discussing the questions--> 
+
 ### Reading/viewing suggestions 
 
-**On the notion of sources in history, in case you need help with the sub-assignment 2.d**
-"Beginner’s guide to historical research". In Mulrennan Kirsten and Rachel Murphy. Opening a window to the past: Researching archival diaries. University of Limerick Special Collections and Archives Department website (https://specialcollections.ul.ie/research-diaries/) (Date accessed: 6 February 2024). [URL](https://specialcollections.ul.ie/beginners-guide-history/)
+**On academic historical research**
 
-Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 October 2018. https://youtu.be/gkdzu8X84fo 
+Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxford: Princeton University Press, 2021
+
+*On definitions of history by academic historians, in case you need help with the sub-assignment 2.c*
+
+Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 October 2018. [https://youtu.be/gkdzu8X84fo](https://youtu.be/gkdzu8X84fo)  
+
+"Zachary Schrag on History". YouTube Video. 40:44 minutes. 27 April 2021. Extract from 1:40 to 7:23: "History as the study of people" [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s)
 
 "What is History?". *History Today* 70(8), August 2020 https://www.historytoday.com/archive/head-head/what-history 
 
-Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxford: Princeton University Press, 2021
+*On the notion of sources in history, in case you need help with the sub-assignment 2.d*
+
+"Primary and secondary sources explained". *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/)
+
+
 
 **On Wikipedia infrastructure**
 
