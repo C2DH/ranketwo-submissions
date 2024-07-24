@@ -90,7 +90,7 @@ Then, also based on your knowledge about Wikipedia and your personal experiences
 
 ### Reading/viewing suggestions 
 
-Apostolopoulos, Petros. *Discussing the Past: The Production of Historical Knowledge on Wikipedia*. (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapter 1)
+Apostolopoulos, Petros. *Discussing the Past: The Production of Historical Knowledge on Wikipedia*. (Ph.D., Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6). (Chapter 1)
 
 Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia) (Chapter 2)
 
@@ -115,15 +115,16 @@ Lih, Andrew. *The Wikipedia Revolution. How a bunch of Nobodies Created the Worl
 
 Poe, Marshall. “The Hive,” *The Atlantic*, September 2006 Issue, accessed January 29, 2024, https://www.theatlantic.com/magazine/archive/2006/09/the-hive/305118/ 
 
-
 Rosenzweig, Roy. *Clio Wired: The Future of the Past in the Digital Age* (New York: Columbia University Press, 2011, 65, 119 
 
 Salor, Fethi Erinç. *Sum of all Knowledge: Wikipedia and the Encyclopedic Urge* (Ph.D. diss., University of Amsterdam, 2012), 93
 
 
-## Assignment 2 - Exploring Wikipedia’s infrastructure
+## Assignment 2 - Exploring Wikipedia’s infrastructure and policies 
 
-Since its foundation, Wikipedia has managed to become a self-regulated community and a public space where people can discuss, create, and edit historical articles. The digital structure of Wikipedia including its policies, guidelines, hierarchy, and sub-communities encourages dynamic participation in Wikipedia and an active engagement with the production of historical knowledge. At the same time, Wikipedia creates a multilayered system of bureaucracy and surveillance that does not allow all users to have the same power within the Wikipedia community and, thus, determine the production of historical knowledge in the same way. In the subsections below, we will investigate Wikipedia’s infrastructure by going over the policies and guidelines of Wikipedia, the “talk pages” where Wikipedians take part in discussions and debates about history, the editing changes of Wikipedia articles, and finally, the perception of History, as a field of knowledge, by Wikipedia.
+Wikipedia articles constitute born-digital sources that contain historically stimulating information about how Wikipedia users perceive the past, how they interpret it based on the present, and how they transform the past into Wikipedia articles. These types of historical information can be extracted from the main content of Wikipedia but also from the discussions and debates between Wikipedia users, which take place “behind the scenes,” in the “talk pages” of articles. Thus, historians who work with Wikipeda must be familiar with both the specificities of its infrastructure and the policies governing the (historical) knowledge production in Wikipedia, to be able to contextualize the information they retrieve.  
+
+Since its foundation, Wikipedia has managed to become a self-regulated community and a public space where people can discuss, create, and edit historical articles. The digital structure of Wikipedia including its policies, guidelines, hierarchy, and sub-communities encourages dynamic, albeit multilayered, participation of its editors and an active engagement with the production of historical knowledge. The following subassignments investigate Wikipedia’s infrastructure, policies and guidelines, the “talk pages” where Wikipedians take part in discussions and debates about history, the editing changes of Wikipedia articles, and finally, the perception of History, as a field of knowledge, by Wikipedia.
 
 ### 2.a General policies and guidelines | 20 Min
 To explore the opportunities that Wikipedia offers for historical research, we should first understand how Wikipedia works. Even though Wikipedia promotes the idea that “anyone can edit nearly any page and improve articles immediately,” it includes a system of rules, policies, and guidelines that determine the production of knowledge and Wikipedia users’ engagement with its contents. As mentioned above, Wikipedia as an encyclopedia includes subjects ranging from mathematics and biology to sports, culture, and the arts. Although all guidelines and policies of Wikipedia are common for all its subjects, there are particular modifications and rules for each subject. This assignment aims to make participants explore the broader system of the Wikipedia community but, at the same time, focus on history as a content subject category of Wikipedia. 
@@ -203,7 +204,14 @@ Then, try to answer the following questions:
 
 <!-- The time was estimated as follows: 25 minutes for reading plus 15 minutes for answering/discussing the questions--> 
 
-### Reading/viewing suggestions 
+### Reading/viewing suggestions
+
+**On Wikipedia infrastructure**
+
+Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (Ph.D., Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6). (Chapter 1)
+
+Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia) (Chapters 3, 4, 6 & Conclusion)
+
 
 **On academic historical research**
 
@@ -220,18 +228,6 @@ Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 Octob
 *On the notion of sources in history, in case you need help with the sub-assignment 2.d*
 
 "Primary and secondary sources explained". *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/)
-
-
-
-**On Wikipedia infrastructure**
-
-Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (Ph.D., Raleigh, N.C., North Carolina State University, 2022), https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6. (Chapter 1)
-
-Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in the Digital Age_. Cambridge, Massachusetts and London, England: MIT Press, 2022. (Chapter 1)
-
-Jemielniak, Dariusz. _Common Knowledge? An Ethnography of Wikipedia_. Stanford: Stanford University Press, 2014.
-
-Reagle, Joseph. _Good Faith Collaboration: The Culture of Wikipedia_. Massachusetts: The MIT Press, 2010. (Chapters 3, 4, 6 & Conclusion)
 
 
 ## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative
