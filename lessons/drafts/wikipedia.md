@@ -163,7 +163,7 @@ Then, try to answer the following questions:
 
 <!-- If 2b is realized with viewing the videos rather than reading the lengthy pages for talk and history, then 30 minutes are sufficient to execute this part of the lesson -->
 
-### 2.c History on Wikipedia
+### 2.c History on Wikipedia | 15 Min
 As Wikipedia covers multiple subjects, it has created separate portals for each subject it covers. In these portals, there are definitions of the subject and further information on the different subfields and categories of the subject. Apart from its general guidelines and policies,the community of Wikipedia has also established more specific instructions about the coverage of each subject. History constitutes one of Wikipedia's subjects, and, therefore, it has its own portal and is subject to specific rules of writing. For example, Wikipedia specifies the types of sources that Wikipedia editors are allowed to use for the coverage of historical topics.
 
 To learn more about the subject of history on Wikipedia, please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and explore the following aspects: 
@@ -198,6 +198,9 @@ Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Kno
 
 Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia) (Chapters 3, 4, 6 & Conclusion)
 
+Kumar, Shivam. "How Wikipedia Is Served to You: A Complex Web of Open Source and Caching". *Medium Stackademic*. 20 October 2023 (4 Min reading)
+[https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce](https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce)
+
 
 **On academic historical research**
 
@@ -216,15 +219,21 @@ Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 Octob
 "Primary and secondary sources explained". *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/)
 
 
-## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative
+## Assignment 3 - Writing on Wikipedia: Structure and Historical Narrative 
 
-Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users and each article has a different structure, e.g., (chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements, (e.g., graphs, videos, images, sounds), and bibliographical references. As you have a better understanding of how Wikipedia works and its main policies and guidelines for the production of historical knowledge, let’s look at the historical narrative of a Wikipedia article. First, read the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks), and, while you read it, please pay attention to the following elements: 
+Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users, so each article has a different structure based on various combinations of standardized sections (e.g., chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements (e.g., graphs, videos, images, sounds), and bibliographical references. Now, as you have a better understanding of how Wikipedia works, let’s look at the historical narrative of a Wikipedia article.
 
-- how the historical narrative of the Wikipedia article is structured and how it differs from traditional historical narratives. 
+> You can reproduce the proposed exercice with an article on the historical event of your choice and in the language you are more confortable with.
 
-- the visual and audio materials that are part of the article's narrative.
+### 3.a Deconstructing a Wikipedian narrative on a historical event | 60 Min   
 
-- the bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
+Browse the article on the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks) of the English edition of Wikipedia, and please focus on the following elements: 
+
+- How the historical narrative of the Wikipedia article is structured and how it differs from traditional historical narratives that you can find in a book or in an article. 
+
+- The visual and audio materials that are part of the article's narrative. Please pay particular attention to the terms and conditions of use of these elements. 
+
+- The bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
 
 Then, think critically and try to answer the following questions:
 
@@ -232,7 +241,11 @@ Then, think critically and try to answer the following questions:
 - What kind of visual and audio materials (e.g., graphs, videos, images, sounds, etc.) does the Wikipedia article include? How do those materials affect the historical narrative of the article?
 - How do hyperlinks work and how do they affect the way a potential user reads and understands the article?
 - How would you characterize the types of works that Wikipedia users cite in the article? Do they use academic works, journalistic, or any other types? Are the cited works available online?
-- Do you detect any similarities or differences with the way traditional historians organize their historical narratives in academic books or articles?
+- Do you detect any similarities or differences between the bibliographical references used in a Wikipedia article and the references used in academic books or articles?
+
+### Reading/viewing suggestions
+
+Brown, Jeremy and Benedicte Melanie Olsen. "Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History". *Perspectives on History* April 1, 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/)
 
 
 ## Assignment 4 - Behind the Scenes of Wikipedia Articles
