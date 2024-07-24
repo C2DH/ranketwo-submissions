@@ -181,8 +181,7 @@ As Wikipedia covers multiple subjects, it has created separate portals for each 
 
 To learn more about the subject of history on Wikipedia, please go to the [homepage of the portal dedicated to history](https://en.wikipedia.org/wiki/Portal:History) and explore the following aspects: 
 - the definition of history the page provides 
-- the ways you can access the contents via this page (featured articles and pictures, commemorations, quotes, categories, etc.)
-- the lists of associated elements
+- the different sections of the page
 
 Now, try to answer the following questions:
 
@@ -191,9 +190,9 @@ Now, try to answer the following questions:
 - Based on your personal experience, how do you navigate Wikipedia's content? How do you find a Wikipedia article that you are looking for?
 
 ### 2.d Sources of History according to Wikipedia
-To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g., written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics, and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources into the broader historical context of the period. By combining primary with secondary sources, historians write a story about the past.
+To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g., written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics, and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources into the broader historical context of the period. By combining primary with secondary sources, historians write and tell a story about the past.
 
-Please read the [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
+Please read this [page specifying the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History).
 
 Then, try to answer the following questions:
 
