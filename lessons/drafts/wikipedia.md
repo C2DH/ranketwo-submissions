@@ -123,18 +123,22 @@ Salor, Fethi Erinç. *Sum of all Knowledge: Wikipedia and the Encyclopedic Urge*
 
 ## Assignment 2 - Exploring Wikipedia’s infrastructure
 
-Since its foundation, Wikipedia has managed to become a self-regulated community and a public space where people can discuss, create, and edit historical articles. The digital structure of Wikipedia including its policies, guidelines, hierarchy, and sub-communities encourages dynamic participation in Wikipedia and an active engagement with the production of historical knowledge. At the same time, Wikipedia creates a multilayered system of bureaucracy and surveillance that does not allow all users to have the same power within the Wikipedia community and, thus, determine the production of historical knowledge in the same way. In the subsections below, we will investigate Wikipedia’s infrastructure by going over the policies and guidelines of Wikipedia, the “talk pages” where Wikipedians take part in discussions and debates about history, the editing changes of Wikipedia articles, and finally, the perception of History, as a field of knowledge, by Wikipedia
+Since its foundation, Wikipedia has managed to become a self-regulated community and a public space where people can discuss, create, and edit historical articles. The digital structure of Wikipedia including its policies, guidelines, hierarchy, and sub-communities encourages dynamic participation in Wikipedia and an active engagement with the production of historical knowledge. At the same time, Wikipedia creates a multilayered system of bureaucracy and surveillance that does not allow all users to have the same power within the Wikipedia community and, thus, determine the production of historical knowledge in the same way. In the subsections below, we will investigate Wikipedia’s infrastructure by going over the policies and guidelines of Wikipedia, the “talk pages” where Wikipedians take part in discussions and debates about history, the editing changes of Wikipedia articles, and finally, the perception of History, as a field of knowledge, by Wikipedia.
 
-### 2.a General policies and guidelines
-To explore the opportunities that Wikipedia offers for historical research, we should first understand how Wikipedia works. Even though Wikipedia promotes the idea that “anyone can edit nearly any page and improve articles immediately,” it includes a system of rules, policies, and guidelines that determine the production of knowledge and Wikipedia users’ engagement with its contents. Wikipedia as an encyclopedia includes subjects ranging from mathematics and biology to sports, culture, and the arts. Even though all guidelines and policies of Wikipedia are common for all its subjects, there are particular modifications and rules for each subject. This lesson aims to make participants explore the broader system of the Wikipedia community but, at the same time, focus on history as a content subject category of Wikipedia. In that way, participants will identify the guidelines that Wikipedia has established for the collection and dissemination of historical knowledge and understand how Wikipedia manages to motivate its users to create or edit Wikipedia pages.
+### 2.a General policies and guidelines | 20 Min
+To explore the opportunities that Wikipedia offers for historical research, we should first understand how Wikipedia works. Even though Wikipedia promotes the idea that “anyone can edit nearly any page and improve articles immediately,” it includes a system of rules, policies, and guidelines that determine the production of knowledge and Wikipedia users’ engagement with its contents. As mentioned above, Wikipedia as an encyclopedia includes subjects ranging from mathematics and biology to sports, culture, and the arts. Although all guidelines and policies of Wikipedia are common for all its subjects, there are particular modifications and rules for each subject. This assignment aims to make participants explore the broader system of the Wikipedia community but, at the same time, focus on history as a content subject category of Wikipedia. 
 
 Please visit the following Wikipedia pages that contain specific information on Wikipedia’s policies, guidelines, and rules, which determine how knowledge is produced on Wikipedia and how users can engage with its contents. 
 
-- You can first check [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta). These will give you a quick view of the main principles of Wikipedia. 
+- You can first check [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta). These will give you a quick view of the main principles that guide editing on Wikipedia. 
 - For a more detailed view, you can then check the so-called [five pillars](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars), alias the more detailed principles that form the basis of the editorial policy of Wikipedia. 
-- If you wish to go further, you can also read the [statement of principles from Wikipedia founder Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles) - however, this reading is not necessary to do the exercise.
+- If you wish to go further, you can also read the [statement of principles from Wikipedia founder Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles) - however, this reading is not necessary for the exercise.
 
-Now, try to answer the following question: what are the most important principles and policies of Wikipedia? 
+Now, try to answer and discuss the following questions: 
+- What are the most important principles and policies of Wikipedia?
+- Which policies and guidelines encourage Wikipedia users to engage with its content?
+- Why does this system of policies and guidelines not prevent users from editing and instead it motivates them to create or update more and more Wikipedia articles? 
+
 
 The principles you just examined provide the basis for a set of specific instructions that guide the authors of Wikipedia to develop content: these are the Wikipedia guidelines. 
 - Check the general framework of the [policies for developing content](https://en.wikipedia.org/wiki/Wikipedia:Policies_and_guidelines#%C2%ADContent) 
@@ -142,8 +146,7 @@ The principles you just examined provide the basis for a set of specific instruc
 
 Then answer the following questions:
 
-- Which policies encourage Wikipedia users to engage with its content?
-- Why does this system of rules, policies, and guidelines not prevent users from editing and instead it motivates them to create or update more and more Wikipedia articles? 
+
 
 Finally, read the detailed [explanations for sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources). Wikipedia creators attach great importance to information reliability and content quality.  
 
@@ -153,18 +156,18 @@ Now, after also reflecting on your previous readings - or discussing with your c
 - How do the policies and guidelines of Wikipedia shape the production of historical knowledge on Wikipedia? 
 
 
-### 2.b Talk pages and revision history 
-Besides the policies and guidelines that define knowledge production on Wikipedia, every Wikipedia article has two portals, the “talk page” or discussion page and the “view history” portal. You can access these from the main menu that you see under the title of the article. 
+### 2.b Talk pages and revision history | 30 to 40 Min 
+Besides the policies and guidelines that define knowledge production on Wikipedia, every Wikipedia article page has two tabs, the “talk page” or discussion page and the “view history” tab (fig. 1). You can access these pages from the main menu that you see under the title of the article. 
 
 ![How to access "talk" and "view history" pages of a Wikipedia article](/assets/images/wikipedia/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
 
-In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users often question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional internal source criticism to identify how a source was created and by whom. 
+In the “talk page,” users can find all the archived discussions about all the edits that the given entry suffered through time. The “talk” area also shows all the discussions and debates between Wikipedia users about the entries. The users often question statements cited on the Wikipedia page expressing their disagreements and suggestions for the page. Other users then correspond, and the “talk” page becomes a discussion page. The “view history” page includes the logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional source criticism to identify how a source is created and by whom. 
 
-In the two links below, you will find more information provided by Wikipedia on the “talk pages” and “view history,” please read the content of the two articles: 
+In the two links below, you will find more information on the “talk pages” and “view history”. Please read the content of the two articles: 
 
-[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages) - alternatively, you can watch a two minutes video provided on the page.  
+[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages) (estimated time of reading: 10 minutes) - alternatively, you can watch [a two minutes video: "Wikipedia basics - Talk pages"](https://en.wikipedia.org/wiki/File:Wikipedia_basics_-_Talk_pages.ogv) provided on the page.  
 
-[“View history”](https://en.wikipedia.org/wiki/Help:Page_history) - alternatively, you can watch a nine-minute video provided on the page. 
+[“View history”](https://en.wikipedia.org/wiki/Help:Page_history) (estimated time of reading: 12 minutes) - alternatively, you can watch [a nine-minute video: "Using the view history tab on Wikipedia"](https://en.wikipedia.org/wiki/File:Using_the_view_history_tab_on_Wikipedia.webm) provided on the page. 
 
 Then, try to answer the following questions:
 
