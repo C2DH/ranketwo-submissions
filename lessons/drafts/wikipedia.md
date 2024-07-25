@@ -23,7 +23,7 @@ permalink: /u/wikipedia-as-historical-source/
 audience: 
 components:
   small: animation
-  medium: animation + 4 assignments
+  medium: animation + 5 assignments
 cover:
   url: 
 order: 
@@ -33,12 +33,11 @@ og:
 
 ## Introduction 
 
-The purpose of this lesson is to teach historians how they can use Wikipedia as a source for historical research. Wikipedia constitutes a digital resource of historical knowledge with its own infrastructure, technology, policies, and guidelines. This lesson aims to familiarize historians with the production of (historical) knowledge on Wikipedia, which in turn will allow them to use Wikipedia to answer their own research questions. 
+Wikipedia is a free, openly accessible online encyclopedia, which is written and edited collaboratively by a global community of volunteers, the Wikipedians. It is available in 331 languages, as of July 2024, and covers a wide range of topics. Wikipedia constitutes a digital resource of knowledge, including historical knowledge, with its own infrastructure, technology, policies, guidelines, and a community of people, who constantly review and update its contents. 
 
-The lesson focuses on the main content of Wikipedia but it also looks “behind the scenes,” at the discussions and debates between Wikipedia users. The online discussions include stimulating information about how Wikipedia users perceive the past (memories, emotions, personal connections), engage with history, and try to transform the past into Wikipedia articles. At the same time, the discussions reveal how Wikipedia users try to comply with the guidelines and rules of Wikipedia and how they get involved in debates about how history should be represented in the main article. By examining Wikipedia’s infrastructure and content, the lesson invites participants to experiment with digital source criticism and think about potential uses of Wikipedia in historical inquiries. 
- 
-Specifically, the lesson includes a series of assignments that explore different aspects of historical knowledge production on Wikipedia. The first part investigates the historical value of Wikipedia and invites participants to think about how they can use Wikipedia for historical research and what historical questions they can answer. The second part guides participants through the system of Wikipedia consisting of multiple guidelines and rules that shape the production of history on Wikipedia. The third one allows participants to investigate the main content of Wikipedia articles related to history and the fourth one asks participants to dive into the discussions and debates that take place behind the creation of a Wikipedia page. The final part focuses on two different language editions of Wikipedia, the English and the French language Wikipedia, and asks participants to detect similarities and differences in how a historical event is presented and displayed across different language editions.
+The launch of Wikipedia in 2001 and the generalization of its use stirred debates among historians: the web-based, crowdsourced model of knowledge production, including historical knowledge, challenged the traditional academic writing based on research expertise and peer review. Some scholars saw Wikipedia as an intellectual opportunity to redefine historical writing in the digital age; others criticized the lack of academic authority, the community engagement in form of free labour, or even the gender and race-related disparities in terms of community members and thematic coverage. The debates remain open, but nowadays historians use Wikipedia in various ways. They can use it as platform for public history, to communicate their historical knowledge to a broader non-academic public by creating/editing Wikipedia articles, and sharing authority with other Wikipedians. Digital historians use the open Wikipedia data to apply computational methods of analysis on various historical problems. But besides the methodological approach, Wikipedia articles constitute born-digital sources that contain historically stimulating information about how Wikipedia users perceive, interpret and transform the past into Wikipedia articles. These types of historical information can be extracted from the main content of Wikipedia but also from the discussions and debates between Wikipedia users, which take place “behind the scenes,” in the “talk pages” of articles. 
 
+This lesson does not focus on the academic debates about Wikipedia. Instead, it invites historians to adapt their critical approach to the specific born-digital source Wikipedia constitutes for historical research. More specifically, it suggests ways to examine Wikipedia’s infrastructure and content to apply digital source criticism and think about potential uses of Wikipedia in historical inquiries. The lesson proposes a short introductive video animation and a set of five assignments. No specific technical skills are required to exécute the assignments, the only requirements being an internet connexion and, ideally, knowledge of a second language (in addition to knowledge of the English) to adapt the fifth assignment that is based on knowledge of the English and French languages. 
 
 
 ## Assignment 1 - Why should historians be interested in Wikipedia? 
@@ -273,8 +272,8 @@ Then, try to answer the following questions:
 - How do Wikipedia users involved in discussions and debates try to reach a consensus?
 - Can you notice changes in the topics raised over time? What does this reveal in your opinion for the perception/reception of the subject of the article? 
 
-### 4.b Narratives in constant motion
-The ways historians interrogate and write about the past can change over time. One of the foundations of the historical research is to establish the state of the art of historiography on a given topic, examine its evolution and determine the point it stands. The same happens with Wikipedia narratives. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. 
+### 4.b Historical narratives in constant motion
+The ways historians interrogate and write about the past can change over time. One of the foundations of the historical research is to establish the state of the art of historiography on a given topic, examine its evolution and determine the point it stands. Wikipedia narratives change too, and historians need to assess them critically. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. 
 
 Please click on the two links below, which contain the most recent editing changes to the article and the editors who made those changes. 
 
