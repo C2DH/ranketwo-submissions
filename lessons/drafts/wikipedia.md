@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as Historical Source"
+title: "Wikipedia as Source of Historical Knowledge. Suggestions for Applying Digital Source Criticism"
 layout: unit
 date: 2024-02-06
 publication_date: 
@@ -15,7 +15,8 @@ authors:
 editors: 
   - sofia-papastamkou
 reviewers:
-- marijke-huisman
+ - marijke-huisman
+ - alexandre-hocquet
 lang: en
 unit_id: wikipedia-as-historical-source
 link: /u/wikipedia-as-historical-source/
