@@ -223,7 +223,7 @@ Then & Now. "What is History? E.H. Carr". YouTube Video. 09:54 minutes. 10 Octob
 
 Wikipedia articles include historical narratives about the past. In other words, Wikipedia articles tell a story about the past. The stories are the result of collaborative writing between Wikipedia users, so each article has a different structure based on various combinations of standardized sections (e.g., chapters, sections, infoboxes, hyperlinks), includes different visual and audio elements (e.g., graphs, videos, images, sounds), and bibliographical references. Now, as you have a better understanding of how Wikipedia works, let’s look at the historical narrative of a Wikipedia article.
 
-> You can reproduce the proposed exercice with an article on the historical event of your choice and in the language you are more confortable with.
+> You can reproduce the proposed exercice with an article on the historical event, personnality or phenomenon of your choice and in the language you are more confortable with. Examples may include, without being limited to, the Haitian revolution, the Arab Spring, the Silk Road, Cleopatra, feminism, slavery...   
 
 ### 3.a Deconstructing a Wikipedian narrative on a historical event | 60 Min   
 
@@ -250,16 +250,18 @@ Brown, Jeremy and Benedicte Melanie Olsen. "Teaching Tiananmen: Using Wikipedia 
 
 ## Assignment 4 - Behind the Scenes of Wikipedia Articles
 
-Many people visit Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are products of long debates, conflicts, collaborations, discussions, and consensus between different Wikipedia editors. Wikipedia provides us the opportunity to look “behind the scenes” and explore how Wikipedia articles take shape and change over time. The “talk page” and “view history” portals of Wikipedia reveal the discussions between users on each entry and the logs of all the changes and copies of older versions of the article. Both portals include significant data for historical research. As Wikipedia users get involved with the creation and editing of articles, they participate in discussions and debates, which provide useful data about how Wikipedians perceive the past, what historical arguments they make, how they try to reach a consensus, etc. In the "view history" portal, there is also data on how the historical narrative of a Wikipedia article changes over time. In this part of the lesson, we will investigate what happens “behind the scenes” of a Wikipedia article by unveiling both the discussions between the users and the editing history of an article. To do that, we will focus on one case study, the [Wikipedia page of the September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks).
+Many people visit Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are products of long debates, conflicts, collaborations, discussions, and consensus between different Wikipedia editors. Wikipedia's open approach provides us the opportunity to look “behind the scenes” and explore how the articles take shape and change over time. The “talk page” and “view history” pages of Wikipedia reveal the discussions between users on each entry and the logs of all the changes and copies of older versions of the article. Both tabs include significant data for historical research. As Wikipedia users get involved with the creation and editing of articles, they participate in discussions and debates, which provide useful data about how Wikipedians perceive the past, what historical arguments they make, how they try to reach a consensus, etc. In the "view history" tab, there is also data on how the historical narrative of a Wikipedia article changes over time. In this part of the lesson, we will investigate what happens "behind the scenes" of a Wikipedia article by unveiling both the discussions between the users and the editing history of an article. To do that, we will focus on one case study, the [article on the September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks) of the English edition of Wikipedia.
 
-### 4.a Historical discussions and debates
-The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the article's " talk page, " you will notice that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia article. Specifically, the examples below include different types of information, such as how Wikipedians should honor the memory of the victims, how they should describe the people who caused the attacks, what title they should place into the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the titles. For more information on "talk pages" and how to use them, see the video in assignment 2.b.
+> You can reproduce the proposed exercice with an article on the historical event, personnality or phenomenon of your choice and in the language you are more confortable with. Examples may include, without being limited to, the Haitian revolution, the Arab Spring, the Silk Road, Cleopatra, feminism, slavery... Please note that in this case some questions proposed below, specific to the event, may not be relevant.  
 
-- [Talk on the title of the article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) 
-- [Talk on deleting the word terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) 
-- [Talk on the use of terms, "terrorist", "terrorism," and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) 
-- [Talk on memory](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) 
-- [Talk on memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial) 
+### 4.a Historical discussions and debates | 60 Min
+The September 11 attacks constitute a traumatic event that shaped modern United States history but also had a broader global impact. If you click on the article's "talk page" tab, you will notice that the discussions are extensive. However, I have collected some examples, which reveal information on how Wikipedia users perceive the past and get involved in debates with other users on how to edit a Wikipedia article. Specifically, the examples below include different types of information, such as how Wikipedians should honor the memory of the victims, how they should describe the people who caused the attacks, what title they should place into the Wikipedia article, etc. So, please click on the links below and read only the sections mentioned in the titles. For more information on "talk pages" and how to use them, see the video in assignment 2.b.
+
+- [Talk on the title of the article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title) - estimated time of silent reading: 20 minutes
+- [Talk on deleting the word terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist) - estimated time of silent reading: 15 minutes 
+- [Talk on the use of terms "terrorist", "terrorism" and "freedom fighter"](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22) - estimated time of silent reading: 6 minutes 
+- [Talk on memory](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium) - estimated time of silent reading: 13 seconds  
+- [Talk on memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial) - estimated time of silent reading: 30 seconds  
 
 Then, try to answer the following questions:
 
@@ -269,23 +271,28 @@ Then, try to answer the following questions:
 - How do Wikipedia users perceive the September 11 attacks? Do they express any personal emotions and memories about the past of the September 11 attacks?
 - Why do Wikipedians want to edit the September 11 attacks Wikipedia page? What is the meaning of editing for them?
 - How do Wikipedia users involved in discussions and debates try to reach a consensus?
+- Can you notice changes in the topics raised over time? What does this reveal in your opinion for the perception/reception of the subject of the article? 
 
-### 4.b Historical articles in constant motion
-Historical narratives are not stable; instead, they change over time. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. The links below refer to two pages with the most recent revisions of the article. Please click on the two links below, which contain the most recent editing changes to the article and the editors who made those changes. While you read the pages, please pay attention to: 
+### 4.b Narratives in constant motion
+The ways historians interrogate and write about the past can change over time. One of the foundations of the historical research is to establish the state of the art of historiography on a given topic, examine its evolution and determine the point it stands. The same happens with Wikipedia narratives. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. 
 
-1. the type of editing changes, e.g., correcting vocabulary and grammar mistakes, adding more visual materials, reorganizing the text of the article, etc. 
-2. the editors who make those changes.
-
-For more information on how to use the "view history" portal, please watch the video in assignment 2.b. 
+Please click on the two links below, which contain the most recent editing changes to the article and the editors who made those changes. 
 
 [Revision history page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579) 
 
 [Revision history page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755) 
 
-Even though our sample is small (only two pages from a very extensive revision history), please try to answer the following questions:
+While you read the pages, please pay attention to: 
+
+1. The **type** of editing changes, e.g., correcting vocabulary and grammar mistakes, adding more visual materials, reorganizing the text of the article, etc. 
+2. The **editors** who make those changes.
+
+> For more information on how to use the "view history" portal, please watch the video in assignment 2.b. 
+
+After reading the above extracts, please try to answer the following questions, even though our sample is small (only two pages from a very extensive revision history): 
 
 - How does the historical narrative of the article change over time?
-- What type of contributions do editors make?
+- What types of contributions do editors make? For example, do they correct grammar or spelling mistakes, or do they make major changes in the article?
 - By looking at the names of editors, do you notice the existence of bots? What does the collaboration between humans and non-human agents signify for the production of history in the digital age?
 
 ### Reading/viewing suggestions
