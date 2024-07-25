@@ -299,12 +299,14 @@ Available at: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-St
 
 ## Assignment 5 - Comparing Wikipedias in different languages 
 
-Wikipedia does not exist only in the English language. Instead, it includes 331 active language editions as of July 2024. The different editions are not just simple translations from one language to another but can also propose different narratives. Thus, historical narratives about the past may involve different representations, structures, and discussions. Wikipedia's multilingual character allows historians to compare historical narratives across different cultural perspectives.  In this part, we will compare two different Wikipedia language editions, the English language Wikipedia and the French one. Specifically, we will focus on a specific historical event of French history with global dimensions, May 1968, as it is represented in the English and French editions of Wikipedia. 
+Wikipedia does not exist only in the English language. Instead, it includes 331 active language editions as of July 2024. The different editions are not just simple translations from one language to another but can also propose different narratives. Thus, historical narratives about the past may involve different representations, structures, and discussions. Wikipedia's multilingual character offers one more field to historians to compare historical narratives across different, more popular, cultural perspectives. In this part, we propose to compare two different Wikipedia language editions. Specifically, we will focus on a historical event of French history with global dimensions, May 68, as it is represented in the English and French editions of Wikipedia. 
 
-> You can reproduce the proposed exercice with a case-study of your choice, according to your research interests, and in the languages you are more confortable with. Some examples we can think of: compare the English and Arabic versions of the article on the Arab Spring, the English and Chinese versions of article on the Silk Road, the Englih and German versions of the article on the Berlin Wall... 
+> You can reproduce the proposed exercice with a case-study of your choice, according to your research interests, and in the languages you are more confortable with. Some examples we can think of: compare the English and Arabic versions of the article on the Arab Spring, the English and Chinese versions of the article on the Silk Road, the English and German versions of the article on the Berlin Wall or any versions you are most interested in. 
 
-### 5.a Comparing Wikipedian perspectives of May 1968 in English and French 
-Even though the English language Wikipedia contains the most active registered users and covers more articles than other editions, May 1968 constitutes a major event in French history, which also affected a broader non-French audience. The participants of this course will investigate if the interface of Wikipedia encourages a specific way of presenting and displaying across different language editions by comparing the historical narratives of the two articles.
+### 5.a Comparing Wikipedian perspectives of May 1968 in English and French | 60-120 Min 
+May 68 constitutes a major event in the history of France, and also in the broader context of the global social unrest and cultural revolutions of the late 1960s. For this reason, this subassignment focuses on the English language Wikipedia, that contains the most active registered users and covers more articles than other editions, and the French Wikipedia. It proposes to investigate in what ways the interface of Wikipedia encourages a specific way of presenting and displaying historical narratives across different language editions.
+
+> The time of the exercice can vary depending on whether you opt for reading the entire content of articles or selected sections of them.  
  
 First, please read the historical narratives of the following two articles:
 
@@ -314,11 +316,12 @@ First, please read the historical narratives of the following two articles:
  
 After reading both articles, you will notice that even though they refer to the same historical event, the representation of May 1968 is not the same. The two articles have different structures, content, visual elements, and use different bibliographical references.
 
+Now, please check the following questions and discuss your answers with your fellow students:
 
-Now, please try to answer the following questions and discuss your answers with your fellow students:
+- What are the main similarities and differences in how the two Wikipedia articles present the May 1968 historical events? Explore both the structure and the content (or parts of the content) of the articles and try to explain these similarities and differences.
+- Do you detect any similarities and differences in the bibliography that the two articles cite in the section of references? For example, you can explore if the articles rely more heavily on certain works (or not), the language and the type of the cited resources in each case. Try to explain these similarities and differences.
 
-- What are the main similarities and differences in how the two Wikipedia articles present the May 1968 historical events? For example, do you notice any similarities or differences in the sections and sub-sections of the articles? How do you explain these similarities/differences?
-- Do you detect any similarities or differences in the bibliography that the two articles cite? For example, are there more cited works in any article? What is the language of the cited works in each case? How do you explain these similarities/differences?
+Write a short text of 500 words with your findings and reflect on what they tell us about the reception of the event in each case. 
 
 ### Reading/viewing suggestions
 
