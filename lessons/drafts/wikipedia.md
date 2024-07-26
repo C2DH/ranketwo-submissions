@@ -273,14 +273,14 @@ Then, try to answer the following questions:
 - How do Wikipedia users involved in discussions and debates try to reach a consensus?
 - Can you notice changes in the topics raised over time? What does this reveal in your opinion for the perception/reception of the subject of the article? 
 
-### 4.b Historical narratives in constant motion
+### 4.b Historical narratives in constant motion | 25 Min
 The ways historians interrogate and write about the past can change over time. One of the foundations of the historical research is to establish the state of the art of historiography on a given topic, examine its evolution and determine the point it stands. Wikipedia narratives change too, and historians need to assess them critically. Now let’s see how the Wikipedia article of the September 11 attacks has changed since its creation. 
 
 Please click on the two links below, which contain the most recent editing changes to the article and the editors who made those changes. 
 
-[Revision history page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579) 
+[Revision history page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579) - estimated time of silent reading: 8 minutes 
 
-[Revision history page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755) 
+[Revision history page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755) - estimated time of silent reading: 7 minutes 
 
 While you read the pages, please pay attention to: 
 
