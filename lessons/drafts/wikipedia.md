@@ -302,6 +302,8 @@ Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in t
 Pentzold, Christian. “Fixing the floating gap: The online encyclopaedia Wikipedia as a global memory place.” _Memory Studies_ 2, no. 2 (May 2009): 255-272. DOI: https://doi.org/10.1177/1750698008102055 
 Available at: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf](https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf)
 
+Phillips, Murray G. 2015. “Wikipedia and History: A Worthwhile Partnership in the Digital Era?” *Rethinking History* 20 (4): 523–43. doi:10.1080/13642529.2015.1091566. Available at: [https://core.ac.uk/download/pdf/43380919.pdf](https://core.ac.uk/download/pdf/43380919.pdf) 
+
 ## Assignment 5 - Comparing Wikipedias in different languages 
 
 Wikipedia does not exist only in the English language. Instead, it includes 331 active language editions as of July 2024. The different editions are not just simple translations from one language to another but can also propose different narratives. Thus, historical narratives about the past may involve different representations, structures, and discussions. Wikipedia's multilingual character offers one more field to historians to compare historical narratives across different, more popular, cultural perspectives. In this part, we propose to compare two different Wikipedia language editions. Specifically, we will focus on a historical event of French history with global dimensions, May 68, as it is represented in the English and French editions of Wikipedia. 
