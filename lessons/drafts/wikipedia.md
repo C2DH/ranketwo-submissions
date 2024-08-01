@@ -90,8 +90,6 @@ Then, also based on your knowledge about Wikipedia and your personal experiences
 
 ### Reading/viewing suggestions 
 
-Apostolopoulos, Petros. *Discussing the Past: The Production of Historical Knowledge on Wikipedia*. (Ph.D., Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6). (Chapter 1)
-
 Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia) (Chapter 2)
 
 Rosenzweig, Roy. "Can History Be Open Source?". *The Journal of American History* 93 (1) (June 2006): 117-46 [https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/](https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/)
