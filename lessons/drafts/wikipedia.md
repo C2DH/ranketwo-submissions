@@ -263,11 +263,11 @@ The September 11 attacks constitute a traumatic event that shaped modern United 
 
 Then, try to answer the following questions:
 
-- Which topics related to the September 11 attacks do most Wikipedia users discuss?
+- Which topics related to the event covered by the Wikipedia article - here, the September 11 attacks - do most Wikipedia users discuss?
 - Why do Wikipedia users get involved in debates?
 - What arguments do they make to support their opinions, and what reactions do they receive from other Wikipedians in the specific case studies?
-- How do Wikipedia users perceive the September 11 attacks? Do they express any personal emotions and memories about the past of the September 11 attacks?
-- Why do Wikipedians want to edit the September 11 attacks Wikipedia page? What is the meaning of editing for them?
+- How do Wikipedia users perceive the event covered by the Wikipedia article - here, the September 11 attacks? Do they express any personal emotions and memories about the past of the September 11 attacks?
+- Why do Wikipedians want to edit the event's - here, the September 11 attacks - Wikipedia page? What is the meaning of editing for them?
 - How do Wikipedia users involved in discussions and debates try to reach a consensus?
 - Can you notice changes in the topics raised over time? What does this reveal in your opinion for the perception/reception of the subject of the article? 
 
