@@ -40,7 +40,7 @@ Nowadays, we are familiar with web map services on our smart phones, such as Goo
 
 In historical research, maps can be useful in many regards: a topographic map may give us the location of historic settlements, a map about the results of elections shows the spatial distribution of votes, or a map about oil resources may have guided exploitation. At the same time, it is the historian's task to critically examine the “message” of the map: Why does the map highlight some features, while it neglects others? What could have been the intention of the map maker for applying a particular colour?
 
-## Assignment 1 - Access to Maps
+## Access to Maps
 
 In the digital age, it is far easier to access maps, than it was before. Digital libraries and repositories provide manifold cartographic sources. However, differences between libraries are huge regarding the amount of available maps, the quality of digitisation, the technical features to access maps as well as the additional information provided for each map.
 
@@ -67,7 +67,7 @@ Compare topographic maps which you can find on [Kartenforum](https://kartenforum
 
 
 
-## Assignment 2 - Methods to Analyse Maps 
+## Methods to Analyse Maps 
 
 In research literature, there is a wide variety of methodological reflections concerning map analysis, usually called “critical cartography”. A suitable approach to maps largely depends upon the specific type of cartographic material which is about to be examined and upon the research question. Despite the variety of analytical tools, many authors advocate comparative approaches. 
 
@@ -83,6 +83,11 @@ In order to analyse maps, we set out using the general guidelines of dealing wit
 Analysing a map, we should keep in mind, that the authors, cartographers and editors of maps have to make many decisions in the course of map production: They have to select particular features from the plenty of spatial information available: Which spatial features, objects or information should actually be represented in the map? To do this, map authors and map editors focus on a few features that should be visualized. Specific cartographic ‘languages’ and styles (symbols, colours etc.) for this have developed over centuries. Since the 19th century, increasing international exchange among cartographers and editors led to various implicit or explicit conventions regarding map design, such as putting geographic North to the top of the map. 
 
 The production of maps is therefore based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
+
+**Reading/viewing suggestions**
+
+*On critical cartography*
+ADD HERE ONE OR TWO READINGS IN OPEN ACCESS: AN ARTICLE FROM A SCIENTIFIC JOURNAL OR FROM SPECIALIZED PRESS OR A VIDEO?
 
 ## Critical Approaches to Maps 
 
@@ -233,7 +238,7 @@ Since the late 20th century, the computer has become a major tool for creating m
 
 Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as coordinates. A widely known open source software is [QGIS](https://www.qgis.org/en/site/). Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as [LibreOfficeDraw](https://www.libreoffice.org). In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
 
-This lesson will not (and can not) give an introduction into software used to create maps. Those kind of introductions are already available online (https://opensourceoptions.com/qgis-tutorial-for-beginners/ and https://www.youtube.com/watch?v=Eg4_duqH5Q4). Instead, this part of the lesson seeks to demonstrate, how historians can critically evaluate available GIS data and the maps which were created based on these data.
+This lesson will not (and can not) give an introduction into software used to create maps. Those kind of introductions are already available online (see reading suggestions). Instead, this part of the lesson seeks to demonstrate, how historians can critically evaluate available GIS data and the maps which were created based on these data.
 
 As mentioned in the introduction, various repositories provide GIS data and digital maps, such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library). Historians (and other users) can download geo-packages from these repositories and open them in QGIS, in order to analyse the content. Regarding digital source criticism, we should focus our analysis on the following questions: What is the origin of the data, which were used to create the data set in QGIS? To what extend did the creators of the data set transform the original information, in order to get these information into the QGIS data set? What kind of categories did the creators of the data set choose, in order to bring these information into the data set?
 
@@ -253,6 +258,13 @@ Assignment A5
 Browse the website hgis.org.uk and compare available data sets. In particular, analyse to what extent the data sets provide information about their origin and the material it is based on!
 Further reading: 
 […]
+
+**Reading/viewing suggestions**
+
+*Educational resources to obtain technical skills on GIS*
+Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [https://opensourceoptions.com/qgis-tutorial-for-beginners/](https://opensourceoptions.com/qgis-tutorial-for-beginners/) 
+
+Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 minutes. [https://youtu.be/Eg4_duqH5Q4](https://youtu.be/Eg4_duqH5Q4) 
 
 
 ### Final Message
