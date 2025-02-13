@@ -111,11 +111,13 @@ The map “International Movements of Capital” belongs to the „Atlas of toda
 Assignment 1.1
 Read Wikipedia‘s entries on the two authors, i.e. the British Chambers of Commerce and Alexander Radó! What were their general ambitions?
 https://en.wikipedia.org/wiki/British_Chambers_of_Commerce 
+
 https://en.wikipedia.org/wiki/Alexander_Radó
 
 Assignment 1.2
 Search for at least two more maps about imperial power. What are visual techniques to highlight influence over parts of the world? Use the following websites:
 https://www.oldmapsonline.org/
+
 https://catalogue.bnf.fr/
 Further reading: 
 […]
