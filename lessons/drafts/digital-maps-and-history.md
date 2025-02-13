@@ -101,7 +101,7 @@ The map is part of the „Chambers of Commerce Atlas“, published in London in 
 
 Illustration 1.2.: Radó, “International Movements of Capital”, 1938
 
-The map “International Movements of Capital” belongs to the „Atlas of to-day and to-morrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
+The map “International Movements of Capital” belongs to the „Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
 
 Assignment 1.1
 Read Wikipedia‘s entries on the two authors, i.e. the British Chambers of Commerce and Alexander Radó! What were their general ambitions?
@@ -150,9 +150,7 @@ https://en.wikipedia.org/wiki/No._540_Squadron_RAF
 Assignment 2.2. What advantage does the topographic map have compared to an aerial photograph? Consider the circumstances of aerial photography from this period. Comparing different photographs will give insight. 
 
 
-### Topic 3: Imagining Populations in Maps
-
-(Peter Haslinger)
+### Topic 3: Imagining Populations in Maps - authored by Peter Haslinger
 
 Since the 19th century, the ideas of nationalism increased the importance of population, of ethnicity, language and religion in political debates as well as in cartographic production. The censuses conducted on a regular basis provided a statistical basis for assessing the changes when it came to preferred language use or demographic development over a longer period. This created political anxieties. In Europe and in other parts of the world, politicians and cartographers in neighbouring countries debated about the existence and non-existence of majorities or minorities of population on both sides of the borders.
 
@@ -160,15 +158,16 @@ The following two examples give insight into aspects of these cartographic debat
 
 Eugeniusz Romer (1871-1954) had produced maps during the First World War, which now served as cartographic templates for the Polish delegation maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert Isiah Bowman, increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in it’s borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
 
+Illustration 3.1: E. Romer, Polski atlas kongresowy. Atlas des problèmes territoriaux de la Pologne, Warszawa / Lwów 1921.
+
 ![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy 1922 A188”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Romer 1916 Atlas Polski")
 
-Illustration 3.1: E. Romer, Polski atlas kongresowy. Atlas des problèmes territoriaux de la Pologne, Warszawa / Lwów 1921.
 
 Pál Teleki (1879-1941), future Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
-![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "Ethnographic map of Hungary based on population density")
-
 Illustration 3.2: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
+
+![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "Ethnographic map of Hungary based on population density")
 
 Assignment 3.1.
 Compare both maps and answer the following questions:
@@ -194,28 +193,27 @@ Seegle, Steven: Map men. Transnational lives and deaths of geographers in the ma
 
 Haslinger, Peter: National geopolitics in Habsburg Central Europe. Imperial and post-imperial perspectives on Hungary and Poland, 1890-1930, in: Jan Arend (ed.): Science and Empire in Eastern Europe. Imperial Russia and the Habsburg Monarchy in the 19th Century, Munich 2020, pp. 205-236
 
-### Topic 4: Reporting War 1914 and 2024
-
-(Christian Lotz)
+### Topic 4: Reporting War 1914 and 2024 - authored by Christian Lotz
 
 Times of war are times of massive map production. While military maps are kept secret during the war, because they depict points of strategic interest, there is a huge number of maps produced for public use. These kind of public maps are published to show the development of war, the advancement of troops or the loss of territory. Public maps about warfare are a highly sensitive source for historiography, because wars are fought not only with weapons, but also with images. Therefore, we should guide a special focus on questions like who provided information and data to be shown on the map, and what was the particular purpose of the production of such public maps.
 
 In this part of the lesson, we compare maps from the First World War 1914-1918 and maps of the Russian-Ukrainian War since 2022. During the First World War, public maps about the war were mainly published in newspapers and journals. Most of these maps had a relatively small scale, i.e. the map showed a rough sketch of the front line between two countries in a scale of 1:1 Million to 1:5 Million. In case a part of the front line was of particular interest, some publishers added medium scale maps, for example about Verdun and its surroundings on the Franco-German front.
 
-![Verein für Kriegshilfe: Map of the Western front as of February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01 "Verein für Kriegshilfe: Map of the Western front as of February 1915")
-
 Illustration 4-1: Verein für Kriegshilfe: Map of the Western front as of February 1915
+
+![Verein für Kriegshilfe: Map of the Western front as of February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01.jpg "Verein für Kriegshilfe: Map of the Western front as of February 1915") 
 
 This kind of small scale public maps were issued weekly. The regular rhythm of publication made these maps an important medium of information and propaganda: It showed the progress or non-progress of front lines, it informed readers at least roughly about areas in danger to be directly affected by the war, and it demonstrated gain and loss of territory. However, these small scale maps did not let the reader get closer to the situation along the front line. The armies kept large scale maps secret which showed trenches and fortified places, because publicly known details would allow the enemy to more precisely direct its attacks.
 
-Illustration 4-2: Large scale map, Franco-German front, February 1915
+Illustration 4-2: Large scale map, Franco-German front, February 1915 **The image file is missing, should ask the authors**. 
 
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
 Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time.
 
-![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 
 Illustration 4-3: files “Reporting-War_2023_LiveUkraineMap_01” and “LiveUAmap_2023-06-07_Ukraine”, a Screenshot of Ukraine on LiveUAmap on the 23th of June 2023
+
+<!--these two different images files are the same image actually - use only one-->
 
 ![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 
