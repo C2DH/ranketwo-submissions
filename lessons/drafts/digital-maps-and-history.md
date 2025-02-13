@@ -240,9 +240,14 @@ As an example, we can investigate a data set of the „Imperiia Project“ run b
 
 file: “Abb-5-1_QGIS_Imperiia-Project_02”
 file: “Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01”
-Illustration 5.1 shows the data set about the Kingdom of Poland as part of the Russian Emprie at the beginning of the 19th century. The authors of the data set describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity a name in Russian (Cyrillic) and in a latin transliteration is given.
+Illustration 5.1 shows the data set about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The authors of the data set describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity a name in Russian (Cyrillic) and in a latin transliteration is given.
+
+![Kingdom of Poland as part of the Russian Empire in the 19th c., visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 
 Illustration 5.2, shows a data set about the border of the partitions of Poland. The data set was created by Christopher Winters at Chicago University. Comparing Abb-5-1 and Abb-5-2, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
+
+![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
+<!-- should ask if we have the right to display this image -->
 
 Assignment A5
 Browse the website hgis.org.uk and compare available data sets. In particular, analyse to what extent the data sets provide information about their origin and the material it is based on!
