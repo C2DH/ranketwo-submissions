@@ -217,12 +217,15 @@ Today, we also find many small scale maps about ongoing wars in the world printe
 
 Illustration 4-3: files “Reporting-War_2023_LiveUkraineMap_01” and “LiveUAmap_2023-06-07_Ukraine”, a Screenshot of Ukraine on LiveUAmap on the 23th of June 2023
 
+![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+
 The example of the LiveUAmap is a multi-scale map. In a small scale it allows for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map derives from various sources, such as the Telegramm messager service. The LiveUAmap is provided by a Non Governmental Organisation based in McLean (Virginia, USA). Although we can zoom in to a large scale map, and although we can find information about the front line in detail, the map does not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
-Assignment 4-1: Explore the sources of information that are located on LiveUAmap?
-Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by ISW! (file: „ISW 2024-03-11 Ukraine - Russian Offensive Campaign Assessment 11-March-2024“)
+Assignment 4-1: Explore the sources of information that are located on LiveUAmap? 
 
-![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024) 
+
+
 
 ### Topic 5: Datasets as Maps? Evaluating GIS-data about historical phenomena
 
@@ -230,16 +233,15 @@ Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Anal
 
 Since the late 20th century, the computer has become a major tool for creating maps. For about three decades, more and more maps have been produced digitally. For historians, two major aspects are interesting with regard to digital maps: First, what kind of digital map tools can be useful to pursue research questions; and second, how can we investigate the particular mixture of digital and man-made factors that influence the production and distribution of maps. As this lessons deals with questions of source criticism, we will not tackle the first question, but will focus on the second one.
 
-Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as coordinates. A widely known open source software is QGIS (https://www.qgis.org/en/site/). Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as LibreOfficeDraw (https://www.libreoffice.org). In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
+Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as coordinates. A widely known open source software is [QGIS](https://www.qgis.org/en/site/). Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as [LibreOfficeDraw](https://www.libreoffice.org). In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
 
 This lesson will not (and can not) give an introduction into software used to create maps. Those kind of introductions are already available online (https://opensourceoptions.com/qgis-tutorial-for-beginners/ and https://www.youtube.com/watch?v=Eg4_duqH5Q4). Instead, this part of the lesson seeks to demonstrate, how historians can critically evaluate available GIS data and the maps which were created based on these data.
 
-As mentioned in the introduction, various repositories provide GIS data and digital maps, such as Harvard-GIS (https://library.harvard.edu/services-tools/harvard-geospatial-library). Historians (and other users) can download geo-packages from these repositories and open them in QGIS, in order to analyse the content. Regarding digital source criticism, we should focus our analysis on the following questions: What is the origin of the data, which were used to create the data set in QGIS? To what extend did the creators of the data set transform the original information, in order to get these information into the QGIS data set? What kind of categories did the creators of the data set choose, in order to bring these information into the data set?
+As mentioned in the introduction, various repositories provide GIS data and digital maps, such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library). Historians (and other users) can download geo-packages from these repositories and open them in QGIS, in order to analyse the content. Regarding digital source criticism, we should focus our analysis on the following questions: What is the origin of the data, which were used to create the data set in QGIS? To what extend did the creators of the data set transform the original information, in order to get these information into the QGIS data set? What kind of categories did the creators of the data set choose, in order to bring these information into the data set?
 
 As an example, we can investigate a data set of the „Imperiia Project“ run by Kelly O’Neill at Harvard University. The Imperiia Project created data sets about the administrative borders of the Russian Empire.
 
-file: “Abb-5-1_QGIS_Imperiia-Project_02”
-file: “Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01”
+
 Illustration 5.1 shows the data set about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The authors of the data set describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity a name in Russian (Cyrillic) and in a latin transliteration is given.
 
 ![Kingdom of Poland as part of the Russian Empire in the 19th c., visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
