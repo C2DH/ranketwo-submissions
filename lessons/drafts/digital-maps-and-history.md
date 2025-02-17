@@ -75,8 +75,21 @@ We may start with rather basic questions, such as: why does a certain map show a
 
 Going more into details of maps, the tackling of such comparative questions may turn out rather difficult, such as: Why did these two world maps use different colours, why did the cartographers choose different map projections? For many maps, we will not find detailed background material which gives insight into the production process and into the cartographer’s decisions. Therefore, we should proceed carefully when starting our interpretation and elaborating explanations regarding the appearance and content of maps.
 
+!German School-Atlas, World Map, 1932[](/assets/images/maps-as-historical-sources/B-1b_Diercke_1932_Schulatlas_S-17.jpg "")
+*Image caption, image credits, rights of use*
+
 Illustration B-1: German School-Atlas, World Map
-Illustration B-2: Japanese School-Atlas, World Map
+
+![Japanese School-Atlas, World Map, 1974](/assets/images/maps-as-historical-sources/B-2a_Atlas-of-Japan-1974_p-58_World-Trade_01.jpg "Japanese School-Atlas: International Society for Educational Information (Hg.), Atlas of Japan - Physical, Economic and Social, Tokyo 1974.")
+
+International Society for Educational Information (Hg.): Atlas of Japan - Physical, Economic and Social, Tokyo 1974.
+IfL-Sign.: At IV 356
+Japan's Foreign Trade 1972, sinocentric world map with a grid indicating the distance as the crow flies from Tokyo rather than latitude and longitude. 
+*Image credits, rights of use*
+
+![officiel National Atlas of India, 1957](/assets/images/maps-as-historical-sources/B-2b_India_National-Atlas_Welt_01b "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
+*Image credits, rights of use*
+
 
 In order to analyse maps, we set out using the general guidelines of dealing with historical sources. We may start with the basic questions: Who produced the map? When was is created? What is the content of the map? How is the map content presented? Why was the map created? To whom was the map addressed? After these basic questions, we should go deeper into details, analysing the particular purpose which the map should fulfil, and examining possible intentions of the map creators.
 
@@ -110,13 +123,13 @@ The map “International Movements of Capital” belongs to the „Atlas of toda
 
 Assignment 1.1
 Read Wikipedia‘s entries on the two authors, i.e. the British Chambers of Commerce and Alexander Radó! What were their general ambitions?
-https://en.wikipedia.org/wiki/British_Chambers_of_Commerce 
+Wikipedia contributors, "British Chambers of Commerce," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) (accessed February 17, 2025).
 
-https://en.wikipedia.org/wiki/Alexander_Radó
+Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).
 
 Assignment 1.2
 Search for at least two more maps about imperial power. What are visual techniques to highlight influence over parts of the world? Use the following websites:
-https://www.oldmapsonline.org/
+[Old Maps Online](https://www.oldmapsonline.org/)
 
 https://catalogue.bnf.fr/
 Further reading: 
@@ -212,6 +225,14 @@ Illustration 4-1: Verein für Kriegshilfe: Map of the Western front as of Februa
 
 This kind of small scale public maps were issued weekly. The regular rhythm of publication made these maps an important medium of information and propaganda: It showed the progress or non-progress of front lines, it informed readers at least roughly about areas in danger to be directly affected by the war, and it demonstrated gain and loss of territory. However, these small scale maps did not let the reader get closer to the situation along the front line. The armies kept large scale maps secret which showed trenches and fortified places, because publicly known details would allow the enemy to more precisely direct its attacks.
 
+
+![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "") 
+
+*Add title, credits, **Image caption, image credits, rights of use*
+
+![](/assets/images/maps-as-historical-sources/.Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg "") 
+
+*Image caption, image credits, rights of use*
 Illustration 4-2: Large scale map, Franco-German front, February 1915 **The image file is missing, should ask the authors**. 
 
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
