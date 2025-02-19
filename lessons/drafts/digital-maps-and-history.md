@@ -80,14 +80,14 @@ Going more into details of maps, the tackling of such comparative questions may 
 
 Illustration B-1: German School-Atlas, World Map
 
-![Japanese School-Atlas, World Map, 1974](/assets/images/maps-as-historical-sources/B-2a_Atlas-of-Japan-1974_p-58_World-Trade_01.jpg "Japanese School-Atlas: International Society for Educational Information (Hg.), Atlas of Japan - Physical, Economic and Social, Tokyo 1974.")
+![Japanese School-Atlas, World Map, 1974](/assets/images/maps-as-historical-sources/B-2a_Atlas-of-Japan-1974_p-58_World-Trade_01.JPG "Japanese School-Atlas: International Society for Educational Information (Hg.), Atlas of Japan - Physical, Economic and Social, Tokyo 1974.")
 
 International Society for Educational Information (Hg.): Atlas of Japan - Physical, Economic and Social, Tokyo 1974.
 IfL-Sign.: At IV 356
 Japan's Foreign Trade 1972, sinocentric world map with a grid indicating the distance as the crow flies from Tokyo rather than latitude and longitude. 
 *Image credits, rights of use*
 
-![officiel National Atlas of India, 1957](/assets/images/maps-as-historical-sources/B-2b_India_National-Atlas_Welt_01b "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
+![officiel National Atlas of India, 1957](/assets/images/maps-as-historical-sources/B-2b_India_National-Atlas_Welt_01b.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
 *Image credits, rights of use*
 
 
@@ -259,7 +259,7 @@ Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Anal
 
 Since the late 20th century, the computer has become a major tool for creating maps. For about three decades, more and more maps have been produced digitally. For historians, two major aspects are interesting with regard to digital maps: First, what kind of digital map tools can be useful to pursue research questions; and second, how can we investigate the particular mixture of digital and man-made factors that influence the production and distribution of maps. As this lessons deals with questions of source criticism, we will not tackle the first question, but will focus on the second one.
 
-Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as coordinates. A widely known open source software is [QGIS](https://www.qgis.org/en/site/). Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as [LibreOfficeDraw](https://www.libreoffice.org). In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
+Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as [coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system). A widely known open source software is [QGIS](https://www.qgis.org/en/site/). Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as [LibreOfficeDraw](https://www.libreoffice.org). In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
 
 This lesson will not (and can not) give an introduction into software used to create maps. Those kind of introductions are already available online (see reading suggestions). Instead, this part of the lesson seeks to demonstrate, how historians can critically evaluate available GIS data and the maps which were created based on these data.
 
