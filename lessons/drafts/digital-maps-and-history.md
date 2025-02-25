@@ -48,22 +48,22 @@ Each online library has its advantages and disadvantages. It depends upon the pr
 
 The following list shows a small number of interesting online map libraries. There are many more, but we can start exploring here:
 
-[OldMapsOnline](https://www.oldmapsonline.org/)
+[OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"}
 
-[David Rumsey Map Collection](https://www.davidrumsey.com/)
+[David Rumsey Map Collection](https://www.davidrumsey.com/){:target="_blank"}
 
-[Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/)
+[Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"}
 
-[Arcanum Maps - The Historical Map Portal](https://maps.arcanum.com/en/)
+[Arcanum Maps - The Historical Map Portal](https://maps.arcanum.com/en/){:target="_blank"}
 
-[Virtual Map Collection](http://chartae-antiquae.cz/en/)
+[Virtual Map Collection](http://chartae-antiquae.cz/en/){:target="_blank"}
 
-[Mapster](http://igrek.amzp.pl/)
+[Mapster](http://igrek.amzp.pl/){:target="_blank"}
 
 
 
 Assignment A-1:
-Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/) and on [Arcanum](https://maps.arcanum.com/en/). What kind of additional information are on the map, such as date of publication, cartographer or editor? What are the advantages and disadvantages of these two online libraries?
+Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. What kind of additional information are on the map, such as date of publication, cartographer or editor? What are the advantages and disadvantages of these two online libraries?
 
 
 
@@ -129,9 +129,9 @@ Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [ht
 
 Assignment 1.2
 Search for at least two more maps about imperial power. What are visual techniques to highlight influence over parts of the world? Use the following websites:
-[Old Maps Online](https://www.oldmapsonline.org/)
+[Old Maps Online](https://www.oldmapsonline.org/){:target="_blank"}
 
-https://catalogue.bnf.fr/
+[Gallica](https://gallica.bnf.fr/accueil/fr/html/accueil-fr){:target="_blank"}
 Further reading: 
 […]
 
@@ -141,7 +141,7 @@ Further reading:
 
 Mapping an area is a means of accessing, naming, and, in a sense, ruling it. This proves particularly important in warfare. Precise maps were needed to identify weak points and crucial targets. On maps for public use, fortifications and military information often remained invisible, only outlined in vague shapes or blank spaces. One could argue due to the cruciality of this information, maps published by administrative authorities are the most precise ones. Nevertheless, the existence of precise maps posed the danger of them falling into enemies’ hands. So, even with topographic maps by administrative authorities, a critical analysis is needed to understand the content of the map. With World War II, a new and powerful tool for surveying became popular: aerial photography. Military technology enabled new ways of scouting the surface of the earth for vital infrastructure. Moreover, it was used to evaluate damage caused by air raids. 
 
-During World War II, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Arial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on [their website](https://ncap.org.uk/). 
+During World War II, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Aerial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on [their website](https://ncap.org.uk/). 
 
 Each series of photographs allows us even to track the route of one specific plane during its flight. 
 
@@ -149,7 +149,7 @@ Each series of photographs allows us even to track the route of one specific pla
 
 Illustration 2.1: Detail of Topographic Map of Stettin, 1945 
 
-The first illustration is a detail of a topographic map of Stettin in a scale of 1:50.000, created in 1945. Until the end of World War II, Stettin was a German town. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. This explains the first curiosity. The labelling is a Cyrillic transliteration of the German terms for the city: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. It is mixed with Russian expressions, such as “больн” ( the abbreviation for “hospital”). What errors might have occurred when considering the specific conditions of  map production? What is the estimated reliability of this topographic map as a representation of the city in 1945?
+The first illustration is a detail of a topographic map of Stettin in a scale of 1:50.000, created in 1945. Until the end of World War II, [Stettin](https://en.wikipedia.org/wiki/Szczecin){:target="_blank"} was a German town. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. This explains the first curiosity. The labelling is a Cyrillic transliteration of the German terms for the city: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. It is mixed with Russian expressions, such as “больн” ( the abbreviation for “hospital”). What errors might have occurred when considering the specific conditions of  map production? What is the estimated reliability of this topographic map as a representation of the city in 1945?
 
 ![Royal Air Force, Aerial Photograph, 28th November 1943](/assets/images/maps-as-historical-sources/1943-11-28_NCAP-3070_TR_crop.png "Royal Air Force, Aerial Photograph, 28th November 1943") 
 Illustration 2.2: Royal Air Force, Aerial Photograph, 28th November 1943. 
@@ -259,11 +259,11 @@ Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Anal
 
 Since the late 20th century, the computer has become a major tool for creating maps. For about three decades, more and more maps have been produced digitally. For historians, two major aspects are interesting with regard to digital maps: First, what kind of digital map tools can be useful to pursue research questions; and second, how can we investigate the particular mixture of digital and man-made factors that influence the production and distribution of maps. As this lessons deals with questions of source criticism, we will not tackle the first question, but will focus on the second one.
 
-Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as [coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system). A widely known open source software is [QGIS](https://www.qgis.org/en/site/). Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as [LibreOfficeDraw](https://www.libreoffice.org). In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
+Generally speaking, there are two ways of digital map production. Either the cartographer uses Geographical Information Systems (GIS). The main feature of GIS software is the capability of dealing with geographical data such as [coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system){:target="_blank"}. A widely known open source software is [QGIS](https://www.qgis.org/en/site/){:target="_blank"}. Or various kinds of non-GIS software can be adopted to create maps, in particular software which enables the cartographer to draw and design visual images, such as [LibreOfficeDraw](https://www.libreoffice.org){:target="_blank"}. In practice, many cartographers combine these two types of software to create maps, for example using GIS software to arrange geographical data, and then improving the design of the map using non-GIS software.
 
 This lesson will not (and can not) give an introduction into software used to create maps. Those kind of introductions are already available online (see reading suggestions). Instead, this part of the lesson seeks to demonstrate, how historians can critically evaluate available GIS data and the maps which were created based on these data.
 
-As mentioned in the introduction, various repositories provide GIS data and digital maps, such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library). Historians (and other users) can download geo-packages from these repositories and open them in QGIS, in order to analyse the content. Regarding digital source criticism, we should focus our analysis on the following questions: What is the origin of the data, which were used to create the data set in QGIS? To what extend did the creators of the data set transform the original information, in order to get these information into the QGIS data set? What kind of categories did the creators of the data set choose, in order to bring these information into the data set?
+As mentioned in the introduction, various repositories provide GIS data and digital maps, such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library){:target="_blank"}. Historians (and other users) can download geo-packages from these repositories and open them in QGIS, in order to analyse the content. Regarding digital source criticism, we should focus our analysis on the following questions: What is the origin of the data, which were used to create the data set in QGIS? To what extend did the creators of the data set transform the original information, in order to get these information into the QGIS data set? What kind of categories did the creators of the data set choose, in order to bring these information into the data set?
 
 As an example, we can investigate a data set of the „Imperiia Project“ run by Kelly O’Neill at Harvard University. The Imperiia Project created data sets about the administrative borders of the Russian Empire.
 
@@ -285,9 +285,9 @@ Further reading:
 **Reading/viewing suggestions**
 
 *Educational resources to obtain technical skills on GIS*
-Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [https://opensourceoptions.com/qgis-tutorial-for-beginners/](https://opensourceoptions.com/qgis-tutorial-for-beginners/) 
+Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [https://opensourceoptions.com/qgis-tutorial-for-beginners/](https://opensourceoptions.com/qgis-tutorial-for-beginners/){:target="_blank"} 
 
-Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 minutes. [https://youtu.be/Eg4_duqH5Q4](https://youtu.be/Eg4_duqH5Q4) 
+Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 minutes. [https://youtu.be/Eg4_duqH5Q4](https://youtu.be/Eg4_duqH5Q4){:target="_blank"} 
 
 
 ### Final Message
