@@ -289,4 +289,42 @@ Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 min
 
 Best things in live are analogue! Many university libraries still have (paper) map collections. Leave your computer, enter your library and ask for these collections! You may be astonished to see maps that are much bigger than the screen of your computer!
 
+## What’s in a name? Street names as a reflection of local histories
+By Werner Tschacher, Stefan Krebs
 
+Learning objectives: 
+- Critically engage with local history 
+- Get a hands-on experience of working with geospatial normalized data
+
+
+> This assignment is based on a [teaching dossier](https://minett-stories.lu/media/pdf/education/street-names-dossier-en.pdf) that was elaborated as part of the online exhibition [“Minett Stories”](https://minett-stories.lu/), a result of the research project “Remixing Industrial Pasts in the Digital Ages”, carried out with the support of Esch2022 asbl. between 2019 and 2023 at the Centre for Contemporary and Digital History (C2DH) at the University of Luxembourg.The assignment can be adapted to other national/local contexts for which geospatial data are available. 
+
+Landscape and place names play an important role as reference points for regional identity. In the south of Luxembourg, these names have changed several times in connection with the industrial transformation of the landscape. Before industrialisation, the entire southern region in Luxembourg was part of a larger region known traditionally as “Gutland” because of its fertile soil. When the southern region entered the industrial age in 1850, it was first the landscape that changed and then the names. As iron ore mining intensified, industrial open-cast mining and quarrying underground brought the colour of the red-brown minette ore to the surface at more and more points in the green landscape.
+
+Industrialisation tore the land up, deforesting areas and building production sites on them. Contemporary sources testify that new region names were created after the mid-19th century that related to the mining activities of extracting the minette ore: “Minett” area and “Rote Erde” (Red Earth). Literally, the French word “minette” means small mine or small vein, given the low iron content of the ore. Thus, the naming (and renaming) of what is known currently as the Minett reflect the industrial development of the region. > Source: Werner Tschacher, Naming the Minett, _Minett Stories_, 2022, available at: [https://minett-stories.lu/en/story/naming-and-renaming-of-the-luxembourg-southern-region](https://minett-stories.lu/en/story/naming-and-renaming-of-the-luxembourg-southern-region)
+
+Let us examine the traces of this historical heritage at the scale of Luxembourg’s second largest city, [Esch-sur-Alzette](https://en.wikipedia.org/wiki/Esch-sur-Alzette). The traditional centre of the Minett region, often referred to as the “Métropole du fer” or “rote Stadt” \[red town\] in the 20th century.
+
+For this exercise, you will use [Luxemburg’s national official geoportal](https://www.geoportail.lu/en/), a governmental [web portal to collect, describe, show and deliver geospatial data](https://en.wikipedia.org/wiki/Geoportal). Geoportals are essential infrastructures for one to find good quality geospatial data - imagine them as libraries that enable you to work with this kind of data. 
+
+Please go to the [street name directory of the city of Esch-sur-Alzette](https://map.geoportail.lu/addresses/Esch-sur-Alzette/?lang=en) to access the exhaustive list of all of the city’s street names. Then, look for those that are associated with the subject of industry - there are several such names with various references: general names (e.g. Rue de l’Acier, Rue de l’Industrie, Rue de l‘Usine), former steelworks and mines (e.g. An der Schmelz, Avenue des Hauts-Fourneaux, Ennert den Héchiewen, Rue des Mines), job titles (e.g. Avenue des Sidérurgistes, Rue des Fondeurs, Rue des Mineurs) and the names of inventors and industrialists (e.g. Rue Henry Bessemer, Place Norbert Metz, Rue Émile Mayrisch, Rue Léon Metz, Rue Sidney Thomas). All these names refer to the multiple facets of the industrial history of the Minett region and its centre, Esch-sur-Alzette. The same applies to other towns and locations in the southern region such as Pétange, Differdange, Dudelange, Bettembourg, Rumelange.
+
+Make a list of the street names you found and reflect on them (or discuss the names if you work in groups). Try to establish a typology that regroups these names into categories (names of places, names of persons, names of professions etc).
+
+> Tip: you can compare the list you established with our non-exhaustive list <!--[link to file: industrial-streetnames-esch.txt]--> 
+
+Carry out online research and collect information and photos about the different street names. Prepare short information files about each street name. For example, for a person you can note birth and death dates, professional quality, link to the city’s industrial past, any other information you find relevant. Or, for a place named after a profession, you can search the origins of the name, the evolution of professional activity, relics of the activity in the street. If you wish to dig deeper, you may conduct research to the town archives or interview people.
+
+Finally, you can do some field work: visit the streets you found and familiarise yourself with the location and surroundings. You can check if there are any visible traces associating the streets with the historical past that served to name them: architectural constructions, monuments, relics of past activities… If you find any, take photos on your phone or, at the very least, of the street signs.
+
+Now you have enough information to link to geospatial data and to create your own map! You can use a service like [Google Maps](https://www.google.com/maps/d/) (or, if you wish to use an interface in French and open source software, [GoGoCarto](https://gogocarto.fr/), instructions are provided in the French version of this lesson). 
+
+To use Google Maps, you need to have a personal Google account and review the instructions available in [this tutorial of _Programming Historian_](https://doi.org/10.46430/phen0028). You could simply create a map just by tagging the names of the streets related to the industrial past of Esch-sur-Alzette or you could go a step further and integrate the photos you made during your field work. If you publish your map, please contact us to integrate the link in this lesson!
+
+### Reading/viewing suggestions
+
+Krebs, Stefan. The Emergence of the Minett. _Minett Stories_, 2022, available at: [https://minett-stories.lu/en/story/the-emergence-of-the-minett](https://minett-stories.lu/en/story/the-emergence-of-the-minett)
+
+Tschacher, Werner. Naming the Minett. _Minett Stories_, 2022, available at: [https://minett-stories.lu/en/story/naming-and-renaming-of-the-luxembourg-southern-region](https://minett-stories.lu/en/story/naming-and-renaming-of-the-luxembourg-southern-region)
+
+Clifford, Jim, Josh MacFadyen, and Daniel Macfarlane. “Intro to Google Maps and Google Earth.” _Programming Historian 2_ (2013), [https://doi.org/10.46430/phen0028](https://doi.org/10.46430/phen0028)
