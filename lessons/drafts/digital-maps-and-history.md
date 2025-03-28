@@ -97,7 +97,7 @@ Analysing a map, we should keep in mind, that the authors, cartographers and edi
 
 The production of maps is therefore based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
 
-**Reading/viewing suggestions**
+### Reading/viewing suggestions
 
 *On critical cartography*
 ADD HERE ONE OR TWO READINGS IN OPEN ACCESS: AN ARTICLE FROM A SCIENTIFIC JOURNAL OR FROM SPECIALIZED PRESS OR A VIDEO?
@@ -200,7 +200,7 @@ Assignment 3.2.
 Assignment 3.3.
 * What does the map tell us about the political intention of the map author through the choice of map section and the drawn boundaries?
 
-#### Reading recommendations
+### Reading/viewing suggestions 
 
 Górny, Maciej: Drawing fatherlands. Geographers and borders in inter-war Europe. Leiden: Brill 2022
 
@@ -277,7 +277,7 @@ Browse the website hgis.org.uk and compare available data sets. In particular, a
 Further reading: 
 […]
 
-**Reading/viewing suggestions**
+### Reading/viewing suggestions
 
 *Educational resources to obtain technical skills on GIS*
 Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [https://opensourceoptions.com/qgis-tutorial-for-beginners/](https://opensourceoptions.com/qgis-tutorial-for-beginners/){:target="_blank"} 
@@ -288,3 +288,5 @@ Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 min
 ### Final Message
 
 Best things in live are analogue! Many university libraries still have (paper) map collections. Leave your computer, enter your library and ask for these collections! You may be astonished to see maps that are much bigger than the screen of your computer!
+
+
