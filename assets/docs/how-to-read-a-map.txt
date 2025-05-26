@@ -1,0 +1,18 @@
+How to read a map 
+
+Consider: 
+
+1. Perspective
+	a) Mapmaker: who created the map and where 
+	b) Geography: part of the world, world...
+	c) Projection
+2. Audience and purpose
+	a) utility of the map
+	b) argument 
+3. Choices
+	What is represented in the map? What is missing? How is it represented?  
+4. Knowledge and change
+	a) what is the state of the scientific knowledge at the time of creation of the map
+	b) what are the available technologies to create the map
+	
+Based on Choices Program/Michelle LeBlanc, Reading maps: How to analyze a map. YouTube Video, https://youtu.be/OyJrVCvsPPU, 18 November 2020. Part of Brown University, Choicies Program Curriculum Unit, Lesson: Interpreting a Native Map. https://www.choices.edu/video-playlist/?unit=402 Video filmed on 31 October 2017  
