@@ -90,12 +90,43 @@ Please explore them and note:
 4. How are the contributions controlled and validated? 
 5. How are the contributions credited? 
 
-### 1c 
-Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. What kind of additional information are on the map, such as date of publication, cartographer or editor? What are the advantages and disadvantages of these two online libraries?
+### 1c Describing maps in the archive 
+**Now it is time to get an idea of the information you find at the level of the map: this information should allow you to contextualize the creation and availability of the maps, and evaluate them as historical sources. The existence and the quality of systematic descriptions of archival resources, in this case maps, is the added value hidden in the mediation of the archive. It is an essential element for historians who rely on it to contextualize and evaluate their sources.**   
+
+Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. **Pick one map you find interesting** in each of these repositories.   What kind of additional information you can you find for each map (date of publication, date of digitization, publisher, author...) Is there information that you would need but is missing? If so, why might that be? What are advantages and disadvantages of these two online libraries concerning accessibility (e.g. can you access the maps easily, download them and reuse them for your own analysis? What research might be done with the maps provided?
+
+### Reading/viewing suggestions of: Acceding to maps in the digital age: the mediation of the online repository
+Tbc by the authors if readings and viewings are judged necessary 
+
+## 2 Learning to read the stories maps tell
+ 
+Elements of a map: gaining map literacy
+In principle, all maps are thematic. It is possible to distinguish between maps that focus on topographic features on the surface of the Earth, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps: 
+1.	Choosing the projection
+2.	Defining geographic extents
+3.	Designing the map 
+4.	Choosing classification methods and categories
+5.	Choosing a color scheme for data visualization
+6.	Clearly defining the audience
+7.	Labeling
+8.	Adding a legend
+9.	Defining a layout 
+10.	Being conscious of visual hierarchy
+
+Although this lesson will not deal with technicalities, what the above steps mean exactly, **and how they articulate with source criticism**, should become clear in the course of this lesson. For this first assignment, we will focus on the basic elements found on a map. For this watch the video Reading maps: How to analyze a map (2min10). Take notes on what Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what a perfect map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”.
+
+If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: Analyzing a map: “Imperial Federation,” 1886 (4min01). 
+
+In the video, LeBlanc talks about map projections. What is a projection? Consult Country Centered Map Projections and click on the country you are currently living in. Change the map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
+Continue further down the page and read the text below the illustration to learn more about projections. 
+
+As a last step to understand the elements of a map, compare the two maps below and think about what elements are visible, what story is told and what you can learn from each map. 
+•	How are the two maps organized? 
+•	What elements of a map can you detect? What is missing?
+•	Who made the map? For who? When? For what purpose?
+•	What stories do the maps tell?
 
 
 
-Assignment A-1: Do the notices provide sufficient information (metadata quality) for contextualizing the maps and evaluating them as source?
-Compare topographic maps which you can find on Kartenforum (https://kartenforum.slub-dresden.de/) and on Arcanum (https://maps.arcanum.com/en/). What kind of additional information can you find about the map (e.g. date of publication, cartographer or editor)? Is there information that you would need that is missing? Why might that be? What are advantages and disadvantages of these two online libraries concerning accessibility (Can you access the maps easily? Are they downloadable so you can do your own analysis with them?), user interface (Can you navigate the website with ease?), topics available (What research might be done with the maps provided?), etc.?
 
 
