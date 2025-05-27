@@ -146,6 +146,7 @@ Figure number X: E. Romer, Polski atlas kongresowy. Atlas des problèmes territo
 Figure number X: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
 
 ![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "Ethnographic map of Hungary based on population density")
+<!-- available at: https://maps.hungaricana.hu/en/HTITerkeptar/2751/ - authorization of use asked on 27 May 2025)-->
 
 Check the maps and the contextual information provided above. You can also conduct some research on the web. Answer the following questions. 
 
@@ -170,16 +171,16 @@ Now write a short paragraph to summarize your findings:
 * What stories do the maps tell?
 
 **To finish, make a research on the web about both maps, using the title of each as search words. Note which libraries and in which countries the digitized versions of these maps are available. Based on your findings, what are your remarks about the geographic area of diffusion of the digitized versions of the maps?** 
-<!-->
+
 ### 2c Visualizing power 
 
-Maps can be an impressive tool to visualize power. Political entities - kingdoms, nation states, and empires - have used them to mark borders, to outline territorial ambitions or to demonstrate influence. Cartographers coupled selection of data with techniques of visualization to highlight power and influence. The following example takes up two maps of the world which show the influence of the British Empire during the 1920s and 1930s.
+Maps can be an impressive tool to visualize power. Political entities - kingdoms, nation states, and empires - have used them to mark borders, to outline territorial ambitions or to demonstrate influence. Cartographers coupled selection of data with techniques of visualization to highlight power and influence and to make arguments. The following example takes up two maps of the world which, from different points of view, show the influence of the British Empire during the 1920s and 1930s.
 
 ![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
 
 Figure: Chambers of Commerce Atlas, General Reference Map, 1928
 
-The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The Chambers are one of the main British institution to facilitate world-wide trade. The Atlas was directed to British and other English speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which belong to the British Empire. Besides this obvious (and colourful) technique to highlight British influence over the world, there are a few less obvious techniques, such as the use of place names: For example, the map uses the names Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul, because  Bombay and Constantinopole were the names commonly in use in English language for these two cities. For British readers, these place names gave suitable orientation. At the same time, the use of these place names suggests a world which is British, or at least: a world that is an English speaking world. While English was (and is) of course a main language for global trade, these place names neglect the presence of other cultures and languages, which could have been represented in place names like Mumbaī, İstanbul and others.
+The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The [Chambers](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institution to facilitate world-wide trade. The Atlas was directed to a British audience, and, in any case, any English-speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which belong to the British Empire. This is an obvious (and colourful) technique to highlight British influence over the world. However, the map also vehiculates dominant cultural representations of an imperial power, which is obvious in the use of place names: for example, Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul. Although the former were the placenames commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the the United Kingdom is culturally, financially and politically a dominant power. 
 
 ![Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "International Movements of Capital, 1938")
 
@@ -188,24 +189,28 @@ Figure: Radó, “International Movements of Capital”, 1938
 
 The map “International Movements of Capital” belongs to the „Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
 
-Assignment 1.1
-Read Wikipedia‘s entries on the two authors, i.e. the British Chambers of Commerce and Alexander Radó! What were their general ambitions?
-Wikipedia contributors, "British Chambers of Commerce," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) (accessed February 17, 2025).
+* Who created the map? When and in what purpose? You can consult the Wikipedia article on the map creator to answer this question. Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).  
+* What do the cercles and arrows represent? How do you interpret different sizes?
+* The map does not use colours but distinguishes visually categories of countries. What do these categories represent? WHich countries are represented individually and which collectively? Why do you think is that? 
+* How do you interprete the use of black colour? 
+* The map does not provide a dynamic (in the sense of interactive) visualization, given its date of creation. It does however have a sense of movement. How is this achieved?
+* Do you have access to the data the map creator worked with? How do you imagine them?  
 
-Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).
+**The part below was added by Sofia**
+Now you can take a look to the website [Our World In Data](https://ourworldindata.org/).
 
-Assignment 1.2
-Search for at least two more maps about imperial power. What are visual techniques to highlight influence over parts of the world? Use the following websites:
-[Old Maps Online](https://www.oldmapsonline.org/){:target="_blank"}
+Consult the About page to understand the mission of the initiative and the contributors.
 
-[Gallica](https://gallica.bnf.fr/accueil/fr/html/accueil-fr){:target="_blank"}
+Pick a map of your choice or use the one we propose: [GDP per capita, 2023](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
 
-Further reading: 
-[…]
--->
+* What types of visualizations do you have access to (including the map)? 
+* Do you have access to the data the map creator(s) worked with? 
+* Can you trace the origin of the data? Can you contextualize the visualizations by applying source criticism? 
+* What other elements and information you find interesting? 
 
-## Spatial representations as data / Exactitude 
+## 3 History take place. Maps as data
 
+### 3.a 
 Mapping an area has always been particularly important in warfare because of the need to identify weak points and crucial targets between enemies. On maps for public use, fortifications and military information often remained invisible, at best only outlined in vague shapes or blank spaces. One could argue due to the cruciality of this information, maps published by administrative authorities are the most precise ones. Nevertheless, the existence of precise maps posed the danger of them falling into enemies’ hands. So, even with topographic maps by administrative authorities, a critical analysis is needed to understand the content of the map. With World War II, a new and powerful tool for surveying became popular: aerial photography. Military technology enabled new ways of scouting the surface of the earth for vital infrastructure. Moreover, it was used to evaluate damage caused by air raids. 
 
 During World War II, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Aerial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on [their website](https://ncap.org.uk/). 
@@ -233,3 +238,60 @@ Read the Wikipedia articles on the squadrons, e.g. [540 Squadron RAF](https://en
 
 Assignment 2.2. What advantage does the topographic map have compared to an aerial photograph? Consider the circumstances of aerial photography from this period. Comparing different photographs will give insight. 
 
+
+### 3.b Reporting War 1914 and 2024
+
+Times of war are times of massive map production. While military maps are kept secret during the war, because they depict points of strategic interest, there is a huge number of maps produced for public use. These kind of public maps are published to show the development of war, the advancement of troops or the loss of territory. Public maps about warfare are a highly sensitive source for historiography, because wars are fought not only with weapons, but also with images. Therefore, we should guide a special focus on questions like who provided information and data to be shown on the map, and what was the particular purpose of the production of such public maps.
+
+In this part of the lesson, we compare maps from the First World War 1914-1918 and maps of the Russian-Ukrainian War since 2022. During the First World War, public maps about the war were mainly published in newspapers and journals. Most of these maps had a relatively small scale, i.e. the map showed a rough sketch of the front line between two countries in a scale of 1:1 Million to 1:5 Million. In case a part of the front line was of particular interest, some publishers added medium scale maps, for example about Verdun and its surroundings on the Franco-German front.
+
+Illustration 4-1: Verein für Kriegshilfe: Map of the Western front as of February 1915
+
+![Verein für Kriegshilfe: Map of the Western front as of February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01.jpg "Verein für Kriegshilfe: Map of the Western front as of February 1915") 
+
+This kind of small scale public maps were issued weekly. The regular rhythm of publication made these maps an important medium of information and propaganda: It showed the progress or non-progress of front lines, it informed readers at least roughly about areas in danger to be directly affected by the war, and it demonstrated gain and loss of territory. However, these small scale maps did not let the reader get closer to the situation along the front line. The armies kept large scale maps secret which showed trenches and fortified places, because publicly known details would allow the enemy to more precisely direct its attacks.
+
+
+![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "") 
+
+*Add title, credits, **Image caption, image credits, rights of use*
+
+![](/assets/images/maps-as-historical-sources/.Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg "") 
+
+*Image caption, image credits, rights of use*
+Illustration 4-2: Large scale map, Franco-German front, February 1915 **The image file is missing, should ask the authors**. 
+
+A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
+Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time.
+
+
+Illustration 4-3: files “Reporting-War_2023_LiveUkraineMap_01” and “LiveUAmap_2023-06-07_Ukraine”, a Screenshot of Ukraine on LiveUAmap on the 23th of June 2023
+
+<!--these two different images files are the same image actually - use only one-->
+
+![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+
+The example of the LiveUAmap is a multi-scale map. In a small scale it allows for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map derives from various sources, such as the Telegramm messager service. The LiveUAmap is provided by a Non Governmental Organisation based in McLean (Virginia, USA). Although we can zoom in to a large scale map, and although we can find information about the front line in detail, the map does not provide data about the positions of fortified places or military installations on the Ukrainian side.
+
+Assignment 4-1: Explore the sources of information that are located on LiveUAmap? 
+
+Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024) 
+
+## 4 Datasets as maps
+
+### 4.a Geographical Information Systems (GIS): understanding the concept of layered information
+GIS ≠ Maps. Above we learned the key elements pertaining to standard maps. The maps we studied were produced in an analogue age, meaning they were drawn by hand. In our current times, it is common practice to make use of computational tools to create maps. GIS is a software that allows us to display data on a georeferenced area (this means we have a digital map encoded with geographic coordinates) for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
+GIS allows the layering of information. In the case of historians, we can layer different historical sources and analyze spatial change over time. To understand what this can look like, access the [“Spatio-Temporal Map”](https://ww2.lu/spatiotemporal-map) of the online exhibition World War II Luxembourg. First, explore the maps. There are four different maps that you can chose from. Click on them one by one and notice how different the same space is represented each time. Describe briefly what each layer represents. Zoom in and out to see which layers have limits and which ones extend far beyond the borders of Luxembourg, or Europe. Why is that? 
+Study the most colorful map carefully: What does it depict? How does its appearance change when you change the map lying underneath it? Why is it projected at an angle?
+
+Turning on and off these so-called layers is a simple, yet pertinent example of GIS. These four different maps are four different layers of information that we can call upon and rearrange. They are four different ways of visualizing spatial data. 
+
+Now compare this to your everyday use of Google Maps and the different functions you have there: Did you ever think about these functions as an act of activating and deactivating layers of information? Play around with Google Maps on your browser or smartphone and think about the information that can be revealed or hidden. Type different key word searches, such as ‘pharmacy’ or ‘train station’ and think of these in terms of information layers that are being turned on and off.
+
+The European public service channel Arte has a program called “Mapping the World”, where maps take center stage to explain geopolotical events, past and present. Scan through the episode [Mapping the World. Rising Sea Levels: A Global Issue](https://www.arte.tv/en/videos/119961-011-A/mapping-the-world/) (12min16) and take notes of the different ways data is visualized and mapped. Can you think of other instances where data is presented in this way? Keep your eyes open when you next read a newspaper and look out for maps that are used to depict data (e.g. movements of migration, war reports, climate and weather reports, trade routes, etc.). These are instances of applied GIS. Ask yourself what kind of information these maps communicate and to what effect.
+
+Deutsch 
+[Mit offenen Karten. Der Globale Anstieg des Meerespiegels](https://www.arte.tv/de/videos/119961-011-A/mit-offenen-karten/)
+
+Francais
+[Quand la mer monte : un enjeu mondial | Le Dessous des Cartes | ARTE](https://www.arte.tv/fr/videos/119961-011-A/le-dessous-des-cartes/)
