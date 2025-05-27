@@ -295,3 +295,7 @@ Deutsch
 
 Francais
 [Quand la mer monte : un enjeu mondial | Le Dessous des Cartes | ARTE](https://www.arte.tv/fr/videos/119961-011-A/le-dessous-des-cartes/)
+
+
+
+<!--https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme-->
