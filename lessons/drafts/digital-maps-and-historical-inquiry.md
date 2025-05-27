@@ -147,26 +147,89 @@ Figure number X: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség 
 
 ![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "Ethnographic map of Hungary based on population density")
 
-Check the maps provided above and answer the following questions:
+Check the maps and the contextual information provided above. You can also conduct some research on the web. Answer the following questions. 
 
+COntext and perspective of creation
+* Who made the map? For who? When? 
+
+What does the maps represent:
 * What exactly is shown on the maps? 
 * What national perspectives are presented in each?
 
-Assignment 3.2.
+Choices and modalities of the representation: 
 * What kind of borders do you see? 
 * What do the differently coloured territories stand for? 
 * What is the statistical basis for this map? 
 * What does the colour red stand for and what visual effect is it supposed to achieve? 
 * How should the white areas on the map be interpreted?
 
-Assignment 3.3.
+Audience and intention: For what purpose? 
 * What does the map tell us about the political intention of the map author through the choice of map section and the drawn boundaries?
 
-As a last step to understand the elements of a map, compare the two maps below and think about what elements are visible, what story is told and what you can learn from each map. 
-•	How are the two maps organized? 
-•	What elements of a map can you detect? What is missing?
-•	Who made the map? For who? When? For what purpose?
-•	What stories do the maps tell?
+Now write a short paragraph to summarize your findings: 
+* What stories do the maps tell?
+
+**To finish, make a research on the web about both maps, using the title of each as search words. Note which libraries and in which countries the digitized versions of these maps are available. Based on your findings, what are your remarks about the geographic area of diffusion of the digitized versions of the maps?** 
+<!-->
+### 2c Visualizing power 
+
+Maps can be an impressive tool to visualize power. Political entities - kingdoms, nation states, and empires - have used them to mark borders, to outline territorial ambitions or to demonstrate influence. Cartographers coupled selection of data with techniques of visualization to highlight power and influence. The following example takes up two maps of the world which show the influence of the British Empire during the 1920s and 1930s.
+
+![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
+
+Figure: Chambers of Commerce Atlas, General Reference Map, 1928
+
+The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The Chambers are one of the main British institution to facilitate world-wide trade. The Atlas was directed to British and other English speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which belong to the British Empire. Besides this obvious (and colourful) technique to highlight British influence over the world, there are a few less obvious techniques, such as the use of place names: For example, the map uses the names Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul, because  Bombay and Constantinopole were the names commonly in use in English language for these two cities. For British readers, these place names gave suitable orientation. At the same time, the use of these place names suggests a world which is British, or at least: a world that is an English speaking world. While English was (and is) of course a main language for global trade, these place names neglect the presence of other cultures and languages, which could have been represented in place names like Mumbaī, İstanbul and others.
+
+![Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "International Movements of Capital, 1938")
 
 
+Figure: Radó, “International Movements of Capital”, 1938
+
+The map “International Movements of Capital” belongs to the „Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
+
+Assignment 1.1
+Read Wikipedia‘s entries on the two authors, i.e. the British Chambers of Commerce and Alexander Radó! What were their general ambitions?
+Wikipedia contributors, "British Chambers of Commerce," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) (accessed February 17, 2025).
+
+Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).
+
+Assignment 1.2
+Search for at least two more maps about imperial power. What are visual techniques to highlight influence over parts of the world? Use the following websites:
+[Old Maps Online](https://www.oldmapsonline.org/){:target="_blank"}
+
+[Gallica](https://gallica.bnf.fr/accueil/fr/html/accueil-fr){:target="_blank"}
+
+Further reading: 
+[…]
+-->
+
+## Spatial representations as data / Exactitude 
+
+Mapping an area has always been particularly important in warfare because of the need to identify weak points and crucial targets between enemies. On maps for public use, fortifications and military information often remained invisible, at best only outlined in vague shapes or blank spaces. One could argue due to the cruciality of this information, maps published by administrative authorities are the most precise ones. Nevertheless, the existence of precise maps posed the danger of them falling into enemies’ hands. So, even with topographic maps by administrative authorities, a critical analysis is needed to understand the content of the map. With World War II, a new and powerful tool for surveying became popular: aerial photography. Military technology enabled new ways of scouting the surface of the earth for vital infrastructure. Moreover, it was used to evaluate damage caused by air raids. 
+
+During World War II, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Aerial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on [their website](https://ncap.org.uk/). 
+
+Each series of photographs allows us even to track the route of one specific plane during its flight. 
+
+![Detail of Topographic Map of Stettin, 1945](/assets/images/maps-as-historical-sources/1945-stettin-soviet-1-50000-crop.jpg "Detail of Topographic Map of Stettin, 1945")
+
+Illustration 2.1: Detail of Topographic Map of Stettin, 1945 
+
+The first illustration is a detail of a topographic map of Stettin in a scale of 1:50.000, created in 1945. Until the end of World War II, [Stettin](https://en.wikipedia.org/wiki/Szczecin){:target="_blank"} was a German town. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. This explains the first curiosity. The labelling is a Cyrillic transliteration of the German terms for the city: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. It is mixed with Russian expressions, such as “больн” ( the abbreviation for “hospital”). What errors might have occurred when considering the specific conditions of  map production? What is the estimated reliability of this topographic map as a representation of the city in 1945?
+
+![Royal Air Force, Aerial Photograph, 28th November 1943](/assets/images/maps-as-historical-sources/1943-11-28_NCAP-3070_TR_crop.png "Royal Air Force, Aerial Photograph, 28th November 1943") 
+Illustration 2.2: Royal Air Force, Aerial Photograph, 28th November 1943. 
+
+URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
+
+The NCAP provides the following information about the image in the file’s metadata: “Location: Pommerensdorf; West Pomeranian Province; Poland; 28th November 1943; Corporate bodies: 540 Squadron (RAF)”. Interestingly, it shows the city's current nationality (“Poland”), instead of the nationality during World War II (i.e. Germany). In addition, it does not regard the municipal incorporation of “Pommerensdorf [sic!]” into Stettin in 1939. Those research hurdles are the results of the city’s troubled history. 
+
+Analysing the picture and comparing it to the topographic map, the same train rails, the flow of the river Oder/Odra and the islands are recognisable. What objects are only visible in the photograph? While the train tracks are shown, the map does not mark the goods station’s wagon depot. The hospital buildings can be identified south of the wagon depot and the small park. However, the municipal gasworks across the tracks to the hospital’s East (recognisable by their round building structure) remain hidden on the map. Only information from other maps or the knowledge of the building shapes make the identification possible. This specific part of the town was heavily damaged by bomb raids already in April 1943. Therefore, empty fields, buildings without roofs and even some bomb craters are visible in the photograph. 
+
+Assignment 2.1.: Track [the flights over Stettin/Szczecin on the NCAP archive](https://ncap.org.uk/search?pos=9%20%5B13.03.2024%5D&archive=6-1-5-3) by using the interactive map. How many were there, and when were they conducted? 
+
+Read the Wikipedia articles on the squadrons, e.g. [540 Squadron RAF](https://en.wikipedia.org/wiki/No._540_Squadron_RAF) of the flights as help. What are possible explanations for the route, the timing, and which city areas were left out?
+
+Assignment 2.2. What advantage does the topographic map have compared to an aerial photograph? Consider the circumstances of aerial photography from this period. Comparing different photographs will give insight. 
 
