@@ -99,8 +99,9 @@ Compare topographic maps which you can find on [Kartenforum](https://kartenforum
 Tbc by the authors if readings and viewings are judged necessary 
 
 ## 2 Learning to read the stories maps tell
- 
-Elements of a map: gaining map literacy
+
+*Learning outcome - gaining map literacy to apply source criticism* 
+
 In principle, all maps are thematic. It is possible to distinguish between maps that focus on topographic features on the surface of the Earth, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps: 
 1.	Choosing the projection
 2.	Defining geographic extents
@@ -119,18 +120,53 @@ Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/wat
 
 If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01). 
 
-### 2a Playing with perspectives 
+### 2a Playing with perspective and distorsion 
 
-In the video, LeBlanc talks about map projections. What is a projection? Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Change the map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
+In the video, LeBlanc talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distorsion is inherent to it**.   
+
+**Now play with different map projections**. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
+
 Continue further down the page and read the text below the illustration to learn more about projections. 
+
+### 2b Decrypting choices, audience, and purpose: imagining populations in maps
+
+Since the 19<sup>th</sup> century, **the rise of nationalisms in Europe and worldwide highlighted the importance of population: ethnicity, language and religion represented high stakes in political antagonisms over perceived majorities and minorities and contested borders. The censuses conducted on a regular basis by states provided a statistical basis for measuring use of language, demographic development, etc. over a longer period. Political debates were reflected in the cartographic production  and census data were used to depict populations - and national(istic) arguments.** 
+
+You will work with two maps that were created in the context of the World War One and used respectively by the Polish and Hungarian delegations during the peace conference in Paris 1919/20 to legitimize national-territorial claims. These examples give insight into aspects of the cartographic debates about populations at the time. Both map authors (Eugeniusz Romer, and Pál Teleki, 1879-1941) were founding fathers of geography in their respective countries.
+
+[Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) had produced maps during the war. In its aftermath, these maps served as cartographic templates for the Polish delegation maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in it’s borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
+
+Figure number X: E. Romer, Polski atlas kongresowy. Atlas des problèmes territoriaux de la Pologne, Warszawa / Lwów 1921.
+
+![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy 1922 A188”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Romer 1916 Atlas Polski")
+
+
+[Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), future Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
+
+Figure number X: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
+
+![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "Ethnographic map of Hungary based on population density")
+
+Check the maps provided above and answer the following questions:
+
+* What exactly is shown on the maps? 
+* What national perspectives are presented in each?
+
+Assignment 3.2.
+* What kind of borders do you see? 
+* What do the differently coloured territories stand for? 
+* What is the statistical basis for this map? 
+* What does the colour red stand for and what visual effect is it supposed to achieve? 
+* How should the white areas on the map be interpreted?
+
+Assignment 3.3.
+* What does the map tell us about the political intention of the map author through the choice of map section and the drawn boundaries?
 
 As a last step to understand the elements of a map, compare the two maps below and think about what elements are visible, what story is told and what you can learn from each map. 
 •	How are the two maps organized? 
 •	What elements of a map can you detect? What is missing?
 •	Who made the map? For who? When? For what purpose?
 •	What stories do the maps tell?
-
-
 
 
 
