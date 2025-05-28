@@ -272,23 +272,22 @@ This kind of small scale public maps were issued weekly. The regular rhythm of p
 ![](/assets/images/maps-as-historical-sources/.Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg "") 
 
 *Image caption, image credits, rights of use*
-Illustration 4-2: Large scale map, Franco-German front, February 1915 **The image file is missing, should ask the authors**. 
+Figure XX: Large scale map, Franco-German front, February 1915 **Is this the right caption for the image above???** Where is this image held? We need to mention this.  
 
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
 Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time.
 
-
-Illustration 4-3: files “Reporting-War_2023_LiveUkraineMap_01” and “LiveUAmap_2023-06-07_Ukraine”, a Screenshot of Ukraine on LiveUAmap on the 23th of June 2023
-
-<!--these two different images files are the same image actually - use only one-->
-
-![Screenshot of Ukraine on the service Live Universal Awareness Map on the 23th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+![Screenshot of Ukraine on the service Live Universal Awareness Map on the 7th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
+Figure XX: Screenshot of Ukraine on LiveUAmap on the 7th of June 2023
+URL: https://liveuamap.com/en/time/07.06.2023 
 
 The example of the LiveUAmap is a multi-scale map. In a small scale it allows for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map derives from various sources, such as the Telegramm messager service. The LiveUAmap is provided by a Non Governmental Organisation based in McLean (Virginia, USA). Although we can zoom in to a large scale map, and although we can find information about the front line in detail, the map does not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
-Assignment 4-1: Explore the sources of information that are located on LiveUAmap? 
+Check the above map and explore the sources of information that are located on LiveUAmap. **It is not clear if what you want here is to check the sources of geo information, for ex. OpenStreetMap, or the sources in the news feed on the right: this must be clarified** 
 
-Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024). **For example, you could use [this map](https://www.understandingwar.org/sites/default/files/Luhansk%20Battle%20Map%20Draft%20March%2011%2C2024.png).**
+There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024). **For example, you could use [this map](https://www.understandingwar.org/sites/default/files/Luhansk%20Battle%20Map%20Draft%20March%2011%2C2024.png).**
+
+**Comparing maps from World War One and the Ukrainian War, what do you notice when applying source criticism (refer to the list provided in assignement 2)? Are you able to identify the context of creation, the intention of the maps and the provenance of information? What do you notice about the creators? Is there something that changes and why?** 
 
 ## 4 Datasets as maps: exploring historical Geographical Information Systems (GIS)
 
