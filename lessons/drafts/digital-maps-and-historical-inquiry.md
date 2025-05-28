@@ -108,6 +108,7 @@ Compare topographic maps which you can find on [Kartenforum](https://kartenforum
 
 ## 2 Learning to read the stories maps tell
 By Eliane Schmid
+
 *Learning outcome - gaining map literacy to apply source criticism* 
 
 In principle, all maps are thematic. It is possible to distinguish between maps that focus on topographic features on the surface of the Earth, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps: 
@@ -122,13 +123,17 @@ In principle, all maps are thematic. It is possible to distinguish between maps 
 9.	Defining a layout 
 10.	Being conscious of visual hierarchy
 
-Although this lesson will not deal with technicalities, it is important to understand how the above steps **articulate with source criticism**. When analyzing maps as historical sources, we start with basic questions: who produced the map, and when? In what purpose and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1c), of information contained in other sources, and with applying internal critique on the map content.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. Theay also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuriesand especially since the 19th century. Therefore, as the outcome of a chain of decisions, maps filter spatial reality and vehiculate specific perceptions. Thus, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
+Although this lesson will not deal with technicalities, it is important to understand how the above steps **articulate with source criticism**. When analyzing maps as historical sources, we start with basic questions: who produced the map, and when? In what purpose and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1c), of information contained in other sources, and with applying internal critique on the map content.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuriesand especially since the 19th century. Therefore, as the outcome of a chain of decisions, maps filter spatial reality and vehiculate specific perceptions. Thus, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
 
 Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what a perfect map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
 
 If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01). 
 
 ### 2.a Playing with perspective and distorsion 
+
+By Eliane Schmid
+
+*Learning outcome: map literacy/knowing what projection does to a map and how it is a construct*
 
 In the video, LeBlanc talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distorsion is inherent to it**.   
 
@@ -139,11 +144,13 @@ Continue further down the page and read the text below the illustration to learn
 ### 2.b Decrypting choices, audience, and purpose: imagining populations in maps
 By Peter Haslinger
 
+*Learning outcome - apply internal source critique to a map*
+
 Since the 19<sup>th</sup> century, **the rise of nationalisms in Europe and worldwide highlighted the importance of population: ethnicity, language and religion represented high stakes in political antagonisms over perceived majorities and minorities and contested borders. The censuses conducted on a regular basis by states provided a statistical basis for measuring use of language, demographic development, etc. over a longer period. Political debates were reflected in the cartographic production  and census data were used to depict populations - and national(istic) arguments.** 
 
 You will work with two maps that were created in the context of the World War One and used respectively by the Polish and Hungarian delegations during the peace conference in Paris 1919/20 to legitimize national-territorial claims. These examples give insight into aspects of the cartographic debates about populations at the time. Both map authors (Eugeniusz Romer, and Pál Teleki, 1879-1941) were founding fathers of geography in their respective countries.
 
-[Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) had produced maps during the war. In its aftermath, these maps served as cartographic templates for the Polish delegation maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in it’s borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
+[Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) had produced maps during the war. In its aftermath, these maps served as cartographic templates for the Polish delegation maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in its borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
 
 Figure number X: E. Romer, Polski atlas kongresowy. Atlas des problèmes territoriaux de la Pologne, Warszawa / Lwów 1921.
 
@@ -184,6 +191,8 @@ Now write a short paragraph to summarize your findings:
 ### 2.c Visualizing power 
 By Christian Lotz
 
+*Learning outcome - initiation to maps as data visualizations*
+
 Maps can be an impressive tool to visualize power. Political entities - kingdoms, nation states, and empires - have used them to mark borders, to outline territorial ambitions or to demonstrate influence. Cartographers coupled selection of data with techniques of visualization to highlight power and influence and to make arguments. The following example takes up two maps of the world which, from different points of view, show the influence of the British Empire during the 1920s and 1930s.
 
 ![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
@@ -202,13 +211,18 @@ Figure XX: Radó, “International Movements of Capital”, 1938
 The map “International Movements of Capital” belongs to the „Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
 
 * Who created the map? When and in what purpose? You can consult the Wikipedia article on the map creator to answer this question. Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).  
+
 *** What do the cercles and arrows represent? How do you interpret different sizes?**
+
 *** The map does not use colours but distinguishes visually categories of countries. What do these categories represent? WHich countries are represented individually and which collectively? Why do you think is that?** 
+
 *** How do you interprete the use of black colour?** 
+
 *** The map does not provide a dynamic (in the sense of interactive) visualization, given its date of creation. It does however have a sense of movement. How is this achieved?**
+
 *** Do you have access to the data the map creator worked with? How do you imagine them?**  
 
-**The part below was added by Sofia**
+**The part below (and questions above) was added by Sofia**
 Now you can take a look to the website [Our World In Data](https://ourworldindata.org/).
 
 Consult the About page to understand the mission of the initiative and the contributors.
@@ -222,7 +236,14 @@ Pick a map of your choice or use the one we propose: [GDP per capita, 2023](http
 
 ## 3 History takes place. Maps as (real-time) data
 
-### 3.a 
+### 3.a Comparing maps and aerial photography
+
+By Tabitha Redepenning
+
+*Learning outcome - compare and cross-check different technologies representing space*
+
+*Learning outcome - manipulate the digital archive and analyze a corpus of digitized photos of historical sources*
+
 Mapping an area has always been particularly important in warfare because of the need to identify weak points and crucial targets between enemies. On maps for public use, fortifications and military information often remained invisible, at best only outlined in vague shapes or blank spaces. This brings about once more the selections in representations on maps that may deceive. But with World War Two, a new and powerful tool for surveying became popular: aerial photography. Military technology enabled new ways of scouting the surface of the earth for vital infrastructure. Moreover, it was used to evaluate damage caused by air raids. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Great Britain, the United States of America, and the Soviet Union. An important collection of aerial photography is the National Collection of Aerial Photography (NCAP), which is digitalising thousands of (British and foreign) photographs and make them available on [their website](https://ncap.org.uk/). 
 
 Each series of photographs allows us even to track the route of one specific plane during its flight. 
@@ -241,7 +262,7 @@ URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
 We work with one photograph of an excursion of the 540 Squadron of the RAF, that took place in November 1943. The photo is part of the NCAP collection: [URL](https://ncap.org.uk/frame/6-1-5-3-254?pos=9) The following information about the image is provided in the file’s metadata: “Location: Pommerensdorf; West Pomeranian Province; Poland; 28th November 1943; Corporate bodies: 540 Squadron (RAF)”. Critically analysing these metadata, we notice as historians: 
 * that the name of the town of Stettin does not appear, thus disregarding the municipal incorporation of “Pommerensdorf [sic!]” into Stettin in 1939
 * that there is an anachronism in the sense that the town's location is “Poland” even though the photograph dates from a time the city was part of Germany. 
-Those research hurdles are a **compromise** between the city’s troubled history **and the needs - sometimes shortcomings - of classififications of the patrimonial collections.**  
+Those research hurdles are a **compromise** between the city’s troubled history **and the needs - sometimes shortcomings - of classifications of the patrimonial collections.**  
 
 Analysing the picture and comparing it to the topographic map, the same train rails, the flow of the river Oder/Odra and the islands are recognisable. But are there objects that are only visible in the photograph? Indeed, while the map shows the train tracks, it does not mark the goods station’s wagon depot. **In the photograph???=>** The hospital buildings can be identified south of the wagon depot and the small park. However, the municipal gasworks across the tracks to the hospital’s East (recognisable by their round building structure) remain hidden on the map. Only information from other maps or the knowledge of the building shapes make the identification possible. This specific part of the town was heavily damaged by bomb raids already in April 1943. Therefore, empty fields, buildings without roofs and even some bomb craters are visible in the photograph. 
 **Should we add a conclusion for this comparison?**
@@ -255,10 +276,14 @@ Track [the flights over Stettin/Szczecin on the NCAP archive](https://ncap.org.u
 You can read the Wikipedia articles on the [540 Squadron of the RAF](https://en.wikipedia.org/wiki/No._540_Squadron_RAF) to find complementary information on the flights. After doing this, can you find possible explanations for the route, the timing, and the town areas that were left out?
 
 **Now reflect on the following:**
-What advantage does the topographic map have compared to an aerial photograph? Consider the circumstances of aerial photography from this period. Comparing different photographs will give insight. **SOfia comment: Need to provide more guidance here***. 
+What advantage does the topographic map have compared to an aerial photograph? Consider the circumstances of aerial photography from this period. Comparing different photographs will give insight. **SOfia comment: Need to provide more guidance and hints here: what could be considered an advantage and for whom? For the researcher?**. 
 
 
 ### 3.b Reporting War 1914 and 2024
+
+By Christian Lotz
+
+*Learning outcome - understand how availability of digital data, internet, and community, impact the production and communication of maps* 
 
 Times of war are times of massive map production. While military maps are kept secret during the war, because they depict points of strategic interest, there is a huge number of maps produced for public use to inform about the war (advancement of troops, loss of territory etc) **or as means of propaganda.** Public maps about warfare are a highly sensitive source for historiography, because wars are fought not only with weapons, but also with images. Therefore, we should guide a special focus on questions like who provided information and data to be shown on the map, and what was the particular purpose of the production of such public maps.
 
@@ -321,9 +346,7 @@ Now compare this to your everyday use of Google Maps and the different functions
 ### 4.b What’s in a name? Street names as a reflection of local histories
 By Werner Tschacher, Stefan Krebs
 
-Learning objectives: 
- 
-*- Get a hands-on experience of working with geospatial normalized data through critical engagement with local history*
+*Learning outcome - hands-on experience of working with geospatial data through critical engagement with local history*
 
 
 > This assignment is based on a [teaching dossier](https://minett-stories.lu/media/pdf/education/street-names-dossier-en.pdf) that was elaborated as part of the online exhibition [“Minett Stories”](https://minett-stories.lu/), a result of the research project “Remixing Industrial Pasts in the Digital Ages”, carried out with the support of Esch2022 asbl. between 2019 and 2023 at the Centre for Contemporary and Digital History (C2DH) at the University of Luxembourg. The assignment can be adapted to other national/local contexts for which geospatial data are available. 
@@ -353,7 +376,10 @@ To use Google Maps, you need to have a personal Google account and review the in
 You could simply create a map by tagging the names of the streets related to the industrial past of Esch-sur-Alzette. Or you could go a step further and integrate the photos you made during your field work. Now, by doing so, it is you who creates a new layer and integrate it in a user-friendly version of a GIS that Google Maps is. If you publish your map, please contact us to integrate the link in this lesson!
 
 ### 4.c Evaluating GIS datasets about historical phenomena
+
 By Christian Lotz
+
+*Learning outcome - explore the nature of GIS datasets and understand the need to exercise historical data criticism* 
 
 This assignment does not provide an initiation to GIS and mapping software, as such resources are already available online (see reading suggestions below). Instead, it focuses on how historians can critically evaluate available GIS datasets and the maps which were created based on these data. 
 
@@ -377,7 +403,7 @@ The authors of the data set describe the preparation of data and the sources fro
 ![Kingdom of Poland as part of the Russian Empire in the 19th c., visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 **Dataset reference: O’Neill, Kelly. 2016. “Administrative Boundaries of the Russian Empire (1820s): Provinces (Oblasti).” Harvard Dataverse. https://doi.org/doi:10.7910/DVN/5LUP5S.** 
 
-The following screenshot (figure XX) shows a dataset about the border of the partitions of Poland. The data set was created by Christopher Winters at Chicago University. Comparing Abb-5-1 and Abb-5-2, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
+The following screenshot (figure XX) shows a dataset about the border of the partitions of Poland. The data set was created by Christopher Winters at Chicago University. Compared to the previous dataset, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
 
 ![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 <!-- should ask if we have the right to display this image -->
