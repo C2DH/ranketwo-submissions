@@ -336,7 +336,7 @@ To use Google Maps, you need to have a personal Google account and review the in
 
 You could simply create a map by tagging the names of the streets related to the industrial past of Esch-sur-Alzette. Or you could go a step further and integrate the photos you made during your field work. Now, by doing so, it is you who creates a new layer and integrate it in a user-friendly version of a GIS that Google Maps is. If you publish your map, please contact us to integrate the link in this lesson!
 
-### 4.C Evaluating GIS datasets about historical phenomena
+### 4.c Evaluating GIS datasets about historical phenomena
 By Christian Lotz
 
 This assignment does not provide an initiation to GIS and mapping software, as such resources are already available online (see reading suggestions below). Instead, it focuses on how historians can critically evaluate available GIS datasets and the maps which were created based on these data. 
@@ -365,11 +365,8 @@ Illustration 5.2, shows a data set about the border of the partitions of Poland.
 ![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 <!-- should ask if we have the right to display this image -->
 
-Assignment A5
-Browse the website hgis.org.uk and compare available data sets. In particular, analyse to what extent the data sets provide information about their origin and the material it is based on!
-Further reading: 
-[…]
 
+Browse the resources available on the website [The Historical GIS Research Network](http://hgis.org.uk/). Explore available datasets and compare them. In particular, look for information about the origin of the data, about the conception and the creation of the data, and the technical environment of the inception of the dataset.
 
 
 ### Reading/viewing suggestions of: Datasets as maps: exploring historical Geographical Information Systems (GIS) 
@@ -387,6 +384,9 @@ Francais
 Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [https://opensourceoptions.com/qgis-tutorial-for-beginners/](https://opensourceoptions.com/qgis-tutorial-for-beginners/){:target="_blank"} 
 
 Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 minutes. [https://youtu.be/Eg4_duqH5Q4](https://youtu.be/Eg4_duqH5Q4){:target="_blank"} 
+
+*On GIS historical criticism*
+Wilm, Julius (April 13, 2023). Layering in GIS as a Method of Historical Deconstruction and Source Criticism. *TRAFO – Blog for Transregional Research*. DOI: [https://doi.org/10.58079/ut6o](https://doi.org/10.58079/ut6o) Retrieved 28 May 2025 
 
 <!--Keep your eyes open when you next read a newspaper and look out for maps that are used to depict data (e.g. movements of migration, war reports, climate and weather reports, trade routes, etc.).--> 
 
