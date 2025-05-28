@@ -36,7 +36,7 @@ og:
 
 Maps are a means of communication. Humans have used them to provide spatial information based on available knowledge and technologies, since ancient times. Nowadays, we are familiar with interactive web map services on our smart phones. 
 
-Maps offer guidance but can also deceive. While maps at first glance might appear to provide objective geographic information, it is important to keep in mind that they are not exact replicas of the spaces they represent. Instead they are complex systems of representation that inherently involve reduction, selection, and standardization that might leave out crucial information by accident, or on purpose. There is no better example for this than Jorge Luis Borges' one-paragraph story []"On Exactitude in Science"](https://en.wikipedia.org/wiki/On_Exactitude_in_Science): 
+Maps offer guidance but can also deceive. While maps at first glance might appear to provide objective geographic information, it is important to keep in mind that they are not exact replicas of the spaces they represent. Instead they are complex systems of representation that inherently involve reduction, selection, and standardization that might leave out crucial information by accident, or on purpose. There is no better example for this than Jorge Luis Borges' one-paragraph story ["On Exactitude in Science"](https://en.wikipedia.org/wiki/On_Exactitude_in_Science): 
 
 > …In that Empire, the Art of Cartography attained such Perfection that the map of a
 single Province occupied the entirety of a City, and the map of the Empire, the entirety of a Province. In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it. The following Generations, who were not so fond of the Study of Cartography as their Forebears had been, saw that that vast Map was Useless, and not without some Pitilessness was it, that they delivered it up to the Inclemencies of Sun and Winters. In the Deserts of the West, still today, there are Tattered Ruins of that Map, inhabited by Animals and Beggars; in all the Land there is no other Relic of the Disciplines of Geography.
@@ -51,11 +51,12 @@ The technological tools we have at our disposal today, have transformed how hist
 ## 1 Acceding to maps in the digital age: the mediation of the online repository  
 
 *Learning outcome 1 -critically analyze a digital repository to evaluate the provenance of a map* 
+
 *Learning outcome 2 -recognize the variety of digital repositories providing access to maps* 
 
 In the digital age, it is far easier to access maps, than it was before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps as well as additional information provided to each map are highly disparate, **reflecting different purpose or conditions of creation of the archive**, means of funding, **or community investment**.  
 
-### 1a Interrogating the (digital) map archive
+### 1.a Interrogating the (digital) map archive
 Each online library has its advantages and disadvantages, **but this is highly dependent on the intended use of the resources one wishes to make** and the research question(s). For some projects, a simple map giving an overview over a certain region may be already sufficient; other projects may necessitate very large scale maps including detailed information about the date of production, the publisher, etc. **In any case, the information provided by a map repository should allow historians to establish with certitude the provenance and the origin of the available resources.** 
 
 The following list proposes a selection of online map libraries that can be interesting for historians. There are many more, but we can start exploring here:
@@ -73,13 +74,18 @@ The following list proposes a selection of online map libraries that can be inte
 [Mapster](http://igrek.amzp.pl/){:target="_blank"}
 
 **Please follow the links provided above and compare the different repositories (if your time is limited, pick no less than three to make the comparison). Look for the following information:**
+
 **1. Who is the creator of the website**
+
 **2. Which is the purpose of the website**
+
 **3. What kind of maps the website provides: explore the geographical/thematical scope and language(s) available**
+
 **4. How are the maps displayed? You may find static images, in short photos of digitized maps, or interactive maps, which means they are based on layers of information, that we call Geographical Information Systems (see assignment number 4 )**
+
 **5. Are the maps reusable: downloadable and possible to reuse (republish, remix...) without copyright restrictions? What is the kind of permission the users have if any?**  
 
-### 1b The collaborative map archive 
+### 1.b The collaborative map archive 
 
 **At least two of these websites, [OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"} and [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} involve participatory practices based on a [community of contributors](https://en.wikipedia.org/wiki/Community_of_practice).** 
 
@@ -92,7 +98,7 @@ The following list proposes a selection of online map libraries that can be inte
 
 **Now think about how information technologies bring together networks of users and enable the formation of communities.**  
 
-### 1c Describing maps in the archive 
+### 1.c Describing maps in the archive 
 **Now it is time to get an idea of the information you find at the level of the map: this information should allow you to contextualize the creation and availability of the maps, and evaluate them as historical sources. The existence and the quality of systematic descriptions of archival resources, in this case maps, is the added value hidden in the mediation of the archive. It is an essential element for historians who rely on it to contextualize and evaluate their sources.**   
 
 Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. **Pick one map you find interesting** in each of these repositories.   What kind of additional information you can you find for each map (date of publication, date of digitization, publisher, author...) Is there information that you would need but is missing? If so, why might that be? What are advantages and disadvantages of these two online libraries concerning accessibility (e.g. can you access the maps easily, download them and reuse them for your own analysis? What research might be done with the maps provided?
@@ -122,7 +128,7 @@ Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/wat
 
 If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01). 
 
-### 2a Playing with perspective and distorsion 
+### 2.a Playing with perspective and distorsion 
 
 In the video, LeBlanc talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distorsion is inherent to it**.   
 
@@ -130,7 +136,7 @@ In the video, LeBlanc talks about map projections as one of the elements definin
 
 Continue further down the page and read the text below the illustration to learn more about projections. 
 
-### 2b Decrypting choices, audience, and purpose: imagining populations in maps
+### 2.b Decrypting choices, audience, and purpose: imagining populations in maps
 By Peter Haslinger
 
 Since the 19<sup>th</sup> century, **the rise of nationalisms in Europe and worldwide highlighted the importance of population: ethnicity, language and religion represented high stakes in political antagonisms over perceived majorities and minorities and contested borders. The censuses conducted on a regular basis by states provided a statistical basis for measuring use of language, demographic development, etc. over a longer period. Political debates were reflected in the cartographic production  and census data were used to depict populations - and national(istic) arguments.** 
@@ -175,7 +181,7 @@ Now write a short paragraph to summarize your findings:
 
 **To finish, make a research on the web about both maps, using the title of each as search words. Note which libraries and in which countries the digitized versions of these maps are available. Based on your findings, what are your remarks about the geographic area of diffusion of the digitized versions of the maps?** 
 
-### 2c Visualizing power 
+### 2.c Visualizing power 
 By Christian Lotz
 
 Maps can be an impressive tool to visualize power. Political entities - kingdoms, nation states, and empires - have used them to mark borders, to outline territorial ambitions or to demonstrate influence. Cartographers coupled selection of data with techniques of visualization to highlight power and influence and to make arguments. The following example takes up two maps of the world which, from different points of view, show the influence of the British Empire during the 1920s and 1930s.
