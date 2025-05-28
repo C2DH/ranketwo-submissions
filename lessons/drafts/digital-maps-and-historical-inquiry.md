@@ -234,6 +234,9 @@ Pick a map of your choice or use the one we propose: [GDP per capita, 2023](http
 * Can you trace the origin of the data? Can you contextualize the visualizations by applying source criticism? 
 * What other elements and information you find interesting? 
 
+### Reading/viewing suggestions of: 2 Learning to read the stories maps tell
+National Archives. “Analyze a Map,” August 15, 2016. https://www.archives.gov/education/lessons/worksheets/analyze-a-map-intermediate.
+
 ## 3 History takes place. Maps as (real-time) data
 
 ### 3.a Comparing maps and aerial photography
@@ -319,6 +322,8 @@ Check the above map and explore the sources of information that are located on L
 There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024). **For example, you could use [this map](https://www.understandingwar.org/sites/default/files/Luhansk%20Battle%20Map%20Draft%20March%2011%2C2024.png).**
 
 **Comparing maps from World War One and the Ukrainian War, what do you notice when applying source criticism (refer to the list provided in assignement 2)? Are you able to identify the context of creation, the intention of the maps and the provenance of information? What do you notice about the creators? Is there something that changes and why?** 
+
+### Reading/viewing suggestions of: 3 History takes place. Maps as (real-time) data
 
 ## 4 Datasets as maps: exploring historical Geographical Information Systems (GIS)
 
@@ -466,6 +471,8 @@ How do your maps differ depending on the time of day and the contextual circumst
 
 Think about how your personal background shapes the way you perceive space and how you consequently represent that perception on a piece of paper. Think about how your map design would change if you had a different personal background. How would that change your design?
 
+### Reading/viewing suggestions 
 
+Zwer, Nepthys. “When Jacques Bertin anticipated radical cartography.” imago mundi, October 31, 2023. https://www.imagomundi.fr/article51.html.
 
 <!--https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme-->
