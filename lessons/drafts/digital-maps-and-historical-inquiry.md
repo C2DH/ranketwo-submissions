@@ -88,7 +88,9 @@ Please explore them and note:
 2. How can a user be actively involved? What are the actions one needs to take in order to be able to contribute? Note how they can access the resources and contribute as identified user
 3. Are there specific instructions one has to follow (guidelines)? 
 4. How are the contributions controlled and validated? 
-5. How are the contributions credited? 
+5. How are the contributions credited?
+
+Now think about how information technologies bring together networks of users and how they become a community.  
 
 ### 1c Describing maps in the archive 
 **Now it is time to get an idea of the information you find at the level of the map: this information should allow you to contextualize the creation and availability of the maps, and evaluate them as historical sources. The existence and the quality of systematic descriptions of archival resources, in this case maps, is the added value hidden in the mediation of the archive. It is an essential element for historians who rely on it to contextualize and evaluate their sources.**   
@@ -180,7 +182,7 @@ Maps can be an impressive tool to visualize power. Political entities - kingdoms
 
 Figure: Chambers of Commerce Atlas, General Reference Map, 1928
 
-The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The [Chambers](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institution to facilitate world-wide trade. The Atlas was directed to a British audience, and, in any case, any English-speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which belong to the British Empire. This is an obvious (and colourful) technique to highlight British influence over the world. However, the map also vehiculates dominant cultural representations of an imperial power, which is obvious in the use of place names: for example, Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul. Although the former were the placenames commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the the United Kingdom is culturally, financially and politically a dominant power. 
+The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The [Chambers](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institution to facilitate world-wide trade. The Atlas was directed to a British audience, and, in any case, any English-speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence over the world. However, the map also vehiculates dominant cultural representations of an imperial power, which is obvious in the use of place names: for example, Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul. Although the former were the placenames commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the the United Kingdom is culturally, financially and politically a dominant power. 
 
 ![Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "International Movements of Capital, 1938")
 
@@ -203,7 +205,7 @@ Consult the About page to understand the mission of the initiative and the contr
 
 Pick a map of your choice or use the one we propose: [GDP per capita, 2023](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
 
-* What types of visualizations do you have access to (including the map)? 
+* What types of visualizations do you have access to besides the map? 
 * Do you have access to the data the map creator(s) worked with? 
 * Can you trace the origin of the data? Can you contextualize the visualizations by applying source criticism? 
 * What other elements and information you find interesting? 
@@ -275,27 +277,117 @@ The example of the LiveUAmap is a multi-scale map. In a small scale it allows fo
 
 Assignment 4-1: Explore the sources of information that are located on LiveUAmap? 
 
-Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024) 
+Assignment 4-2: There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024). **For example, you could use [this map](https://www.understandingwar.org/sites/default/files/Luhansk%20Battle%20Map%20Draft%20March%2011%2C2024.png).**
 
-## 4 Datasets as maps
+## 4 Datasets as maps: exploring historical Geographical Information Systems (GIS)
 
-### 4.a Geographical Information Systems (GIS): understanding the concept of layered information
-GIS ≠ Maps. Above we learned the key elements pertaining to standard maps. The maps we studied were produced in an analogue age, meaning they were drawn by hand. In our current times, it is common practice to make use of computational tools to create maps. GIS is a software that allows us to display data on a georeferenced area (this means we have a digital map encoded with geographic coordinates) for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
-GIS allows the layering of information. In the case of historians, we can layer different historical sources and analyze spatial change over time. To understand what this can look like, access the [“Spatio-Temporal Map”](https://ww2.lu/spatiotemporal-map) of the online exhibition World War II Luxembourg. First, explore the maps. There are four different maps that you can chose from. Click on them one by one and notice how different the same space is represented each time. Describe briefly what each layer represents. Zoom in and out to see which layers have limits and which ones extend far beyond the borders of Luxembourg, or Europe. Why is that? 
-Study the most colorful map carefully: What does it depict? How does its appearance change when you change the map lying underneath it? Why is it projected at an angle?
+### 4.a Understanding the concept of layered information
+By Eliane Schmid 
+
+GIS ≠ Maps. A [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) is a software that allows us to display data on a [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) area (this means we have a digital map encoded with [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system) ==> we have a map, created digitally, where the area that it represents is attached to geographic coordinates e.g. its exact geographic positions on earth represented mathematically) for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
+
+GIS allows the layering of information. **One could think of it as transparent sheets put on top of each other and held by a digital map: one of them showing roads, another rivers, another flagging the exact places where battles happened a given year. Each "layer" contains different types of data that you can turn on or off to see patterns and connections.** As historians, we can layer different historical sources **e.g. census data, trade routes, or historical events** and analyze spatial change over time **or discover connections that aren't obvious when looking at the sources.** 
+
+To understand what this can look like, access the [“Spatio-Temporal Map”](https://ww2.lu/spatiotemporal-map) of the online exhibition World War II Luxembourg. 
+* First, explore the maps. There are four different maps that you can chose from. 
+* Click on them one by one and notice how different the same space is represented each time. 
+* Describe briefly what each layer represents. 
+* Zoom in and out to see which layers have limits and which ones extend far beyond the borders of Luxembourg, or Europe. Why is that? 
+* Study the most colorful map carefully: 
+  * What does it depict? 
+  * How does its appearance change when you change the map lying underneath it? 
+  * Why is it projected at an angle?
 
 Turning on and off these so-called layers is a simple, yet pertinent example of GIS. These four different maps are four different layers of information that we can call upon and rearrange. They are four different ways of visualizing spatial data. 
 
-Now compare this to your everyday use of Google Maps and the different functions you have there: Did you ever think about these functions as an act of activating and deactivating layers of information? Play around with Google Maps on your browser or smartphone and think about the information that can be revealed or hidden. Type different key word searches, such as ‘pharmacy’ or ‘train station’ and think of these in terms of information layers that are being turned on and off.
+Now compare this to your everyday use of Google Maps and the different functions you have there: Did you ever think about these functions as an act of activating and deactivating layers of information? Play around with Google Maps on your browser or smartphone and think about the information that can be revealed or hidden. Type different key word searches, such as ‘pharmacy’ or ‘train station’ and think of these in terms of information layers that are being turned on and off. You may also build yourself a layer of data to add it in a map, guided by the exercise that follows. 
 
-The European public service channel Arte has a program called “Mapping the World”, where maps take center stage to explain geopolotical events, past and present. Scan through the episode [Mapping the World. Rising Sea Levels: A Global Issue](https://www.arte.tv/en/videos/119961-011-A/mapping-the-world/) (12min16) and take notes of the different ways data is visualized and mapped. Can you think of other instances where data is presented in this way? Keep your eyes open when you next read a newspaper and look out for maps that are used to depict data (e.g. movements of migration, war reports, climate and weather reports, trade routes, etc.). These are instances of applied GIS. Ask yourself what kind of information these maps communicate and to what effect.
+### 4.b What’s in a name? Street names as a reflection of local histories
+By Werner Tschacher, Stefan Krebs
+
+Learning objectives: 
+- Critically engage with local history 
+- Get a hands-on experience of working with geospatial normalized data
+
+
+> This assignment is based on a [teaching dossier](https://minett-stories.lu/media/pdf/education/street-names-dossier-en.pdf) that was elaborated as part of the online exhibition [“Minett Stories”](https://minett-stories.lu/), a result of the research project “Remixing Industrial Pasts in the Digital Ages”, carried out with the support of Esch2022 asbl. between 2019 and 2023 at the Centre for Contemporary and Digital History (C2DH) at the University of Luxembourg.The assignment can be adapted to other national/local contexts for which geospatial data are available. 
+
+Landscape and place names play an important role as reference points for regional identity. In the south of Luxembourg, these names have changed several times in connection with the industrial transformation of the landscape. Before industrialisation, the entire southern region in Luxembourg was part of a larger region known traditionally as “Gutland” because of its fertile soil. When the southern region entered the industrial age in 1850, it was first the landscape that changed and then the names. As iron ore mining intensified, industrial open-cast mining and quarrying underground brought the colour of the red-brown minette ore to the surface at more and more points in the green landscape.
+
+Industrialisation tore the land up, deforesting areas and building production sites on them. Contemporary sources testify that new region names were created after the mid-19th century that related to the mining activities of extracting the minette ore: “Minett” area and “Rote Erde” (Red Earth). Literally, the French word “minette” means small mine or small vein, given the low iron content of the ore. Thus, the naming (and renaming) of what is known currently as the Minett reflect the industrial development of the region. > Source: Werner Tschacher, Naming the Minett, _Minett Stories_, 2022, available at: [https://minett-stories.lu/en/story/naming-and-renaming-of-the-luxembourg-southern-region](https://minett-stories.lu/en/story/naming-and-renaming-of-the-luxembourg-southern-region)
+
+Let us examine the traces of this historical heritage at the scale of Luxembourg’s second largest city, [Esch-sur-Alzette](https://en.wikipedia.org/wiki/Esch-sur-Alzette). The traditional centre of the Minett region, often referred to as the “Métropole du fer” or “rote Stadt” \[red town\] in the 20th century.
+
+For this exercise, you will use [Luxembourg’s national official geoportal](https://www.geoportail.lu/en/), a governmental [web portal to collect, describe, show and deliver geospatial data](https://en.wikipedia.org/wiki/Geoportal). Geoportals are essential infrastructures for one to find good quality geospatial data - imagine them as libraries that enable you to work with this kind of data. 
+
+Please go to the [street name directory of the city of Esch-sur-Alzette](https://map.geoportail.lu/addresses/Esch-sur-Alzette/?lang=en) to access the exhaustive list of all of the city’s street names. Then, look for those that are associated with the subject of industry - there are several such names with various references: general names (e.g. Rue de l’Acier, Rue de l’Industrie, Rue de l‘Usine), former steelworks and mines (e.g. An der Schmelz, Avenue des Hauts-Fourneaux, Ennert den Héchiewen, Rue des Mines), job titles (e.g. Avenue des Sidérurgistes, Rue des Fondeurs, Rue des Mineurs) and the names of inventors and industrialists (e.g. Rue Henry Bessemer, Place Norbert Metz, Rue Émile Mayrisch, Rue Léon Metz, Rue Sidney Thomas). All these names refer to the multiple facets of the industrial history of the Minett region and its centre, Esch-sur-Alzette. The same applies to other towns and locations in the southern region such as Pétange, Differdange, Dudelange, Bettembourg, Rumelange.
+
+Make a list of the street names you found and reflect on them (or discuss the names if you work in groups). Try to establish a typology that regroups these names into categories (names of places, names of persons, names of professions etc).
+
+> Tip: you can compare the list you established with our non-exhaustive [list](/assets/docs/industrial-streetnames-esch.txt) 
+
+Carry out online research and collect information and photos about the different street names. Prepare short information files about each street name. For example, for a person you can note birth and death dates, professional quality, link to the city’s industrial past, any other information you find relevant. Or, for a place named after a profession, you can search the origins of the name, the evolution of professional activity, relics of the activity in the street. If you wish to dig deeper, you may conduct research to the town archives or interview people.
+
+Finally, you can do some field work: visit the streets you found and familiarise yourself with the location and surroundings. You can check if there are any visible traces associating the streets with the historical past that served to name them: architectural constructions, monuments, relics of past activities… If you find any, take photos on your phone or, at the very least, of the street signs.
+
+Now you have enough information to link to geospatial data and to create your own map! You can use a service like [Google Maps](https://www.google.com/maps/d/) (or, if you wish to use an interface in French and open source software, [GoGoCarto](https://gogocarto.fr/), instructions are provided in the French version of this lesson). 
+
+To use Google Maps, you need to have a personal Google account and review the instructions available in: Clifford, Jim, Josh MacFadyen, and Daniel Macfarlane. “Intro to Google Maps and Google Earth.” _Programming Historian 2_ (2013), [https://doi.org/10.46430/phen0028](https://doi.org/10.46430/phen0028)  
+
+You could simply create a map by tagging the names of the streets related to the industrial past of Esch-sur-Alzette. Or you could go a step further and integrate the photos you made during your field work. Now, by doing so, it is you who creates a new layer and integrate it in a user-friendly version of a GIS that Google Maps is. If you publish your map, please contact us to integrate the link in this lesson!
+
+### 4.C Evaluating GIS datasets about historical phenomena
+By Christian Lotz
+
+This assignment does not provide an initiation to GIS and mapping software, as such resources are already available online (see reading suggestions below). Instead, it focuses on how historians can critically evaluate available GIS datasets and the maps which were created based on these data. 
+
+**Simply put, GIS data, that we call [geopackages](https://fr.wikipedia.org/wiki/Geopackage), are a combination of folders containing spatial data, attribute data, and metadata. The spatial data are necessary to create the representation of the space the map focuses on, whereas the attribute data serve to describe it with a variety of features, depending the point of view/intention of the map. These data create the layers of the map. Finally, the metadata provide descriptive and technical information about the two other types of data. Once imported in a GIS software, these data serve to create the layers of the map - that we previously imagined as sheets of different information attached to a map.** 
+
+GIS data are available in various repositories such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library){:target="_blank"} **which is specialized in geospatial data. They can also be available in scientific repositories not necessarily specialized in geospatial data, or centralized repositories where governments enable publishing of open datasets.** Historians, as other users, can download geopackages from these repositories to use them with the software of their choice. **Or they can create and contribute their own datasets.** 
+
+Regarding digital source criticism, we should focus on the following questions: 
+
+* What is the origin of the data, which were used to create the dataset? 
+* How did the creators of the dataset transform the original information into data? What kind of categories did the creators of the dataset **privilege** to transform the information into data?
+**What are the technical components and environment that may have had an impact on the creation of the dataset?**  
+
+**Good quality metadata, and the existence of detailed documentation, are crucial elements for evaluating the datasets, as some of the information necessary for the above may be available there.**
+
+Let's investigate a dataset of the „Imperiia Project“ run by Kelly O’Neill at Harvard University. The Imperiia Project created data sets about the administrative borders of the Russian Empire.
+
+
+Illustration 5.1 shows the data set about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The authors of the data set describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity a name in Russian (Cyrillic) and in a latin transliteration is given.
+
+![Kingdom of Poland as part of the Russian Empire in the 19th c., visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
+
+Illustration 5.2, shows a data set about the border of the partitions of Poland. The data set was created by Christopher Winters at Chicago University. Comparing Abb-5-1 and Abb-5-2, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
+
+![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
+<!-- should ask if we have the right to display this image -->
+
+Assignment A5
+Browse the website hgis.org.uk and compare available data sets. In particular, analyse to what extent the data sets provide information about their origin and the material it is based on!
+Further reading: 
+[…]
+
+
+
+### Reading/viewing suggestions of: Datasets as maps: exploring historical Geographical Information Systems (GIS) 
+
+The European public service channel Arte has a program called “Mapping the World”, where maps take center stage to explain geopolitical events, past and present. Scan through the episode that shows different ways data is visualized and mapped and ask yourself what kind of information these maps communicate and to what effect:
+
+[Mapping the World. Rising Sea Levels: A Global Issue](https://www.arte.tv/en/videos/119961-011-A/mapping-the-world/) (12min16)
 
 Deutsch 
 [Mit offenen Karten. Der Globale Anstieg des Meerespiegels](https://www.arte.tv/de/videos/119961-011-A/mit-offenen-karten/)
-
 Francais
 [Quand la mer monte : un enjeu mondial | Le Dessous des Cartes | ARTE](https://www.arte.tv/fr/videos/119961-011-A/le-dessous-des-cartes/)
 
+*Educational resources to obtain technical skills on GIS*
+Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [https://opensourceoptions.com/qgis-tutorial-for-beginners/](https://opensourceoptions.com/qgis-tutorial-for-beginners/){:target="_blank"} 
 
+Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 minutes. [https://youtu.be/Eg4_duqH5Q4](https://youtu.be/Eg4_duqH5Q4){:target="_blank"} 
+
+<!--Keep your eyes open when you next read a newspaper and look out for maps that are used to depict data (e.g. movements of migration, war reports, climate and weather reports, trade routes, etc.).--> 
 
 <!--https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme-->
