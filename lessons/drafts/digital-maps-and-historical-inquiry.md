@@ -433,4 +433,39 @@ Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 min
 
 <!--Keep your eyes open when you next read a newspaper and look out for maps that are used to depict data (e.g. movements of migration, war reports, climate and weather reports, trade routes, etc.).--> 
 
+## 5 Counter-Cartography: shaking up the idea of a “scientific” map
+
+By Eliane Schmid 
+
+All the different map examples you have studied above, have shown how varied the design of maps can be, despite the existence of a set of elements that most maps ought to include. We have also learned, that the primary goal of mapping is to pass on information: map users should get a spatial sense and understanding of data, as well as engage with a specific story.
+But beyond these more conventional examples of maps, there is also a movement to uncloak maps from their scientific veil. Maps do not depict the one truth. We learned in the story On Exactitude in Science that this is neither possible nor desirable.
+
+### 5.a 
+
+Watch the first 6 minutes of [This Is Not an Atlas - A Documentary on Counter-Cartographies](https://www.youtube.com/watch?v=T8-GKyy3j6I). 
+
+Then answer the following questions: 
+
+* Why should we rethink the trustworthiness of maps? 
+* What does it take to remove the “counter” in counter-cartography? 
+* Are the maps in assignments A1 and A2 examples of cartography that need to be reassessed? <!--we need to mention specific maps here but I am lost with A1 and A2, see with Eliane>
+
+### 5.b 
+Explore the website [Remapping Zurich](https://remappingzurich.ch/). <!--this is now down, we need to find another example>
+
+*	What different kinds of mapping did this project engage with? Do they still count as maps? Why? Why not? 
+*	What is the benefit of maps not being “scientific”? How can we play with different designs?
+*	Why are maps such powerful tools for communication? How can this be useful in historical analysis and dissemination?
+*	What is the value of thinking about space? How can it help us become conscious of different lived experiences – also in the past?
+
+### 5.c 
+
+Draw two maps of your daily commute to school, university, work, hobby, or similar. One map should depict the path you take in the morning, on a warm and sunny day, where everything goes according to plan. The other map should illustrate your path home, when it is dark, rainy and cold, and something does not go according to plan: there is a train strike, a traffic jam, your bike has a flat tire, you need to pick up your child from pre-school earlier, you forget your keys, etc. 
+
+How do your maps differ depending on the time of day and the contextual circumstances? Is it the same map? Are some elements more prominent than others? Do you take a different path? 
+
+Think about how your personal background shapes the way you perceive space and how you consequently represent that perception on a piece of paper. Think about how your map design would change if you had a different personal background. How would that change your design?
+
+
+
 <!--https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme-->
