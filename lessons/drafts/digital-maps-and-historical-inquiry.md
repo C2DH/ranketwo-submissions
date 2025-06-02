@@ -54,7 +54,7 @@ The technological tools we have at our disposal today, have transformed how hist
 
 *Learning outcome 2 -recognize the variety of digital repositories providing access to maps*
 
-*Learning outcome 3 - identify forms of collaborative participation in 
+*Learning outcome 3 - identify forms of collaborative participation in maps arcival description*
 
 In the digital age, it is far easier to access maps, than it was before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps as well as additional information provided to each map are highly disparate, **reflecting different purpose or conditions of creation of the archive**, means of funding, **or community investment**.  
 
@@ -85,9 +85,14 @@ The following list proposes a selection of online map libraries that can be inte
 
 **4. How are the maps displayed? You may find static images, in short photos of digitized maps, or interactive maps, which means they are based on layers of information, that we call Geographical Information Systems (see assignment number 4 )**
 
-**5. Are the maps reusable: downloadable and possible to reuse (republish, remix...) without copyright restrictions? What is the kind of permission the users have if any?**  
+**5. Are the maps reusable: downloadable and possible to reuse (republish, remix...) without copyright restrictions? What is the kind of permission the users have if any?** 
 
-### 1.b The collaborative map archive 
+### 1.b Describing maps in the archive 
+**Now it is time to get an idea of the information you find at the level of the map: this information should allow you to contextualize the creation and availability of the maps, and evaluate them as historical sources. The existence and the quality of systematic descriptions of archival resources, in this case maps, is the added value hidden in the mediation of the archive. It is an essential element for historians who rely on it to contextualize and evaluate their sources.**   
+
+Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. **Pick one map you find interesting** in each of these repositories.   What kind of additional information you can you find for each map (date of publication, date of digitization, publisher, author...) Is there information that you would need but is missing? If so, why might that be? What are advantages and disadvantages of these two online libraries concerning accessibility (e.g. can you access the maps easily, download them and reuse them for your own analysis? What research might be done with the maps provided?
+
+### 1.c The collaborative map archive 
 
 **At least two of these websites, [OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"} and [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} involve participatory practices based on a [community of contributors](https://en.wikipedia.org/wiki/Community_of_practice).** 
 
@@ -103,12 +108,7 @@ The following list proposes a selection of online map libraries that can be inte
 
 **5. How are the contributions credited?**
 
-**Now think about how information technologies bring together networks of users and enable the formation of communities.**  
-
-### 1.c Describing maps in the archive 
-**Now it is time to get an idea of the information you find at the level of the map: this information should allow you to contextualize the creation and availability of the maps, and evaluate them as historical sources. The existence and the quality of systematic descriptions of archival resources, in this case maps, is the added value hidden in the mediation of the archive. It is an essential element for historians who rely on it to contextualize and evaluate their sources.**   
-
-Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. **Pick one map you find interesting** in each of these repositories.   What kind of additional information you can you find for each map (date of publication, date of digitization, publisher, author...) Is there information that you would need but is missing? If so, why might that be? What are advantages and disadvantages of these two online libraries concerning accessibility (e.g. can you access the maps easily, download them and reuse them for your own analysis? What research might be done with the maps provided?
+**Now think about how information technologies bring together networks of users and enable the formation of communities. Ask yourself the question: would these contributions be possible without the existence of a website? How could the users have been involved in this case? Would they be able to contribute their knowledge? In what delays? Where?**  
 
 ### Reading/viewing suggestions of: Acceding to maps in the digital age: the mediation of the online repository
  
@@ -130,7 +130,7 @@ In principle, all maps are thematic. It is possible to distinguish between maps 
 9.	Defining a layout 
 10.	Being conscious of visual hierarchy
 
-Although this lesson will not deal with technicalities, it is important to understand how the above steps **articulate with source criticism**. When analyzing maps as historical sources, we start with basic questions: who produced the map, and when? In what purpose and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1c), of information contained in other sources, and with applying internal critique on the map content.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuriesand especially since the 19th century. Therefore, as the outcome of a chain of decisions, maps filter spatial reality and vehiculate specific perceptions. Thus, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
+Although this lesson will not deal with technicalities, it is important to understand how the above steps **articulate with source criticism**. When analyzing maps as historical sources, we start with basic questions: who produced the map, and when? In what purpose and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and with applying internal critique on the map content.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, as the outcome of a chain of decisions, maps filter spatial reality and vehiculate specific perceptions. Thus, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
 
 Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what a perfect map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
 
@@ -140,9 +140,9 @@ If you wish to see how the above principles are applied to historical map analys
 
 By Eliane Schmid
 
-*Learning outcome: map literacy/knowing what projection does to a map and how it is a construct*
+*Learning outcome: hands-on experience to understand what a projection does to a map and how it is a construct*
 
-In the video, LeBlanc talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distorsion is inherent to it**.   
+In the video, the discussant talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distorsion is inherent to it**.   
 
 **Now play with different map projections**. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
 
@@ -155,7 +155,7 @@ By Peter Haslinger
 
 Since the 19<sup>th</sup> century, **the rise of nationalisms in Europe and worldwide highlighted the importance of population: ethnicity, language and religion represented high stakes in political antagonisms over perceived majorities and minorities and contested borders. The censuses conducted on a regular basis by states provided a statistical basis for measuring use of language, demographic development, etc. over a longer period. Political debates were reflected in the cartographic production  and census data were used to depict populations - and national(istic) arguments.** 
 
-You will work with two maps that were created in the context of the World War One and used respectively by the Polish and Hungarian delegations during the peace conference in Paris 1919/20 to legitimize national-territorial claims. These examples give insight into aspects of the cartographic debates about populations at the time. Both map authors (Eugeniusz Romer, and Pál Teleki, 1879-1941) were founding fathers of geography in their respective countries.
+You will work with two maps that were created in the context of the World War One and used respectively by the Polish and Hungarian delegations during the peace conference in Paris 1919/20 to legitimize national-territorial claims. These examples give insight into aspects of the cartographic debates about populations at the time. Both map authors were founding fathers of geography in their respective countries.
 
 [Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) had produced maps during the war. In its aftermath, these maps served as cartographic templates for the Polish delegation maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in its borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
 
@@ -166,7 +166,7 @@ Figure number X: E. Romer, Polski atlas kongresowy. Atlas des problèmes territo
 
 [Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), future Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
-Figure number X: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919.
+Figure number X: P. Telecki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Budapest 1919. [Public domain](https://polona.pl/preview/0c225baa-d843-4056-b95f-01fde3d0095e)
 
 ![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "Ethnographic map of Hungary based on population density")
 <!-- available at: https://maps.hungaricana.hu/en/HTITerkeptar/2751/ - authorization of use asked on 27 May 2025)-->
@@ -268,6 +268,7 @@ The first illustration is a detail of a topographic map of [Stettin/Szczecin](ht
 Figure XX: Royal Air Force, Aerial Photograph, 28th November 1943. 
 
 URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
+*No Commercial Use or Sale, No Sub-Licensing, no Advertising Use. Include the following statement: Higher resolution images are available from [NCAP](https://ncap.org.uk/).
 
 We work with one photograph of an excursion of the 540 Squadron of the RAF, that took place in November 1943. The photo is part of the NCAP collection: [URL](https://ncap.org.uk/frame/6-1-5-3-254?pos=9) The following information about the image is provided in the file’s metadata: “Location: Pommerensdorf; West Pomeranian Province; Poland; 28th November 1943; Corporate bodies: 540 Squadron (RAF)”. Critically analysing these metadata, we notice as historians: 
 * that the name of the town of Stettin does not appear, thus disregarding the municipal incorporation of “Pommerensdorf [sic!]” into Stettin in 1939
@@ -293,13 +294,13 @@ What advantage does the topographic map have compared to an aerial photograph? C
 
 By Christian Lotz
 
-*Learning outcome - understand how availability of digital data, internet, and community, impact the production and communication of maps* 
+*Learning outcome - understand how availability of digital data, internet, and community, impact, democratize, and make more transparent the production and communication of maps* 
 
 Times of war are times of massive map production. While military maps are kept secret during the war, because they depict points of strategic interest, there is a huge number of maps produced for public use to inform about the war (advancement of troops, loss of territory etc) **or as means of propaganda.** Public maps about warfare are a highly sensitive source for historiography, because wars are fought not only with weapons, but also with images. Therefore, we should guide a special focus on questions like who provided information and data to be shown on the map, and what was the particular purpose of the production of such public maps.
 
-In this part of the lesson, we compare maps from the World War One and maps of the Russian-Ukrainian War since 2022. During World War One, public maps about the war were mainly published in newspapers and journals. Most of these maps had a relatively small scale, i.e. the map showed a rough sketch of the front line between two countries in a scale of 1:1 Million to 1:5 Million. In case a part of the front line was of particular interest, some publishers added medium scale maps, for example about Verdun and its surroundings on the Franco-German front.
+In this part of the lesson, we compare maps from World War One and maps of the Russian-Ukrainian War since 2022. During World War One, public maps about the war were mainly published in newspapers and journals. Most of these maps had a relatively small scale, i.e. the map showed a rough sketch of the front line between two countries in a scale of 1:1 Million to 1:5 Million. In case a part of the front line was of particular interest, some publishers added medium scale maps, for example about Verdun and its surroundings on the Franco-German front.
 
-Illustration 4-1: Verein für Kriegshilfe: Map of the Western front as of February 1915
+Figure XX: Verein für Kriegshilfe: Map of the Western front as of February 1915
 
 ![Verein für Kriegshilfe: Map of the Western front as of February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01.jpg "Verein für Kriegshilfe: Map of the Western front as of February 1915") 
 
@@ -321,6 +322,7 @@ Today, we also find many small scale maps about ongoing wars in the world printe
 ![Screenshot of Ukraine on the service Live Universal Awareness Map on the 7th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 Figure XX: Screenshot of Ukraine on LiveUAmap on the 7th of June 2023
 URL: https://liveuamap.com/en/time/07.06.2023 
+<!--Terms of use of the image: https://liveuamap.com/about#terms-->
 
 The example of the LiveUAmap is a multi-scale map. In a small scale it allows for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map derives from various sources, such as the Telegramm messager service. The LiveUAmap is provided by a Non Governmental Organisation based in McLean (Virginia, USA). Although we can zoom in to a large scale map, and although we can find information about the front line in detail, the map does not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
@@ -463,7 +465,7 @@ Then answer the following questions:
 * Are the maps in assignments A1 and A2 examples of cartography that need to be reassessed? <!--we need to mention specific maps here but I am lost with A1 and A2, see with Eliane>
 
 ### 5.b 
-Explore the website [Remapping Zurich](https://remappingzurich.ch/). <!--this is now down, we need to find another example>
+Explore the archived version of the website [Remapping Zurich](https://web.archive.org/web/20250124071233/https://remappingzurich.ch/).
 
 *	What different kinds of mapping did this project engage with? Do they still count as maps? Why? Why not? 
 *	What is the benefit of maps not being “scientific”? How can we play with different designs?
