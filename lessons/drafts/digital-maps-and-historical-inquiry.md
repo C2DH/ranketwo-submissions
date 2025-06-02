@@ -52,7 +52,9 @@ The technological tools we have at our disposal today, have transformed how hist
 
 *Learning outcome 1 -critically analyze a digital repository to evaluate the provenance of a map* 
 
-*Learning outcome 2 -recognize the variety of digital repositories providing access to maps* 
+*Learning outcome 2 -recognize the variety of digital repositories providing access to maps*
+
+*Learning outcome 3 - identify forms of collaborative participation in 
 
 In the digital age, it is far easier to access maps, than it was before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps as well as additional information provided to each map are highly disparate, **reflecting different purpose or conditions of creation of the archive**, means of funding, **or community investment**.  
 
@@ -90,10 +92,15 @@ The following list proposes a selection of online map libraries that can be inte
 **At least two of these websites, [OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"} and [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} involve participatory practices based on a [community of contributors](https://en.wikipedia.org/wiki/Community_of_practice).** 
 
 **Please explore them and note:** 
+
 **1. What is the purpose of involving community users? What are they asked to do?** 
+
 **2. How can a user be actively involved? What are the actions one needs to take in order to be able to contribute? Note how they can access the resources and contribute as identified user**
+
 **3. Are there specific instructions one has to follow (guidelines)?** 
-**4. How are the contributions controlled and validated?** 
+
+**4. How are the contributions controlled and validated?**
+
 **5. How are the contributions credited?**
 
 **Now think about how information technologies bring together networks of users and enable the formation of communities.**  
