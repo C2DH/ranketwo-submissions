@@ -219,15 +219,15 @@ The map “International Movements of Capital” belongs to the „Atlas of toda
 
 * Who created the map? When and in what purpose? You can consult the Wikipedia article on the map creator to answer this question. Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).  
 
-*** What do the cercles and arrows represent? How do you interpret different sizes?**
+* **What do the cercles and arrows represent? How do you interpret different sizes?**
 
-*** The map does not use colours but distinguishes visually categories of countries. What do these categories represent? WHich countries are represented individually and which collectively? Why do you think is that?** 
+* **The map does not use colours but distinguishes visually categories of countries. What do these categories represent? WHich countries are represented individually and which collectively? Why do you think is that?** 
 
-*** How do you interprete the use of black colour?** 
+* **How do you interprete the use of black colour?** 
 
-*** The map does not provide a dynamic (in the sense of interactive) visualization, given its date of creation. It does however have a sense of movement. How is this achieved?**
+* **The map does not provide a dynamic (in the sense of interactive) visualization, given its date of creation. It does however have a sense of movement. How is this achieved?**
 
-*** Do you have access to the data the map creator worked with? How do you imagine them?**  
+* **Do you have access to the data the map creator worked with? How do you imagine them?**  
 
 **The part below (and questions above) was added by Sofia**
 Now you can take a look to the website [Our World In Data](https://ourworldindata.org/).
