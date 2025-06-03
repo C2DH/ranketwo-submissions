@@ -32,6 +32,8 @@ order:
 og:
   description: 
 ---
+# Digital maps and historical inquiry: critical approaches  
+
 ## Contents
 
 [Introduction](#introduction)
