@@ -32,12 +32,18 @@ order:
 og:
   description: 
 ---
-Contents 
+Contents
+
 [Introduction](#introduction)
+
 [1 Acceding to maps in the digital age: the mediation of the online repository](#1-acceding-to-maps-in-the-digital-age-the-mediation-of-the-online-repository)
+
 [2 Learning to read the stories maps tell](#2-learning-to-read-the-stories-maps-tell)
+
 [3 History takes place. Maps as (real-time) data](#3-history-takes-place-maps-as-real-time-data)
+
 [4 Datasets as maps: exploring historical Geographical Information Systems (GIS)](#4-datasets-as-maps-exploring-historical-geographical-information-systems-gis)
+
 [5 Counter-Cartography: shaking up the idea of a “scientific” map](#5-counter-cartography-shaking-up-the-idea-of-a-scientific-map)
 
 
