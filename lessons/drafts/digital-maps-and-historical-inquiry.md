@@ -276,13 +276,15 @@ Mapping an area has always been particularly important in warfare because of the
 
 Each series of photographs allows us even to track the route of one specific plane during its flight. 
 
-![Detail of Topographic Map of Stettin, 1945](/assets/images/maps-as-historical-sources/1945-stettin-soviet-1-50000-crop.jpg "Detail of Topographic Map of Stettin, 1945")
+![Detail of Topographic Map of Stettin, 1945](/assets/images/maps-as-historical-sources/1945-stettin-soviet-1-50000-annotation.jpg "Detail of Topographic Map of Stettin, 1945")
 
-Figure XX. Detail of Topographic Map of Stettin, 1945 
+Figure XX. Detail of Topographic Map of Stettin, 1945. [Батюк, Штеттин  (1:50.000, Генеральный штаб Красной армии,1945), N-33-90-B](http://maps.mapywig.org/m/Russian_and_Soviet_maps/series/050K/N-33-90-V_(SHTETTIN)_1945_400dpi_amwig.jpg). Map Archive for the Military Geographical Institute of Poland (WIG), 1919 - 1939. This resource is believed to be under the public domain. [Its use for pedagogical purpose is free](http://english.mapywig.org/viewpage.php?page_id=8).    
+
+URL of archived web page on the Internet Archive: https://web.archive.org/web/20230818043128/http://maps.mapywig.org/m/Russian_and_Soviet_maps/series/050K/N-33-90-V_(SHTETTIN)_1945_400dpi_amwig.jpg  
 
 The first illustration is a detail of a topographic map of [Stettin/Szczecin](https://en.wikipedia.org/wiki/Szczecin), a German town until the end of World War Two and currently in Poland, in a scale of 1:50.000, created in 1945. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and presence of several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. **This reuse, combined to the change of political authority**, no doubt explain the fact that the labelling of the map is essentially a Cyrillic transliteration of the German toponyms used for the town: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. There are more Russian terms at play, such as “больн”, which is the abbreviation for “hospital”. Considering the specific conditions of the creation of the map in the aftermath of the war, and with damages having occurred in the meantime due to military operations, one needs to critically interrogate the accuracy and estimated reliability of this topographic map as a representation of the town in 1945. **The series of aerial photography allows to compare these different kinds of spatial representations and evaluate their sincerity.**  
 
-![Royal Air Force, Aerial Photograph, 28th November 1943](/assets/images/maps-as-historical-sources/1943-11-28_NCAP-3070_TR_crop.png "Royal Air Force, Aerial Photograph, 28th November 1943") 
+![Royal Air Force, Aerial Photograph, 28th November 1943](/assets/images/maps-as-historical-sources/1943-11-28-NCAP-3070-annotation.jpg "Royal Air Force, Aerial Photograph, 28th November 1943") 
 Figure XX: Royal Air Force, Aerial Photograph, 28th November 1943. 
 
 URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
@@ -291,21 +293,22 @@ URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
 We work with one photograph of an excursion of the 540 Squadron of the RAF, that took place in November 1943. The photo is part of the NCAP collection: [URL](https://ncap.org.uk/frame/6-1-5-3-254?pos=9) The following information about the image is provided in the file’s metadata: “Location: Pommerensdorf; West Pomeranian Province; Poland; 28th November 1943; Corporate bodies: 540 Squadron (RAF)”. Critically analysing these metadata, we notice as historians: 
 * that the name of the town of Stettin does not appear, thus disregarding the municipal incorporation of “Pommerensdorf [sic!]” into Stettin in 1939
 * that there is an anachronism in the sense that the town's location is “Poland” even though the photograph dates from a time the city was part of Germany. 
-Those research hurdles are a **compromise** between the city’s troubled history **and the needs - sometimes shortcomings - of classifications of the patrimonial collections.**  
+Those research hurdles are a compromise between the city’s troubled history and the needs - sometimes shortcomings - of classifications of the patrimonial collections.  
 
-Analysing the picture and comparing it to the topographic map, the same train rails, the flow of the river Oder/Odra and the islands are recognisable. But are there objects that are only visible in the photograph? Indeed, while the map shows the train tracks, it does not mark the goods station’s wagon depot. **In the photograph???=>** The hospital buildings can be identified south of the wagon depot and the small park. However, the municipal gasworks across the tracks to the hospital’s East (recognisable by their round building structure) remain hidden on the map. Only information from other maps or the knowledge of the building shapes make the identification possible. This specific part of the town was heavily damaged by bomb raids already in April 1943. Therefore, empty fields, buildings without roofs and even some bomb craters are visible in the photograph. 
-**Should we add a conclusion for this comparison?**
+Analysing the picture and comparing it to the topographic map, the same converging train rails, the flow of the river Oder/Odra and the river island — separated from the polder by a breach — are recognisable. But are there objects that are only visible in the photograph? Indeed, while the map shows the train tracks, it does not mark the goods station’s wagon depot (No. 1). The photograph reveals its location at the point where the train tracks converge. In the photograph, the hospital complex (No. 2) can be identified south of the west-east train tracks and a cemetery recognisable by its greenery. However, the municipal gasworks (No. 3) across the south-north tracks and to the hospital’s East — recognisable by their striking round building structure —  remain hidden on the map. Only information from other maps or the knowledge of the building shapes make the identification possible. This specific part of the town was heavily damaged by bomb raids already in April 1943. Therefore, empty fields, buildings without roofs and even some bomb craters are visible in the photograph. 
 
-**The availability of homogenous series of large numbers of digitized images online, and their metadata, allow to investigate and cross-check sources quickly.** Let's play with some data! 
+Comparing the topographic map with the aerial photographs reveals not only the actual city's built environment and infrastructure, but also the state of knowledge of the various actors at a specific moment in time. The comparison above demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping.
 
-Track [the flights over Stettin/Szczecin on the NCAP archive](https://ncap.org.uk/search?pos=9%20%5B13.03.2024%5D&archive=6-1-5-3) **that are all organized in the same series and can be sorted with this filter. Check their metadata and note down: 
+The availability of homogenous series of large numbers of digitized images online, and their metadata, allow to investigate and cross-check sources quickly. Let's play with some data! 
+
+Track [the flights over Stettin/Szczecin on the NCAP archive](https://ncap.org.uk/search?pos=9%20%5B13.03.2024%5D&archive=6-1-5-3) that are all organized in the same series and can be sorted with this filter. Check their metadata and note down: 
 * How many excursions took place? 
 * When were they conducted? 
 
 You can read the Wikipedia articles on the [540 Squadron of the RAF](https://en.wikipedia.org/wiki/No._540_Squadron_RAF) to find complementary information on the flights. After doing this, can you find possible explanations for the route, the timing, and the town areas that were left out?
 
-**Now reflect on the following:**
-What advantage does the topographic map have compared to an aerial photograph? Consider the circumstances of aerial photography from this period. Comparing different photographs will give insight. **SOfia comment: Need to provide more guidance and hints here: what could be considered an advantage and for whom? For the researcher?**. 
+Now reflect on the following:
+What advantage does the topographic map still hold  compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as standalone photograph will give insight. 
 
 
 ### 3.b Reporting War 1914 and 2024
