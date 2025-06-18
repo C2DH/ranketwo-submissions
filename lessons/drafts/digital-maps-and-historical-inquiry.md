@@ -38,7 +38,7 @@ og:
 
 [Introduction](#introduction)
 
-[1 Acceding to maps in the digital age: the mediation of the online repository](#1-acceding-to-maps-in-the-digital-age-the-mediation-of-the-online-repository)
+[1 Accessing maps in the digital age: the mediation of the online repository](#1-acceding-to-maps-in-the-digital-age-the-mediation-of-the-online-repository)
 
 [2 Learning to read the stories maps tell](#2-learning-to-read-the-stories-maps-tell)
 
@@ -52,9 +52,9 @@ og:
 
 ## Introduction
 
-Maps are a means of communication. Humans have used them to provide spatial information based on available knowledge and technologies, since ancient times. Nowadays, we are familiar with interactive web map services on our smart phones. 
+Maps are a means of communication. Since ancient times, humans have used them to provide spatial information based on available knowledge and technologies. Nowadays, we are familiar with interactive web map services which are avalaible on our smartphones. 
 
-Maps offer guidance but can also deceive. While maps at first glance might appear to provide objective geographic information, it is important to keep in mind that they are not exact replicas of the spaces they represent. Instead they are complex systems of representation that inherently involve reduction, selection, and standardization that might leave out crucial information by accident, or on purpose. There is no better example for this than Jorge Luis Borges' one-paragraph story ["On Exactitude in Science"](https://en.wikipedia.org/wiki/On_Exactitude_in_Science): 
+Maps offer guidance – but can also deceive. While maps, at first glance, might appear to provide objective geographic information, it is important to keep in mind that they are not exact replicas of the spaces they represent. Instead, they are complex systems of representation that inherently involve reduction, selection, and standardization. They might leave out crucial information by accident, or on purpose. There is no better example for this than Jorge Luis Borges' one-paragraph story ["On Exactitude in Science"](https://en.wikipedia.org/wiki/On_Exactitude_in_Science): 
 
 > …In that Empire, the Art of Cartography attained such Perfection that the map of a
 single Province occupied the entirety of a City, and the map of the Empire, the entirety of a Province. In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it. The following Generations, who were not so fond of the Study of Cartography as their Forebears had been, saw that that vast Map was Useless, and not without some Pitilessness was it, that they delivered it up to the Inclemencies of Sun and Winters. In the Deserts of the West, still today, there are Tattered Ruins of that Map, inhabited by Animals and Beggars; in all the Land there is no other Relic of the Disciplines of Geography.
@@ -62,19 +62,19 @@ single Province occupied the entirety of a City, and the map of the Empire, the 
 
 This understanding, that a map is an abstraction of reality, relying on preset conventions that vary depending on what story the map should tell, when this story was told and at whom it was addressed, is fundamental to approaching maps in historical research.
 
-There are multiple ways for historians to use maps for historical research. They can serve as primary sources which offer information on spaces at the time they were produced or for insights into how different societies perceived and represented space at different times. However, historians also use maps as analytical tools to convey knowledge or as powerful visualization tools to communicate historical findings and narratives. For this, oftentimes, Geographic Information Systems (GIS), which allow for layering of information in the form of data – from demographic information to locations of buildings – and tracking spatial changes over time are used. 
+There are multiple ways for historians to use maps for their research. They can serve as primary sources, which offer information on spaces at the time they were produced, or for insights into how different societies perceived and represented space at different times. However, historians also use maps as analytical tools to convey knowledge, or as powerful visualization tools to communicate historical findings and narratives. For this Geographic Information Systems (GIS) are oftentimes used to track changes over time. For GIS allow layering of information in the form of data – from demographic information to locations of buildings. 
 
 The technological tools we have at our disposal today, have transformed how historians access and utilize cartographic resources. In this lesson we will differentiate between two types of maps: (1) maps which were produced in the analogue age but are now accessible as a digital representation online; and (2) maps which were “born digital”. 
 
-## 1 Acceding to maps in the digital age: the mediation of the online repository  
+## 1 Accessing maps in the digital age: the mediation of the online repository  
 
 *Learning outcome 1 -critically analyze a digital repository to evaluate the provenance of a map* 
 
 *Learning outcome 2 -recognize the variety of digital repositories providing access to maps*
 
-*Learning outcome 3 - identify forms of collaborative participation in maps arcival description*
+*Learning outcome 3 - identify forms of collaborative participation in maps' archival description*
 
-In the digital age, it is far easier to access maps, than it was before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps as well as additional information provided to each map are highly disparate, **reflecting different purpose or conditions of creation of the archive**, means of funding, **or community investment**.  
+In the digital age, it is substantially easier to access maps than ever before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps as well as additional information provided to each map are highly disparate, **reflecting different purpose or conditions of creation of the archive**, means of funding, **or community investment**.  
 
 ### 1.a Interrogating the (digital) map archive
 Each online library has its advantages and disadvantages, **but this is highly dependent on the intended use of the resources one wishes to make** and the research question(s). For some projects, a simple map giving an overview over a certain region may be already sufficient; other projects may necessitate very large scale maps including detailed information about the date of production, the publisher, etc. **In any case, the information provided by a map repository should allow historians to establish with certitude the provenance and the origin of the available resources.** 
