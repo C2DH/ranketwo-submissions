@@ -136,7 +136,7 @@ By Eliane Schmid
 
 *Learning outcome - gaining map literacy to apply source criticism* 
 
-In principle, all maps are thematic. It is possible to distinguish between maps that focus on topographic features on the surface of the Earth, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps: 
+In principle, all maps are thematic. It is possible to distinguish between maps that focus on topographic features, such as the ones of the Earth's surface, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps: 
 1.	Choosing the projection
 2.	Defining geographic extents
 3.	Designing the map 
@@ -148,19 +148,19 @@ In principle, all maps are thematic. It is possible to distinguish between maps 
 9.	Defining a layout 
 10.	Being conscious of visual hierarchy
 
-Although this lesson will not deal with technicalities, it is important to understand how the above steps **articulate with source criticism**. When analyzing maps as historical sources, we start with basic questions: who produced the map, and when? In what purpose and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and with applying internal critique on the map content.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, as the outcome of a chain of decisions, maps filter spatial reality and vehiculate specific perceptions. Thus, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are already connected.
+It is important to understand how the above steps **apply to source criticism**. When analyzing maps as historical sources, we start with the fundamental questions questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
 
-Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what a perfect map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
+Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
 
 If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01). 
 
-### 2.a Playing with perspective and distorsion 
+### 2.a Playing with perspective and distortion 
 
 By Eliane Schmid
 
-*Learning outcome: hands-on experience to understand what a projection does to a map and how it is a construct*
+*Learning outcome: hands-on experience to understand map projection and its effect on the visualization of space*
 
-In the video, the discussant talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distorsion is inherent to it**.   
+In the following video, the discussant talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it**.   
 
 **Now play with different map projections**. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
 
@@ -473,9 +473,9 @@ Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 min
 By Eliane Schmid 
 
 All the different map examples you have studied above, have shown how varied the design of maps can be, despite the existence of a set of elements that most maps ought to include. We have also learned, that the primary goal of mapping is to pass on information: map users should get a spatial sense and understanding of data, as well as engage with a specific story.
-But beyond these more conventional examples of maps, there is also a movement to uncloak maps from their scientific veil. Maps do not depict the one truth. We learned in the story On Exactitude in Science that this is neither possible nor desirable.
+But beyond these more conventional examples of maps, there is also a movement to uncloak maps from their scientific veil. Maps do not depict *the one* truth. We learned in the story *Of Exactitude in Science* that this is neither possible nor desirable.
 
-### 5.a 
+### 5.a Reading maps against the grain
 
 Watch the first 6 minutes of [This Is Not an Atlas - A Documentary on Counter-Cartographies](https://www.youtube.com/watch?v=T8-GKyy3j6I). 
 
@@ -483,9 +483,9 @@ Then answer the following questions:
 
 * Why should we rethink the trustworthiness of maps? 
 * What does it take to remove the “counter” in counter-cartography? 
-* Are the maps in assignments A1 and A2 examples of cartography that need to be reassessed? <!--we need to mention specific maps here but I am lost with A1 and A2, see with Eliane>
+* Are the maps in assignments A1 and A2 examples of cartography that need to be reassessed? <!--we need to mention specific maps here but I am lost with A1 and A2, see with Eliane> <Comment Eliane: We could rephrase and ask: Are the maps which you analyzed in *1.a Interrogating the (digital) map archive* examples of cartography that needs to be reassessed?>
 
-### 5.b 
+### 5.b Mapping lived experiences, past and present
 Explore the archived version of the website [Remapping Zurich](https://web.archive.org/web/20250124071233/https://remappingzurich.ch/).
 
 *	What different kinds of mapping did this project engage with? Do they still count as maps? Why? Why not? 
@@ -493,9 +493,9 @@ Explore the archived version of the website [Remapping Zurich](https://web.archi
 *	Why are maps such powerful tools for communication? How can this be useful in historical analysis and dissemination?
 *	What is the value of thinking about space? How can it help us become conscious of different lived experiences – also in the past?
 
-### 5.c 
+### 5.c Considering contextual ciscumstances in the mapping process
 
-Draw two maps of your daily commute to school, university, work, hobby, or similar. One map should depict the path you take in the morning, on a warm and sunny day, where everything goes according to plan. The other map should illustrate your path home, when it is dark, rainy and cold, and something does not go according to plan: there is a train strike, a traffic jam, your bike has a flat tire, you need to pick up your child from pre-school earlier, you forget your keys, etc. 
+Draw two maps of your daily commute to school, university, work, hobby, or similar, by hand on a piece of paper or a tablet. One map should depict the path you take in the morning, on a warm and sunny day, where everything goes according to plan. The other map should illustrate your path home, when it is dark, rainy and cold, and something does not go according to plan: there is a train strike, a traffic jam, your bike has a flat tire, you need to pick up your child from pre-school earlier, you forget your keys, etc. 
 
 How do your maps differ depending on the time of day and the contextual circumstances? Is it the same map? Are some elements more prominent than others? Do you take a different path? 
 
