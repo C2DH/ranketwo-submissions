@@ -148,7 +148,7 @@ In principle, all maps are thematic. It is possible to distinguish between maps 
 9.	Defining a layout 
 10.	Being conscious of visual hierarchy
 
-It is important to understand how the above steps **apply to source criticism**. When analyzing maps as historical sources, we start with the fundamental questions questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
+It is important to understand how the above steps **apply to source criticism**. When analyzing maps as historical sources, we start with the fundamental questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
 
 Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
 
@@ -453,9 +453,10 @@ The European public service channel Arte has a program called “Mapping the Wor
 
 [Mapping the World. Rising Sea Levels: A Global Issue](https://www.arte.tv/en/videos/119961-011-A/mapping-the-world/) (12min16)
 
-Deutsch 
+In German 
 [Mit offenen Karten. Der Globale Anstieg des Meerespiegels](https://www.arte.tv/de/videos/119961-011-A/mit-offenen-karten/)
-Francais
+
+In French
 [Quand la mer monte : un enjeu mondial | Le Dessous des Cartes | ARTE](https://www.arte.tv/fr/videos/119961-011-A/le-dessous-des-cartes/)
 
 *Educational resources to obtain technical skills on GIS*
@@ -483,7 +484,7 @@ Then answer the following questions:
 
 * Why should we rethink the trustworthiness of maps? 
 * What does it take to remove the “counter” in counter-cartography? 
-* Are the maps in assignments A1 and A2 examples of cartography that need to be reassessed? <!--we need to mention specific maps here but I am lost with A1 and A2, see with Eliane> <Comment Eliane: We could rephrase and ask: Are the maps which you analyzed in *1.a Interrogating the (digital) map archive* examples of cartography that needs to be reassessed?>
+* Are the maps which you analyzed in *1.a Interrogating the (digital) map archive* examples of cartography that needs to be reassessed? 
 
 ### 5.b Mapping lived experiences, past and present
 Explore the archived version of the website [Remapping Zurich](https://web.archive.org/web/20250124071233/https://remappingzurich.ch/).
