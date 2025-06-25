@@ -332,7 +332,7 @@ This kind of small scale public maps were issued weekly. The regular rhythm of p
 
 *Add title, credits, **Image caption, image credits, rights of use*
 
-![](/assets/images/maps-as-historical-sources/.Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg "") 
+![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg) 
 
 *Image caption, image credits, rights of use*
 Figure XX: Large scale map, Franco-German front, February 1915 **Is this the right caption for the image above???** Where is this image held? We need to mention this.  
