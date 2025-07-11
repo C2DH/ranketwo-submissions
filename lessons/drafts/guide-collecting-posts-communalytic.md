@@ -3,14 +3,14 @@ layout: tutorial
 lang: en
 unit:
 slug: guide-collecting-tweets-netlytic
-title: A guide to collecting tweets with Netlytic
+title: A guide to collecting posts with Communalytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
 tags: 
 author: 
 - Frédéric Clavert
 - Hannah Smyth 
-date: 2022-11-17
+date: 2025-07-11
 toc: true
 mediatype: web-social-media
 research-phase: heuristics
@@ -19,13 +19,14 @@ activity: tbd
 
 
 ## Introduction <a id="section0"></a> 
-The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can use as primary sources for research purposes or as teaching materials. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first hashtag-based harvesting of tweets, for which we will use selected hashtags and provide examples of several that are relevant to historical memory. Finally, we will provide a basic analysis of the corpus of the collected tweets, by operating basic text mining operations and social network analysis.
 
-Text mining can be defined as the process to derive information from large corpora of texts through computational operations of diverse nature. As such, it offers a range of methods and techniques to analyze content as data. On the other hand, it may also be interesting to analyze the structure of a Twitter dataset through the prism of social network analysis. Social network analysis (SNA) is ["the process of investigating social structures through the use of networks and graph theory"](https://en.wikipedia.org/wiki/Social_network_analysis). It sees social structures in terms of nodes (actors) and edges (relationships and interactions) that connect nodes. Frequently used in digital humanities or digital history, text mining and SNA are two kinds of analysis that can be applied to tweet datasets in social sciences and humanities (SSH). For instance, though tweets contain (short) texts, analysing a dataset of thousands, hundreds of thousands, or millions of tweets will require the use of text mining as it is not possible to read the whole dataset closely. Furthermore, tweets and their numerous metadata contain many kinds of interactions that can serve as the basis for social network analyses.
+The main learning goal of this tutorial is to enable historians and social scientists to gather social media data they can use as primary sources for research purposes or as teaching materials. We will mainly focus on [BlueSky](https://bsky.app), but [Communalityc](https://communalytic.org/) provides also connectors to Reddit, Mastodon, X (formerly Twitter), Telegram and YouTube. We will first introduce the reader to the [BlueSky application programming interface (API)](https://docs.bsky.app/) with particular attention to its limitations. We will then guide them through a first hashtag-based harvesting of posts, for which we will use selected hashtags and provide examples of several that are relevant to historical memory. Finally, we will provide a basic analysis of the corpus of the collected posts, by operating basic text mining operations and social network analysis.
 
-Tweets can be considered today and, more importantly, in the future as primary sources for historians. The two authors of this lesson, for instance, have used datasets of tweets  to study the [echoes of the Centenary of the First World War online within a memory studies framework](https://www.vr-elibrary.de/doi/10.13109/gege.2021.47.1.175) and the [Irish Decade of Commemorations](https://journalofdigitalhistory.org/en/article/SLCj9T3MsrEk) from a feminist perspective.
+Text mining can be defined as the process to derive information from large corpora of texts through computational operations of diverse nature. As such, it offers a range of methods and techniques to analyze content as data. On the other hand, it may also be interesting to analyze the structure of a social media posts dataset through the prism of social network analysis. Social network analysis (SNA) is ["the process of investigating social structures through the use of networks and graph theory"](https://en.wikipedia.org/wiki/Social_network_analysis). It sees social structures in terms of nodes (actors) and edges (relationships and interactions) that connect nodes. Frequently used in digital humanities or digital history, text mining and SNA are two kinds of analysis that can be applied to social media datasets in social sciences and humanities (SSH). For instance, though bluesky posts contain (short) texts, analysing a dataset of thousands, hundreds of thousands, or millions of those posts will require the use of text mining as it is not possible to read the whole dataset closely. Furthermore, social media posts and their numerous metadata contain many kinds of interactions that can serve as the basis for social network analyses.
 
-There are various ways to collect tweet-related data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
+Social media posts can be considered today and, more importantly, in the future as primary sources for historians. The two authors of this lesson, for instance, have used datasets of tweets to study the [echoes of the Centenary of the First World War online within a memory studies framework](https://www.vr-elibrary.de/doi/10.13109/gege.2021.47.1.175) and the [Irish Decade of Commemorations](https://journalofdigitalhistory.org/en/article/SLCj9T3MsrEk) from a feminist perspective.
+
+There are various ways to collect tweet-related data; we propose here to use [Communalytic](https://communalytic.org/) (formerly Netlytic), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [BlueSky](https://bsky.app) and a Communalytic account.   
 
 
 <!-- 
