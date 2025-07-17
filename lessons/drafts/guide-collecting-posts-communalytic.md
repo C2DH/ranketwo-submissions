@@ -63,7 +63,7 @@ Create an account in Communalytic by signing in through Google. This will create
 <!-- insert -->
 ![Creating a Communalytic account]("Fig. 2 Creating a Communalytic account") 
 
-Before you begin to collect data, you will need to choose a topic and find your hashtags. To choose a hashtag or a simple keyword, please go the ["How to choose your hashtag?" section](#section3-1) below. Once you know what you are looking for, click on "New Dataset" and choose the "Twitter" tab. 
+Before you begin to collect data, you will need to choose a topic and find your hashtags. To choose a hashtag or a simple keyword, please go the ["How to choose your hashtag?" section](#section3-1) below. Once you know what you are looking for, click on "My Datasets" and choose the "Historical Posts" option under the BlueSky tab. 
 
 As you see, you will be asked to:
 * Choose a name for your dataset
@@ -116,13 +116,13 @@ Next, let's see how you can explore topics within the dataset. The "Topic Analys
 ![Topic analysis module in Communalytic]("Fig. 6 Text analysis with Communalytic")
 
 
-You have learnt a lot of things, now let's take some time to reflect. Netlytic has allowed you to generate and explore a word cloud based on your corpus, but in what ways precisely did this help you to understand and analyze your data? How useful, or not, has this been for your research? To help you think through these questions, you can read this article that discusses the limits of [word clouds](https://towardsdatascience.com/word-clouds-are-lame-263d9cbc49b7). You can even try to use other tools and compare the visualizations that you get: [Voyant Tools](https://voyant-tools.org/) is one option, but you can browse the [Text Analysis Portal for Research (TAPOR)](http://tapor.ca/home) to pick your preferred tool. Note that using different tools may require you to do some data cleaning  - for instance, you might observe that Twitter handles are appearing in the word cloud and this is not of great interest - or special formating. [A quite comprehensive article on data cleaning can be found on Wikipedia](https://en.wikipedia.org/wiki/Data_cleansing). You can also discuss your experience with your colleagues or classmates or even a community of users. 
+You have learnt a lot of things, now let's take some time to reflect. Netlytic has allowed you to generate and explore a word cloud based on your corpus, but in what ways precisely did this help you to understand and analyze your data? How useful, or not, has this been for your research? To help you think through these questions, you can read this article that discusses the limits of [word clouds](https://towardsdatascience.com/word-clouds-are-lame-263d9cbc49b7). You can even try to use other tools and compare the visualizations that you get: [Voyant Tools](https://voyant-tools.org/) is one option, but you can browse the [Text Analysis Portal for Research (TAPOR)](http://tapor.ca/home) to pick your preferred tool. Note that using different tools may require you to do some data cleaning  - for instance, you might observe that BlueSky handles are appearing in the word cloud and this is not of great interest - or special formatting. [A quite comprehensive article on data cleaning can be found on Wikipedia](https://en.wikipedia.org/wiki/Data_cleansing). You can also discuss your experience with your colleagues or classmates or even a community of users. 
 
 ### Network analysis <a id="section3-3"></a>
 Network analysis involves a second kind of analytical operation that one can apply to a social media data corpus. If you are not familiar with this domain, [Marten Duering's lesson on data extraction and network visualization of historical sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) offers a nice introduction for beginners. [Once you have your dataset](#section3-1), click on the "Network Analyzer" module and you will see several options for different types of "ties". The ties represent interactions between BluSky accounts, which can be of different types: replying (using the "reply" functionality: your post will then appear below the original post and start or continue a conversation) and quoting (quoting another account’s post with a comment); reposting (quoting another account’s post with no modification), mentioning (publishing a post with another account’s handle in it); and link sharing, which is to say "account-to-website" ties. The BlueSky accounts are the nodes of the network you wish to inspect and the ties of different types are the relationships that connect these nodes between them.  
 
 <!-- insert -->
-![Network Analyzer module in Communalytic]("Fig. 7 Network analysis with Netlytic")
+![Network Analyzer module in Communalytic]("Fig. 7 Network analysis with Communalytic")
 
 Choose the type of interaction you want to examine and click on "Generate Network". You will have the options to download the network data as a GraphML file or a Gephi file, "Visualise Network" or reset the type of interaction you want to worK with.
 
@@ -145,7 +145,7 @@ As in the previous type of analysis, you can download your network's data as wel
 
 ## Reading suggestions <a id="section4"></a>
 
-For more case studies and tutorials using Netlytic see: https://netlytic.org/home/?page_id=11204 
+For more case studies and tutorials using Communalytic see: https://communalytic.org/how-to/  
 
 LSE Blog - [Using Twitter as a Data Source](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/18/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-2019/)
 
