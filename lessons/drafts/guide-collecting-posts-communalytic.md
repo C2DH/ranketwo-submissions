@@ -43,14 +43,12 @@ Once you have an account, you will be able to see which social media platforms y
 
 ## Setting the scene: what is Bluesky, the Bluesky API and how does it work? <a id="section2"></a>
 
-Bluesky was a project of Twitter (now X) started by then Twitter’s CEO Jack Dorsey. Its aim was to develop a new social media protocol (a set of rules that several platforms can follow to be compatible between them), that would allow the setting up of open and decentralised social media platforms. The initial aim was that Twitter would adopt this new protocol (the AT protocol, for Authenticated Transfer Protocol). Bluesky became an independant company in 2021 and, when Elon Musk bought back Twitter, Bluesky, with Mastodon, was presented as the main “alternative” to X. Bluesky launched as a social media platform in February 2023 on an “invite-only” mode for a year, before opening to all early 2024. From a user point of view, Bluesky’s interface is quite similar to Twitter’s. At eh beginning of 2025, Bluesky could claim 30 million users.
+Bluesky was a project of Twitter (now X) started by then Twitter’s CEO Jack Dorsey. Its aim was to develop a new social media protocol (a set of rules that several platforms can follow to be compatible between them), that would allow the setting up of open and decentralised social media platforms and at the same time answering the shortcomings of the already existing decentralised protocols such as ActivityPub that Mastodon uses for insance. The initial aim was that Twitter would adopt this new protocol (the AT protocol, for Authenticated Transfer Protocol). Bluesky became an independant company in 2021 and, when Elon Musk bought back Twitter, Bluesky, with Mastodon, was presented as the main “alternative” to X. Bluesky launched as a social media platform in February 2023 on an “invite-only” mode for a year, before opening to all early 2024. From a user point of view, Bluesky’s interface is quite similar to Twitter’s. At the beginning of 2025, Bluesky could claim 30 million users. As of July 2025, Bluesky remains a young social media platform: functionalities and design may change quickly.
 
 One of the functionality that Bluesky offers to developers and also researchers is its Application Programming Interface (API). An API ["is a connection between computers or between computer programs."](https://en.wikipedia.org/wiki/API) (11/07/2025). More precisely, it is an interface that allows one piece of software to offer a service to other pieces of software. An API is usually documented, so that developpers can implement it in their programs. The services accessible through an API can be of different natures. In the case of social media, like buttons from Facebook that you can see on many websites are using the Facebook’s API. In this lesson, we are more interested in another kind of service that can be accessible through an API: data and metadata.
 
 <!-- 
 ![Twitter API screenshot from Twitter documentation](assets/images/guide-collecting-tweets-netlytic/guide-netlytic-1.png "Fig. 1 What does the Twitter API do?") -->
-
-
 
 The Bluesky API allows us to access one of the core primitives of the AT Protocol that Bluesky uses: the [‘firehose’](https://docs.bsky.app/docs/advanced-guides/firehose). The firehose is “an authenticated stream of events used to efficiently sync user updates”. In other words, when you connect to a Bluesky account and read posts from other users, those posts are part of the firehose. Collecting posts from Bluesky implies to connect to this firehose, through diverse endpoints which correspond with specific types of information you can get or send. Among the possibilities offered by the firehose are the possibilities to collect public data from Bluesky and more specifically posts and replies, threads and users’ timeline. If you wish more information about the Bluesky API, please read its [developers documentation](https://docs.bsky.app/). 
 
@@ -147,26 +145,49 @@ As in the previous type of analysis, you can download your network's data as wel
 
 For more case studies and tutorials using Communalytic see: https://communalytic.org/how-to/  
 
-LSE Blog - [Using Twitter as a Data Source](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/18/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-2019/)
+### Generalities
 
 Bruns, Axel, Adam Edwards, Roser Beneito-Montagut, Richard Fitzgerald, and William Housley. 2023. “Social Media Analytics: Boom and Bust?” In *The SAGE Handbook of Digital Society*, edited by William Housley, Adam Edwards, Roser Beneito-Montagut, and Richard Fitzgerald, 249–64. 55 City Road London: SAGE Publications Ltd. https://doi:10.4135/9781529783193.n15.
 
-Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In *The Ethics of Online Research (Advances in Research Ethics and Integrity, vol. 2)*, edited by Bath Peter A. and Kandy Woodfield, 79–107. Bingley: Emerald Publishing Limited. https://doi.org/10.1108/S2398-601820180000002004.
-
 Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” *Information Communication and Society* 15, no. 5: 662–79. https://doi.org/10.1080/1369118X.2012.678878.
-
-Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” *French Journal for Media Research* 10, (special issue: Le Web 2.0 : lieux de perception des transformations des sociétés). http://orbilu.uni.lu/handle/10993/36120.
-
-Gruzd, Anatoliy, and Mai, Philip. 2020. “Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter.” In *Big Data & Society* 7, no. 2. https://doi.org/10.1177/2053951720938405.
 
 Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In *The SAGE Handbook of Social Media Research Methods*, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. https://doi.org/10.4135/9781473983847.
 
-Rantasila, Anna, Anu Sirola, Arto Kekkonen, Katja Valaskivi, and Risto Kunelius. 2018. “#fukushima Five Years On: A Multimethod Analysis of Twitter on the Anniversary of the Nuclear Disaster.” *International Journal Of Communication* 12: 928–49.
+Moreno-Ortiz, Antonio. “Sentiment.” Making Sense of Large Social Media Corpora: Keywords, Topics, Sentiment, and Hashtags in the Coronavirus Twitter Corpus, edited by Antonio Moreno-Ortiz, Springer Nature Switzerland, 2024, pp. 141–68. Springer Link, https://doi.org/10.1007/978-3-031-52719-7_6.
 
 Rockwell, Geoffrey, and Stéfan Sinclair. 2016. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. Cambridge, Massachusetts: The MIT Press.
 
 Rogers, Richard. 2019. *Doing Digital Methods*. London: SAGE Publications.
 
+Thoreau, Henry David. 2016. "Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press.
+
+### Twitter
+
+As for years, social media studies focused on Twitter, before it became X, the litterature on Twitter is immense. Those references are still valid if you wish to collect data on X, but also for many methodological insights they give.
+
+LSE Blog - [Using Twitter as a Data Source](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/18/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-2019/)
+
+Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In *The Ethics of Online Research (Advances in Research Ethics and Integrity, vol. 2)*, edited by Bath Peter A. and Kandy Woodfield, 79–107. Bingley: Emerald Publishing Limited. https://doi.org/10.1108/S2398-601820180000002004.
+
+Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” *French Journal for Media Research* 10, (special issue: Le Web 2.0 : lieux de perception des transformations des sociétés). http://orbilu.uni.lu/handle/10993/36120.
+
+Gruzd, Anatoliy, and Mai, Philip. 2020. “Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter.” In *Big Data & Society* 7, no. 2. https://doi.org/10.1177/2053951720938405.
+
+Rantasila, Anna, Anu Sirola, Arto Kekkonen, Katja Valaskivi, and Risto Kunelius. 2018. “#fukushima Five Years On: A Multimethod Analysis of Twitter on the Anniversary of the Nuclear Disaster.” *International Journal Of Communication* 12: 928–49.
+
 Smyth, Hannah and Diego Ramírez Echavarría. 2021. “Twitter and feminist commemoration of the 1916 Easter Rising.” *Journal of Digital History*, 1, no.1. https://journalofdigitalhistory.org/en/article/SLCj9T3MsrEk
 
-Thoreau, Henry David. 2016. "Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press.
+### Bluesky and Mastodon
+
+Cava, Lucio La, et al. “Drivers of Social Influence in the Twitter Migration to Mastodon.” *Scientific Reports*, vol. 13, no. 1, Dec. 2023, pp. 1–12. *doaj.org*, https://doi.org/10.1038/s41598-023-48200-7.
+
+Failla, A., Rossetti, G.: “I’m in the Bluesky Tonight": Insights from a Year Worth of Social Data. arXiv preprint arXiv:2404.18984 (2024)
+
+Gehl, Robert W. *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media*. Oxford University Press, 2025. *Silverchair*, https://doi.org/10.1093/9780197776711.001.0001.
+
+Quelle, D., Bovet, A.: Bluesky: Network Topology, Polarisation, and Algorithmic Curation. arXiv preprint arXiv:2405.17571 (2024)
+
+Sahneh, Erfan Samieyan, et al. *The Dawn of Decentralized Social Media: An Exploration of Bluesky’s Public Opening*. arXiv:2408.03146, arXiv, 6 Aug. 2024. *arXiv.org*, https://doi.org/10.48550/arXiv.2408.03146.
+
+Stokel-Walker, Chris. “Should I Join Mastodon? A Scientists’ Guide to Twitter’s Rival.” *Nature*, Nov. 2022. *www-nature-com.proxy.bnl.lu*, https://doi.org/10.1038/d41586-022-03668-7.
+
