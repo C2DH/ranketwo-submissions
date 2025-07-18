@@ -163,7 +163,7 @@ Thoreau, Henry David. 2016. "Walking.” In *The Making of the American Essay*, 
 
 ### Twitter
 
-As for years, social media studies focused on Twitter, before it became X, the litterature on Twitter is immense. Those references are still valid if you wish to collect data on X, but also for many methodological insights they give.
+As for years, social media studies focused on Twitter, before it became X, the literature on Twitter is immense. Those references are still valid if you wish to collect data on X, but also for the many methodological insights they give.
 
 LSE Blog - [Using Twitter as a Data Source](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/18/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-2019/)
 
