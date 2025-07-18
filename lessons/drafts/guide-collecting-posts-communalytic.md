@@ -159,8 +159,6 @@ Rockwell, Geoffrey, and Stéfan Sinclair. 2016. *Hermeneutica: Computer-Assiste
 
 Rogers, Richard. 2019. *Doing Digital Methods*. London: SAGE Publications.
 
-Thoreau, Henry David. 2016. "Walking.” In *The Making of the American Essay*, edited by John D’Agata, 167–95. Minneapolis: Graywolf Press.
-
 ### Twitter
 
 As for years, social media studies focused on Twitter, before it became X, the literature on Twitter is immense. Those references are still valid if you wish to collect data on X, but also for the many methodological insights they give.
