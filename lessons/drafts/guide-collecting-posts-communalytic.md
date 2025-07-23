@@ -41,7 +41,7 @@ Once you have an account, you will be able to see which social media platforms y
 
 One functionality that Bluesky offers to its users is access to and free use of its Application Programming Interface (API). An API ["is a connection between computers or between computer programs."](https://en.wikipedia.org/w/index.php?title=API&oldid=1300191533). More precisely, it as an interface that, simply put, allows different computers to talk to each other and exchange flows of information between them. This allows various implementations, such as the buttons from Facebook that you can see on many websites: these are using the Facebook’s API. In this lesson, we are more interested in another kind of service that can be accessible through an API: the possibility to harvest data and metadata. This allows researchers to obtain social media data they can use for research and teaching. If you are a bit techie, the following paragraph offers you some technical insight of what it means using the API of Bluesky to collect users posts; if not, skip it and read the end of this section to know what you can obtain using this API.    
 
-The Bluesky API allows us to access one of the core primitives of the AT Protocol that Bluesky uses: the [‘firehose’](https://docs.bsky.app/docs/advanced-guides/firehose). The firehose is “an authenticated stream of events used to efficiently sync user updates”. In other words, when you connect to a Bluesky account and read posts from other users, those posts are part of the firehose. Collecting posts from Bluesky implies to connect to this firehose, through diverse endpoints which correspond with specific types of information you can get or send. Among the possibilities offered by the firehose are the possibilities to collect public data from Bluesky and more specifically posts and replies, threads and users’ timeline. If you wish more information about the Bluesky API, please browse its [developers documentation](https://docs.bsky.app/). 
+The Bluesky API allows us to access one of the core primitives of the AT Protocol (for Authenticated Transfer Protocol) that Bluesky uses: the [‘firehose’](https://docs.bsky.app/docs/advanced-guides/firehose). The firehose is “an authenticated stream of events used to efficiently sync user updates”. In other words, when you connect to a Bluesky account and read posts from other users, those posts are part of the firehose. Collecting posts from Bluesky implies to connect to this firehose, through diverse endpoints which correspond with specific types of information you can get or send. Among the possibilities offered by the firehose are the possibilities to collect public data from Bluesky and more specifically posts and replies, threads and users’ timeline. If you wish more information about the Bluesky API, please browse its [developers documentation](https://docs.bsky.app/). 
 
 Based on this API, the EDU version of Communalytic allows users to collect up to 30 000 Bluesky posts (including replies) in three datasets. Communalytic, reagardless the version you use, will take into account Bluesky API's [rate limits](https://docs.bsky.app/docs/advanced-guides/rate-limits), that are implemented to avoid service disruptions because of intense data harvesting. This is all the more important that, with the rise of large language models and the dire need of fresh data to train them, more and more companies are aggressively collecting content, which led to some controversies, including about [Bluesky](https://www.404media.co/someone-made-a-dataset-of-one-million-bluesky-posts-for-machine-learning-research/). This should be known, as it deals with our privacy.
 
@@ -51,8 +51,7 @@ Based on this API, the EDU version of Communalytic allows users to collect up to
 
 To create a free EDU account in Communalytic, you need to sign in through Google. (Researchers working on larger projects can also create a PRO account, with any email, but for this tutorial we use the free option of the software). Once you are connected, you will be directed to "My Datasets" (or click "My Datasets" in the main menu bar). However, you do not need to have a Bluesky account to draw down posts through the Bluesky API. Note that this may not be the case for other social media.  
 
-<!-- insert -->
-![Creating a Communalytic account]("Fig. 2 Creating a Communalytic account") 
+![Creating a Communalytic account](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-2.png "Fig. 2 Creating a Communalytic account") 
 
 Before you begin to collect data, you will need to choose a topic and find your hashtags. To choose a hashtag or a simple keyword, please go the ["How to choose your hashtag?" section](#section3-1) below. Once you know what you are looking for, click on "My Datasets" and choose the "Historical Posts" option under the Bluesky tab. 
 
@@ -63,8 +62,7 @@ As you see, you will be asked to:
 
 You will have to fill in a form to register all this information.
 
-<!-- insert -->
-![Form of filters to harvest posts with Communalytic]("Fig. 3 Setting the filters to collect your dataset")
+![Filters to harvest posts with Communalytic](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-3.png "Fig. 3 Setting the filters to collect your dataset")
 
 
 You can use a very simple search query or something more complex, more of which below. You might want to use these to manually test the results in the Bluesky interface, which offers some advanced searching: [Tips and Tricks for Bluesky Search](https://bsky.social/about/blog/05-31-2024-search). The option you choose for harvesting posts, whether by Thread, Timeline or keyword-based search, will depend on your research. The Thread or Timeline options might be useful, for instance, for studying the interactions between a museum and its audience. You might want to limit your query to posts published by the museum’s accounts and the replies to those posts using the Timeline option and its filters.
@@ -82,16 +80,14 @@ Some important points to understand to help you maximise your query:
 * You can build your corpus over a few days if necessary. You may, however, need to anticipate a major/annual commemoration or historic event. Some examples of annual "memorial" hashtags include: #WW1 #LestWeForget #BloomsDay #ArmisticeDay.
 * If there are no posts that match your query, you will receive an error message.
 
-<!-- insert -->
 
-![Progress of the dataset import from the Bluesky API]( "Fig. 4 Importing your dataset")
+![Progress of the dataset import from the Bluesky API](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-4.png "Fig. 4 Importing your dataset")
 
 
 Congratulations! You now have your first Bluesky dataset ready and can analyze it in various ways. A summary of this will appear at the bottom of the page. To begin analysing your data, click on the magnifying glass symbol under "Records" to access an overview of the dataset. From here, you can also download a spreadsheet with your posts in form of an Excel or CSV file, if you wish to use another analysis tool. When you go to "Download Dataset", you will also see a table of the posts that you have collected; a search bar is available for you at the top if necessary to search individual posts. You can export your data and analyze them with any method and tool that you prefer - we mention some at the end of the next section. We also strongly recommend you download your dataset to preserve your data and be able to reuse them in your future research activities.
 
-<!-- insert -->
 
-![View of the table of the Bluesky dataset in Communalytic after preview]("Fig. 5 The table of the posts in your dataset in Communalytic")
+![View of the table of the Bluesky dataset in Communalytic after preview](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-5.png "Fig. 5 The table of the posts in your dataset in Communalytic")
 
 
 ### Text analysis <a id="section3-2"></a>
@@ -102,9 +98,8 @@ Once you have your dataset, as shown in the [previous step](#section3-1), go to 
 
 Next, let's see how you can explore topics within the dataset. The "Topic Analysis" function creates groups, or "clusters", of posts that are similar in meaning to each other. These "cluster embeddings" may then allow you to identify abstract concepts, topics or themes within the dataset. Using the default clustering algorithm click "Visualize Embeddings" [embedding = numerical representation of information] - this will be queued in the server and you may need to wait a few moments. Then click on "Open Visualization" to view and explore the word clusters, which will appear as datapoints in a "similarity map". You can then adjust the clustering parameters and re-analyze the data. For example, if you lower the "minimum cluster size" you will see a higher number of distinct clusters of posts. Use the exploration tool in the sidebar to zoom in on different clusters and label them. You may also download these data as a CSV file, if you wish - and again, we strongly recommend you download and preserve any data you use for your analysis.
 
-<!-- insert -->
 
-![Topic analysis module in Communalytic]("Fig. 6 Text analysis with Communalytic")
+![Topic analysis module in Communalytic](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-6.png "Fig. 6 Text analysis with Communalytic")
 
 
 You have learnt a lot of things, now let's take some time to reflect. Communalytic has allowed you to generate and explore a word cloud based on your corpus, but in what ways precisely did this help you to understand and analyze your data? How useful, or not, has this been for your research? To help you think through these questions, you can read this article that discusses the limits of [word clouds](https://towardsdatascience.com/word-clouds-are-lame-263d9cbc49b7). You can even try to use other tools and compare the visualizations that you get: [Voyant Tools](https://voyant-tools.org/) is one option, but you can browse the [Text Analysis Portal for Research (TAPOR)](http://tapor.ca/home) to pick your preferred tool. Note that using different tools may require you to do some data cleaning  - for instance, you might observe that Bluesky handles are appearing in the word cloud and this is not of great interest - or special formatting. [A quite comprehensive article on data cleaning can be found on Wikipedia](https://en.wikipedia.org/wiki/Data_cleansing). You can also discuss your experience with your colleagues or classmates or even a community of users. 
@@ -112,16 +107,13 @@ You have learnt a lot of things, now let's take some time to reflect. Communalyt
 ### Network analysis <a id="section3-3"></a>
 Network analysis involves a second kind of analytical operation that one can apply to a social media data corpus. If you are not familiar with this domain, [Marten Duering's lesson on data extraction and network visualization of historical sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) offers a nice introduction for beginners. [Once you have your dataset](#section3-1), click on the "Network Analyzer" module and you will see several options for different types of "ties". The ties represent interactions between BluSky accounts, which can be of different types: replying (using the "reply" functionality: your post will then appear below the original post and start or continue a conversation) and quoting (quoting another account’s post with a comment); reposting (quoting another account’s post with no modification), mentioning (publishing a post with another account’s handle in it); and link sharing, which is to say "account-to-website" ties. The Bluesky user accounts are the nodes of the network you wish to inspect and the ties of different types are the relationships that connect these nodes between them.  
 
-<!-- insert -->
-![Network Analyzer module in Communalytic]("Fig. 7 Network analysis with Communalytic")
+![Network Analyzer module in Communalytic](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-7.png "Fig. 7 Network analysis with Communalytic")
 
 Choose the type of interaction you want to examine and click on "Generate Network". You will have the options to download the network data as a GraphML file or a Gephi file, "Visualise Network" or reset the type of interaction you want to worK with.
 
 Here there are two important things to mention. First, the nodes - the Bluesky accounts - are grouped in clusters which means these accounts share some form of similarity. These clusters are calculated by [an algorithm that detects how the Bluesky accounts are connected and figures out the best way to arrange these connections visually](https://rdrr.io/cran/igraph/man/layout_nicely.html). Second, you can [choose a layout](https://communalytic.org/docs/network-analyzer/#network-layout) for the visualisation of the network you study. A layout is a way to display the nodes (Bluesky accounts) and the connections between them (in graph theory, these connections are also called "edges", which is another way of saying ties or links). Layouts are based on algorithms, which is why there are different possible layouts. A layout allows you to see patterns in the structure of your network. The best layout is the one that fits your dataset and your research purpose, there are no "good" or "bad" layouts per se.
 
-<!-- insert -->
-
-![Graph produced with a dataset of posts]("Fig. 8 Network visualisation of a Bluesky dataset")
+![Graph produced with a dataset of posts](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-8.png "Fig. 8 Network visualisation of a Bluesky dataset")
 
 You can use the in-built visualiser of Communalytic to experiment with different layouts and see what kinds of visualisations they produce for your network. You can also take a closer look at what constitutes your network. For example, you can explore the metrics that define [in what ways the network's nodes are central](https://en.wikipedia.org/wiki/Centrality#Degree_centrality) or not. Feel free to make these metrics visible by playing with the layout algorithms and exploring various filters. If you wish to focus on different parts of your network, you can can explore "Community Clusters". This will help you to isolate and focus on larger nodes, i.e. have a less detailed but clearer view of your network. Larger nodes represent Bluesky accounts with more interactions with other accounts, the highest being ranked number 1.
 
@@ -129,56 +121,56 @@ Furthermore, Communalytic allows you to layer multiple types of analysis within 
 
 How can network visualisations be useful for historians? There is a vast bibliography but this is not the object of the current tutorial. What is useful to remember, however, is that you need to fix and focus on a research objective that is part of a historical question. You may benefit from [Martin Grandjean's general introduction to social networks analysis in history](http://www.martingrandjean.ch/introduction-to-social-network-analysis/), which will also help you to learn more about network metrics and structure such as centrality degrees or communities. These are metrics that help analyze social media, and specifically tweets, networks, in order to identify dominant voices (nodes / Bluesky account) in the network (official, news media, themed accounts, cultural institutions, individual influencers...). 
 
-![Communities formed in a graph produced with a dataset of posts]("Fig. 9 Network visualisation of a Bluesky dataset: communities formed by the Bluesky accounts") 
+![Communities formed in a graph produced with a dataset of posts](/assets/images/guide-to-collecting-social-media-posts-with-communalytic/guide-communalytic-9.png "Fig. 9 Network visualisation of a Bluesky dataset: communities formed by the Bluesky accounts") 
 
 As for text analysis, you can download your network's data as well and do further analyses with [Gephi](https://gephi.org/) software or your preferred tool of social network analysis. To learn how to use Gephi, you can follow [Martin Grandjean's tutorial](http://www.martingrandjean.ch/gephi-introduction/). 
 
 
 ## Reading suggestions <a id="section4"></a>
 
-For more case studies and tutorials using Communalytic see: https://communalytic.org/how-to/  
+For more case studies and tutorials using Communalytic see [the dedicated page](https://communalytic.org/how-to/) of the software's website.   
 
 ### Generalities
 
-Bruns, Axel, Adam Edwards, Roser Beneito-Montagut, Richard Fitzgerald, and William Housley. 2023. “Social Media Analytics: Boom and Bust?” In *The SAGE Handbook of Digital Society*, edited by William Housley, Adam Edwards, Roser Beneito-Montagut, and Richard Fitzgerald, 249–64. 55 City Road London: SAGE Publications Ltd. https://doi:10.4135/9781529783193.n15.
+Bruns, Axel, Adam Edwards, Roser Beneito-Montagut, Richard Fitzgerald, and William Housley. 2023. “Social Media Analytics: Boom and Bust?” In *The SAGE Handbook of Digital Society*, edited by William Housley, Adam Edwards, Roser Beneito-Montagut, and Richard Fitzgerald, 249–64. 55 City Road London: SAGE Publications Ltd. DOI: [https://doi:10.4135/9781529783193.n15](https://doi:10.4135/9781529783193.n15).
 
-Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” *Information Communication and Society* 15, no. 5: 662–79. https://doi.org/10.1080/1369118X.2012.678878.
+Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” *Information Communication and Society* 15, no. 5: 662–79. DOI: [https://doi.org/10.1080/1369118X.2012.678878](https://doi.org/10.1080/1369118X.2012.678878).
 
-Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In *The SAGE Handbook of Social Media Research Methods*, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. https://doi.org/10.4135/9781473983847.
+Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In *The SAGE Handbook of Social Media Research Methods*, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. DOI: [https://doi.org/10.4135/9781473983847](https://doi.org/10.4135/9781473983847).
 
-Moreno-Ortiz, Antonio. “Sentiment.” Making Sense of Large Social Media Corpora: Keywords, Topics, Sentiment, and Hashtags in the Coronavirus Twitter Corpus, edited by Antonio Moreno-Ortiz, Springer Nature Switzerland, 2024, pp. 141–68. Springer Link, https://doi.org/10.1007/978-3-031-52719-7_6.
+Moreno-Ortiz, Antonio. “Sentiment.” Making Sense of Large Social Media Corpora: Keywords, Topics, Sentiment, and Hashtags in the Coronavirus Twitter Corpus, edited by Antonio Moreno-Ortiz, Springer Nature Switzerland, 2024, pp. 141–68. DOI: [https://doi.org/10.1007/978-3-031-52719-7_6](https://doi.org/10.1007/978-3-031-52719-7_6).
 
 Rockwell, Geoffrey, and Stéfan Sinclair. 2016. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. Cambridge, Massachusetts: The MIT Press.
 
 Rogers, Richard. 2019. *Doing Digital Methods*. London: SAGE Publications.
 
-### Twitter
+### Twitter data as primary sources
 
 As for years, social media studies focused on Twitter, before it became X, the literature on Twitter is immense. Those references are still valid if you wish to collect data on X, but also for the many methodological insights they give.
 
 LSE Blog - [Using Twitter as a Data Source](https://blogs.lse.ac.uk/impactofsocialsciences/2019/06/18/using-twitter-as-a-data-source-an-overview-of-social-media-research-tools-2019/)
 
-Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In *The Ethics of Online Research (Advances in Research Ethics and Integrity, vol. 2)*, edited by Bath Peter A. and Kandy Woodfield, 79–107. Bingley: Emerald Publishing Limited. https://doi.org/10.1108/S2398-601820180000002004.
+Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a Data Source: An Overview of Ethical, Legal, and Methodological Challenges.” In *The Ethics of Online Research (Advances in Research Ethics and Integrity, vol. 2)*, edited by Bath Peter A. and Kandy Woodfield, 79–107. Bingley: Emerald Publishing Limited. DOI: [https://doi.org/10.1108/S2398-601820180000002004](https://doi.org/10.1108/S2398-601820180000002004).
 
-Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” *French Journal for Media Research* 10, (special issue: Le Web 2.0 : lieux de perception des transformations des sociétés). http://orbilu.uni.lu/handle/10993/36120.
+Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” *French Journal for Media Research* 10, (special issue: Le Web 2.0 : lieux de perception des transformations des sociétés). [Link to publication](http://orbilu.uni.lu/handle/10993/36120).
 
-Gruzd, Anatoliy, and Mai, Philip. 2020. “Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter.” In *Big Data & Society* 7, no. 2. https://doi.org/10.1177/2053951720938405.
+Gruzd, Anatoliy, and Mai, Philip. 2020. “Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter.” *Big Data & Society* 7 (2). DOI: [https://doi.org/10.1177/2053951720938405](https://doi.org/10.1177/2053951720938405).
 
 Rantasila, Anna, Anu Sirola, Arto Kekkonen, Katja Valaskivi, and Risto Kunelius. 2018. “#fukushima Five Years On: A Multimethod Analysis of Twitter on the Anniversary of the Nuclear Disaster.” *International Journal Of Communication* 12: 928–49.
 
-Smyth, Hannah and Diego Ramírez Echavarría. 2021. “Twitter and feminist commemoration of the 1916 Easter Rising.” *Journal of Digital History*, 1, no.1. https://journalofdigitalhistory.org/en/article/SLCj9T3MsrEk
+Smyth, Hannah and Diego Ramírez Echavarría. 2021. “Twitter and feminist commemoration of the 1916 Easter Rising.” *Journal of Digital History*, 1 (1). [Link to publication](https://journalofdigitalhistory.org/en/article/SLCj9T3MsrEk)
 
-### Bluesky and Mastodon
+### Bluesky and Mastodon data as primary sources
 
-Cava, Lucio La, et al. “Drivers of Social Influence in the Twitter Migration to Mastodon.” *Scientific Reports*, vol. 13, no. 1, Dec. 2023, pp. 1–12. *doaj.org*, https://doi.org/10.1038/s41598-023-48200-7.
+Cava, Lucio La, *et al.*. 2023. “Drivers of Social Influence in the Twitter Migration to Mastodon.” *Scientific Reports* 13 (1): 1–12. DOI: [https://doi.org/10.1038/s41598-023-48200-7](https://doi.org/10.1038/s41598-023-48200-7).
 
-Failla, A., Rossetti, G.: “I’m in the Bluesky Tonight": Insights from a Year Worth of Social Data. arXiv preprint arXiv:2404.18984 (2024)
+Failla, Andrea, and Giulio Rossetti. 2024. "“I’m in the Bluesky Tonight": Insights from a Year Worth of Social Data". *PLoS One* 19(11): e0310330. DOI: [https://doi.org/10.1371/journal.pone.0310330](https://doi.org/10.1371/journal.pone.0310330)
 
-Gehl, Robert W. *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media*. Oxford University Press, 2025. *Silverchair*, https://doi.org/10.1093/9780197776711.001.0001.
+Gehl, Robert W. *Move Slowly and Build Bridges: Mastodon, the Fediverse, and the Struggle for Democratic Social Media*. Oxford University Press, 2025. *Silverchair*, DOI: [https://doi.org/10.1093/9780197776711.001.0001](https://doi.org/10.1093/9780197776711.001.0001).
 
 Quelle, D., Bovet, A.: Bluesky: Network Topology, Polarisation, and Algorithmic Curation. arXiv preprint arXiv:2405.17571 (2024)
 
-Sahneh, Erfan Samieyan, et al. *The Dawn of Decentralized Social Media: An Exploration of Bluesky’s Public Opening*. arXiv:2408.03146, arXiv, 6 Aug. 2024. *arXiv.org*, https://doi.org/10.48550/arXiv.2408.03146.
+Sahneh, Erfan Samieyan, *et al.*(2025). *The Dawn of Decentralized Social Media: An Exploration of Bluesky’s Public Opening*. In: Aiello,  Luca Maria, *et al.* (eds.). *Social Networks Analysis and Mining. ASONAM 2024.* Lecture Notes in Computer Science, vol. 15211. Springer, Cham. [Link to preprint](https://doi.org/10.48550/arXiv.2408.03146). 
 
-Stokel-Walker, Chris. “Should I Join Mastodon? A Scientists’ Guide to Twitter’s Rival.” *Nature*, Nov. 2022. *www-nature-com.proxy.bnl.lu*, https://doi.org/10.1038/d41586-022-03668-7.
+Stokel-Walker, Chris. “Should I Join Mastodon? A Scientists’ Guide to Twitter’s Rival.” *Nature*, Nov. 2022. DOI: [https://doi.org/10.1038/d41586-022-03668-7](https://doi.org/10.1038/d41586-022-03668-7).
 
