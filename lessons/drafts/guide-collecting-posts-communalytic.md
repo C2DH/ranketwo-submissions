@@ -45,6 +45,8 @@ The Bluesky API allows us to access one of the core primitives of the AT Protoco
 
 Based on this API, the EDU version of Communalytic allows users to collect up to 30 000 Bluesky posts (including replies) in three datasets. Communalytic, reagardless the version you use, will take into account Bluesky API's [rate limits](https://docs.bsky.app/docs/advanced-guides/rate-limits), that are implemented to avoid service disruptions because of intense data harvesting. This is all the more important that, with the rise of large language models and the dire need of fresh data to train them, more and more companies are aggressively collecting content, which led to some controversies, including about [Bluesky](https://www.404media.co/someone-made-a-dataset-of-one-million-bluesky-posts-for-machine-learning-research/). This should be known, as it deals with our privacy.
 
+![Bluesky application programming interface "Fig. 1 Bluesky application programming interface portal"](/assets/images/guide-communalytic-1.png)
+
 ## Your first harvest of posts <a id="section3"></a>
 
 To create a free EDU account in Communalytic, you need to sign in through Google. (Researchers working on larger projects can also create a PRO account, with any email, but for this tutorial we use the free option of the software). Once you are connected, you will be directed to "My Datasets" (or click "My Datasets" in the main menu bar). However, you do not need to have a Bluesky account to draw down posts through the Bluesky API. Note that this may not be the case for other social media.  
