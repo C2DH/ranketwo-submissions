@@ -504,6 +504,8 @@ Think about how your personal background shapes the way you perceive space and h
 
 ### Reading/viewing suggestions 
 
-Zwer, Nepthys. “When Jacques Bertin anticipated radical cartography.” imago mundi, October 31, 2023. https://www.imagomundi.fr/article51.html.
+Zwer, Nepthys. “When Jacques Bertin anticipated radical cartography.” *imago mundi*, October 31, 2023. https://www.imagomundi.fr/article51.html
+
+kollektiv orangotango+, ed. 2018. *This Is Not an Atlas: A Global Collection of Counter-Cartographies*. Bielefeld: transcript-Verlag. DOI: [https://doi.org/10.14361/9783839445198](https://doi.org/10.14361/9783839445198).
 
 <!--https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme-->
