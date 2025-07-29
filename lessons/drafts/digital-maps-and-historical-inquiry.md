@@ -179,14 +179,14 @@ You will work with two maps that were created in the context of the World War On
 
 Figure 1: Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer, and Stanisław Wiktor Weigner, eds. 1916. *Geograficzno-statystyczny atlas Polski [1-3]*. (Geographical and Statistical Atlas of Poland). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Poland. Public Domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)  
 
-![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)")
+![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain.")
 
 
 [Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), future Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
 Figure 2: Paul Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Den Haag: Lith. J. Smulders and Co., 1919. HM Military History Institute and Museum, Budapest, Hungary. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
 
-![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)")
+![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider.")
 
 Check the maps and the contextual information provided above. You can also conduct some research on the web. Answer the following questions. 
 
@@ -221,7 +221,7 @@ Maps can be an impressive tool to visualize power. Political entities - kingdoms
 
 ![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
 
-Figure XX: Chambers of Commerce Atlas, General Reference Map, 1928
+Figure 3: Chambers of Commerce Atlas, General Reference Map, 1928
 
 The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The [Chambers](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institution to facilitate world-wide trade. The Atlas was directed to a British audience, and, in any case, any English-speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence over the world. However, the map also vehiculates dominant cultural representations of an imperial power, which is obvious in the use of place names: for example, Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul. Although the former were the placenames commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the the United Kingdom is culturally, financially and politically a dominant power. 
 <!-->
@@ -231,7 +231,7 @@ The map is part of the „Chambers of Commerce Atlas“, published in London in 
 ![Alexander Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Moruya and District Historical Society Museum, CC BY-ND")
 
 
-Figure XX: Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1939. Moruya and District Historical Society Museum, New South Wales, Australia. CC BY-ND. [URL](https://ehive.com/collections/5495/objects/809180/the-atlas-of-today-and-tomorrow) 
+Figure 4: Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1939. Moruya and District Historical Society Museum, New South Wales, Australia. CC BY-ND. [URL](https://ehive.com/collections/5495/objects/809180/the-atlas-of-today-and-tomorrow) 
 
 The map “International Movements of Capital” belongs to the „Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
 
@@ -278,14 +278,14 @@ Each series of photographs allows us even to track the route of one specific pla
 
 ![Detail of Topographic Map of Stettin, 1945](/assets/images/maps-as-historical-sources/1945-stettin-soviet-1-50000-annotation.jpg "Detail of Topographic Map of Stettin, 1945")
 
-Figure XX. Detail of Topographic Map of Stettin, 1945. [Батюк, Штеттин  (1:50.000, Генеральный штаб Красной армии,1945), N-33-90-B](http://maps.mapywig.org/m/Russian_and_Soviet_maps/series/050K/N-33-90-V_(SHTETTIN)_1945_400dpi_amwig.jpg). Map Archive for the Military Geographical Institute of Poland (WIG), 1919 - 1939. This resource is believed to be under the public domain. [Its use for pedagogical purpose is free](http://english.mapywig.org/viewpage.php?page_id=8).    
+Figure 5. Detail of Topographic Map of Stettin, 1945. [Батюк, Штеттин  (1:50.000, Генеральный штаб Красной армии,1945), N-33-90-B](http://maps.mapywig.org/m/Russian_and_Soviet_maps/series/050K/N-33-90-V_(SHTETTIN)_1945_400dpi_amwig.jpg). Map Archive for the Military Geographical Institute of Poland (WIG), 1919 - 1939. This resource is believed to be under the public domain. [Its use for pedagogical purpose is free](http://english.mapywig.org/viewpage.php?page_id=8).    
 
 URL of archived web page on the Internet Archive: https://web.archive.org/web/20230818043128/http://maps.mapywig.org/m/Russian_and_Soviet_maps/series/050K/N-33-90-V_(SHTETTIN)_1945_400dpi_amwig.jpg  
 
-The first illustration is a detail of a topographic map of [Stettin/Szczecin](https://en.wikipedia.org/wiki/Szczecin), a German town until the end of World War Two and currently in Poland, in a scale of 1:50.000, created in 1945. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and presence of several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. This reuse, combined to the change of political authority, no doubt explain the fact that the labelling of the map is essentially a Cyrillic transliteration of the German toponyms used for the town: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. There are more Russian terms at play, such as “больн”, which is the abbreviation for “hospital”. Considering the specific conditions of the creation of the map in the aftermath of the war, and with damages having occurred in the meantime due to military operations, one needs to critically interrogate the accuracy and estimated reliability of this topographic map as a representation of the town in 1945. The series of aerial photography allows to compare these different kinds of spatial representations and evaluate their sincerity.  
+The first illustration is a detail of a topographic map of [Stettin/Szczecin](https://en.wikipedia.org/wiki/Szczecin), a German town until the end of World War Two and, after 1945, part of Poland, in a scale of 1:50.000, created in 1945. For allied forces, it was a main target due to its harbour, access to the Baltic Sea, and presence of several industries. During the war, bomb raids on Szczecin were done mainly by the UK and US. In the end, Soviet forces conquered the city. After 1945, it was handed over to Polish authorities and remains, up until this day, a town right next to Poland’s border with Germany. In 1945, a Soviet cartographer created this topographic map. The description translates: “This map was produced in 1945 after a 1:25 000 German field-work from 1888, edited in 1911, 28, 29 and 1936”. This reuse, combined to the change of political authority, no doubt explain the fact that the labelling of the map is essentially a Cyrillic transliteration of the German toponyms used for the town: “ОБЕРВИК” is “Oberwiek”, the Southern part of the town with several industrial sites. There are more Russian terms at play, such as “больница”, which is the abbreviation for “hospital”. Considering the specific conditions of the creation of the map in the aftermath of the war, and with damages having occurred in the meantime due to military operations, one needs to critically interrogate the accuracy and estimated reliability of this topographic map as a representation of the town in 1945. The series of aerial photography allows to compare these different kinds of spatial representations and evaluate their sincerity.  
 
 ![Royal Air Force, Aerial Photograph, 28th November 1943](/assets/images/maps-as-historical-sources/1943-11-28-NCAP-3070-annotation.jpg "Royal Air Force, Aerial Photograph, 28th November 1943") 
-Figure XX: Royal Air Force, Aerial Photograph, 28th November 1943. National Collection of Aerial Photography (NCAP) [https://ncap.org.uk/](https://ncap.org.uk/)  
+Figure 6: Royal Air Force, Aerial Photograph, 28th November 1943. National Collection of Aerial Photography (NCAP) [https://ncap.org.uk/](https://ncap.org.uk/)  
 
 URL: https://ncap.org.uk/frame/6-1-5-3-254?pos=9 [13.03.2024]
 *No Commercial Use or Sale, No Sub-Licensing, no Advertising Use. Include the following statement: Higher resolution images are available from [NCAP](https://ncap.org.uk/).
@@ -321,7 +321,7 @@ Times of war are times of massive map production. While military maps are kept s
 
 In this part of the lesson, we compare maps from World War One and maps of the Russian-Ukrainian War since 2022. During World War One, public maps about the war were mainly published in newspapers and journals. Most of these maps had a relatively small scale, i.e. the map showed a rough sketch of the front line between two countries in a scale of 1:1 Million to 1:5 Million. In case a part of the front line was of particular interest, some publishers added medium scale maps, for example about Verdun and its surroundings on the Franco-German front.
 
-Figure XX: Verein für Kriegshilfe: Map of the Western front as of February 1915
+Figure 7: Verein für Kriegshilfe: Map of the Western front as of February 1915
 
 ![Verein für Kriegshilfe: Map of the Western front as of February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01.jpg "Verein für Kriegshilfe: Map of the Western front as of February 1915") 
 
@@ -330,12 +330,17 @@ This kind of small scale public maps were issued weekly. The regular rhythm of p
 
 ![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "") 
 
-*Add title, credits, **Image caption, image credits, rights of use*
 
 ![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg) 
 
 *Image caption, image credits, rights of use*
-Figure XX: Large scale map, Franco-German front, February 1915 **Is this the right caption for the image above???** Where is this image held? We need to mention this.  
+
+Figure XX: Large scale map, Franco-German front, February 1915 **Is this the right caption for the image above???** Where is this image held? We need to mention this.
+
+Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Ed by
+Vereinigung für Private Kriegshilfe, München, 1914-15
+
+Map No. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz 
 
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
 Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time.
