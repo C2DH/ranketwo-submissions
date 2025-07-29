@@ -327,26 +327,23 @@ Figure 7: Verein für Kriegshilfe: Map of the Western front as of February 1915
 
 This kind of small scale public maps were issued weekly. The regular rhythm of publication made these maps an important medium of information and propaganda: it showed the progress or non-progress of front lines, it informed readers at least roughly about areas in danger to be directly affected by the war, and it demonstrated gain and loss of territory. However, these small scale maps did not let the reader get closer to the situation along the front line. The armies kept large scale maps secret which showed trenches and fortified places, because publicly known details would allow the enemy to more precisely direct its attacks.
 
+Figure 8: Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Ed by
+Vereinigung für Private Kriegshilfe, München, 1914-15. Map No. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
 
-![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "") 
+![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz") 
 
+Figure 8bis: detail of the previous
 
-![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg) 
+![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Large scale map, Franco-German front, February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg "Large scale map, Franco-German front, February 1915") 
 
-*Image caption, image credits, rights of use*
+*Image credits, rights of use. Where is this image held? Do we have the rights of use? We need to mention this.*
 
-Figure XX: Large scale map, Franco-German front, February 1915 **Is this the right caption for the image above???** Where is this image held? We need to mention this.
-
-Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Ed by
-Vereinigung für Private Kriegshilfe, München, 1914-15
-
-Map No. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz 
-
+ 
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
 Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time.
 
 ![Screenshot of Ukraine on the service Live Universal Awareness Map on the 7th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
-Figure XX: Screenshot of Ukraine on LiveUAmap on the 7th of June 2023
+Figure 9: Screenshot of Ukraine on LiveUAmap on the 7th of June 2023
 URL: https://liveuamap.com/en/time/07.06.2023 
 <!--Terms of use of the image: https://liveuamap.com/about#terms-->
 
@@ -437,14 +434,17 @@ Regarding digital source criticism, we should focus on the following questions:
 
 **Let's investigate some information on two datasets imported and opened with QGIS software, displayen in the two screenshots below.** 
 
-The screenshot below (figure XX) shows the dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University. The Imperiia Project created data sets about the administrative borders of the Russian Empire.
+The screenshot below (figure 10) shows the dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University. The Imperiia Project created data sets about the administrative borders of the Russian Empire.
 The authors of the data set describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity, its name in Russian with Cyrillic alphabet and a latin transliteration are given.
+
+Figure 10: Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.
 
 ![Kingdom of Poland as part of the Russian Empire in the 19th c., visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 **Dataset reference: O’Neill, Kelly. 2016. “Administrative Boundaries of the Russian Empire (1820s): Provinces (Oblasti).” Harvard Dataverse. https://doi.org/doi:10.7910/DVN/5LUP5S.** 
 
-The following screenshot (figure XX) shows a dataset about the border of the partitions of Poland. The data set was created by Christopher Winters at Chicago University. Compared to the previous dataset, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
+The following screenshot (figure 11) shows a dataset about the border of the partitions of Poland. The data set was created by Christopher Winters at Chicago University. Compared to the previous dataset, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
 
+Figure 11: Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.
 ![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 <!-- should ask if we have the right to display this image -->
 **Dataset reference: Brown, Sam. n.d. “Polish historical boundaries.”  Includes shapefiles showing the boundaries of Poland at the time of the Third Partition; the Duchy of Warsaw in 1807; the Kingdom of Poland under the Czars; and Interwar Poland; also województwa, 1945-1968. Library of the University of Chicago. https://www.lib.uchicago.edu/e/collections/maps/uofcgis.html**
