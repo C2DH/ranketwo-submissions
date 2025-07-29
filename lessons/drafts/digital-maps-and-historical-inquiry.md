@@ -331,7 +331,7 @@ This kind of small scale public maps were issued weekly. The regular rhythm of p
 ![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "") 
 
 
-![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detailjpg) 
+![](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg) 
 
 *Image caption, image credits, rights of use*
 
