@@ -262,6 +262,14 @@ Pick a map of your choice or use the one we propose: [GDP per capita, 2023](http
 ### Reading/viewing suggestions of: 2 Learning to read the stories maps tell
 National Archives. “Analyze a Map,” August 15, 2016. https://www.archives.gov/education/lessons/worksheets/analyze-a-map-intermediate.
 
+Górny, Maciej: Drawing fatherlands. Geographers and borders in inter-war Europe. Leiden: Brill 2022
+
+Seegle, Steven: Map men. Transnational lives and deaths of geographers in the making of Eastern Europe. Chicago / London: University of Chicago Press 2018
+
+Haslinger, Peter: National geopolitics in Habsburg Central Europe. Imperial and post-imperial perspectives on Hungary and Poland, 1890-1930, in: Jan Arend (ed.): Science and Empire in Eastern Europe. Imperial Russia and the Habsburg Monarchy in the 19th Century, Munich 2020, pp. 205-236
+
+Osowska, Anna, and Dariusz Przybytek. "Thematic maps in Eugeniusz Romer’s Geographical and Statistical Atlas of Poland from 1916 – the historical and methodological perspective (on the 100-year anniversary of the publication)". *Polish Cartographical Review* Sciendo, 48, no. 2 (2016): 77-86. DOI: [https://doi.org/10.1515/pcr-2016-0007](https://doi.org/10.1515/pcr-2016-0007)
+
 ## 3 History takes place. Maps as (real-time) data
 
 ### 3.a Comparing maps and aerial photography
