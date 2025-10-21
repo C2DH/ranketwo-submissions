@@ -195,6 +195,12 @@ After these basic questions, go deeper into cartographic details to analyse the 
 
 In general, going more into details of maps, the tackling of such comparative questions may turn out rather difficult as we do not necessarily find detailed background material which gives insight into the production process and into the cartographer’s decisions. Therefore, we should proceed carefully when starting our interpretation and elaborating explanations regarding the appearance and content of maps. Analysing a map, we should keep in mind, that the authors, cartographers and editors of maps have to make many decisions in the course of map production, implicitly or explicitly, consciously or not. They have to select particular features from the plenty of spatial information available and focus on a few features that should be visualized. Specific cartographic ‘languages’ and styles (symbols, colours etc.) for this have developed over centuries. Since the 19th century, increasing international exchange among cartographers and editors led to various implicit or explicit conventions regarding map design, such as putting geographic North to the top of the map. 
 
+Now consider the map Mediterranean without Borders of artist Sabine Réthoré exposed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). What can you observe in the perspective of your findings above? 
+
+![Mediterranean Without Borders Map of Sabine Réthoré, Mucem](/assets/images/maps-as-historical-sources/MSF-copyleft3.jpg "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France")
+
+Reflect on how the production of maps is therefore based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. 
+
 
 ### 2.c Decrypting choices, audience, and purpose: imagining populations in maps
 By Peter Haslinger
