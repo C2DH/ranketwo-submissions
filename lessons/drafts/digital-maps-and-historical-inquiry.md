@@ -148,25 +148,55 @@ In principle, all maps are thematic. It is possible to distinguish between maps 
 9.	Defining a layout 
 10.	Being conscious of visual hierarchy
 
-It is important to understand how the above steps **apply to source criticism**. When analyzing maps as historical sources, we start with the fundamental questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? **Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely.** We should keep in mind, that the authors, cartographers and editors **(in short: the creators)** of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
+It is important to understand how the above steps apply to source criticism. When analyzing maps as historical sources, we start with the fundamental questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely. We should keep in mind, that the authors, cartographers and editors (in short: the creators) of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
+
+### Instructions
 
 Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson: in the end you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
 
+In the video, the discussant talks about map projections as one of the elements defining perspective. Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it. 
+
 If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01). 
 
-### 2.a Playing with perspective and distortion 
-
-By Eliane Schmid
+### 2.a Playing with perspective and distortion
 
 *Learning outcome: hands-on experience to understand map projection and its effect on the visualization of space*
 
-In the following video, the discussant talks about map projections as one of the elements defining perspective. **Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it**.   
-
-**Now play with different map projections**. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
+Play with different map projections. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
 
 Continue further down the page and read the text below the illustration to learn more about projections. 
 
-### 2.b Decrypting choices, audience, and purpose: imagining populations in maps
+### 2.b Comparing perspectives
+
+There is a wide variety of methodological reflections concerning map analysis, usually called “critical cartography”. A suitable approach to maps largely depends upon the specific type of cartographic material which is about to be examined and upon the research question. Despite the variety of analytical tools, many authors advocate comparative approaches. 
+
+We may start with rather basic questions, such as: why does a certain map show a feature in a particular way, and why is this feature shown differently on another map? Step by step, we can go more into details of the map and explore possible explanations for differences.  
+
+Let us take the example of world maps. Observe the three maps below. 
+
+* Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō)
+
+* World Map in German School-Atlas in Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig [u.a.]: Westermann, [1932?]
+
+* Official National Atlas of India in. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
+
+
+![Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō)") 
+
+![Official National Atlas of India, 1957](/assets/images/maps-as-historical-sources/india-national-atlas-welt.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
+
+![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")
+
+Apply source criticism to the maps with the help of some basic questions: : Who produced the map? When was is created? What is the content of the map? How is the map content presented? Why was the map created? To whom was the map addressed?  
+
+After these basic questions, go deeper into cartographic details to analyse the particular purposewhich the map should fulfil, and examine possible intentions of the map creators. For the time being, you can focus to the question below:
+
+*  Which continent each map depicts at its centre? Did the cartographers choose different map projections and if so, why?
+
+In general, going more into details of maps, the tackling of such comparative questions may turn out rather difficult as we do not necessarily find detailed background material which gives insight into the production process and into the cartographer’s decisions. Therefore, we should proceed carefully when starting our interpretation and elaborating explanations regarding the appearance and content of maps. Analysing a map, we should keep in mind, that the authors, cartographers and editors of maps have to make many decisions in the course of map production, implicitly or explicitly, consciously or not. They have to select particular features from the plenty of spatial information available and focus on a few features that should be visualized. Specific cartographic ‘languages’ and styles (symbols, colours etc.) for this have developed over centuries. Since the 19th century, increasing international exchange among cartographers and editors led to various implicit or explicit conventions regarding map design, such as putting geographic North to the top of the map. 
+
+
+### 2.c Decrypting choices, audience, and purpose: imagining populations in maps
 By Peter Haslinger
 
 *Learning outcome - apply internal source critique to a map*
@@ -212,7 +242,7 @@ Now write a short paragraph to summarize your findings:
 
 **To finish, make a research on the web about both maps, using the title of each as search words. Note which libraries and in which countries the digitized versions of these maps are available. Based on your findings, what are your remarks about the geographic area of diffusion of the digitized versions of the maps?** 
 
-### 2.c Visualizing power 
+### 2.d Visualizing power 
 By Christian Lotz
 
 *Learning outcome - initiation to maps as data visualizations*
