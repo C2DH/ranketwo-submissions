@@ -181,7 +181,7 @@ Let us take the example of world maps. Observe the three maps below.
 * Official National Atlas of India in. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
 
-![Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō)") 
+![Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain") 
 
 ![Official National Atlas of India, 1957](/assets/images/maps-as-historical-sources/india-national-atlas-welt.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
 
@@ -197,7 +197,7 @@ In general, going more into details of maps, the tackling of such comparative qu
 
 Now consider the map Mediterranean without Borders of artist Sabine Réthoré exposed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). What can you observe in the perspective of your findings above? 
 
-![Mediterranean Without Borders Map of Sabine Réthoré, Mucem](/assets/images/maps-as-historical-sources/MSF-copyleft3.jpg "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France")
+![Mediterranean Without Borders Map of Sabine Réthoré, Mucem](/assets/images/maps-as-historical-sources/MSF-copyleft3.jpg "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France. Free Art Licence")
 
 Reflect on how the production of maps is therefore based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. 
 
@@ -260,14 +260,11 @@ Maps can be an impressive tool to visualize power. Political entities - kingdoms
 Figure 3: Chambers of Commerce Atlas, General Reference Map, 1928
 
 The map is part of the „Chambers of Commerce Atlas“, published in London in 1928. The [Chambers](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institution to facilitate world-wide trade. The Atlas was directed to a British audience, and, in any case, any English-speaking readers interested in trade routes as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses red colour to indicate territories which are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence over the world. However, the map also vehiculates dominant cultural representations of an imperial power, which is obvious in the use of place names: for example, Bombay (in India) and Constantinopole (in Turkey), and not Mumbaī and İstanbul. Although the former were the placenames commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the the United Kingdom is culturally, financially and politically a dominant power. 
-<!-->
-**Sofia comment: Maybe it would be interesting to add here this map: https://commons.wikimedia.org/wiki/File:42-43_%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%BC%D0%B8%D1%80%D0%B0.jpg and show how the red is used now for the USSR - could the basis of this map be the previous one?**
--->
 
-![Alexander Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Moruya and District Historical Society Museum, CC BY-ND")
+![Alexander Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain")
 
 
-Figure 4: Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1939. Moruya and District Historical Society Museum, New South Wales, Australia. CC BY-ND. [URL](https://ehive.com/collections/5495/objects/809180/the-atlas-of-today-and-tomorrow) 
+Figure 4: Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
 
 The map “International Movements of Capital” belongs to the „Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
 
@@ -374,13 +371,11 @@ This kind of small scale public maps were issued weekly. The regular rhythm of p
 Figure 8: Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Ed by
 Vereinigung für Private Kriegshilfe, München, 1914-15. Map No. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
 
-![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz") 
+![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain") 
 
 Figure 8bis: detail of the previous
 
-![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Large scale map, Franco-German front, February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg "Large scale map, Franco-German front, February 1915") 
-
-*Image credits, rights of use. Where is this image held? Do we have the rights of use? We need to mention this.*
+![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Large scale map, Franco-German front, February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain") 
 
  
 A couple of decades after a war is over, archives in many countries give access to these kind of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question „what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
@@ -389,7 +384,7 @@ Today, we also find many small scale maps about ongoing wars in the world printe
 ![Screenshot of Ukraine on the service Live Universal Awareness Map on the 7th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 Figure 9: Screenshot of Ukraine on LiveUAmap on the 7th of June 2023
 URL: https://liveuamap.com/en/time/07.06.2023 
-<!--Terms of use of the image: https://liveuamap.com/about#terms-->
+Images reproduced for the purpose of this lesson following [terms of use](https://liveuamap.com/about#terms). 
 
 The example of the LiveUAmap is a multi-scale map. In a small scale it allows for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map derives from various sources, such as the Telegramm messager service. The LiveUAmap is provided by a Non Governmental Organisation based in McLean (Virginia, USA). Although we can zoom in to a large scale map, and although we can find information about the front line in detail, the map does not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
@@ -397,7 +392,7 @@ Check the above map and explore the sources of information that are located on L
 
 There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024). **For example, you could use [this map](https://www.understandingwar.org/sites/default/files/Luhansk%20Battle%20Map%20Draft%20March%2011%2C2024.png).**
 
-**Comparing maps from World War One and the Ukrainian War, what do you notice when applying source criticism (refer to the list provided in assignement 2)? Are you able to identify the context of creation, the intention of the maps and the provenance of information? What do you notice about the creators? Is there something that changes and why?** 
+Comparing maps from World War One and the Ukrainian War, what do you notice when applying source criticism (refer to the list provided in assignement 2)? Are you able to identify the context of creation, the intention of the maps and the provenance of information? What do you notice about the creators? Is there something that changes and why?
 
 ### Reading/viewing suggestions of: 3 History takes place. Maps as (real-time) data
 
