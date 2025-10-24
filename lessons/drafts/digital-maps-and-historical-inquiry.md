@@ -185,7 +185,10 @@ Let us take the example of world maps. Observe the three maps below.
 
 ![Official National Atlas of India, 1957](/assets/images/maps-as-historical-sources/india-national-atlas-welt.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
 
-![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")
+<!-->
+![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932") -->
+
+![German School-Atlas, World Map, 1932]({{ '/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg' | relative_url }} "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")
 
 Apply source criticism to the maps with the help of some basic questions: : Who produced the map? When was is created? What is the content of the map? How is the map content presented? Why was the map created? To whom was the map addressed?  
 
