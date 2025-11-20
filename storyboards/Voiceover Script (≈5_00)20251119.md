@@ -23,8 +23,7 @@ Those choices guide interpretation: they can clarify patterns—or create them. 
 ✂︎ *Cut the rhetorical questions in line 1 if needed (–20–25 words).*
 
 **Principle 4 — Mapping is a powerful act (2:06–2:40)**
-To map is to **argue**. Mapping makes claims about where people live, who belongs, what resources lie where, and which routes matter. Lines and colors can affect budgets, shape borders, or direct aid.
-Who maps is empowered to decide whose perspective counts—so mapping carries responsibility.
+To map is to **argue**. Mapping makes claims about where people live, who belongs, what resources lie where, and which routes matter. The choice of colors and where lines are drawn affects our view on borders, influences political decisions and directs aid. Anyone can map. But whose map is read has the power to influence perspectives—so mapping carries responsibility.
 
 **Principle 5 — Maps are always political (2:41–3:10)**
 “Political” here means maps participate in decisions about **power, inclusion, and visibility**. Boundaries, place names, data sources, and legends encode viewpoints.
