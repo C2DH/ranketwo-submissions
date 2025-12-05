@@ -33,9 +33,13 @@ og:
 # Code as Heritage
 
 [Introduction](#introduction)
+
 [1 Understanding Digital Heritage Recognition](#1-understanding-digital-heritage-recognition)
+
 [2 Learning to Read Code as Cultural Text](#2-learning-to-read-code-as-cultural-text)
+
 [3 Software Heritage: Preserving Code for the Future](#3-software-heritage-preserving-code-for-the-future)
+
 [4 Potential uses of preserved code](#4--potential-uses-of-preserved-code)
 
 ## Introduction
