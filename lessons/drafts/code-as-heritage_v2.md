@@ -238,6 +238,10 @@ When approaching any code artifact, consider the following dimensions:
 
 > Consider the example of the systematic exclusion of the six women who programmed ENIAC for decades from historical documentation. It demonstrates how what is missing reveals as much as what's included ([Light 1999](https://rybn.org/human_computers/articles/when_computers_were_women.pdf)). This gap in the historical record wasn't accidental but reflected broader societal attitudes that marginalized women's technical contributions, showing how the absence of documentation can be as historically significant as its presence ([MacDonald 2016](https://www.sciencealert.com/these-6-women-were-written-out-of-tech-history)).
 
+![Women programmers holding parts of early Army computers including ENIAC, EDVAC, ORDVAC, and BRLESC-I boards](/assets/images/code-as-heritage/Women_holding_parts_of_the_first_four_Army_computers.jpg "Women holding parts of the first four Army computers")
+
+**Figure 3:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
+
 ### 2.b Programming Languages as Historical Markers - 30 minutes
 
 Programming languages provide crucial chronological and cultural markers. Each language connects to specific communities, time periods, and technological constraints:
@@ -247,10 +251,6 @@ Programming languages provide crucial chronological and cultural markers. Each l
 * **BASIC** suggests educational contexts and early personal computing (1970s-80s)
 * **JavaScript** indicates web development post-1995
 * **Python** reflects contemporary emphases on readability and accessibility
-
-![IBM Mainframe Punch Card vector illustration](/assets/images/code-as-heritage/IBM_Mainframe_Punch_Card.svg "IBM Mainframe Punch Card")
-
-**Figure 3:** Vector design of an IBM compatible mainframe punch card. Punch cards were the primary method for inputting programs and data into early computers from the 1950s through the 1980s. Understanding the technological constraints of punch card input and storage helps historians grasp the material conditions that shaped early programming practices. *Credit: VectorVoyager, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IBM_Mainframe_Punch_Card.svg)*
 
 The use of English-based keywords in programming languages like "if," "else," "for," and "while" reflects the dominance of English-speaking countries in early computing history, creating barriers for non-native English speakers. Cultural factors influence programming language design. Some languages tend toward straightforward, more explicit or verbose syntax with clear variable declarations ([Walton 2024](https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/)).
 
@@ -315,17 +315,17 @@ Apply the layered reading approach:
 
 1. **Identify the layers:** What information in this snippet addresses each dimension (technical object, textual artifact, historical trace, archival construction)? Notice how these overlap—the copyright notice is simultaneously technical (comment syntax), textual (attribution language), and historical (1975 date).
 
-2. **Provenance and dating:** Who is credited as author? What evidence do we have about the authorship and dating of this code? How reliable are the internal claims about Gates, Allen, and Davidoff's contributions? The code was "originally written" in 1975 but "translated" in 1983. What does this eight-year gap suggest about software evolution and the need for code translation as environments change?
+2. **Provenance and dating:** Who is credited as author? What dates appear? The code was "originally written" in 1975 but "translated" in 1983. What does this eight-year gap suggest about software evolution and the need for code translation as environments change?
 
-3. **Programming language and product type:** Looking at the title "GWMAIN" and knowing this is early Microsoft code from Bill Gates and Paul Allen, what do you think "GW" might stand for? (Hint: Think of a simple programming language designed to be easy for beginners—one that was very popular on early home computers.) What does the assembly language format tell us about the relationship between high-level and low-level code? Looking at this code snippet and considering the historical context (Bill Gates, Paul Allen, early Microsoft, 1975-1983), what kind of software product do you think this might be?
+3. **Programming language context:** Looking at the title "GWMAIN" and knowing this is early Microsoft code, what might "GW" stand for? (Hint: Think of a simple programming language designed to be easy for beginners.) What does the assembly language format tell us about the relationship between high-level and low-level code?
 
-4. **Cultural markers:** Examine how credit is attributed: "wrote a lot of stuff," "wrote a lot of other stuff and fast code." What does this informal, almost playful language reveal about early software culture and workplace dynamics? What does this snippet tell us about authorship and collaboration? Examine who receives credit for which contributions, and how specifically is each person's work described.
+4. **Cultural markers:** Examine how credit is attributed: "wrote a lot of stuff," "wrote a lot of other stuff and fast code." What does this informal, almost playful language reveal about early software culture and workplace dynamics?
 
-5. **Cross-referencing:** To deepen your analysis, consult these contemporary sources:
+5. **Cross-referencing:** Consult these contemporary sources:
    * [James, Mike. 2025 'Bill Gates Shares The Code That Launched Microsoft'. I Programmer](https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html)
    * [Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. Gates Notes.](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
    
-   How does Gates describe this collaboration in 2025 versus the informal attribution in the 1983 code comments? What additional context do these sources provide about the significance of this early work?
+   How does Gates describe this collaboration in 2025 versus the 1983 code comments? What additional historical significance do these sources attribute to this early work?
 
 ### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories - 40 minutes
 
@@ -467,10 +467,6 @@ The systematic underrecognition of women's contributions to computing has been w
 
 Hamilton herself had to advocate for recognition of software engineering as a legitimate discipline—she is credited with coining the term. In a field where software was often dismissed as less important than hardware, and where women's technical contributions were frequently overlooked, Hamilton had to advocate for both her discipline and her team's recognition.
 
-![Women programmers holding parts of early Army computers including ENIAC, EDVAC, ORDVAC, and BRLESC-I boards](/assets/images/code-as-heritage/Women_holding_parts_of_the_first_four_Army_computers.jpg "Women holding parts of the first four Army computers")
-
-**Figure 6:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
-
 **Fifth analysis task:** The Apollo code's journey from working software to digital heritage involved many decisions about what to preserve, transcribe, and contextualize. Whose labor is visible in the GitHub repository? Whose labor made the code possible but remains invisible? What sources beyond the code itself would you need to recover a fuller picture?
 
 **From Paper to Software Heritage: The Arc of Heritagization**
@@ -497,9 +493,9 @@ Some programmers take this further, creating languages and programs whose primar
 
 Esoteric programming languages (or "esolangs") are intentionally designed not for practical software development, but rather to challenge conventional programming paradigms and provide amusement for programmers ([Paloque-Bergès 2009](https://www.laprocure.com/product/1282150/paloque-berges-camille-poetique-des-codes-sur-le-reseau-informatique)). Think of them as programming's equivalent to experimental art or wordplay—they serve as creative expressions, intellectual puzzles, or even jokes that reveal the playful and cultural dimensions of programming beyond its purely functional aspects.
 
-![Hello World program written in Befunge, an esoteric programming language](/assets/images/code-as-heritage/Hello_World_Befunge.png "Hello World in Befunge")
+![A "Hello World!" program written in Befunge, an esoteric programming language](/assets/images/code-as-heritage/Hello_World_Befunge.png "Hello World in Befunge")
 
-**Figure 7:** A "Hello World!" program written in Befunge, an esoteric programming language where code is written in two-dimensional space. The arrows show the direction of program execution. *Credit: Wattcle, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Befunge.png)*
+**Figure 6:** A "Hello World!" program written in Befunge, an esoteric programming language where code is written in two-dimensional space. The arrows show the direction of program execution. *Credit: Wattcle, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Befunge.png)*
 
 **The Esoteric File Archive**
 
@@ -563,12 +559,6 @@ Fuller, Matthew, ed. 2008. Software Studies: A Lexicon. MIT Press. https://doi.o
 Cox, Geoff, and Alex McLean. 2012. Speaking Code: Coding as Aesthetic and Political Expression. MIT Press. https://doi.org/10.7551/mitpress/8193.001.0001
 
 Berry, David. 2016. The Philosophy of Software: Code and Mediation in the Digital Age. Springer.
-
-Manovich, Lev. 2001. The Language of New Media. MIT Press. https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf
-
-Rushkoff, Douglas. 2010. Program Or Be Programmed: Ten Commands for a Digital Age. OR Books.
-
-Hayles, N. Katherine. 2005. My Mother Was a Computer: Digital Subjects and Literary Texts. University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html
 
 Code and Culture:
 
@@ -690,11 +680,11 @@ Launched in 2020, the program creates secure, long-term backups through multiple
 
 ![GitHub Open Source Archive Box with AI-generated design](/assets/images/code-as-heritage/GitHub_Archive_Box.png "GitHub Archive Box")
 
-**Figure 8:** A museum-quality archival case designed by artist and engineer Alex Maki-Jokela for the GitHub Archive Program. The box features 3D-printed and AI-generated artwork, and contains 17,000 open-source repositories archived on hardened film designed to survive 1,000 years. The aesthetic design reflects an important principle: that preservation efforts must be valued as objects in themselves to ensure long-term commitment to heritage protection. *Credit: GitHub Archive Program, Design by Alex Maki-Jokela, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
+**Figure 7:** A museum-quality archival case designed by artist and engineer Alex Maki-Jokela for the GitHub Archive Program. The box features 3D-printed and AI-generated artwork, and contains 17,000 open-source repositories archived on hardened film designed to survive 1,000 years. The aesthetic design reflects an important principle: that preservation efforts must be valued as objects in themselves to ensure long-term commitment to heritage protection. *Credit: GitHub Archive Program, Design by Alex Maki-Jokela, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
 
 ![Interior of the Svalbard Global Seed Vault storage facility in the Arctic](/assets/images/code-as-heritage/Svalbard_seed_vault_IMG_8894.JPG "Svalbard Global Seed Vault entrance")
 
-**Figure 9:** The entrance to the Svalbard Global Seed Vault, an underground facility in the Arctic designed to preserve plant seeds for centuries. The GitHub Arctic Code Vault was intentionally placed near this seed vault as a conceptual parallel—both preserve humanity's most precious biological and digital heritage in a location designed to survive catastrophic changes. *Credit: Bjoertvedt, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8894.JPG)*
+**Figure 8:** The entrance to the Svalbard Global Seed Vault, an underground facility in the Arctic designed to preserve plant seeds for centuries. The GitHub Arctic Code Vault was intentionally placed near this seed vault as a conceptual parallel—both preserve humanity's most precious biological and digital heritage in a location designed to survive catastrophic changes. *Credit: Bjoertvedt, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8894.JPG)*
 
 What makes this approach educationally valuable is its concept of "pace layers" - different preservation methods designed to function across various time scales, from years to millennia. This layered approach helps ensure that our digital heritage remains accessible to future generations regardless of technological changes ([GitHub Archive Program 2025](https://archiveprogram.github.com/)).
 
@@ -708,7 +698,7 @@ This holistic collection ranges from early personal computer applications to bel
 
 ![Staff at the Internet Archive warehouse sorting physical software materials for the software collection](/assets/images/code-as-heritage/Internet_Archive_software_collection_sorting.jpg "Internet Archive software collection sorting")
 
-**Figure 10:** Archivists at the Internet Archive's warehouse in 2018 sorting physical software materials as part of the ongoing effort to preserve and digitize the software collection. This image reveals the physical labor and curatorial work involved in heritage preservation—the human effort behind digitization and archiving initiatives. *Credit: Jason Scott, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-03_Internet_Archive_software_collection_sorting.jpg)*
+**Figure 9:** Archivists at the Internet Archive's warehouse in 2018 sorting physical software materials as part of the ongoing effort to preserve and digitize the software collection. This image reveals the physical labor and curatorial work involved in heritage preservation—the human effort behind digitization and archiving initiatives. *Credit: Jason Scott, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-03_Internet_Archive_software_collection_sorting.jpg)*
 
 **Comparing Approaches**
 
@@ -741,7 +731,7 @@ Visit and carefully examine: archiveprogram.github.com
 
 **Part 2: Internet Archive Software Collection**
 
-Explore the collection: archive.org/details/software 
+Explore the collection: archive.org/details/software Internet Archive Software Collection
 
 For a concrete example, examine: archive.org/details/jsmess_engine_v2 
 
