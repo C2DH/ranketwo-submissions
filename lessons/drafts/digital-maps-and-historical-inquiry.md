@@ -456,11 +456,15 @@ Carry out online research and collect information and photos about the different
 
 Finally, you can do some field work: visit the streets you found and familiarise yourself with the location and surroundings. You can check if there are any visible traces associating the streets with the historical past that served to name them: architectural constructions, monuments, relics of past activities… If you find any, take photos on your phone or, at the very least, of the street signs.
 
-Now you have enough information to link to geospatial data and to create your own map! You can use a service like [Google Maps](https://www.google.com/maps/d/) (or, if you wish to use an interface in French and open source software, [GoGoCarto](https://gogocarto.fr/), instructions are provided in the French version of this lesson). 
+Now you have enough information to link to geospatial data and to create your own map! You can use a service like [Google Maps](https://www.google.com/maps/d/).
 
 To use Google Maps, you need to have a personal Google account and review the instructions available in: Clifford, Jim, Josh MacFadyen, and Daniel Macfarlane. “Intro to Google Maps and Google Earth.” _Programming Historian 2_ (2013), [https://doi.org/10.46430/phen0028](https://doi.org/10.46430/phen0028)  
 
 You could simply create a map by tagging the names of the streets related to the industrial past of Esch-sur-Alzette. Or you could go a step further and integrate the photos you made during your field work. Now, by doing so, it is you who creates a new layer and integrate it in a user-friendly version of a GIS that Google Maps is. If you publish your map, please contact us to integrate the link in this lesson!
+
+If you prefer to use an open source service, try [uMap](https://umap.openstreetmap.fr/en/). You can find instructions on how to use it in [this tutorial](https://youtu.be/sfyw8fJOIJY). 
+
+If you wish to use an interface exclusively in French, instructions on how to use [GoGoCarto](https://gogocarto.fr/) are provided in the French version of this lesson.  
 
 ### 4.c Evaluating GIS datasets about historical phenomena
 
