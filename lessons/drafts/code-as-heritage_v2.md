@@ -32,9 +32,7 @@ og:
 ---
 # Code as Heritage
 
-![Computer screen displaying lines of source code with syntax highlighting](/assets/images/code-as-heritage/markus-spiske-fN6HM1hrgxk-unsplash.jpg "Digital code web source code development")
-
-**Figure 1:** A computer screen displaying source code with syntax highlighting. This image illustrates the fundamental nature of source code as human-readable digital instructions. *Credit: Markus Spiske, [Unsplash](https://unsplash.com/photos/a-computer-screen-with-a-lot-of-text-on-it-fN6HM1hrgxk), December 4, 2021, Free to use under the Unsplash License.*
+**Illustration:** 
 
 [Introduction](#introduction)
 
@@ -48,7 +46,7 @@ og:
 
 ## Introduction
 
-Source code represents one of the most important forms of born-digital heritage today. Why preserve and study historical code? This lesson will help you answer these questions, and demonstrates how the intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding our digital age. This lesson introduces you to applying traditional source criticism methods to digital materials, teaching you to view code as both a technical and cultural artifact. At its most basic level, source code consists of human-readable computer instructions, but as we will explore, it is much more than mere technical documentation. The methodological approach through this lesson focuses on three key skills: contextual analysis, critical evaluation, and comparative assessment—rather than technical programming skills. While designed for beginners in digital source criticism, some exercises will require basic digital navigation skills and familiarity with academic research practices.
+Every app, website, and digital service we use today is built on layers of code that capture decisions, assumptions, and values—traces historians are only beginning to learn how to read. This lesson will help you answer these questions, and demonstrates how the intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding contemporary technological development. This lesson introduces you to applying source criticism methods to code, teaching you to view it as both a technical and cultural artifact. At its most elementary level, source code consists of human-readable computer instructions, but as we will explore, it is much more than mere technical documentation. Code is increasingly being recognized as cultural heritage, raising questions about how it should be preserved and what transformations occur as working software becomes historical artifact. The methodological approach through this lesson focuses on three key skills: contextual analysis, critical evaluation, and comparative assessment—rather than technical mastery. However, understanding code as a historical source does require engaging with its technical dimensions; learners will be guided toward accessible resources to build this foundational knowledge alongside their critical skills. While designed for beginners in digital source criticism, some exercises will require basic digital navigation skills and familiarity with academic research practices.
 
 In this lesson, we will guide you through three key dimensions of understanding code as heritage:
 
@@ -70,30 +68,35 @@ Each section includes practical exercises designed to develop your critical thin
 
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
-To define our object of study, let's consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute." What does this mean? Source code can be defined as the fundamental set of instructions of a program; human-readable computer commands written in higher-level programming languages that require compilation or interpretation to become executable ([Krysa & Sedek 2008: 237](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf#%5B%7B%22num%22%3A515%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)).
+To define our object of study, consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute" ([Abelson and Sussman 1996](https://sarabander.github.io/sicp/html/index.xhtml)). What does this mean? Source code can be defined as the fundamental set of instructions of a program; human-readable computer commands written in higher-level programming languages that require compilation or interpretation to become executable ([Krysa & Sedek 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf#%5B%7B%22num%22%3A515%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)).
+
+Since the 1950s, hundreds of [programming languages](https://en.wikipedia.org/wiki/Programming_language) have been created, each with its own syntax, design philosophy, and community of practitioners. Some languages, like [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran) and [COBOL (1959)](https://en.wikipedia.org/wiki/COBOL), emerged in specific institutional contexts—scientific computing and business administration respectively—and continue to run critical systems decades later. Others, like [Python (1991)](https://en.wikipedia.org/wiki/Python_(programming_language)), were designed with readability and accessibility in mind. This diversity means that source code must be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
+
+Computer scientist Darrell Ronald Raymond emphasizes this in his 1991 article Reading source code: "the main role of source code is not a compilable entity, but a human-readable statement of intent and mechanism in the program" ([1991:3](https://dl.acm.org/doi/10.5555/962111.962113)). This also implies that code is more than written words. It is both an object and an action, simultaneously enabling and constraining activities ([Méadel and Sire 2017](https://shs.cairn.info/revue-reseaux-2017-6-page-9?lang=fr&tab=texte-integral)). Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance—becoming part of programming culture itself.
 
 ![The famous "Hello, World!" program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/code-as-heritage/Hello_World_Brian_Kernighan_1978.jpg "Hello World program by Brian Kernighan")
 
-**Figure 2:** The iconic "Hello, World!" program written in C by Brian Kernighan in 1978, featured in the seminal book *The C Programming Language*. This simple two-line program represents the foundational example that introduces new programmers to their first language and embodies both the technical nature of source code and its role in programming education and culture. The program is preserved on acid-free dot-matrix computer paper as part of historical collections. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)* 
+**Figure 1:** Brian Kernighan's "Hello, World!" program written in C and printed on dot-matrix computer paper, as featured in *The C Programming Language* (1978). At the time of its publication, this was simply an introductory example; it has since become the universal convention for first programs in computing education. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
 
-This definition helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
+If you have ever opened a programming tutorial, textbook, or online course, you have likely encountered "Hello, World!"—a simple program that displays these two words on the screen. This modest example has become a standard convention: when introducing any programming language, authors almost invariably begin with a "Hello, World!" program. As we will see later in this lesson, this convention is so deeply embedded in programming culture that [repositories](https://rosettacode.org/wiki/Hello_world/Text) now collect implementations of the same example in hundreds of different programming languages.
 
-Computer scientist Darrell Ronald Raymond emphasizes this in his 1991 article Reading source code: "the main role of source code is not a compilable entity, but a human-readable statement of intent and mechanism in the program" ([1991:3](https://dl.acm.org/doi/10.5555/962111.962113)). This also implies that code is more than written words. It is both an object and an action, simultaneously enabling and constraining activities ([Méadel and Sire 2017](https://shs.cairn.info/revue-reseaux-2017-6-page-9?lang=fr&tab=texte-integral)).
+But where did this tradition originate? The example traces back to Brian Kernighan, who first documented it in a 1972 Bell Labs memorandum titled *A Tutorial Introduction to the Language B*. It gained widespread adoption through *The C Programming Language* (1978), co-authored by Kernighan and Dennis Ritchie, one of the most influential programming textbooks ever published ([Wikipedia: "Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)). The persistence of this convention across five decades and hundreds of programming languages illustrates that programming, like any human practice, develops shared traditions. The appearance of "Hello, World!" in contemporary Python tutorials represents direct historical lineage from Kernighan's 1972 memorandum and a form of cultural transmission preserved in code.
 
-The socio-technical nature of source code creates definitional challenges in our terminology. What exactly do we mean by "programs," "software," and "source code"? Though often used interchangeably, each term has distinct meanings: source code refers to human-readable instructions intended to be executed by the machine; software encompasses the broader ecosystem including compiled programs, documentation, and user interfaces; programs typically denote the executable files that run on computers. 
+This example helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
 
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
-Let's explore how source code became recognized as cultural heritage. The 2003 UNESCO Charter on the Preservation of Digital Heritage represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
+The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
+
 Why was this recognition important? By officially affirming the historical and cultural value of digital materials, UNESCO effectively placed them on equal footing with traditional heritage forms like monuments and artifacts, highlighting their significance for future generations.
 
-However, it did not explicitly address source code preservation ([UNESCO 2009](https://unesdoc.unesco.org/ark:/48223/pf0000179529)). How did this evolve? It wasn't until 2023 that UNESCO clearly articulated the importance of preserving software source code as digital heritage for sustainable development, acknowledging its value across multiple domains: education, research, and cultural preservation ([UNESCO 2023](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)).
+However, it did not explicitly address source code preservation ([UNESCO 2009](https://unesdoc.unesco.org/ark:/48223/pf0000179529)). That changed in 2023, when UNESCO formally recognized the importance of preserving software source code as digital heritage for sustainable development, acknowledging its value across education, research, and cultural preservation ([UNESCO 2023](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)).
 
 **Exercise – Analyzing UNESCO's Recognition of Source Code**
 
-Now, let's explore two documents to gain a better understanding of how digital heritage recognition has evolved over time and the challenges faced by preservation efforts. These readings will help you grasp the historical context and current thinking around source code preservation.
+These two documents show how digital heritage recognition has evolved and the challenges preservation efforts face. They provide important historical context and current thinking on source code preservation.
 
-* [Charter on the Preservation of the Digital Heritage (2003)](https://unesdoc.unesco.org/ark:/48223/pf0000179529) - Focus on definitions and scope (sections 1-3)
+* [Charter on the Preservation of the Digital Heritage (2003)](https://unesdoc.unesco.org/ark:/48223/pf0000179529) - Focus on definitions and scope (articles 1-3)
 * ['Positioning Software Source Code as Digital Heritage for Sustainable Development' (2023)](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)
 
 Questions for reflection:
@@ -104,7 +107,7 @@ Questions for reflection:
 
 ### 1.c The Fragility of Code: Understanding Digital Preservation Challenges - 15 minutes
 
-Among the key threats to source code is the potential for a Digital Dark Age ([Silva 2022](https://www.softwareheritage.org/2022/06/28/all-of-humankinds-source-code-in-a-nutshell/?lang=fr)), which refers to the possible loss of vast amounts of digital information. To understand this concept better, let's examine three main factors that contribute to this risk:
+Among the key threats to source code is the potential for a Digital Dark Age ([Silva 2022](https://www.softwareheritage.org/2022/06/28/all-of-humankinds-source-code-in-a-nutshell/?lang=fr)), which refers to the possible loss of vast amounts of digital information. Three main factors contribute to this risk:
 
 * Technological obsolescence: When hardware and software systems become outdated
 * Platform changes: When services hosting code shut down or significantly change
@@ -112,15 +115,21 @@ Among the key threats to source code is the potential for a Digital Dark Age ([S
 
 Why should we care about preserving historical code? This question is critical for historians and cultural preservationists to consider. Digital materials require intentional and continuous preservation strategies ([Conway 1996](https://www.clir.org/pubs/reports/conway2/index/)). Source code faces particular vulnerabilities: programming languages evolve, development platforms disappear, and the original context of creation can be lost within years of a program's abandonment.
 
-Consider the case of early video games, where entire genres and artistic movements have been lost because the original source code was not preserved ([Lowood 2016](https://ieeexplore.ieee.org/document/5223982)). Many classic arcade games like Jet Set Willy ([Aycock et al. 2017](https://intarch.ac.uk/journal/issue45/2/index.html)) survive only as reverse-engineered approximations after their original code was lost through corporate restructuring, technological changes, or simple neglect. Likewise, early web applications, mobile apps, and desktop software that fundamentally shaped our computer interactions have disappeared, taking with them vital evidence of digital culture's evolution ([Kirschenbaum and Ovenden 2014](https://www.clir.org/pubs/reports/pub149/)).
+A 2023 study by the Video Game History Foundation and the Software Preservation Network measured the scale of this loss. The study found that 87 percent of classic video games released in the United States before 2010 are no longer commercially available. The situation is even more severe for early games: less than 3 percent of titles released before 1985 remain in print. The period from roughly 1977 to 1985 marked the emergence of home computing and the first generation of commercial video games—yet these availability rates are comparable to the survival rates of American silent films (14 percent) and pre-World War II audio recordings (10 percent) ([Video Game History Foundation 2023](https://gamehistory.org/study-explainer/)).
 
-This loss extends far beyond just individual programs - it affects entire development ecosystems. Think of it like this: as programming languages become obsolete and development tools disappear, the specialized knowledge of working with these particular systems gradually scatters as communities evolve and move on to newer technologies ([Shustek 2006](https://ieeexplore.ieee.org/document/4042496)). The resulting impact is both technical and cultural in nature: we lose valuable access to the creative processes that developers used, the collaborative practices they established, and the innovative solutions they created - all of which defined significant periods in computing history.
+Many classic games like *Jet Set Willy* ([Aycock et al. 2017](https://intarch.ac.uk/journal/issue45/2/index.html)) survive only as reverse-engineered approximations after their original code was lost through corporate restructuring, technological changes, or simple neglect. Reverse engineering—the process of analyzing a finished product to understand how it works without access to its original design documentation ([Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering))—allows programmers to recreate software functionality, but the resulting code is an approximation rather than the historical original. Likewise, early web applications, mobile apps, and desktop software that fundamentally shaped our computer interactions have disappeared, taking with them vital evidence of digital culture's evolution ([Kirschenbaum and Ovenden 2014](https://www.clir.org/pubs/reports/pub149/)).
+
+![Original cassette tape of Jet Set Willy for the Commodore 64, showing the game label on a standard audio cassette](/assets/images/code-as-heritage/Jet_Set_Willy_Cassette.jpg "Jet Set Willy cassette tape")
+
+**Figure 2:** Original cassette tape of *Jet Set Willy* (Commodore 64 version, 1984), a platform game originally created by Matthew Smith for the ZX Spectrum and then ported to other platforms. In the early home computing era (late 1970s–mid 1980s), software was distributed on audio cassettes: game data was encoded as sound, and users loaded programs by playing the tape into their computer. Crucially, what cassettes preserved was the *executable code*—the machine-readable version of the program—not the *source code* originally written by the programmer. Source code, with its human-readable logic, comments, and variable names, typically remained with the developer or publisher. When companies went bankrupt, restructured, or simply failed to archive their materials, this source code was often lost. What researchers can recover from surviving cassettes through reverse engineering is a reconstruction of how the program functions, not the original code as written. The game can be [played in a browser-based emulator on the Internet Archive](https://archive.org/details/Jet_Set_Willy_1984_Software_Projects). *Credit: Cassette scan from [Internet Archive](https://archive.org/details/uta_Jet_Set_Willy_1984_Software_Projects_387), "The Ultimate Tape Archive" collection.*
+
+This loss extends far beyond individual programs—it affects entire development ecosystems. As programming languages become obsolete and development tools disappear, the specialized knowledge of working with these particular systems gradually scatters as communities evolve and move on to newer technologies ([Shustek 2006](https://ieeexplore.ieee.org/document/4042496)). The resulting impact is both technical and cultural: we lose valuable access to the creative processes that developers used, the collaborative practices they established, and the innovative solutions they created—all of which defined significant periods in computing history.
 
 Amid these losses, remarkable stories of recovery and reconstruction offer hope. The Apollo 11 source code, once considered lost, was meticulously reconstructed from printed documentation and surviving fragments—a case we will examine in detail in Section 2. Such recoveries reveal not just technical achievement but the working methods, naming conventions, and even humor embedded by programming teams. These discoveries provide unique insights into computing culture that descriptive historical sources alone could never capture.
 
 **Exercise – Examining some Heritage Needs and Efforts**
 
-In this activity, you will compare and analyze two perspectives on code preservation. Read both articles carefully to identify their approaches to digital heritage preservation and the challenges they address.
+For this exercice, you will compare and analyze two perspectives on code preservation. Read both articles carefully to identify their approaches to digital heritage preservation and the challenges they address.
 
 * [I tried to find a way to preserve code for 69 years (this is not a joke)](https://museumofscreens.wordpress.com/2022/12/09/how-to-preserve-code-for-69-years-this-is-not-a-joke/) 
 * [Vanishing Culture: Recovering Lost Software](https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/)
@@ -161,6 +170,14 @@ Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?
 
 
 ## 2 Learning to Read Code as Cultural Text
+
+> [!NOTE]  
+> **Learning Objectives for Section 2:**
+> By completing this section, you will be able to:
+> - Apply source criticism methods to code, attending simultaneously to its technical function, textual content, historical context, and archival transmission
+> - Use programming language choices as chronological and cultural markers
+> - Analyze comments, naming conventions, and documentation for cultural and historical evidence
+> - Recognize the limits of what code alone can reveal about its creation context
 
 Understanding source code as a historical source requires developing new literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing—a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
 
@@ -507,15 +524,15 @@ Esoteric programming languages (or "esolangs") are intentionally designed not fo
 
 **The Esoteric File Archive**
 
-Explore the [Esoteric File Archive repository](https://github.com/graue/esofiles), a digital repository dedicated to preserving these unusual programming languages that might otherwise be lost to digital obsolescence. As the archive's creator explains in their own words: "websites devoted to esoteric programming languages tended to periodically go down... people who wanted to check out that language were out of luck" (Feeney [2013] 2025)
+The [Esoteric File Archive repository](https://github.com/graue/esofiles) is a digital repository dedicated to preserving these unusual programming languages that might otherwise be lost to digital obsolescence. As the archive's creator explains in their own words: "websites devoted to esoteric programming languages tended to periodically go down... people who wanted to check out that language were out of luck" (Feeney [2013] 2025)
 
 Simple exploration steps:
 
 1. Browse the repository folders (hunter, chef, shakespeare, befunge, etc.)
 2. Open one language folder that interests you
-3. Look at the code examples and documentation
+3. Examine the code examples and documentation
 
-For example, let's examine the [hunter folder](https://github.com/graue/esofiles/tree/master/hunter) and its [documentation](https://github.com/graue/esofiles/blob/master/hunter/doc/hunter.txt) file. Here you'll discover a fascinating programming language created by Chris Pressey in 2000 where programs are visualized as "mice in a space interacting with cheese and each other" (Pressey 2000). 
+For example, the [hunter folder](https://github.com/graue/esofiles/tree/master/hunter) and its [documentation](https://github.com/graue/esofiles/blob/master/hunter/doc/hunter.txt) file reveal a programming language created by Chris Pressey in 2000 where programs are visualized as "mice in a space interacting with cheese and each other" (Pressey 2000). 
 
                 Concurrent Maze Space Transformation
               (with Authentic Interrodent Communication)
@@ -575,7 +592,15 @@ Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?
 
 ## 3 Preserving Code: Initiatives and Infrastructures
 
-Having explored code preservation challenges and historical analysis techniques, let's now turn our attention to actual archiving initiatives. In this section, we will examine how different institutions with different values and missions have approached the challenge of preserving software heritage. Understanding these institutional contexts helps us interpret their choices and recognize what each approach captures and what it may miss.
+> [!NOTE]  
+> **Learning Objectives for Section 3:**
+> By completing this section, you will be able to:
+> - Apply source criticism to code, analyzing it as technical object, textual artifact, historical trace, and archival construction
+> - Navigate the Software Heritage archive and understand its organizational structure
+> - Evaluate the strengths and limitations of different preservation strategies
+> - Understand the role of persistent identifiers in digital scholarship
+
+Having examined code preservation challenges and historical analysis techniques, we now turn to actual archiving initiatives. This section examines how different institutions with different values and missions have approached the challenge of preserving software heritage. Understanding these institutional contexts helps us interpret their choices and recognize what each approach captures and what it may miss.
 
 ### 3.a Software Heritage: Mission, Scope and Infrastructure - 30 minutes
 
@@ -601,7 +626,7 @@ What makes this archive particularly valuable for scholarly work is its system o
 
 **Exercise: Understanding Software Heritage's Development** 
 
-To better understand how Software Heritage developed into a major preservation initiative, explore these complementary resources:
+To understand how Software Heritage developed into a major preservation initiative, the following complementary resources merit examination:
 
 *[Note: The Schafer 2017 source below is in French. This exercise will be revised to include English-language alternatives.]*
 
@@ -620,7 +645,7 @@ Then examine this milestone report to see how the project matured:
 
 **Exercise: Navigating Software Heritage**
 
-Let's explore the Software Heritage archive together. First, visit the homepage: www.softwareheritage.org
+This exercise guides you through the Software Heritage archive. Begin at the homepage: www.softwareheritage.org
 
 **Step 1: Quick analysis:** As you examine the website, identify and take notes on how the platform communicates these three key aspects:
 
@@ -640,7 +665,7 @@ Let's explore the Software Heritage archive together. First, visit the homepage:
 
 ### 3.b Comparative Preservation Approaches - 25 minutes
 
-Software Heritage represents one approach to digital preservation. To better understand the field, let's compare it with initiatives that emerge from different institutional contexts and reflect different values. Think of these different preservation strategies as similar to how museums, libraries, and archives might each preserve cultural artifacts differently. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
+Software Heritage represents one approach to digital preservation. To situate it within the broader field, we can compare it with initiatives that emerge from different institutional contexts and reflect different values. These different preservation strategies function similarly to how museums, libraries, and archives might each preserve cultural artifacts differently. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
 
 **GitHub Archive Program: A Corporate Initiative**
 
