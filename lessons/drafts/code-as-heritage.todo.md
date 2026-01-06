@@ -1,4 +1,4 @@
-# Todo List - Code as Heritage
+# Todo List - Code as Heritage (v2)
 
 ## Corrections
 
@@ -6,25 +6,26 @@
 
 - [ ] **Section 2.a, "The Inheritance of Source Criticism"** - Reword the following sentence as it overstates the accessibility claim:
   
-  **Current:** "Understanding what code does benefits from basic familiarity with programming concepts—not expertise, but enough literacy to recognize structures, follow logic, and understand why certain choices were made."
+  **Current (lines ~197-199):** "Understanding what code does benefits from basic familiarity with programming concepts—not expertise, but enough literacy to recognize structures, follow logic, and understand why certain choices were made."
   
   **Issue:** This sentence minimizes the actual expertise required. Recognizing structures, following logic, and understanding technical choices *does* require substantive programming knowledge—more than "basic familiarity."
   
   **Suggested revision:** Clarify the level of expertise actually needed, or more accurately describe what can be understood without programming experience versus what requires deeper technical knowledge.
 
-- [ ] **Section 2.a, "The Entanglement Problem"** - Develop this section with more theoretical depth:
+- [ ] **Section 2.a, "The Entanglement Problem"** - **DRAFT: Needs more theoretical depth:**
   
-  **Current issue:** The section identifies the problem (that external/internal criticism distinction breaks down for born-digital sources) but lacks sufficient theoretical scaffolding to explain *why* this matters methodologically or how it changes our approach to historical analysis.
+  **Current status:** This section remains a draft. While it now includes references to Fickers 2012 and Kirschenbaum 2008 and introduces the "layered reading" approach, it requires substantial reworking.
   
   **Needs expansion on:**
   - The epistemological implications: How does this challenge traditional source criticism methods?
-  - Specific examples of how metadata embedding creates interpretive challenges
+  - More specific examples of how metadata embedding creates interpretive challenges
   - Theoretical frameworks from digital humanities/digital history scholarship to contextualize the problem
   - How this "entanglement" might actually provide advantages for historical analysis
+  - Clearer connection between the theoretical framing and the practical exercises that follow
 
 - [ ] **Section 2.b, "Programming Languages as Historical Markers" - Exercise using Rosetta Code** - Enhance with concrete examples and better pedagogical guidance:
   
-  **Current issue:** The exercise asks students to "compare implementations across three eras" but provides only generic prompting ("What differences do you notice?") without sufficient scaffolding or concrete examples to guide analysis.
+  **Current issue (lines ~255-265):** The exercise asks students to "compare implementations across three eras" but provides only generic prompting ("What differences do you notice?") without sufficient scaffolding or concrete examples to guide analysis.
   
   **Needs improvement:**
   - Provide 2-3 actual code examples from Rosetta Code (complete "Hello World" programs in languages from different eras)
@@ -33,90 +34,65 @@
   - Consider providing side-by-side comparison format to make differences more visible
   - Clarify what students should conclude about how historical context shaped language design
 
-- [ ] **Section 2.c, "The Journey of the Apollo Code"** - Complete rework required:
+- [ ] **Section 2.c, "The Journey of the Apollo Code"** - **DRAFT: Needs further development**
   
-  **Current status:** This entire section needs to be written/substantially reworked by hand.
+  **Current status:** This section has initial content in v2 (lines 320-510) but remains a draft requiring rethinking and refinement.
   
-  **Purpose:** This section should serve as the major case study for the lesson, using the Apollo 11 code (particularly the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE) to demonstrate all the analytical methods introduced in sections 2.a and 2.b.
-  
-  **Should include:**
-  - Narrative of how Apollo code was lost and then recovered
+  **Current elements (need review/expansion):**
+  - Narrative of how Apollo code was nearly lost and recovered
   - Close reading of specific code excerpts using the "layered reading" approach
-  - Analysis of naming conventions, comments, and cultural context
+  - Analysis of naming conventions (BURN_BABY_BURN), comments, and cultural context
   - Discussion of the Margaret Hamilton story and women programmers
   - Connection to preservation efforts and Software Heritage
-  - Guided exercises for students to practice code analysis techniques
+  - Multiple guided analysis tasks for students
+  
+  **Still needed:**
+  - Deeper integration of analytical methods from 2.a and 2.b
+  - More rigorous scholarly framing
+  - Review of pedagogical scaffolding in exercises
+  - Possible restructuring of the narrative flow
 
 ## Margaret Hamilton & Apollo 11 Case Study
 
-### Tasks
-- [ ] Develop the Margaret Hamilton case
-- [ ] Reconstruct the code of the Apollo 11
-- [ ] Focus on the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE
+### Tasks - **DRAFT: Needs rethinking from current version**
+
+**Current status:** Initial content exists in Section 2.c but the Margaret Hamilton case study requires substantial rethinking and development.
+
+- [ ] **Rethink the Margaret Hamilton case** - Current version in "The Human Context" subsection needs:
+  - Deeper engagement with gender dynamics in computing history
+  - Better integration with the code analysis (not just a separate subsection)
+  - More primary sources and scholarly framing
+  - Clearer pedagogical purpose
+
+- [ ] **Refine the Apollo 11 code reconstruction narrative** - Current version needs:
+  - Stronger connection to preservation/heritagization themes
+  - More nuanced discussion of what was lost vs. recovered
+  - Better scaffolding for student analysis
+
+- [ ] **Strengthen BURN_BABY_BURN analysis** - Current version needs:
+  - Deeper cultural/historical context
+  - Clearer analytical framework application
+  - More rigorous exercise design
+
 - [ ] Check for excessive use of "let's explore" in the text and replace with varied transitions
 - [ ] Rewrite image legends for consistency and clarity across all figures
 
-### Reference: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
+### Reference: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc ✅ INTEGRATED
+
+**Status:** This reference material has been integrated into Section 2.c of v2. The full code header is now included in the lesson with guided analysis tasks.
 
 **Source:** https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
 
-**Key Context:**
-```
-# Copyright:	Public domain.
-# Filename:	BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
-# Purpose: 	Part of the source code for Luminary 1A build 099.
-#		It is part of the source code for the Lunar Module's (LM)
-#		Apollo Guidance Computer (AGC), for Apollo 11.
-# Assembler:	yaYUL
-# Contact:	Ron Burkey <info@sandroid.org>.
-# Website:	www.ibiblio.org/apollo.
-# Pages:	731-751
-# Mod history:	2009-05-19 RSB	Adapted from the corresponding
-#				Luminary131 file, using page
-#				images from Luminary 1A.
-#		2009-06-07 RSB	Corrected 3 typos.
-#		2009-07-23 RSB	Added Onno's notes on the naming
-#				of this function, which he got from
-#				Don Eyles.
-#
-# This source code has been transcribed or otherwise adapted from
-# digitized images of a hardcopy from the MIT Museum.  The digitization
-# was performed by Paul Fjeld, and arranged for by Deborah Douglas of
-# the Museum.  Many thanks to both.  The images (with suitable reduction
-# in storage size and consequent reduction in image quality as well) are
-# available online at www.ibiblio.org/apollo.  If for some reason you
-# find that the images are illegible, contact me at info@sandroid.org
-# about getting access to the (much) higher-quality images which Paul
-# actually created.
-#
-# Notations on the hardcopy document read, in part:
-#
-#	Assemble revision 001 of AGC program LMY99 by NASA 2021112-061
-#	16:27 JULY 14, 1969
+**Historical Note:** The routine's name was inspired by disc jockey Magnificent Montague's phrase from the 1965 Los Angeles riots era, demonstrating how cultural moments influenced even the most technical code of the Apollo program. *(Now discussed in v2 under "Humor in Mission-Critical Code")*
 
-# Page 731
-## At the get-together of the AGC developers celebrating the 40th anniversary
-## of the first moonwalk, Don Eyles (one of the authors of this routine along
-## with Peter Adler) has related to us a little interesting history behind the
-## naming of the routine.
-##
-## It traces back to 1965 and the Los Angeles riots, and was inspired
-## by disc jockey extraordinaire and radio station owner Magnificent Montague.
-## Magnificent Montague used the phrase "Burn, baby! BURN!" when spinning the
-## hottest new records. Magnificent Montague was the charismatic voice of
-## soul music in Chicago, New York, and Los Angeles from the mid-1950s to
-## the mid-1960s.
-# BURN, BABY, BURN -- MASTER IGNITION ROUTINE
-```
+### Potential Links ✅ INTEGRATED
+- [Humor as an Important Ingredient in Software Development (KTH)](https://www.kth.se/en/eecs/nyheter/humor-en-viktig-ingrediens-i-mjukvaruutveckling-1.1351788) - **Cited in v2 Section 2.c**
 
-**Historical Note:** The routine's name was inspired by disc jockey Magnificent Montague's phrase from the 1965 Los Angeles riots era, demonstrating how cultural moments influenced even the most technical code of the Apollo program.
-
-### Potential Links
-- [Humor as an Important Ingredient in Software Development (KTH)](https://www.kth.se/en/eecs/nyheter/humor-en-viktig-ingrediens-i-mjukvaruutveckling-1.1351788)
-
-### Rosetta Code: Hello World/Text
+### Rosetta Code: Hello World/Text - STILL NEEDS ENHANCEMENT
 
 **URL:** https://rosettacode.org/wiki/Hello_world/Text
+
+**Status:** Referenced in v2 Section 2.b but the exercise still lacks concrete code examples and detailed pedagogical scaffolding.
 
 **Purpose:** A comprehensive collection of "Hello World!" programs written in 300+ programming languages, organized chronologically from early mainframe languages (Assembly, COBOL, FORTRAN) through modern languages.
 
@@ -134,19 +110,13 @@
 
 3. **Pedagogical Value for Code as Communication**: Rosetta Code embodies the principle from Abelson & Sussman that "Programs must be written for people to read"—the same Hello World program looks vastly different depending on the language's design choices.
 
-4. **Esoteric Languages Documentation**: The archive includes implementations in esoteric languages (Befunge, INTERCAL, Brainfuck), connecting to the section on esoteric programming languages as cultural expression.
+4. **Esoteric Languages Documentation**: The archive includes implementations in esoteric languages (Befunge, INTERCAL, Brainfuck), connecting to the section on esoteric programming languages as cultural expression. *(Section 2.d now covers esoteric languages)*
 
-**Suggested Integration Points:**
-- Section 1.a (Understanding Source Code): Use Rosetta Code to illustrate how programming languages encode different assumptions about what code should communicate
-- Section 2.a (External Criticism): Compare implementations across decades to identify chronological markers
-- Section 2.b (Internal Criticism): Use language-specific implementations to identify cultural markers in naming conventions and code structure
-- Potential exercise: Students select 3-4 languages from different eras and analyze how their Hello World implementations reflect the values and constraints of their historical moment
-
-**Context:** A KTH research project by Deepika Tiwari, Benoit Baudry, and Martin Monperrus studied humor in software development. Their key finding: "What surprised us most when we started looking for humour in software is that it has always been there. Even in the Apollo mission code, we found jokes, which was funny."
-
-The research examined cultural expressions in code, discovering everything from The Big Lebowski dialogues to Harry Potter references and song lyrics in software projects. The paper "With Great Humor Comes Great Developer Engagement" was presented at an International Conference on Software Engineering.
-
-**Key Insight:** "Humour doesn't detract from the serious side of developing high-quality software." This directly relates to the BURN_BABY_BURN routine—a prime example of how cultural humor was embedded in critical Apollo program code.
+**TODO for Rosetta Code exercise:**
+- [ ] Add 2-3 actual code examples (FORTRAN, C, Python side-by-side)
+- [ ] Include specific analytical questions (verbosity, syntax, memory constraints)
+- [ ] Add expected observations for instructors
+- [ ] Consider side-by-side comparison format
 
 ---
 
@@ -194,3 +164,46 @@ The research examined cultural expressions in code, discovering everything from 
 
 ### Key Distinction for Contrast
 The FORTRAN archive helps position Apollo code not as an anomaly but as a deliberate choice. While FORTRAN optimized for efficiency and ease-of-use, AGC developers optimized for absolute reliability under extreme constraints—making the cultural expressions (like "BURN, BABY, BURN") all the more significant: they represent humanity persisting within machine language.
+
+---
+
+## Accessibility Issues
+
+### French-Language Source in Section 3.a ⚠️ PARTIALLY ADDRESSED
+
+**Status in v2:** The lesson now includes an inline note acknowledging the issue:
+> *[Note: The Schafer 2017 source below is in French. This exercise will be revised to include English-language alternatives.]*
+
+**Still TODO:**
+- [ ] Find equivalent English-language resources about Software Heritage's founding vision
+- [ ] Add English summaries or translations of key points from the French source
+- [ ] Ensure all primary sources for student exercises are available in English or have English alternatives
+
+---
+
+## Summary of Remaining Tasks
+
+### High Priority - Major Drafts Requiring Rework
+- [ ] **Add clear learning goals for each of the 3 main sections:**
+  - [ ] Section 1 (Understanding Digital Heritage Recognition) - Define specific learning outcomes
+  - [ ] Section 2 (Learning to Read Code as Cultural Text) - Define specific learning outcomes
+  - [ ] Section 3 (Preserving Code: Initiatives and Infrastructures) - Define specific learning outcomes
+- [ ] **Section 2.a theoretical depth** - Needs substantial theoretical scaffolding, not just sentence fixes
+- [ ] **Section 2.c Apollo case study** - Draft needs further development and refinement
+- [ ] **Margaret Hamilton case study** - Needs rethinking from current version
+- [ ] Reword Section 2.a sentence about expertise/accessibility
+- [ ] Enhance Rosetta Code exercise with concrete examples
+- [ ] Resolve French-language source accessibility issue
+
+### Medium Priority  
+- [x] Check for excessive "let's explore" phrasing ✅ Completed - replaced with measured academic language
+- [ ] Review image legends for consistency
+- [ ] Review pedagogical scaffolding across all exercises
+
+### Completed/Integrated in v2 ✅
+- [x] KTH humor research integrated (cited in Section 2.c)
+- [x] Section 2.d on esoteric languages added
+- [x] Comprehensive reading/viewing suggestions added
+- [x] Section 3 preservation initiatives expanded
+- [x] BURN_BABY_BURN code header included (but analysis needs refinement)
+- [x] Check for excessive "let's explore" phrasing - replaced with academic tone
