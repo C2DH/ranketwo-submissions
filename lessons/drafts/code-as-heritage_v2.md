@@ -60,6 +60,14 @@ Each section includes practical exercises designed to develop your critical thin
 
 ## 1 Understanding Digital Heritage Recognition
 
+> [!NOTE]  
+> **Learning Objectives for Section 1:**
+> By completing this section, you will be able to:
+> - Define source code and explain its dual nature as technical artifact and cultural expression
+> - Trace how source code gained official recognition as digital heritage
+> - Identify the main threats to code preservation (technological obsolescence, platform changes, storage ephemerality)
+> - Evaluate why active preservation strategies are necessary for digital materials
+
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
 To define our object of study, let's consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute." What does this mean? Source code can be defined as the fundamental set of instructions of a program; human-readable computer commands written in higher-level programming languages that require compilation or interpretation to become executable ([Krysa & Sedek 2008: 237](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf#%5B%7B%22num%22%3A515%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)).
@@ -536,71 +544,33 @@ Reading: [David M. Berry's "Digital Ruins and Critical Code Studies: Towards an 
 1. **Historical parallels:** Berry compares software reconstruction to architectural preservation. Identify two specific principles from architectural preservation (mentioned in the text) that he argues should apply to code reconstruction. How do these principles address the challenge of maintaining historical authenticity?
 2. **Evidence evaluation:** In the ELIZA reconstruction case study, the team had to create entirely new functions (like LETTER and BCDIT) that were missing from the original archives. According to Berry's framework, how should such reconstructions be marked or documented to distinguish them from original historical code?
 
-### Reading/viewing suggestions
+### Reading/viewing suggestions 
 
-Digital Source Criticism and Methodology:
+Digital Heritage Theory and Practice
 
-Fickers, Andreas. 2012. 'Towards a New Digital Historicism? Doing History in the Age of Abundance.' Journal of European Television History and Culture 1(1): 19-26. https://jethc.eu/index.php/jethc/article/view/jethc015
+Musiani, F., & Schafer, V. (2016). Digital Heritage and Heritagization. RESET. Recherches En Sciences Sociales Sur Internet, 6. https://doi.org/10.4000/reset.806
 
-Kirschenbaum, Matthew. 2008. Mechanisms: New Media and the Forensic Imagination. MIT Press.
+Conway, Paul. 1996. Preservation in the Digital World. Commission on Preservation and Access. https://www.clir.org/pubs/reports/pub154/
 
-Parikka, Jussi. 2012. What Is Media Archaeology? Polity Press.
+Foundational Texts on Code as Communication:
 
-Chun, Wendy Hui Kyong. 2011. Programmed Visions: Software and Memory. MIT Press.
+Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In Software Studies, edited by Matthew Fuller. The MIT Press. https://doi.org/10.7551/mitpress/9780262062749.003.0034
 
-Critical Code Studies:
+Méadel, Cécile, and Guillaume Sire. 2017. 'Les sciences sociales orientées programmes. État des lieux et perspectives'. Réseaux (Paris) 206 (6): 9–34. https://doi.org/10.3917/res.206.0009
 
-Marino, Mark C. 2020. Critical Code Studies. MIT Press.
+Case Studies in Code Recovery and Loss:
 
-Mackenzie, Adrian. 2006. Cutting Code: Software and Sociality. Peter Lang.
+Coding with Dee, dir. 2024. This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome). 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
 
-Fuller, Matthew, ed. 2008. Software Studies: A Lexicon. MIT Press. https://doi.org/10.7551/mitpress/9780262062749.001.0001
+Cosmo, Roberto Di. 2019. 'Archiving and Referencing the Apollo Source Code'. Software Heritage, July 20. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/?lang=fr
 
-Cox, Geoff, and Alex McLean. 2012. Speaking Code: Coding as Aesthetic and Political Expression. MIT Press. https://doi.org/10.7551/mitpress/8193.001.0001
+Lowood, Henry. 2009. 'Videogames in Computer Space: The Complex History of Pong'. IEEE Annals of the History of Computing 31 (3): 5–19. https://doi.org/10.1109/MAHC.2009.53
 
-Berry, David. 2016. The Philosophy of Software: Code and Mediation in the Digital Age. Springer.
+Aycock, John, Andrew Reinhard, and Archaeogaming. 2017. 'Copy Protection in Jet Set Willy: Developing Methodology for Retrogame Archaeology'. Internet Archaeology, no. 45. https://doi.org/10.11141/ia.45.2
 
-Code and Culture:
+Kirschenbaum, Matthew G., Richard Ovenden, Gabriela Redwine, and Rachel Donahue. 2010. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. CLIR Publication 149. Council on Library and Information Resources. https://www.clir.org/pubs/reports/pub149/
 
-Walton, Devan J. 2024. The Culture of Programming. December 31. https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/
-
-Paloque-Bergès, Camille. 2009. Poétique Des Codes Sur Le Réseau Informatique. Editions des archives contemporaines.
-
-Gender and Inclusion in Computing History:
-
-Light, Jennifer S. 1999. 'When Computers Were Women'. Technology and Culture 40 (3): 455–83.
-
-MacDonald, Fiona. 2016. 'These 6 Women Were Written Out of Tech History'. ScienceAlert, March 8. https://www.sciencealert.com/these-6-women-were-written-out-of-tech-history
-
-Code Documentation and Style:
-
-Emadamerho-Atori, Nefe. 2024. 'Code Documentation: Examples, Tools, Best Practices'. AltexSoft. https://www.altexsoft.com/blog/how-to-write-code-documentation/
-
-'Coding and Comment Style : Broad Institute of MIT and Harvard'. n.d. Accessed 1 September 2025. https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/
-
-Learning to code:
-
-[Programming Historian](https://programminghistorian.org/) - Lessons on digital methods for historical research
-
-[freeCodeCamp](https://www.freecodecamp.org/) - Comprehensive free coding curriculum covering web development, data science, and more
-
-[Codecademy](https://www.codecademy.com/catalog/subject/all) - Interactive coding lessons (free tier available)
-
-[Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) - Beginner-friendly programming courses
-
-[MIT OpenCourseWare Programming](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=Programming) - University-level computer science courses
-
-[Python.org Tutorial](https://docs.python.org/3/tutorial/) - Official Python programming tutorial
-
-[Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Learn) - Web development learning resources
-
-[GitHub Learning Lab](https://lab.github.com/) - Interactive courses on Git, GitHub, and software development practices 
-
-Additional Resources:
-
-Simpson, Alison. 2019. 'The History of Programming - a Fast and Furious Tour'. SheCanCode, April 9. https://shecancode.io/the-history-of-programming-a-fast-and-furious-tour/
-
-Alcaras, Gabriel, and Antoine Larribeau. 2022. 'Writing Code, Making Software'. RESET. Recherches En Sciences Sociales Sur Internet, no. 11 (March). https://doi.org/10.4000/reset.3944
+Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?' IEEE Annals of the History of Computing 28 (4): 112–111. https://doi.org/10.1109/MAHC.2006.78
 
 
 ## 3 Preserving Code: Initiatives and Infrastructures
@@ -741,39 +711,6 @@ For a concrete example, examine: archive.org/details/jsmess_engine_v2
 2. Historical significance: Browse the main categories visible on the Collection homepage and identify distinct types of software preserved there. Evaluate why preserving this diversity of software types—from early computer programs to web-based applications—contributes to our understanding of technological and cultural evolution.
 
 **Comparative reflection:** How do these three approaches—comprehensive source code archiving, secure long-term storage, and executable preservation—address different aspects of code as heritage? Which aspects might still be missing from current preservation efforts?
-
-### Reading/viewing suggestions 
-
-Software Heritage Foundation and Development:
-
-Cosmo, Roberto Di, and Stefano Zacchiroli. 2017. Software Heritage: Why and How to Preserve Software Source Code. https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf
-
-Schafer, Valérie. 2017. 'Le Logiciel Libre, de l'usage à La Recherche, Entretien Avec Roberto Di Cosmo'. Bulletin 1024, September 1, 39–52. https://doi.org/10.48556/SIF.1024.11.39
-
-Cosmo, Roberto Di. 2022. 'Software Heritage in 2021: Five Years Already!' Software Heritage, January 5. https://www.softwareheritage.org/2022/01/05/software-heritage-in-2021-five-years-already/
-
-Technical Infrastructure and Citation:
-
-Cosmo, Roberto Di, Morane Gruenpeter, and Stefano Zacchiroli. 2020. 'Referencing Source Code Artifacts: A Separate Concern in Software Citation'. Computing in Science & Engineering 22 (2): 33–43. https://doi.org/10.1109/MCSE.2019.2963148
-
-Bussi, Laura, Roberto Di Cosmo, Carlo Montangero, and Guido Scatena. 2019. The Software Heritage Acquisition Process. https://unesdoc.unesco.org/ark:/48223/pf0000371017
-
-Comparative Preservation Approaches:
-
-GitHub Archive Program. 2025. 'Preserving Open Source Software for Future Generations'. https://archiveprogram.github.com/
-
-Internet Archive. 2025. 'Digital Library of Free & Borrowable Texts, Movies, Music & Wayback Machine'. https://archive.org/details/software
-
-Kahle, Brewster. 1997. 'Preserving the Internet'. Scientific American, March 1. https://www.infotextmanuscripts.org/djetc/dj-fixing-links-3.pdf
-
-Matthews, Brian, Arif Shaon, Juan Bicarregui, and Catherine Jones. 2010. 'A Framework for Software Preservation'. International Journal of Digital Curation 5 (1): 91–105. https://doi.org/10.2218/ijdc.v5i1.145
-
-Video Resources:
-
-Firebolt, dir. 2022. Analyzing GitHub Archive Data - 1.Introduction. 9:56. https://www.youtube.com/watch?v=NGEVDeUIFs0
-
-Brodie Robertson, dir. 2020. GitHub's Crazy Plan To Archive Your Code In The Arctic. 11:56. https://www.youtube.com/watch?v=0v9Rwqxa8eI
-
 
 ## Conclusion
 

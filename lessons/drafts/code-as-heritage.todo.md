@@ -194,6 +194,7 @@ The FORTRAN archive helps position Apollo code not as an anomaly but as a delibe
 - [ ] Reword Section 2.a sentence about expertise/accessibility
 - [ ] Enhance Rosetta Code exercise with concrete examples
 - [ ] Resolve French-language source accessibility issue
+- [ ] **Section 3 Reading/viewing suggestions** - Currently missing; Section 3 has no reading suggestions section unlike Sections 1 and 2
 
 ### Medium Priority  
 - [x] Check for excessive "let's explore" phrasing ✅ Completed - replaced with measured academic language
