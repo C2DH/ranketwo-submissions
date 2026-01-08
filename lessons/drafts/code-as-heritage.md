@@ -32,41 +32,15 @@ og:
 ---
 # Code as Heritage
 
-[Introduction](#introduction)	
+[Introduction](#introduction)
 
-1 Understanding Digital Heritage Recognition	4
-1.a Defining Source Code: Between Technical Function and Cultural Expression  [25 min]	4
-1. b Born-Digital Heritage: How Source Code Gained Official Recognition
- [20 min]	5
-  Exercise – Examining Heritage Recognition	5
-1.c The Fragility of Code: Understanding Digital Preservation Challenges   [15 minutes]	6
-  Exercice – Analyzing UNESCO's Recognition of Source Code	7
-  Reading/viewing suggestions	8
-2 out of 4 – Learning to Read Code as Cultural Text	10
-2.a External Criticism: Establishing Authenticity and Context 
- [15 minutes]	10
-  Exercise – External Criticism of Microsoft GW-BASIC Code	11
-2.b Internal Criticism: Interpreting Content and Meaning  [20 minutes]	12
-  Exercise – Internal Criticism of Microsoft GW-BASIC Code	15
-  [BONUS] Exercise – Exploring Code as Culture	16
-  Reading/viewing suggestions	18
-3 out of 4 – Software Heritage: Preserving Code for the Future	20
-3.a  Software Heritage: Mission, Scope and Technical Infrastructure
- [25 minutes]	20
-  Exercise: Understanding Software Heritage's Development	21
-3.b Exploring Software Heritage's Architecture [20 minutes]	21
-  Exercise: Navigating Software Heritage	22
-3.c Comparative Preservation Approaches [20 minutes]	23
-  Exercise: Comparing Preservation Strategies	24
-  Reading/viewing suggestions	25
-4 out of 4 – Potential uses of preserved code	27
-4.a Code Transparency: A Framework for Responsible AI Development 
- [20 minutes]	27
-  Exercise: Understanding AI Transparency Challenges	28
-4.b Code in Historical and Cultural Research  [20 minutes]	28
-  Exercise: Code as Archaeological Evidence	29
-  Reading/viewing suggestions	29
- 
+[1 Understanding Digital Heritage Recognition](#1-understanding-digital-heritage-recognition)
+
+[2 Learning to Read Code as Cultural Text](#2-learning-to-read-code-as-cultural-text)
+
+[3 Software Heritage: Preserving Code for the Future](#3-software-heritage-preserving-code-for-the-future)
+
+[4 Potential uses of preserved code](#4--potential-uses-of-preserved-code)
 
 ## Introduction
 Source code represents one of the most important forms of born-digital heritage today. Why preserve and study historical code? This lesson will help you answer these questions, and demonstrates how the intellectual, cultural, and social contexts of code’s creation matter, making it a valuable historical resource for understanding our digital age. This lesson introduces you to applying traditional source criticism methods to digital materials, teaching you to view code as both a technical and cultural artifact. At its most basic level, source code consists of human-readable computer instructions, but as we will explore, it is much more than mere technical documentation. The methodological approach through this lesson focuses on three key skills: contextual analysis, critical evaluation, and comparative assessment—rather than technical programming skills. While designed for beginners in digital source criticism, some exercises will require basic digital navigation skills and familiarity with academic research practices.

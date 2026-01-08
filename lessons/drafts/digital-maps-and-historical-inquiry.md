@@ -185,7 +185,7 @@ Let us take the example of world maps. Observe the three maps below.
 
 ![Official National Atlas of India, 1957](/assets/images/maps-as-historical-sources/india-national-atlas-welt.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
 
-<!-->
+<!--
 ![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932") -->
 
 ![German School-Atlas, World Map, 1932]({{ '/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg' | relative_url }} "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")
@@ -198,11 +198,19 @@ After these basic questions, go deeper into cartographic details to analyse the 
 
 In general, going more into the details of maps, and the tackling of such comparative questions may turn out rather difficult as we do not necessarily find detailed background material which gives insight into the production process and into the cartographer’s decisions. Therefore, we should proceed carefully when starting our interpretation and elaborating on explanations regarding the appearance and content of maps. When analysing a map, we should keep in mind that the authors, cartographers, and editors of maps have to make many decisions in the course of map production, implicitly or explicitly, consciously or not. They have to select particular features from the wealth of spatial information available and focus on a few features that should be visualized. Specific cartographic ‘languages’ and styles (symbols, colours etc.) for this have developed over centuries. Since the 19th century, increasing international exchange amongst cartographers and editors led to various implicit or explicit conventions regarding map design, such as putting geographic North to the top of the map. 
 
-Now consider the map 'Mediterranean without Borders' of artist Sabine Réthoré exposed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). What can you observe in the perspective of your findings above? 
+Now consider two maps of the Mediterranean and note what you observe in the perspective of your findings above.
+
+The first map is: "Petite carte d'Orient et de la Méditerranée" (1840) preserved in: Bibliothèque nationale de France, département Cartes et plans, GE DL 1840-261 
+
+[Petite carte d'Orient et de la Méditerranée (Édition pittoresque à 100 000 exemplaires) / gravée par Ch. Avril ; lith. J. Simon](https://commons.wikimedia.org/wiki/File:Petite_carte_d%27Orient_et_de_la_M%C3%A9diterran%C3%A9e_(%C3%89dition_pittoresque_%C3%A0_100_000_exemplaires)_-_grav%C3%A9e_par_Ch._Avril_;_lith._J._Simon_-_btv1b53088257d.jpg)
+
+The second map is: "Mediterranean without Borders" (2011) of artist Sabine Réthoré exposed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). 
 
 ![Mediterranean Without Borders Map of Sabine Réthoré, Mucem](/assets/images/maps-as-historical-sources/MSF-copyleft3.jpg "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France. Free Art Licence")
 
-Reflect on how the production of maps is therefore based on a chain of decisions, and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/ her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. 
+Source: [http://sabine-rethore.net/fr/cartes/mediterraneesans.html](http://sabine-rethore.net/fr/cartes/mediterraneesans.html)
+
+Reflect on how the production of maps is based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. 
 
 
 ### 2.c Decrypting choices, audience, and purpose: imagining populations in maps
@@ -446,11 +454,15 @@ Carry out online research and collect information and photos about the different
 
 Finally, you can do some field work: visit the streets you found and familiarize yourself with the location and surroundings. You can check if there are any visible traces associating the streets with the historical past that served to name them: architectural constructions, monuments, relics of past activities… If you find any, take photos on your phone or, at the very least, of the street signs.
 
-Now you have enough information to link to geospatial data and to create your own map! You can use a service like [Google Maps](https://www.google.com/maps/d/) (or, if you wish to use an interface in French and open source software, [GoGoCarto](https://gogocarto.fr/), instructions are provided in the French version of this lesson). 
+Now you have enough information to link to geospatial data and to create your own map! You can use a service like [Google Maps](https://www.google.com/maps/d/).
 
 To use Google Maps, you need to have a personal Google account and review the instructions available in: Clifford, Jim, Josh MacFadyen, and Daniel Macfarlane. “Intro to Google Maps and Google Earth.” _Programming Historian 2_ (2013), [https://doi.org/10.46430/phen0028](https://doi.org/10.46430/phen0028)  
 
 You could simply create a map by tagging the names of the streets related to the industrial past of Esch-sur-Alzette. Or you could go a step further and integrate the photos you took during your field work. Now, by doing so, it is you who created a new layer and can integrate it in a user-friendly version of a GIS, which Google Maps is. If you publish your map, please contact us to integrate the link in this lesson!
+
+If you prefer to use an open source service, try [uMap](https://umap.openstreetmap.fr/en/). You can find instructions on how to use it in [this tutorial](https://youtu.be/sfyw8fJOIJY). 
+
+If you wish to use an interface exclusively in French, instructions on how to use [GoGoCarto](https://gogocarto.fr/) are provided in the French version of this lesson.  
 
 ### 4.c Evaluating GIS datasets about historical phenomena
 By Christian Lotz
