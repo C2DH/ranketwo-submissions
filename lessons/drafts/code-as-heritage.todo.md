@@ -10,14 +10,19 @@
 
 ## Section 1: Understanding Digital Heritage Recognition
 
-**Status:** ✅ COMPLETE
+**Status:** 🚧 PENDING APOLLO 11 EXPANSION
 
 - [x] Learning objectives added
 - [x] All subsections (1.a, 1.b, 1.c) developed with content and exercises
 - [x] Reading/viewing suggestions added
 - [x] Figure captions and credits complete
 
-*Section 1 is ready for publication.*
+- [ ] **NEW:** Contextualize Apollo 11 more thoroughly in Section 1.c:
+  - [ ] Add more detailed timeline of Apollo 11 software development (1965-1969)
+  - [ ] Explain the significance of 36,000 lines of assembly code for 1969 computing standards
+  - [ ] Add paragraph on Apollo 11 as urgent preservation case study
+
+*Section 1 will be ready for publication after Apollo 11 expansion.*
 
 ---
 
@@ -29,58 +34,67 @@
 
 ### Section 2.a: Source Criticism in the Digital Age
 
-- [ ] **Rethink how source criticism is introduced** - The current approach has methodological problems:
+**Status:** 🟡 NEARLY COMPLETE - Pending minor refinements
 
-  **The contradiction:** The lesson introduces the traditional external/internal criticism distinction ("The Inheritance of Source Criticism" subsection), then immediately claims this distinction "becomes complicated" and "collapses" in born-digital sources ("The Entanglement Problem" subsection). This is pedagogically confusing—why introduce a framework only to say it doesn't work?
-  
-  **The replacement problem:** The "layered reading" approach (four layers: technical object, textual artifact, historical trace, archival construction) was AI-generated as a replacement for external/internal criticism. It has no established theoretical basis in:
-  - Digital humanities scholarship
-  - Critical code studies (Marino 2020 is cited but doesn't use this framework)
-  - Digital history/historiography
-  - Science and technology studies
-  
-  **Questions to resolve:**
-  1. Should we keep external/internal criticism at all? If yes, show how it *adapts* for digital sources rather than claiming it "collapses." If no, don't introduce it as the starting point.
-  2. What should replace the "layered reading" framework?
-     - Option A: Ground it theoretically—find actual scholarship that supports this approach
-     - Option B: Replace with an established framework from critical code studies
-     - Option C: Remove the explicit framework and teach analytical *questions* without claiming a coherent "method"
-     - Option D: Acknowledge this is a *proposed* approach, not established methodology
-  3. What do existing critical code studies scholars (Marino, Montfort, Berry, Hayles) actually propose as analytical methods?
+- [x] **COMPLETED:** Rethink how source criticism is introduced
+  - [x] The lesson no longer introduces external/internal criticism distinction as a framework that "collapses"
+  - [x] Instead, it establishes that traditional source criticism *questions* apply to code: "Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us?"
+  - [x] The "Specificities of Code as Historical Evidence" section addresses what makes digital sources unique without claiming traditional methods don't work
+  - [x] The "Approaching Code: Key Analytical Questions" section presents nine analytical dimensions as a flexible toolkit, not a rigid methodology
+  - [x] Resolution: The lesson adapts source criticism practices for digital sources rather than abandoning them
 
-- [ ] **Remove all references to "layered method/layered reading"** - Locations:
-  - Section 2.a "The Layered Reading Approach" subsection
-  - Section 2.b GW-BASIC exercise ("Apply the layered reading approach")
-  - Section 2.c Apollo case study references
-  - Conclusion references to "layered reading approach"
+- [ ] **Remove all references to "layered method/layered reading"** - Locations to check:
+  - Section 2.a: No explicit "layered reading" framework language found - the nine analytical questions are presented as concurrent concerns, not layers ✅
+  - Section 2.b GW-BASIC exercise: Uses phrase "Apply the layered reading approach" - **NEEDS REVISION**
+  - Section 2.c Apollo case study: Uses phrase "Apply the layered reading approach" - **NEEDS REVISION**
+  - Conclusion: References "The layered reading approach we developed" - **NEEDS REVISION**
 
-- [ ] **Reword accessibility claim** - Current text overstates what can be understood without programming expertise:
-  
-  > "Understanding what code does benefits from basic familiarity with programming concepts—not expertise, but enough literacy to recognize structures, follow logic, and understand why certain choices were made."
-  
-  **Issue:** Recognizing structures, following logic, and understanding technical choices *does* require substantive programming knowledge—more than "basic familiarity."
+- [x] **COMPLETED:** Address the question of authenticity more thoroughly:
+  - [x] "Establishing Provenance and Authenticity" subsection fully developed with detailed discussion of:
+    - [x] Digital code duplication challenges
+    - [x] Unauthorized leaks (Twitter 2023 example)
+    - [x] Authenticity vs. completeness questions
+  - [x] No section on "detecting unauthorized modifications" explicitly, but covered through Twitter leak example and discussion of code reaching us "through paths its creators never intended"
+  - [x] Framework for transcription fidelity integrated into "Reborn Digital Heritage" subsection
+  - [x] Multiple versions comparison addressed in "Multiple Temporalities" section
+  - [x] Platform-specific alterations addressed in "Dependency on Technical Infrastructure" subsection
 
-- [ ] **"The Entanglement Problem" needs theoretical depth** - Current draft needs:
-  - Epistemological implications: How does this challenge traditional source criticism?
-  - More specific examples of metadata embedding challenges
-  - Theoretical frameworks from digital humanities/digital history scholarship
-  - How "entanglement" might provide advantages for historical analysis
-  - Clearer connection to practical exercises that follow
+- [ ] **Expand English language dominance discussion in "Linguistic and Cultural Markers" subsection:**
+  - [x] Historical context: "reflects the dominance of English-speaking countries in early computing history"
+  - [x] Barrier identification: "creating barriers for non-native English speakers"
+  - [ ] **TODO:** Case studies of alternatives (Chinese Smalltalk, Ruby Japanese documentation) - **NOT YET ADDED**
+  - [ ] **TODO:** Research citations on non-native English speaker barriers (Robins 2010) - **NOT YET ADDED**
+  - [ ] **TODO:** Expansion of linguistic imperialism discussion - **PARTIALLY DONE** (mentions dominance, needs deepening)
+  - [ ] **TODO:** Links to non-English programming initiatives - **NOT YET ADDED**
+
+- [x] **RESOLVED:** "The Entanglement Problem" - This subsection does not appear in current draft (outdated todo item)
+  - The draft presents "Specificities of Code as Historical Evidence" which addresses self-documenting artifacts and interdependencies
+  - This replaces the theoretical "Entanglement Problem" discussion
 
 ### Section 2.b: Programming Languages as Historical Markers
 
-- [ ] **Enhance Rosetta Code exercise** - Current version lacks concrete examples and pedagogical scaffolding:
-  - Add 2-3 actual code examples (FORTRAN, C, Python side-by-side)
-  - Include specific analytical questions (verbosity, syntax, memory constraints)
-  - Add expected observations for instructors
-  - Consider side-by-side comparison format
-  - Clarify what students should conclude about historical context shaping language design
+- [ ] **Enhance Rosetta Code exercise** - Current version still lacks concrete side-by-side code examples:
+  - [ ] Add 2-3 actual code examples (FORTRAN, C, Python side-by-side)
+  - [ ] Include specific analytical questions (verbosity, syntax, memory constraints)
+  - [ ] Add expected observations for instructors
+  - [ ] Clarify what students should conclude about historical context shaping language design
 
 **Resource:** [Rosetta Code Hello World](https://rosettacode.org/wiki/Hello_world/Text) - 300+ programming languages, organized chronologically
 
+- [ ] **Revise GW-BASIC Case Study (Section 2.b):**
+  - [x] Add note that the exact source code snippet location may vary
+  - [x] Add web research component to exercise (incentivize students to find the source)
+  - [x] Convert to detective work exercise (locating authentic versions)
+  - [x] Add guidance on verifying authenticity of found sources
+  - [x] Provide tips on evaluating different repository versions
+  - [x] Add incentive language emphasizing value of source-finding skills
+  - [ ] **REMOVE:** Exercise still uses phrase "Apply the layered reading approach" - **NEEDS REVISION** to remove "layered reading" language
+
 ### Section 2.c: The Journey of the Apollo Code
 
-**Status:** Draft requiring further development
+- [ ] **Remove "layered reading" language from Apollo 11 code analysis:**
+  - [ ] GW-BASIC Case Study exercise: Replace "Apply the layered reading approach:" with instructions for applying analytical questions
+  - [ ] Apollo 11 section: Replace "Let us now apply the layered reading approach to a specific code artifact" with language about examining the code through analytical dimensions
 
 - [ ] **Rethink the Margaret Hamilton case** - Current "The Human Context" subsection needs:
   - Deeper engagement with gender dynamics in computing history
@@ -155,18 +169,33 @@
 
 ## Summary of Remaining Tasks
 
-### High Priority
-- [ ] Rethink source criticism methodology (Section 2.a)
-- [ ] Remove all "layered reading" references
+### High Priority - CRITICAL REMOVALS
+- [ ] **Remove all "layered reading" language** from:
+  - [ ] Section 2.b GW-BASIC exercise
+  - [ ] Section 2.c Apollo case study introduction
+  - [ ] Conclusion
+  - **Impact:** Once removed, Sections 2.a-2.c will be internally consistent
+
+### High Priority - EXPANSIONS STILL NEEDED
+- [ ] **Complete English language dominance discussion** with:
+  - [ ] Case study: Chinese Smalltalk (1980s-90s)
+  - [ ] Case study: Ruby's Japanese documentation (2000s)
+  - [ ] Research citations (Robins 2010 on non-native speaker barriers)
+  - [ ] Links to non-English programming initiatives
 - [ ] Review and revise Conclusion (AI draft)
 - [ ] Resolve French-language source accessibility (Section 3.a)
 - [ ] Add Section 3 Reading/viewing suggestions
+- [ ] **Contextualize Apollo 11 more thoroughly (Section 1.c)**
 
 ### Medium Priority
-- [ ] Enhance Rosetta Code exercise with concrete examples (Section 2.b)
+- [ ] **Remove "layered reading" language from remaining sections:**
+  - [ ] Section 2.b GW-BASIC exercise
+  - [ ] Section 2.c Apollo case study introduction
+  - [ ] Conclusion
+  - **Impact:** Once removed, Sections 2.a-2.c will be internally consistent
+- [ ] Enhance Rosetta Code exercise with concrete code examples (Section 2.b)
 - [ ] Develop Margaret Hamilton case study (Section 2.c)
 - [ ] Strengthen BURN_BABY_BURN analysis (Section 2.c)
-- [ ] Reword accessibility claim (Section 2.a)
 
 ### Lower Priority
 - [ ] Review image legends for consistency
@@ -181,4 +210,9 @@
 - [x] Section 3 preservation initiatives expanded
 - [x] BURN_BABY_BURN code header included
 - [x] Replaced excessive "let's explore" phrasing
-- [x] **Section 1: Understanding Digital Heritage Recognition - COMPLETE**
+- [x] GW-BASIC Case Study revised with web research component
+- [x] Authenticity discussion expanded in Section 2.a
+- [x] **Source criticism methodology rethinking COMPLETED** - now adapted for digital sources rather than claiming traditional methods fail
+- [x] Established that traditional source criticism questions apply to code
+- [x] "Specificities of Code as Historical Evidence" section developed
+- [x] "Approaching Code: Key Analytical Questions" presented as flexible toolkit
