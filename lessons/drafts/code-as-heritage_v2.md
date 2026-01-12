@@ -78,7 +78,7 @@ Computer scientist Darrell Ronald Raymond emphasizes this in his 1991 article Re
 
 **Figure 1:** Brian Kernighan's "Hello, World!" program written in C and printed on dot-matrix computer paper, as featured in *The C Programming Language* (1978). At the time of its publication, this was simply an introductory example; it has since become the universal convention for first programs in computing education. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
 
-If you have ever opened a programming tutorial, textbook, or online course, you have likely encountered "Hello, World!"—a simple program that displays these two words on the screen. This modest example has become a standard convention: when introducing any programming language, authors almost invariably begin with a "Hello, World!" program. As we will see later in this lesson, this convention is so deeply embedded in programming culture that [repositories](https://rosettacode.org/wiki/Hello_world/Text) now collect implementations of the same example in hundreds of different programming languages.
+If you have ever opened a programming tutorial, textbook, or online course, you have likely encountered "Hello, World!"—a simple program that displays these two words on the screen. This modest example has become a standard convention: when introducing any programming language, authors almost invariably begin with a "Hello, World!" program. The [Rosetta Code repository](https://rosettacode.org/wiki/Hello_world/Text) documents the historical persistence and cultural significance of this convention by collecting implementations of "Hello, World!" in over 300 programming languages, organized chronologically from early mainframe languages through contemporary ones.
 
 But where did this tradition originate? The example traces back to Brian Kernighan, who first documented it in a 1972 Bell Labs memorandum titled *A Tutorial Introduction to the Language B*. It gained widespread adoption through *The C Programming Language* (1978), co-authored by Kernighan and Dennis Ritchie, one of the most influential programming textbooks ever published ([Wikipedia: "Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)). The persistence of this convention across five decades and hundreds of programming languages illustrates that programming, like any human practice, develops shared traditions. The appearance of "Hello, World!" in contemporary Python tutorials represents direct historical lineage from Kernighan's 1972 memorandum and a form of cultural transmission preserved in code.
 
@@ -257,40 +257,44 @@ When approaching any code artifact, the following questions can guide your analy
 
 **Figure 3:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
 
-### 2.b Programming Languages as Historical Markers - 30 minutes
+### 2.b Applying Source Criticism to Code: A Case Study — 30 minutes
 
-Programming languages provide crucial chronological and cultural markers. Each language connects to specific communities, time periods, and technological constraints:
+In Section 2.a, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
 
-* **FORTRAN** indicates scientific/academic origins from the 1950s-60s
-* **Assembly language** points to system-level programming across various eras, requiring intimate knowledge of specific hardware
-* **BASIC** suggests educational contexts and early personal computing (1970s-80s)
-* **JavaScript** indicates web development post-1995
-* **Python** reflects contemporary emphases on readability and accessibility
+> **A note before you begin:** You are encouraged to search the web at any point during this exercise to help identify the artifact and verify your hypotheses. Searching for names, dates, or technical terms you observe in the document is part of the analytical process—just as a historian might consult reference works while examining an unfamiliar source.
 
-The use of English-based keywords in programming languages like "if," "else," "for," and "while" reflects the dominance of English-speaking countries in early computing history, creating barriers for non-native English speakers. Cultural factors influence programming language design. Some languages tend toward straightforward, more explicit or verbose syntax with clear variable declarations ([Walton 2024](https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/)).
+#### Artifact 1: The Image
 
-**Rosetta Code: A Comparative Resource**
+Examine the following image carefully. Before reading further, spend five minutes observing this document. What clues can you identify about its origins, authors, purpose, and historical context?
 
-The [Rosetta Code](https://rosettacode.org/wiki/Hello_world/Text) repository provides a unique resource for understanding programming languages as historical artifacts. It collects implementations of the same simple program—"Hello, World!"—in over 300 programming languages, organized chronologically from early mainframe languages through modern languages.
+![A historical code artifact](/assets/images/code-as-heritage/Original-Microsoft-Source-Code.jpg "A historical code artifact")
 
-By comparing how different languages accomplish the identical task, we can observe:
+**Figure X:** A historical code artifact. Before reading further, spend five minutes examining this image. What can you learn about this code from the artifact itself? *Source: Gates Notes, 2025.*
 
-* How language design reflects different philosophical approaches (Python's emphasis on readability vs. C's minimalism)
-* The influence of specific communities and time periods on language design
-* How constraints of different eras (punch cards, limited memory, specific hardware) shaped programming practices
-* The evolution from hardware-constrained verbosity to higher abstraction
+#### Exercise Part 1: Analyzing the Image
 
-**Brief exploration:** Visit [Rosetta Code's Hello World collection](https://rosettacode.org/wiki/Hello_world/Text) and compare implementations across three eras:
+Examine the artifact and answer the following questions:
 
-* A 1950s-60s language (FORTRAN, COBOL, or Assembly)
-* A 1970s-80s language (C, Pascal, or BASIC)
-* A modern language (Python, JavaScript, or Ruby)
+1. **Provenance and dating:** Who is credited as author? What dates appear? Where did this code originate, and how might it have reached us in this form?
 
-What differences do you notice in verbosity, structure, and assumptions about the programmer?
+2. **Programming language context:** Look at the document header and structure. Can you identify what programming language this is? What does the format tell us about the relationship between high-level and low-level code in this era?
 
-**Case Study: Microsoft GW-BASIC (1975-1983)**
+3. **Cultural markers:** Examine how credit is attributed among the people mentioned. What does the language used—its tone, its informality—reveal about early software culture and workplace dynamics?
 
-Let us now apply the layered reading approach to a specific code artifact. Examine this snippet:
+4. **Material form:** What type of physical document is this? What printing technology produced it? What do the physical characteristics (paper format, margins, perforations) tell you about the technical environment of the time?
+
+<details>
+<summary><strong>Catch up: What is this artifact? (click to expand if you skipped the exercise)</strong></summary>
+
+The image above is a photograph of the original source code for Microsoft BASIC, written in 1975 by Bill Gates and Paul Allen (with contributions from Monte Davidoff). This program, developed for the Altair 8800 microcomputer, was the first product Microsoft ever sold and is considered a foundational artifact in the history of personal computing. The photograph was shared by Bill Gates on his blog in 2025, marking the 50th anniversary of Microsoft.
+
+</details>
+
+#### Artifact 2: The Snippet
+
+Now examine this second artifact. This is the source code of GW-BASIC, a version of Microsoft BASIC developed for IBM PC compatibles, dating from 1983. Microsoft published this code on GitHub in 2020 ([Microsoft, 2020](https://github.com/microsoft/GW-BASIC/blob/master/GWMAIN.ASM)). 
+
+Though written eight years after the first artifact, this code is a direct descendant of the 1975 program—and, as you will see, it carries the memory of its origins in its comments.
 
 ```
 ; [ This translation created 10-Feb-83 by Version 4.3 ]
@@ -324,35 +328,125 @@ MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
     .XLIST
 ```
 
-**Exercise – Analyzing the GW-BASIC Code**
+#### Exercise Part 2: Comparing the Artifacts
 
-Apply the layered reading approach:
+You now have two related artifacts before you: a photograph of a 1975 printout and a code file from 1983, published online in 2020.
 
-1. **Identify the layers:** What information in this snippet addresses each dimension (technical object, textual artifact, historical trace, archival construction)? Notice how these overlap—the copyright notice is simultaneously technical (comment syntax), textual (attribution language), and historical (1975 date).
+1. **What changed? What stayed the same?** Compare the two artifacts. What elements appear in both? What differences do you notice in the headers, dates, or content?
 
-2. **Provenance and dating:** Who is credited as author? What dates appear? The code was "originally written" in 1975 but "translated" in 1983. What does this eight-year gap suggest about software evolution and the need for code translation as environments change?
-
-3. **Programming language context:** Looking at the title "GWMAIN" and knowing this is early Microsoft code, what might "GW" stand for? (Hint: Think of a simple programming language designed to be easy for beginners.) What does the assembly language format tell us about the relationship between high-level and low-level code?
-
-4. **Cultural markers:** Examine how credit is attributed: "wrote a lot of stuff," "wrote a lot of other stuff and fast code." What does this informal, almost playful language reveal about early software culture and workplace dynamics?
-
-5. **Cross-referencing:** Consult these contemporary sources:
-   * [James, Mike. 2025 'Bill Gates Shares The Code That Launched Microsoft'. I Programmer](https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html)
-   * [Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. Gates Notes.](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+2. **Understanding multiple temporalities:** As discussed in Section 2.a, a single code artifact may contain traces of multiple moments. This code has traveled through time:
+   - **1975:** Originally written for the Altair 8800 microcomputer
+   - **1983:** Evolved and adapted for IBM PC compatibles as GW-BASIC
+   - **2020:** The 1983 version deposited in a public GitHub repository by Microsoft
+   - **2025:** Photograph of the original 1975 printout shared on Gates Notes
    
-   How does Gates describe this collaboration in 2025 versus the 1983 code comments? What additional historical significance do these sources attribute to this early work?
+   What does each moment add or transform? Why might code need to evolve as technical environments change? How does the same program lineage exist in different material forms—paper printout, magnetic storage, digital repository, photographic image?
 
-### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories - 40 minutes
+#### Explore Further
 
-The software that guided Apollo 11 to the moon nearly disappeared. Unlike the spacecraft hardware—preserved in museums, celebrated in documentaries—the source code existed only as printed listings, vulnerable to the same forces of neglect, institutional change, and physical decay that threaten all paper documents. For decades, the Apollo Guidance Computer software survived in fragments: some listings in archives, some in private collections, much of it scattered or lost.
+The artifacts you have examined belong to the lineage of Microsoft BASIC—the program that launched Microsoft as a company in 1975. Bill Gates and Paul Allen wrote the original interpreter for the Altair 8800, one of the first commercially successful personal computers. Over the following years, this code evolved and was adapted for numerous platforms, including the IBM PC and compatibles, where it became known as GW-BASIC.
 
-This is not unusual. Most software from the 1960s and 1970s has vanished entirely. What makes the Apollo code exceptional is not that it survived, but that dedicated individuals reconstructed it, digitized it, and made it accessible—transforming working code into digital heritage. In tracing this journey, we will see how code becomes heritage, what is gained and transformed in the process, and what looking beyond the code itself can reveal about the social dimensions of software engineering.
+**Visit the GitHub Repository**
 
-**Pause and reflect:** Before we examine the code itself, consider: what does it mean for code to become "heritage"? What changes when a program moves from being a working tool to being a historical artifact? Keep these questions in mind as we trace the Apollo code's journey.
+Take a moment to visit the GW-BASIC repository on GitHub: [github.com/microsoft/GW-BASIC](https://github.com/microsoft/GW-BASIC). When you examine the commit history, you will notice something unusual: the dates shown are not 2020 (when Microsoft uploaded the code) but rather reflect the original creation dates from the 1980s. GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the archive. In this case, Microsoft chose to preserve the historical timestamps.
 
-**The Digital Archive: Encountering the Code Today**
+This is a thoughtful archival decision—but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know—or may not record—when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
 
-Today, you can access the Apollo 11 source code on GitHub. Visit the repository and examine the header of the file named `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
+**Code Evolution and Lineage**
+
+Comparing the 1975 printout with the 1983 file reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC—it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
+
+This pattern—code being reused, adapted, and evolved across platforms and decades—is fundamental to software history. Programs are not static artifacts frozen at the moment of creation; they have lineages, descendants, and branches. Understanding a piece of code often means tracing where it came from and what it became.
+
+**How Later Code Remembers Its Origins**
+
+Notice how the 1983 code preserves memory of its 1975 origins. The comments explicitly state: "ORIGINALLY WRITTEN ON THE PDP-10 FROM FEBRUARY 9 TO APRIL 9 1975." This is the code documenting its own history—a form of self-referential provenance that historians can use to trace lineage.
+
+Yet this memory is not perfectly preserved. Compare how the credits appear in each version:
+
+**1975 version:**
+```
+BILL GATES WROTE THE RUNTIME STUFF.
+PAUL ALLEN WROTE THE NON-RUNTIME STUFF.
+MONTE DAVIDOFF WROTE THE MATH PACKAGE.
+```
+
+**1983 version:**
+```
+BILL GATES WROTE A LOT OF STUFF.
+PAUL ALLEN WROTE A LOT OF OTHER STUFF AND FAST CODE.
+MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
+```
+
+The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments—the human-readable parts meant to document the work—can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
+
+**Further Reading**
+
+For additional context on this artifact and its historical significance:
+
+- [Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. Gates Notes.](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+- [James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. I Programmer.](https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html)
+
+### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 40 minutes
+
+On 20 July 1969, the Apollo 11 Lunar Module descended to the moon's surface, guided by software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) software represented one of the most complex programming projects of its era—and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
+
+In Section 2.a, we introduced analytical questions for approaching code as historical evidence—questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact. We begin with the original form in which much of this code survived: paper.
+
+#### The Original Artifact: Reading the Paper Listing
+
+![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
+
+**Figure 4:** Original scanned page 731 from the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, showing the beginning of the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE. This hardcopy listing, digitised from the MIT Museum archives, represents one of the most important preserved examples of space program source code. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections*
+
+This is a page from the printed source code listing for the Apollo 11 Lunar Module software. Before examining the digitised version, consider what the original paper artifact reveals:
+
+**Physical characteristics:**
+- Continuous-feed paper with perforated edges, typical of 1960s computer printouts
+- Monospace typeface produced by a line printer
+- Page numbers printed on the document itself (Page 731)
+- Assembly language notation as it appeared when the code was compiled on 14 July 1969
+
+**What is visible without technical expertise:**
+- The routine name at the bottom: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
+- A timestamp and program identifier in the header area
+- Columns of abbreviated instructions and numeric codes
+
+**Exercise Part 1: First Encounter with the Artifact**
+
+Examine Figure 4 carefully. Without any programming knowledge, identify:
+
+- What types of information can you extract from this page? (Consider dates, names, structure, formatting)
+- What questions does the artifact raise that it cannot answer? (Consider authorship, purpose, context)
+- How does the physical format of continuous-feed paper shape what was preserved?
+
+This exercise demonstrates a key principle: even without technical expertise, historians can extract significant information from code artifacts by attending to their formal properties, visible text, and material characteristics.
+
+#### What Was at Risk: Software Preservation and Archival Silences
+
+The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges for historical research. As James Cortada observed in his assessment of the field, "very little software from the 1960s has been preserved," characterising the history of software as "a big, black hole in the history of modern technology" ([Cortada 2002, pp. 72, 77](https://doi.org/10.1109/85.988584)). The Apollo Guidance Computer software survived because paper listings ended up in institutional collections—primarily the MIT Museum—and because dedicated individuals later undertook the labour of digitisation and transcription.
+
+Yet even when code survives, it doesn't carry everything with it. The paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project. These silences become visible when we consider what surrounds the code but is not contained within it. As with any historical source, understanding code requires cross-referencing multiple types of evidence: institutional records, contemporary publications, material artifacts, and testimony from those involved. No single source—however rich—tells the complete story.
+
+#### The Question of Recognition: Gender and Invisible Labour
+
+![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
+
+**Figure 5:** Margaret Hamilton in 1969, standing beside the printed source code listings she and her MIT team produced for the Apollo program's Lunar Module and Command Module. The stacks of paper—roughly Hamilton's own height—illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
+
+This photograph of Margaret Hamilton beside the Apollo code listings vividly illustrates the materiality of software in the 1960s. The physical bulk of the printouts is striking: these stacks, nearly as tall as Hamilton herself, represent hundreds of thousands of lines of code, produced by a team of programmers working under Hamilton's direction at MIT's Instrumentation Laboratory. 
+
+Recovering the conditions behind the code requires sources beyond the artifact itself. Hamilton's oral history interview, conducted by the Computer History Museum in 2004, offers testimony that complements the technical archive. She describes being frequently the only woman in her professional environments and recounts how her coining of the term "software engineering" was initially treated as humorous by hardware engineers before gaining acceptance. She also describes bringing her daughter to the laboratory on nights and weekends to manage the demands of work and family, and facing direct challenges from colleagues who questioned how she could work while having a child at home ([Hamilton 2004](https://www.youtube.com/watch?v=6bVRytYSTEk)). 
+
+These details—about gender dynamics, professional recognition, and the practical conditions of technical labour—do not appear in the code itself. Historians of computing have documented how the programming profession became increasingly masculinised during the 1960s and 1970s. Nathan Ensmenger's research shows that while women had played significant early roles in programming—including the ENIAC programmers of the 1940s—the field's professionalisation involved constructing both a professional and a gender identity, with masculinity serving as one resource for distancing the occupation from its lower-status clerical origins ([Ensmenger 2010, pp. 236-240](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects.
+
+Oral history interviews with software pioneers thus constitute important sources for computing history, capturing dimensions of experience that technical documentation does not record. The Computer History Museum, NASA History Office, and other institutions have conducted interviews that provide context for interpreting archival materials.
+
+#### From Paper to Digital: Questions of Reconstruction
+
+The paper listings held at the MIT Museum are not what most people encounter today when they access the Apollo code. The version available online is a digital reconstruction—transcribed, formatted, and hosted on platforms that did not exist in 1969. For historians, this raises a familiar methodological concern: when we work with a copy or transcription rather than an original, we need to understand the chain of transmission. Who produced the version we are consulting? Under what circumstances? What transformations occurred along the way?
+
+Today, the Apollo 11 source code is accessible on GitHub. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
 
 **Source:** https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
 
@@ -404,99 +498,105 @@ Today, you can access the Apollo 11 source code on GitHub. Visit the repository 
 # BURN, BABY, BURN -- MASTER IGNITION ROUTINE
 ```
 
-**First analysis task:** Before reading further, examine this header carefully. Can you distinguish between:
+**Exercise Part 2: Tracing the Code's Journey**
 
-* Information that was part of the **original 1969 code**
-* Information added during **digitization and transcription** (2009)
-* Information from **oral history** (the 40th anniversary story)
+Using the header above, answer the questions posed in the previous section:
 
-What visual or textual markers help you make these distinctions?
+- Who digitised the original paper listings? Who transcribed them into text files?
+- What institution held the source material?
+- What changes were made to the files after initial transcription, and when?
+- How does the header distinguish between original 1969 content and later additions?
+
+**Exercise Part 3: Comparing Paper and Digital**
+
+Compare the GitHub header with Figure 4 (the original paper listing).
+
+- What information is present in the GitHub version that is absent from the original listing?
+- What is present in the original that the digital version cannot fully capture? Consider both informational content and material qualities.
+- The modification history notes that Ron Burkey "Corrected 3 typos" in June 2009. In what sense is a corrected transcription "the same" document as its source? How would you describe the relationship between this GitHub file and the 1969 printout in terms of authenticity and fidelity?
+
 
 **Markers of Heritagization: What the Header Reveals**
 
-The header is a layered document—a palimpsest where different historical moments coexist. Let us identify the markers of heritagization:
+The header is a palimpsest—a document where different historical moments coexist, each requiring distinct analytical attention:
 
-**Original historical content:**
+**Original historical content (1969):**
+- The routine name: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
+- The assembly timestamp: `16:27 JULY 14, 1969`
+- The program identifier: `AGC program LMY99 by NASA`
 
-* The routine name: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
-* The assembly timestamp: `16:27 JULY 14, 1969`
-* The program identifier: `AGC program LMY99 by NASA`
+**Reconstruction and transcription metadata (2009):**
+- Transcriber identification: `Ron Burkey <info@sandroid.org>`
+- Modification history: dates, initials (RSB), specific changes
+- Source documentation: "transcribed or otherwise adapted from digitized images of a hardcopy from the MIT Museum"
+- Provenance chain: Paul Fjeld (digitisation), Deborah Douglas (MIT Museum), ibiblio.org
 
-**Reconstruction and transcription metadata:**
+**Added historical context (2009, from oral history):**
+- The Magnificent Montague story, added July 2009
+- Attribution: "Onno's notes... which he got from Don Eyles"
+- The 40th anniversary gathering as source
 
-* Transcriber identification: `Ron Burkey <info@sandroid.org>`
-* Modification history: dates, initials (RSB), specific changes
-* Source documentation: "transcribed or otherwise adapted from digitized images of a hardcopy from the MIT Museum"
-* Provenance chain: Paul Fjeld (digitization), Deborah Douglas (MIT Museum), ibiblio.org
+The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization—the archive documents its own construction.
 
-**Added historical context (metadata on the metadata):**
+#### Cultural References in Technical Work: The BURN_BABY_BURN Routine
 
-* The Magnificent Montague story, added July 2009
-* Attribution: "Onno's notes... which he got from Don Eyles"
-* The 40th anniversary gathering as source
+The routine's name warrants attention: BURN_BABY_BURN was not a placeholder or informal label but the official identifier for the master ignition routine controlling the Lunar Module's engine during descent.
 
-**Notice the clear separation:** The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization—the archive documents its own construction.
+**Exercise Part 4: Humour and Cultural References in Code**
 
-**Second analysis task:** The header notes that Ron Burkey "Corrected 3 typos" in June 2009. What does this tell us about the relationship between the GitHub file and the 1969 original? Is this file "the same" as the historical code? How should historians think about such corrections?
+Before reading the explanation below, examine the header's account of the routine name's origin. Consider:
 
-**The Physical Artifact: Tracing Back to Paper**
+- What does the presence of a cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming?
+- The meaning of this name would not be self-evident without Don Eyles' testimony at a 2009 reunion. What does this suggest about the types of sources historians need to interpret code artifacts?
 
-![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
+**Humour as a Dimension of Software Culture**
 
-**Figure 4:** Original scanned page 731 from the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, showing the beginning of the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE. This hardcopy listing, digitized from the MIT Museum archives, represents one of the most important preserved examples of space program source code. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitized from MIT Museum collections*
+The BURN_BABY_BURN routine name is not an anomaly but an instance of a broader phenomenon. Software development, despite its technical demands, has historically incorporated humour, wordplay, and cultural references as part of its working culture. Recent research has begun to examine this systematically.
 
-Compare this image to the GitHub header. The printed listing shows:
+Deepika Tiwari, Martin Monperrus, and Benoit Baudry at KTH Royal Institute of Technology studied humour in software projects through analysis of code repositories and a survey of 125 developers. Their findings argue that humour functions as a vector of developer engagement: "The worldwide collaborative effort for the creation of software is technically and socially demanding. The more engaged developers are, the more value they impart to the software they create" ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12)). Their research found cultural references ranging from film dialogue (*The Big Lebowski*) to literary allusions (*Harry Potter*) to song lyrics embedded in code across diverse projects. Significantly, the researchers note that "humor doesn't detract from the serious side of developing high-quality software"—it coexists with rigorous technical practice.
 
-* The physical format: continuous-feed paper, monospace typeface
-* Page numbers printed on the document itself
-* The assembly notation as it appeared in 1969
-* No explanatory metadata—the code was documentation enough for its original users
+The BURN_BABY_BURN case illustrates how such references can carry layered meanings. The header explains that the name "traces back to 1965 and the Los Angeles riots, and was inspired by disc jockey extraordinaire and radio station owner Magnificent Montague," who used the phrase when playing hit records on Los Angeles radio station KGFJ. The catchphrase, originally an expression of musical enthusiasm, became associated with the Watts uprising of August 1965, taking on more charged meanings. Montague later reflected on this appropriation with ambivalence, as documented in his autobiography ([Montague and Baker 2003](https://books.google.fr/books?id=tuIY84BT-JIC&printsec=frontcover&source=gbs_book_other_versions_r&redir_esc=y#v=onepage&q&f=false)). MIT programmers Peter Adler and Don Eyles chose this phrase for the master ignition routine in 1966-1967, embedding a reference that carried multiple cultural resonances: musical intensity, social upheaval, and the literal burning of rocket fuel.
 
-**Third analysis task:** What is present in the GitHub version that is absent from the original listing? What is present in the original that the digital version cannot fully capture? Consider both informational content and material qualities.
+#### The Chain of Transmission
 
-**Humor in Mission-Critical Code**
+The Apollo code's journey can be mapped as a chain of transmission, with each stage enabling certain forms of access while introducing specific transformations:
 
-The routine's name demands attention: BURN_BABY_BURN. This was not a placeholder or informal label—it was the official identifier for the master ignition routine that controlled the Lunar Module's engine during descent to the moon.
+| Stage | Approximate Date | Form | What Was Preserved | What Was Transformed |
+|-------|------------------|------|-------------------|---------------------|
+| Original creation | 1966-1969 | Punched cards, magnetic tape | Working software in development environment | — |
+| Assembly printout | July 1969 | Paper listings | Human-readable source code | Executability lost |
+| Archival deposit | 1970s-2000s | Paper in MIT Museum | Physical artifact | Institutional context, tacit knowledge |
+| Digitisation | 2003-2009 | Scanned images | Visual record of pages | Some image quality, materiality |
+| Transcription | 2009 | Text files (.agc) | Searchable, executable (via emulator) text | Transcriber's interpretive decisions introduced |
+| Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
+| Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-The header tells us the name "traces back to 1965 and the Los Angeles riots, and was inspired by disc jockey extraordinaire and radio station owner Magnificent Montague," who used the phrase when playing hit records. The catchphrase became associated with the Watts riots, taking on more charged meanings—yet NASA programmers embedded it in the code that would land humans on the moon.
+This table illustrates a general principle in archival theory: transmission is never neutral. Each stage enabled certain forms of access—digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators—while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. As Wolfgang Ernst has argued, digital objects "exist in constant movement," complicating any straightforward notion of an "original" ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). 
 
-This is not an anomaly. Research by Deepika Tiwari, Benoit Baudry, and Martin Monperrus at KTH found that humor has always been present in software development: "What surprised us most when we started looking for humour in software is that it has always been there. Even in the Apollo mission code, we found jokes" ([KTH 2021](https://www.kth.se/en/eecs/nyheter/humor-en-viktig-ingrediens-i-mjukvaruutveckling-1.1351788)).
+#### What the Code Cannot Tell Us
 
-**Fourth analysis task:** What does the presence of cultural humor in mission-critical code suggest about:
+To conclude this case study, it is worth reflecting on what we have learned—and what remains beyond the artifact's reach.
 
-* The relationship between technical work and human expression?
-* The working culture of 1960s aerospace programming?
-* What "professionalism" meant in this context?
+The preserved Apollo code allows us to examine technical decisions, trace cultural references, and understand something of how 1960s programmers organised complex software projects. The GitHub header, with its careful documentation of provenance and added historical context, exemplifies thoughtful heritagization that aids future researchers.
 
-**The Human Context: Margaret Hamilton and the Question of Recognition**
+Yet the code alone cannot tell us how the team worked day-to-day, what alternatives were considered and rejected, or what it was like to be a woman directing a software division in the 1960s. For those questions, we need other sources: oral histories like Hamilton's interview, institutional records from MIT and NASA, contemporary technical publications, and the broader historiography of computing. The Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types.
 
-![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
+#### Synthesis
 
-**Figure 5:** Margaret Hamilton in 1969, standing beside the printed source code listings she and her MIT team produced for the Apollo program's Lunar Module and Command Module. This iconic photograph demonstrates how source code itself can be a historical artifact and document of human achievement in computing. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
+This case study has traced how code becomes heritage through a series of decisions, interventions, and transformations. The Apollo software moved from working program to archived printouts to digitised images to transcribed files to online repositories—each stage preserving certain aspects while introducing others. Along the way, we have seen how code documentation captures some forms of authorship while obscuring others, how oral history complements technical archives, and how the chain of transmission shapes what historians can know about the original artifact.
 
-This iconic photograph shows Margaret Hamilton, director of the Software Engineering Division at MIT's Instrumentation Laboratory, beside stacks of printed listings. The BURN_BABY_BURN routine was part of the larger software system her team developed.
+The Apollo code is now preserved across multiple repositories: the Virtual AGC Project at ibiblio.org, the chrislgarry/Apollo-11 GitHub repository, and Software Heritage's persistent archive. These multiple copies serve different preservation functions—accessibility, redundancy, and scholarly citation—illustrating the preservation strategies examined in Section 3.
 
-Hamilton's story illuminates what code preservation can and cannot capture. The GitHub header credits Don Eyles and Peter Adler as "authors of this routine." Hamilton led the division; her name does not appear in this file. This is not an error—Eyles and Adler wrote this specific routine—but it reflects how code documents certain kinds of authorship while obscuring others.
+**Further Reading**
 
-The systematic underrecognition of women's contributions to computing has been well documented. Jennifer Light's study "When Computers Were Women" (1999) showed how the six women who programmed ENIAC were largely written out of history for decades ([Light 1999](https://rybn.org/human_computers/articles/when_computers_were_women.pdf)). This gap in the historical record wasn't accidental but reflected broader societal attitudes that marginalized women's technical contributions ([MacDonald 2016](https://www.sciencealert.com/these-6-women-were-written-out-of-tech-history)).
+For additional context on the Apollo software and its historical significance:
 
-Hamilton herself had to advocate for recognition of software engineering as a legitimate discipline—she is credited with coining the term. In a field where software was often dismissed as less important than hardware, and where women's technical contributions were frequently overlooked, Hamilton had to advocate for both her discipline and her team's recognition.
-
-**Fifth analysis task:** The Apollo code's journey from working software to digital heritage involved many decisions about what to preserve, transcribe, and contextualize. Whose labor is visible in the GitHub repository? Whose labor made the code possible but remains invisible? What sources beyond the code itself would you need to recover a fuller picture?
-
-**From Paper to Software Heritage: The Arc of Heritagization**
-
-The Apollo code's journey—from working software (1969) to archived printouts (MIT Museum) to digitized images (Paul Fjeld) to transcribed files (Ron Burkey) to GitHub repository to Software Heritage—exemplifies how software becomes heritage.
-
-Each stage transformed the artifact:
-
-* **Archival survival** depended on institutional decisions and individual collectors
-* **Digitization** made the code accessible but reduced image quality
-* **Transcription** made the code searchable and executable (via emulators) but introduced interpretive choices
-* **Contextualization** added historical information but also shaped how future users encounter the code
-* **Platform migration** (GitHub, Software Heritage) ensures persistence but embeds the code in new infrastructures with their own assumptions
-
-**Synthesis reflection:** Having traced this journey, return to the questions posed at the beginning: What does it mean for code to become "heritage"? What changes when a program moves from being a working tool to being a historical artifact? How has your understanding evolved?
+- Burkey, Ron. Virtual AGC Project. http://www.ibiblio.org/apollo/
+- Coding with Dee. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
+- Di Cosmo, Roberto. 2019. "Archiving and Referencing the Apollo Source Code." *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+- Hamilton, Margaret. 2004. Oral history interview. Computer History Museum. https://www.youtube.com/watch?v=6bVRytYSTEk
+- Montague, Magnificent, with Bob Baker. 2003. *Burn, Baby! BURN!: The Autobiography of Magnificent Montague*. Urbana: University of Illinois Press.
+- Tiwari, Deepika, Tim Toady, Martin Monperrus, and Benoit Baudry. 2024. "With Great Humor Comes Great Developer Engagement." *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)*: 1-11. https://doi.org/10.1109/ICSE-SEIS.2024.12
 
 ### 2.d Code as Cultural Expression: Esoteric Languages and Creative Programming - 20 minutes
 
@@ -507,10 +607,6 @@ Some programmers take this further, creating languages and programs whose primar
 **Esoteric Programming Languages**
 
 Esoteric programming languages (or "esolangs") are intentionally designed not for practical software development, but rather to challenge conventional programming paradigms and provide amusement for programmers ([Paloque-Bergès 2009](https://www.laprocure.com/product/1282150/paloque-berges-camille-poetique-des-codes-sur-le-reseau-informatique)). Think of them as programming's equivalent to experimental art or wordplay—they serve as creative expressions, intellectual puzzles, or even jokes that reveal the playful and cultural dimensions of programming beyond its purely functional aspects.
-
-![A "Hello World!" program written in Befunge, an esoteric programming language](/assets/images/code-as-heritage/Hello_World_Befunge.png "Hello World in Befunge")
-
-**Figure 6:** A "Hello World!" program written in Befunge, an esoteric programming language where code is written in two-dimensional space. The arrows show the direction of program execution. *Credit: Wattcle, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Befunge.png)*
 
 **The Esoteric File Archive**
 
