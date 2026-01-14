@@ -36,9 +36,7 @@
 **Status:** 🚧 PENDING APOLLO 11 EXPANSION
 
 - [ ] **Contextualize Apollo 11 more thoroughly in Section 1.c:**
-  - [ ] Add more detailed timeline of Apollo 11 software development (1965-1969)
-  - [ ] Explain the significance of 36,000 lines of assembly code for 1969 computing standards
-  - [ ] Add paragraph on Apollo 11 as urgent preservation case study
+  - [ ] Add more detailed timeline of Apollo 11 software development (1965-1969) and how the error handling system (invented by Margaret Hamilton) was critical to the first mission on the moon 
 
 - [x] Learning objectives added
 - [x] All subsections (1.a, 1.b, 1.c) developed with content and exercises
@@ -52,10 +50,10 @@
 **Status:** 🟡 NEARLY COMPLETE - Pending minor refinements
 
 - [ ] **Expand English language dominance discussion in "Linguistic and Cultural Markers" subsection:**
-  - [ ] Case studies of alternatives (Chinese Smalltalk, Ruby Japanese documentation)
-  - [ ] Research citations on non-native English speaker barriers (Robins 2010)
-  - [ ] Expansion of linguistic imperialism discussion
-  - [ ] Links to non-English programming initiatives
+  - [x] Case studies of alternatives (Chinese Smalltalk, Ruby Japanese documentation)
+  - [x] Research citations on non-native English speaker barriers (Robins 2010)
+  - [x] Expansion of linguistic imperialism discussion
+  - [x] Links to non-English programming initiatives
 
 - [x] Learning objectives added
 - [x] **COMPLETED:** Rethink how source criticism is introduced
@@ -116,8 +114,6 @@
 
 - [ ] **French-language source accessibility issue** - Section 3.a references Schafer 2017 (Bulletin 1024) which is not accessible to English-speaking students:
   - [ ] Find equivalent English-language resources about Software Heritage's founding vision
-  - [ ] Add English summaries or translations of key points
-  - [ ] Ensure all primary sources for student exercises are available in English
 
 - [x] Learning objectives added
 - [x] Preservation initiatives expanded

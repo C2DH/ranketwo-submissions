@@ -105,7 +105,7 @@ Questions for reflection:
 2. Looking at the 2023 UNESCO article, what specific arguments are presented for treating source code as heritage? How has this perspective evolved over the twenty years since the original Charter?
 3. What specific benefits does code preservation offer to society, and in which fields (legacy, research, etc.) is it recognized as having particular value?
 
-### 1.c The Fragility of Code: Understanding Digital Preservation Challenges - 15 minutes
+### 1.c The Fragility of Code: Understanding Digital Preservation Challenges - 20 minutes
 
 Among the key threats to source code is the potential for a Digital Dark Age ([Silva 2022](https://www.softwareheritage.org/2022/06/28/all-of-humankinds-source-code-in-a-nutshell/?lang=fr)), which refers to the possible loss of vast amounts of digital information. Three main factors contribute to this risk:
 
@@ -175,13 +175,16 @@ Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?
 > **Learning Objectives for Section 2:**
 > By completing this section, you will be able to:
 > - Apply source criticism methods to code, attending simultaneously to its technical function, textual content, historical context, and archival transmission
-> - Use programming language choices as chronological and cultural markers
-> - Analyze comments, naming conventions, and documentation for cultural and historical evidence
-> - Recognize the limits of what code alone can reveal about its creation context
+> - Use programming language choices, naming conventions, and code style as chronological and cultural markers
+> - Analyze comments, documentation practices, and embedded cultural references for historical and social evidence
+> - Trace how code transforms across multiple preservation stages (original creation, archival storage, digitisation, transcription, platform publication)
+> - Examine authorship, attribution, and invisible labour in software development through code artifacts and complementary sources
+> - Recognize both the possibilities and limitations of what code alone can reveal about its creation context and the necessity of triangulating multiple source types
+> - Understand code as cultural expression, including its playful, creative, and political dimensions beyond purely functional purposes
 
 Understanding source code as a historical source requires developing new literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing—a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
 
-### 2.a Source Criticism in the Digital Age — 25 minutes
+### 2.a Source Criticism in the Digital Age — 35 minutes
 
 Approaching code as a historical source does not require you to become a programmer—but it does require developing a new kind of literacy. Just as art historians learn to see paintings differently than casual viewers, and musicologists learn to hear compositions with trained attention, historians of computing must learn to read code with awareness of its technical, textual, and cultural dimensions simultaneously. This lesson develops that awareness without assuming prior programming experience, while recognizing that code is not simply "text in another language" but a distinctive form of human expression with its own material and logical properties.
 
@@ -207,8 +210,6 @@ Born-digital sources possess characteristics that distinguish them from paper-ba
 
 **Self-Documenting Artifacts:** Code often contains its own contextual information. Comments may explain the programmer's intentions, name the author, or record the date of creation. When code is preserved through platforms like GitHub or other version control systems, the artifact includes not just the code itself but commit messages, branch histories, contributor identities, and timestamps. The "source" becomes intertwined with its documentary apparatus. This intertwining can be analytically productive. Traditional historians often lament the loss of context: who wrote this manuscript? Under what circumstances? With some code, particularly from the era of collaborative software development, contextual information may be preserved *within* the artifact itself. Version control systems and comment histories can provide contextual density that paper archives rarely offer. However, this advantage applies unevenly to historical code. Software from the 1960s, 1970s, or 1980s typically lacks version control metadata entirely. Comments may be sparse or absent. The programmer's name may appear nowhere in the artifact. For such sources, establishing provenance requires the same external detective work familiar from traditional archives—correspondence, institutional records, oral histories, contemporary publications.
 
-**Dependency on Technical Infrastructure:** Historical code survives in various forms: printed listings, magnetic tapes, optical disks, migrated files, or even photographs of screens. Each form of survival carries different implications for historical analysis. Code preserved on paper can be read like any textual source, but cannot be executed. Code preserved on obsolete media may require specialized equipment to access. Code that has been migrated to modern formats may have been altered—intentionally or inadvertently—in ways that affect its meaning. When historians seek to understand not just what code *says* but what it *does*, they often depend on reconstructed environments. This dependency on technical infrastructure means that our access to the *functional* dimension of historical code is always mediated by preservation decisions and technical interventions.
-
 **Dependency on Technical Infrastructure:** Code exists in a dual state: it can be read as text, but it can also be executed as a functional program. These two modes of engagement have different requirements. Reading code as text—whether on paper printouts, in archived files, or in documentation—requires no special infrastructure beyond what any textual source demands. However, understanding what code *does* when executed often requires access to the original technical environment: the hardware, operating system, compilers, and libraries for which it was written. A program written for a 1970s mainframe will not run on a modern laptop without substantial reconstruction. Historical code survives in various forms—printed listings, magnetic tapes, optical disks, migrated files, or even photographs of screens—and each form of survival carries different implications for historical analysis. Code preserved on paper can be read but not executed. Code preserved on obsolete media may require specialized equipment to access. Code that has been migrated to modern formats may have been altered—intentionally or inadvertently—in ways that can affect its meaning. When historians seek to understand not just what code *says* but what it *does*, they depend on reconstructed environments: emulators, virtual machines, or restored hardware. This dependency means that our access to the *functional* dimension of historical code is always mediated by preservation decisions and technical interventions—sometimes in ways that are not immediately visible.
 
 **Multiple Temporalities:** A single code artifact may contain traces of multiple moments: the original creation, subsequent modifications, the moment of archival deposit, later preservation interventions. These temporalities coexist within what appears to be a single document. Historians must ask not just "when was this created?" but "which version of this are we examining, and how did it reach this state?" For contemporary code preserved in version control systems, these questions may have ready answers: commit histories record who changed what, when, and sometimes why. The artifact documents its own temporal layers.
@@ -227,11 +228,11 @@ When approaching any code artifact, the following questions can guide your analy
 
 **Dependencies and Networks:** You should examine what external code a program relies on, as dependencies reveal networks of collaboration and influence. Like citations in academic papers, dependencies show how programmers built upon existing work and participated in broader development communities. The networked nature of modern software development means that seemingly isolated programs often rely on extensive external code. In 2016, a single developer removing 11 lines of code temporarily disrupted much of the Internet, revealing hidden dependencies in the software ecosystem ([Collins 2016](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)). Just as historians cross-reference multiple sources, code analysis benefits from comparing similar programs from the same period, examining related documentation, or studying the broader software ecosystem. Look for corroborating evidence in contemporary technical manuals, industry publications, or other preserved codebases.
 
-**Linguistic and Cultural Markers:** Just as a historian might analyze handwriting or paper type, we can examine source code for cultural fingerprints:
+**Linguistic and Cultural Markers:** Source code carries cultural fingerprints that reveal much about its creators and their context. However, these markers are not neutral—they reflect broader power structures. Programming languages, like human languages, are embedded in social hierarchies and subject to similar patterns of bias and discrimination.
 
-* Naming conventions: Variable names like "colorPreference" versus "couleurPreference" can reveal a developer's native language
-* Comments: The style and thoroughness of documentation often reflects cultural attitudes toward collaboration
-* Programming style: How code is structured and formatted can indicate where and how a developer was trained
+Most programming languages use English-based syntax, even when created by non-English speakers—Python was developed in the Netherlands, Ruby in Japan. Sociological research confirms that programming language choices are fundamentally social decisions. A 2015 Carnegie Mellon University study found that developers choose languages based primarily on personal networks, what colleagues use, and team familiarity—rather than purely technical considerations ([Meyerovich and Rabkin 2013](https://dl.acm.org/doi/10.1145/2509136.2509515)). This means the cultural and linguistic dimensions of programming communities matter for understanding how code circulates and who has access to it.
+
+To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hierarchies in Programming"](https://www.youtube.com/watch?v=kCZRauYfqvg) (approximately 20 minutes), which draws on feminist and post-colonial theory to analyze how biases about human languages appear in discussions of programming languages.
 
 > The use of English-based keywords in programming languages like "if," "else," "for," and "while" reflects the dominance of English-speaking countries in early computing history, creating barriers for non-native English speakers. Cultural factors influence programming language design. Some languages tend toward straightforward, more explicit or verbose syntax with clear variable declarations ([Walton 2024](https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/)).
 
@@ -243,7 +244,7 @@ When approaching any code artifact, the following questions can guide your analy
 
 > To better understand what "good code structure" looks like in different contexts, you can explore resources like the [MIT Coding and Comment Style guide](https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/), which explains coding conventions used in professional and academic settings.
 
-**Comments and Documentation:** Think of comments as the programmer's personal notes and explanations within the code. Comments are portions of text embedded within source code that the compiler or interpreter ignores during execution. These human-readable annotations provide direct windows into thinking processes. Pay attention to how comments explain debugging approaches, clarify complex algorithms, document team decisions, and sometimes include personal reflections or humor that humanizes the technical work. Ask yourself: Is the code written for experienced technical experts or newcomers to programming? Does it include detailed comments that explain complex concepts, or assume prior knowledge? By analyzing these audience considerations, you can better understand broader issues of technological accessibility and the boundaries between different technical communities.
+**Comments and Documentation:** Think of comments as the programmer's personal notes and explanations within the code. Comments are portions of text embedded within source code that the compiler or interpreter ignores during execution. These human-readable annotations provide direct windows into thinking processes. Pay attention to how comments explain debugging approaches, clarify complex algorithms, document team decisions, and sometimes include personal reflections or humor that humanizes the technical work. Ask yourself: Is the code written for experienced technical experts or newcomers to the project? Does it include detailed comments that explain complex concepts, or assume prior knowledge? By analyzing these audience considerations, you can better understand broader issues of technological accessibility and the boundaries between different technical communities.
 
 > Code documentation reveals its intended audience through the level of explanation provided. For instance, code intended for expert JavaScript developers typically contains minimal, technical comments assuming significant prior knowledge, while code designed for beginners includes extensive explanations of basic concepts and step-by-step logic ([Emadamerho-Atori, 2024](https://www.altexsoft.com/blog/how-to-write-code-documentation/)).
 
@@ -257,7 +258,7 @@ When approaching any code artifact, the following questions can guide your analy
 
 **Figure 3:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
 
-### 2.b Applying Source Criticism to Code: A Case Study — 30 minutes
+### 2.b Applying Source Criticism to Code: A Case Study — 40 minutes
 
 In Section 2.a, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
 
@@ -387,7 +388,7 @@ For additional context on this artifact and its historical significance:
 - [Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. Gates Notes.](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 - [James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. I Programmer.](https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html)
 
-### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 40 minutes
+### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 50 minutes
 
 On 20 July 1969, the Apollo 11 Lunar Module descended to the moon's surface, guided by software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) software represented one of the most complex programming projects of its era—and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
 
@@ -512,11 +513,12 @@ Using the header above, answer the questions posed in the previous section:
 Compare the GitHub header with Figure 4 (the original paper listing).
 
 - What information is present in the GitHub version that is absent from the original listing?
-- What is present in the original that the digital version cannot fully capture? Consider both informational content and material qualities.
 - The modification history notes that Ron Burkey "Corrected 3 typos" in June 2009. In what sense is a corrected transcription "the same" document as its source? How would you describe the relationship between this GitHub file and the 1969 printout in terms of authenticity and fidelity?
 
-
 **Markers of Heritagization: What the Header Reveals**
+
+<details>
+<summary><strong>Understanding the Header Layers (click to expand)</strong></summary>
 
 The header is a palimpsest—a document where different historical moments coexist, each requiring distinct analytical attention:
 
@@ -537,6 +539,8 @@ The header is a palimpsest—a document where different historical moments coexi
 - The 40th anniversary gathering as source
 
 The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization—the archive documents its own construction.
+
+</details>
 
 #### Cultural References in Technical Work: The BURN_BABY_BURN Routine
 
@@ -688,7 +692,7 @@ Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?
 
 Having examined code preservation challenges and historical analysis techniques, we now turn to actual archiving initiatives. This section examines how different institutions with different values and missions have approached the challenge of preserving software heritage. Understanding these institutional contexts helps us interpret their choices and recognize what each approach captures and what it may miss.
 
-### 3.a Software Heritage: Mission, Scope and Infrastructure - 30 minutes
+### 3.a Software Heritage: Mission, Scope and Infrastructure - 40 minutes
 
 Software Heritage emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model—a nonprofit foundation with academic, governmental, and industry partners—prioritizes long-term preservation over commercial considerations. The initiative's publications appear in academic venues; its methods are documented for scholarly scrutiny.
 
