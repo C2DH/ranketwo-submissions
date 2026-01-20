@@ -31,6 +31,29 @@
 
 ---
 
+## 🔧 Lower Priority Polish
+
+- [ ] Check for excessive use of "let's explore" in the text and replace with varied transitions
+- [ ] Rewrite image legends for consistency and clarity across all figures
+- [ ] Review pedagogical scaffolding across all exercises
+
+---
+
+## 📚 Additional Resources (for integration)
+
+### FORTRAN Historical Sources
+
+**Archive:** https://softwarepreservation.computerhistory.org/FORTRAN/
+
+**Recommended citations:**
+- J.W. Backus et al. "The FORTRAN Automatic Coding System." Proceedings Western Joint Computer Conference, 1957.
+- John W. Backus. "The history of FORTRAN I, II and III." Proceedings First ACM SIGPLAN Conference on History of Programming Languages, 1978.
+- Mark Halpern. "On the Heels of the Pioneers." Annals of the History of Computing, 1991.
+
+**Why it matters:** FORTRAN (high-level abstraction) vs. AGC assembly (bare-metal control) illuminates philosophical choices embedded in code.
+
+---
+
 ## Section 1: Understanding Digital Heritage Recognition
 
 **Status:** 🚧 PENDING APOLLO 11 EXPANSION
@@ -112,8 +135,8 @@
 
 **Status:** 🚧 Needs accessibility fix and reading suggestions
 
-- [ ] **French-language source accessibility issue** - Section 3.a references Schafer 2017 (Bulletin 1024) which is not accessible to English-speaking students:
-  - [ ] Find equivalent English-language resources about Software Heritage's founding vision
+- [x] **French-language source accessibility issue** - Section 3.a references Schafer 2017 (Bulletin 1024) which is not accessible to English-speaking students:
+  - [x] Find equivalent English-language resources about Software Heritage's founding vision
 
 - [x] Learning objectives added
 - [x] Preservation initiatives expanded
@@ -132,29 +155,6 @@
 - [x] **Ensured consistency with Section 2.c revisions regarding gender dynamics and preservation themes**
 - [x] **Final review confirming accuracy and reflection of lesson content**
 - [x] **Tone and style consistency verified**
-
----
-
-## 🔧 Lower Priority Polish
-
-- [ ] Check for excessive use of "let's explore" in the text and replace with varied transitions
-- [ ] Rewrite image legends for consistency and clarity across all figures
-- [ ] Review pedagogical scaffolding across all exercises
-
----
-
-## 📚 Additional Resources (for integration)
-
-### FORTRAN Historical Sources
-
-**Archive:** https://softwarepreservation.computerhistory.org/FORTRAN/
-
-**Recommended citations:**
-- J.W. Backus et al. "The FORTRAN Automatic Coding System." Proceedings Western Joint Computer Conference, 1957.
-- John W. Backus. "The history of FORTRAN I, II and III." Proceedings First ACM SIGPLAN Conference on History of Programming Languages, 1978.
-- Mark Halpern. "On the Heels of the Pioneers." Annals of the History of Computing, 1991.
-
-**Why it matters:** FORTRAN (high-level abstraction) vs. AGC assembly (bare-metal control) illuminates philosophical choices embedded in code.
 
 ---
 
