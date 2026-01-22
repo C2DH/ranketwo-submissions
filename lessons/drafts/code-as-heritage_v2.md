@@ -102,6 +102,8 @@ This example helps us understand an essential tension in computing: while source
 
 - Wikipedia. 'Programming Language'. https://en.wikipedia.org/wiki/Programming_language
 
+- Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
 The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
@@ -127,7 +129,7 @@ Questions for reflection:
 
 **Key UNESCO Documents:**
 
-- UNESCO. 2003. *Charter on the Preservation of the Digital Heritage*. https://unesdoc.unesco.org/ark:/48223/pf0000179529
+- UNESCO. 2003. *Charter on the Preservation of the Digital Heritage*. https://unesdoc.unesco.org/ark:/48223/pf0000179529 (Accessed 2025)
 
 - UNESCO. 2023. 'Positioning Software Source Code as Digital Heritage for Sustainable Development'. https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development
 
@@ -306,7 +308,7 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 - Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter Lang. https://books.google.lu/books?id=083BUgMnLKQC
 
-- Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf
+- Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262134018
 
 - Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Literary Texts*. Chicago: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html
 
@@ -324,17 +326,7 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 - Hayden, Gabrielle. 2022. 'Language Hierarchies in Programming'. YouTube video, approx. 20 min. https://www.youtube.com/watch?v=kCZRauYfqvg — Draws on feminist and post-colonial theory to analyze biases in discussions of programming languages.
 
-**Explore Online:**
-
-- MIT Communication Lab. 'Coding and Comment Style'. https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/
-
-- Emadamerho-Atori, Fortune. 2024. 'How to Write Code Documentation'. *AltexSoft*. https://www.altexsoft.com/blog/how-to-write-code-documentation/
-
-**Gender and Invisible Labour in Computing History:**
-
-- Light, Jennifer S. 1999. 'When Computers Were Women'. *Technology and Culture* 40 (3): 455–83. https://rybn.org/human_computers/articles/when_computers_were_women.pdf
-
-- MacDonald, Fiona. 2016. 'These 6 Women Were Written Out of Tech History'. *ScienceAlert*. https://www.sciencealert.com/these-6-women-were-written-out-of-tech-history
+- Code.org. 2015. 'What Most Schools Don't Teach: A Video Introduction to Computer Science'. YouTube video, 5:05. https://www.youtube.com/watch?v=nKIu9yen5nc — Foundational overview of programming concepts for beginners.
 
 ### 2.b Applying Source Criticism to Code: A Case Study — 35 minutes
 
@@ -801,7 +793,7 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 
 **Explore Online:**
 
-- Software Heritage Archive. https://www.softwareheritage.org
+- Software Heritage Archive. https://www.softwareheritage.org (Accessed regularly; content continuously updated)
 
 - Software Heritage Features. https://www.softwareheritage.org/software-heritage-features/
 
@@ -941,9 +933,9 @@ For those who wish to develop basic programming literacy alongside these critica
 
 - *Exercism*. Practice exercises in 70+ programming languages with mentorship. https://exercism.org/
 
-- *Codecademy*. Interactive lessons in multiple languages (free tier available). https://www.codecademy.com/
+- *Codecademy*. Interactive lessons in multiple languages (free tier available). https://www.codecademy.com/learn/paths/computer-science-101
 
-- *Khan Academy Computing*. Visual, interactive introductions to programming concepts. https://www.khanacademy.org/computing
+- *Khan Academy Computing*. Visual, interactive introductions to programming concepts. https://www.khanacademy.org/computing/computer-programming
 
 - *Kaggle Learn*. Free micro-courses on Python and data science. https://www.kaggle.com/learn
 
