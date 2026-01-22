@@ -31,29 +31,6 @@
 
 ---
 
-## 🔧 Lower Priority Polish
-
-- [ ] Check for excessive use of "let's explore" in the text and replace with varied transitions
-- [ ] Rewrite image legends for consistency and clarity across all figures
-- [ ] Review pedagogical scaffolding across all exercises
-
----
-
-## 📚 Additional Resources (for integration)
-
-### FORTRAN Historical Sources
-
-**Archive:** https://softwarepreservation.computerhistory.org/FORTRAN/
-
-**Recommended citations:**
-- J.W. Backus et al. "The FORTRAN Automatic Coding System." Proceedings Western Joint Computer Conference, 1957.
-- John W. Backus. "The history of FORTRAN I, II and III." Proceedings First ACM SIGPLAN Conference on History of Programming Languages, 1978.
-- Mark Halpern. "On the Heels of the Pioneers." Annals of the History of Computing, 1991.
-
-**Why it matters:** FORTRAN (high-level abstraction) vs. AGC assembly (bare-metal control) illuminates philosophical choices embedded in code.
-
----
-
 ## Section 1: Understanding Digital Heritage Recognition
 
 **Status:** 🚧 PENDING APOLLO 11 EXPANSION
@@ -121,16 +98,6 @@
 
 ---
 
-## Section 2.d: Esoteric Languages
-
-**Status:** ✅ COMPLETE
-
-- [x] Section content developed with Hunter language case study
-- [x] Esoteric File Archive exploration exercise included
-- [x] Berry's "Digital Ruins" bonus exercise included
-
----
-
 ## Section 3: Preserving Code: Initiatives and Infrastructures
 
 **Status:** 🚧 Needs accessibility fix and reading suggestions
@@ -147,14 +114,26 @@
 
 ---
 
-## Conclusion
+## 🔧 Lower Priority Polish
 
-**Status:** 🟢 COMPLETED - Aligned with lesson content
+- [ ] Check for excessive use of "let's explore" in the text and replace with varied transitions
+- [ ] Rewrite image legends for consistency and clarity across all figures
+- [ ] Review pedagogical scaffolding across all exercises
 
-- [x] **Removed "layered reading approach" reference and replaced with appropriate language**
-- [x] **Ensured consistency with Section 2.c revisions regarding gender dynamics and preservation themes**
-- [x] **Final review confirming accuracy and reflection of lesson content**
-- [x] **Tone and style consistency verified**
+---
+
+## 📚 Additional Resources (for integration)
+
+### FORTRAN Historical Sources
+
+**Archive:** https://softwarepreservation.computerhistory.org/FORTRAN/
+
+**Recommended citations:**
+- J.W. Backus et al. "The FORTRAN Automatic Coding System." Proceedings Western Joint Computer Conference, 1957.
+- John W. Backus. "The history of FORTRAN I, II and III." Proceedings First ACM SIGPLAN Conference on History of Programming Languages, 1978.
+- Mark Halpern. "On the Heels of the Pioneers." Annals of the History of Computing, 1991.
+
+**Why it matters:** FORTRAN (high-level abstraction) vs. AGC assembly (bare-metal control) illuminates philosophical choices embedded in code.
 
 ---
 
@@ -201,3 +180,128 @@
   - [x] Cultural references in technical work with Tiwari et al. humor research
   - [x] Complete chain of transmission table from 1966-present
   - [x] Reflection on what code cannot reveal (requires triangulation with other sources)
+
+---
+
+# Proofreading Report - Code as Heritage (v2)
+
+## 📋 Structure
+
+This document tracks proofreading completion for each section of the lesson, organized by section and subsection. Upon completion of proofreading, improvement points will be added.
+
+---
+
+## Section 1: Understanding Digital Heritage Recognition
+
+### 1.a Defining Source Code: Between Technical Function and Cultural Expression
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Figure caption clarity review
+  - [ ] Exercise instructions clarity review
+
+### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Exercise instructions clarity review
+
+### 1.c The Fragility of Code: Understanding Digital Preservation Challenges
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Figure caption clarity review
+  - [ ] Exercise instructions clarity review
+
+---
+
+## Section 2: Reading Code as Cultural Text
+
+### 2.a Source Criticism in the Digital Age
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Subsection coherence verification
+  - [ ] Analytical questions clarity review
+
+### 2.b Applying Source Criticism to Code: A Case Study
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Figure caption clarity review
+  - [ ] Exercise instructions clarity review
+  - [ ] Code snippet formatting check
+
+### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Figure caption clarity review
+  - [ ] Exercise instructions clarity review
+  - [ ] Code header formatting check
+  - [ ] Table formatting and readability check
+
+---
+
+## Section 3: Preserving Code: Initiatives and Infrastructures
+
+### 3.a Software Heritage: Mission, Scope and Infrastructure
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Exercise instructions clarity review
+  - [ ] Conceptual explanations clarity check
+
+### 3.b Comparative Preservation Approaches
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Citation accuracy verification
+  - [ ] Link functionality check
+  - [ ] Figure caption clarity review
+  - [ ] Table formatting and readability check
+  - [ ] Exercise instructions clarity review
+  - [ ] Analogy clarity and effectiveness check
+
+---
+
+## Resources for Learning to Code
+
+- [ ] **Proofreading complete**
+  - [ ] Grammar and spelling check
+  - [ ] Link functionality check
+  - [ ] Resource descriptions clarity review
+  - [ ] Citation consistency check
+
+---
+
+## 📝 Improvements to be Added
+
+*Improvement points will be documented here upon completion of proofreading for each section.*
+
+### Section 1 Improvements
+- *To be added after proofreading*
+
+### Section 2.a Improvements
+- *To be added after proofreading*
+
+### Section 2.b Improvements
+- *To be added after proofreading*
+
+### Section 2.c Improvements
+- *To be added after proofreading*
+
+### Section 3.a Improvements
+- *To be added after proofreading*
+
+### Section 3.b Improvements
+- *To be added after proofreading*
+
+### General Improvements (Cross-section)
+- *To be added after proofreading*
