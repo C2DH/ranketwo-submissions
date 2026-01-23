@@ -252,14 +252,6 @@ A program written for a 1970s mainframe will not run on a modern laptop without 
 
 When historians seek to understand not just what code *says* but what it *does*, they depend on reconstructed environments: emulators, virtual machines, or restored hardware. This dependency means that our access to the *functional* dimension of historical code is always mediated by preservation decisions and technical interventions—sometimes in ways that are not immediately visible.
 
-**Multiple Temporalities:** A single code artifact may contain traces of multiple moments: the original creation, subsequent modifications, the moment of archival deposit, later preservation interventions. These temporalities coexist within what appears to be a single document. Historians must ask not just "when was this created?" but "which version of this are we examining, and how did it reach this state?" For contemporary code preserved in version control systems, these questions may have ready answers: commit histories record who changed what, when, and sometimes why. The artifact documents its own temporal layers.
-
-**Archival Gaps and Lost Context:** But for historical code, the situation is often reversed. Computer programs have only recently become objects of systematic archival attention, and their preservation remains fragile ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). Much early software was never systematically preserved; what survives often does so accidentally, incompletely, or through unofficial channels—sometimes even through software piracy, which functions as an unofficial archive for otherwise abandoned code. This is a reminder that code sometimes reaches us through paths its creators never intended. 
-
-Historical code also frequently arrives stripped of its original documentary context. The technical manuals, design documents, internal memoranda, and institutional knowledge that once surrounded a program may be lost, leaving the code as an orphaned artifact. Where modern version control systems embed provenance within the object itself, older code often preserves no trace of authorship, revision history, or purpose. Establishing such context requires external investigation—archival research, oral histories, contemporary publications—much like traditional historical detective work.
-
-**Reborn Digital Heritage:** A further complication arises when historical code undergoes digital rebirth—a phenomenon Niels Brügger has termed "reborn digital" to describe materials transformed through archival processes ([Brügger 2018](https://doi.org/10.7551/mitpress/10726.001.0001)). Code originally preserved on paper printouts, punched cards, or obsolete magnetic media is sometimes transcribed into modern repositories like GitHub, making it accessible to new audiences. This process transforms the artifact: what was once a static paper document becomes a navigable, searchable, and potentially modifiable digital object. Such transcription is an act of interpretation, introducing new temporal layers—the moment of transcription, the decisions of the transcriber—onto an artifact that may already have passed through multiple states. In digital storage, objects exist in constant movement, and the notion of an original state becomes difficult to maintain ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). For historians, this means attending carefully to the archival history of the code we examine, recognizing that what we see may be several removes from what the original programmers produced.
-
 #### Approaching Code: Key Analytical Questions
 
 When approaching any code artifact, the following questions can guide your analysis. These are not sequential steps but concurrent concerns—a single element of code may illuminate several at once. This is not an exhaustive methodology but a starting point; the field of digital source criticism remains open, and specific sources may raise questions not anticipated here.
@@ -433,73 +425,6 @@ Take a moment to visit the GW-BASIC repository on GitHub: [github.com/microsoft/
 
 This is a thoughtful archival decision—but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know—or may not record—when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
 
-**Code Evolution and Lineage**
-
-Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC—it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
-
-This pattern—code being reused, adapted, and evolved across platforms and decades—is fundamental to software history. Programs are not static artifacts frozen at the moment of creation; they have lineages, descendants, and branches. Understanding a piece of code often means tracing where it came from and what it became.
-
-**How Later Code Remembers Its Origins**
-
-Notice how the 1983 code preserves memory of its 1975 origins. The comments explicitly state: "ORIGINALLY WRITTEN ON THE PDP-10 FROM FEBRUARY 9 TO APRIL 9 1975." This is the code documenting its own history—a form of self-referential provenance that historians can use to trace lineage.
-
-Yet this memory is not perfectly preserved. Compare how the credits appear in each version:
-
-**1975 version:**
-```
-BILL GATES WROTE THE RUNTIME STUFF.
-PAUL ALLEN WROTE THE NON-RUNTIME STUFF.
-MONTE DAVIDOFF WROTE THE MATH PACKAGE.
-```
-
-**1983 version:**
-```
-BILL GATES WROTE A LOT OF STUFF.
-PAUL ALLEN WROTE A LOT OF OTHER STUFF AND FAST CODE.
-MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
-```
-
-The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments—the human-readable parts meant to document the work—can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
-
-#### Explore Further
-
-- Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. *Gates Notes*. https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
-
-- James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Programmer*. https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html
-
-**Explore Online:**
-
-- Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
-
-### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 45 minutes
-
-On 20 July 1969, Apollo 11 achieved what no human mission had accomplished before: landing astronauts on the surface of the Moon. This moment—when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world—depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. The AGC software represented one of the most complex programming projects of its era—and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
-
-![The Apollo Guidance Computer (AGC) hardware module](/assets/images/code-as-heritage/Apollo_Guidance_Computer_AGC.jpg "Apollo Guidance Computer")
-
-**Figure 5:** The Apollo Guidance Computer (AGC), the hardware on which the code examined in this case study ran. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload—yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
-
-In Section 2.a, we introduced analytical questions for approaching code as historical evidence—questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact. We begin with the original form in which much of this code survived: paper.
-
-#### The Original Artifact: Reading the Paper Listing
-
-![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
-
-**Figure 6:** Original scanned page 731 from the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, showing the beginning of the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE. This hardcopy listing, digitised from the MIT Museum archives, represents one of the most important preserved examples of space program source code. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections*
-
-This is a page from the printed source code listing for the Apollo 11 Lunar Module software. Before examining the digitised version, consider what the original paper artifact reveals:
-
-**Physical characteristics:**
-- Continuous-feed paper with perforated edges, typical of 1960s computer printouts
-- Monospace typeface produced by a line printer
-- Page numbers printed on the document itself (Page 731)
-- Assembly language notation as it appeared when the code was compiled on 14 July 1969
-
-**What is visible without technical expertise:**
-- The routine name at the bottom: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
-- A timestamp and program identifier in the header area
-- Columns of abbreviated instructions and numeric codes
-
 **Exercise Part 1: First Encounter with the Artifact**
 
 Examine Figure 6 carefully. Without any programming knowledge, identify:
@@ -507,84 +432,6 @@ Examine Figure 6 carefully. Without any programming knowledge, identify:
 - What types of information can you extract from this page? (Consider dates, names, structure, formatting)
 - What questions does the artifact raise that it cannot answer? (Consider authorship, purpose, context)
 - How does the physical format of continuous-feed paper shape what was preserved?
-
-This exercise demonstrates a key principle: even without technical expertise, historians can extract significant information from code artifacts by attending to their formal properties, visible text, and material characteristics.
-
-#### What Was at Risk: Software Preservation and Archival Silences
-
-The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges for historical research. As James Cortada observed in his assessment of the field, "very little software from the 1960s has been preserved," characterising the history of software as "a big, black hole in the history of modern technology" ([Cortada 2002, pp. 72, 77](https://doi.org/10.1109/85.988584)). The Apollo Guidance Computer software survived because paper listings ended up in institutional collections—primarily the MIT Museum—and because dedicated individuals later undertook the labour of digitisation and transcription.
-
-Yet even when code survives, it doesn't carry everything with it. The paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project. These silences become visible when we consider what surrounds the code but is not contained within it. As with any historical source, understanding code requires cross-referencing multiple types of evidence: institutional records, contemporary publications, material artifacts, and testimony from those involved. No single source—however rich—tells the complete story.
-
-#### The Question of Recognition: Gender and Invisible Labour
-
-![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
-
-**Figure 7:** Margaret Hamilton in 1969, standing beside the printed source code listings she and her MIT team produced for the Apollo program's Lunar Module and Command Module. The stacks of paper—roughly Hamilton's own height—illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
-
-This photograph of Margaret Hamilton beside the Apollo code listings vividly illustrates the materiality of software in the 1960s. The physical bulk of the printouts is striking: these stacks, nearly as tall as Hamilton herself, represent hundreds of thousands of lines of code, produced by a team of programmers working under Hamilton's direction at MIT's Instrumentation Laboratory. 
-
-Recovering the conditions behind the code requires sources beyond the artifact itself. Hamilton's oral history interview, conducted by the Computer History Museum in 2004, offers testimony that complements the technical archive. She describes being frequently the only woman in her professional environments and recounts how her coining of the term "software engineering" was initially treated as humorous by hardware engineers before gaining acceptance. She also describes bringing her daughter to the laboratory on nights and weekends to manage the demands of work and family, and facing direct challenges from colleagues who questioned how she could work while having a child at home ([Hamilton 2004](https://www.youtube.com/watch?v=6bVRytYSTEk)). 
-
-These details—about gender dynamics, professional recognition, and the practical conditions of technical labour—do not appear in the code itself. Historians of computing have documented how the programming profession became increasingly masculinised during the 1960s and 1970s. Nathan Ensmenger's research shows that while women had played significant early roles in programming—including the ENIAC programmers of the 1940s—the field's professionalisation involved constructing both a professional and a gender identity, with masculinity serving as one resource for distancing the occupation from its lower-status clerical origins ([Ensmenger 2010, pp. 236-240](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects.
-
-Oral history interviews with software pioneers thus constitute important sources for computing history, capturing dimensions of experience that technical documentation does not record. The Computer History Museum, NASA History Office, and other institutions have conducted interviews that provide context for interpreting archival materials.
-
-#### From Paper to Digital: Questions of Reconstruction
-
-The paper listings held at the MIT Museum are not what most people encounter today when they access the Apollo code. The version available online is a digital reconstruction—transcribed, formatted, and hosted on platforms that did not exist in 1969. For historians, this raises a familiar methodological concern: when we work with a copy or transcription rather than an original, we need to understand the chain of transmission. Who produced the version we are consulting? Under what circumstances? What transformations occurred along the way?
-
-Today, the Apollo 11 source code is accessible on GitHub. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
-
-**Source:** https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
-
-```
-# Copyright:	Public domain.
-# Filename:	BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
-# Purpose: 	Part of the source code for Luminary 1A build 099.
-#		It is part of the source code for the Lunar Module's (LM)
-#		Apollo Guidance Computer (AGC), for Apollo 11.
-# Assembler:	yaYUL
-# Contact:	Ron Burkey <info@sandroid.org>.
-# Website:	www.ibiblio.org/apollo.
-# Pages:	731-751
-# Mod history:	2009-05-19 RSB	Adapted from the corresponding
-#				Luminary131 file, using page
-#				images from Luminary 1A.
-#		2009-06-07 RSB	Corrected 3 typos.
-#		2009-07-23 RSB	Added Onno's notes on the naming
-#				of this function, which he got from
-#				Don Eyles.
-#
-# This source code has been transcribed or otherwise adapted from
-# digitized images of a hardcopy from the MIT Museum.  The digitization
-# was performed by Paul Fjeld, and arranged for by Deborah Douglas of
-# the Museum.  Many thanks to both.  The images (with suitable reduction
-# in storage size and consequent reduction in image quality as well) are
-# available online at www.ibiblio.org/apollo.  If for some reason you
-# find that the images are illegible, contact me at info@sandroid.org
-# about getting access to the (much) higher-quality images which Paul
-# actually created.
-#
-# Notations on the hardcopy document read, in part:
-#
-#	Assemble revision 001 of AGC program LMY99 by NASA 2021112-061
-#	16:27 JULY 14, 1969
-
-# Page 731
-## At the get-together of the AGC developers celebrating the 40th anniversary
-## of the first moonwalk, Don Eyles (one of the authors of this routine along
-## with Peter Adler) has related to us a little interesting history behind the
-## naming of the routine.
-##
-## It traces back to 1965 and the Los Angeles riots, and was inspired
-## by disc jockey extraordinaire and radio station owner Magnificent Montague.
-## Magnificent Montague used the phrase "Burn, baby! BURN!" when spinning the
-## hottest new records. Magnificent Montague was the charismatic voice of
-## soul music in Chicago, New York, and Los Angeles from the mid-1950s to
-## the mid-1960s.
-# BURN, BABY, BURN -- MASTER IGNITION ROUTINE
-```
 
 **Exercise Part 2: Tracing the Code's Journey**
 
@@ -673,31 +520,13 @@ The Apollo code is now preserved across multiple repositories: the Virtual AGC P
 
 #### Explore Further
 
-**The Apollo Source Code:**
+- Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. *Gates Notes*. https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
 
-- Burkey, Ron. *Virtual AGC Project*. http://www.ibiblio.org/apollo/
+- James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Programmer*. https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html
 
-- Di Cosmo, Roberto. 2019. 'Archiving and Referencing the Apollo Source Code'. *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+**Explore Online:**
 
-- chrislgarry. Apollo-11 GitHub Repository. https://github.com/chrislgarry/Apollo-11
-
-**Watch:**
-
-- Coding with Dee, dir. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
-
-- Hamilton, Margaret. 2004. Oral history interview. *Computer History Museum*. https://www.youtube.com/watch?v=6bVRytYSTEk
-
-**Gender and Labour in Computing History:**
-
-- Ensmenger, Nathan. 2010. *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise*. Cambridge, MA: MIT Press. https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/
-
-- Cortada, James W. 2002. 'Researching the History of Software from the 1960s'. *IEEE Annals of the History of Computing* 24 (1): 72–79. https://doi.org/10.1109/85.988584
-
-**Humour and Culture in Software:**
-
-- Tiwari, Deepika, Tim Toady, Martin Monperrus, and Benoit Baudry. 2024. 'With Great Humor Comes Great Developer Engagement'. *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)*: 1–11. https://doi.org/10.1109/ICSE-SEIS.2024.12
-
-- Montague, Magnificent, with Bob Baker. 2003. *Burn, Baby! BURN!: The Autobiography of Magnificent Montague*. Urbana: University of Illinois Press. https://books.google.fr/books?id=tuIY84BT-JIC
+- Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
 
 ## 3 Preserving Code: Initiatives and Infrastructures
 
@@ -731,7 +560,7 @@ This three-tier organization mirrors how software development works in practice,
 
 When exploring Software Heritage, you will find search and browsing tools that open up multiple pathways for historical investigation. One limitation is that the archive lacks currently intuitive browsing capabilities, making it difficult to explore without specific search criteria in mind. If you have one, you could, for example, track how specific algorithms have evolved over decades, examine shifts in programming practices across different time periods, or map out the collaborative networks behind major software projects.
 
-![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Screenshot_swh.png "Software Heritage: Apollo-11 repository directory structure")
+![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Software_Heritage_Apollo11_Browse.png "Software Heritage: Apollo-11 repository directory structure")
 
 **Figure 8:** The Software Heritage browse interface displaying the Apollo-11 repository, showing how the archive presents the directory structure and file organization of preserved projects. Note that this GitHub repository itself represents a transcribed and reconstructed version of the original Apollo Guidance Computer source code from the 1960s—a "reborn digital" artifact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives like Software Heritage capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
 
