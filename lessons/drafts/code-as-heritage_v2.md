@@ -32,7 +32,7 @@ og:
 ---
 # Code as Heritage
 
-**Illustration:** 
+
 
 [Introduction](#introduction)
 
@@ -46,7 +46,8 @@ og:
 
 ## Introduction
 
-Every app, website, and digital service we use today is built on layers of code that capture decisions, assumptions, and values — traces historians need to learn how to read. The intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding contemporary technological development. This lesson introduces you to applying source criticism methods to code, teaching you to view it as both a technical and cultural artifact. At its most elementary level, source code consists of human-readable computer instructions, but as we will explore, it is much more than mere technical documentation. Code is increasingly being recognized as cultural heritage, raising questions about how it should be preserved and what transformations occur as working software becomes historical artifact. The methodological approach through this lesson focuses on three key skills: contextual analysis, critical evaluation, and comparative assessment — rather than technical mastery. However, understanding code as a historical source does require engaging with its technical dimensions; learners will be guided toward accessible resources to build this foundational knowledge alongside their critical skills. While designed for beginners, some exercises require basic digital navigation skills and familiarity with academic research practices.
+
+This lesson introduces you to applying source criticism methods to code, teaching you to view it as both a technical and cultural artifact. The methodological approach through this lesson focuses on three key skills: contextual analysis, critical evaluation, and comparative assessment — rather than technical mastery. However, understanding code as a historical source does require engaging with its technical dimensions; learners will be guided toward accessible resources to build this foundational knowledge alongside their critical skills. While designed for beginners, some exercises require basic digital navigation skills and familiarity with academic research practices.
 
 In this lesson, you will explore three key dimensions of understanding code as heritage:
 
@@ -65,6 +66,8 @@ Each section includes practical exercises designed to develop your critical thin
 > - Trace how source code gained official recognition as digital heritage
 > - Identify the main threats to code preservation (technological obsolescence, platform changes, storage ephemerality)
 > - Evaluate why active preservation strategies are necessary for digital materials
+
+Every app, website, and digital service we use today is built on layers of code that capture decisions, assumptions, and values — traces historians need to learn how to read. The intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding contemporary technological development. At its most elementary level, source code consists of human-readable computer instructions, but it is much more than mere technical documentation. Code is increasingly being recognized as cultural heritage, raising questions about how it should be preserved and what transformations occur as working software becomes historical artifact.  
 
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
