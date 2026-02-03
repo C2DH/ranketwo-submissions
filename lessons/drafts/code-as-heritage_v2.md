@@ -62,10 +62,8 @@ Each section includes practical exercises designed to develop your critical thin
 > [!NOTE]  
 > **Learning Objectives for Section 1:**
 > By completing this section, you will be able to:
-> - Define source code and explain its dual nature as technical artifact and cultural expression
-> - Trace how source code gained official recognition as digital heritage
-> - Identify the main threats to code preservation (technological obsolescence, platform changes, storage ephemerality)
-> - Evaluate why active preservation strategies are necessary for digital materials
+> - Define source code as technical artifact and cultural expression
+> - Identify the main stakes and the history of source code preservation as digital heritage
 
 Every app, website, and digital service we use today is built on layers of code that capture decisions, assumptions, and values — traces historians need to learn how to read. The intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding contemporary technological development. At its most elementary level, source code consists of human-readable computer instructions, but it is much more than mere technical documentation. Code is increasingly being recognized as cultural heritage, raising questions about how it should be preserved and what transformations occur as working software becomes historical artifact.  
 
