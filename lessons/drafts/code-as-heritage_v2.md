@@ -71,7 +71,7 @@ Every app, website, and digital service we use today is built on layers of code 
 
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
-To define our object of study, consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute" ([Abelson and Sussman 1996](https://sarabander.github.io/sicp/html/index.xhtml)). What does this mean? Source code can be defined as the fundamental set of instructions of a program; human-readable computer commands written in higher-level programming languages that require compilation or interpretation to become executable ([Krysa & Sedek 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf#%5B%7B%22num%22%3A515%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)).
+To define our object of study, consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute" ([Abelson and Sussman 1996](https://sarabander.github.io/sicp/html/index.xhtml)). What does this mean? Source code can be defined as the fundamental set of instructions of a program; human-readable computer commands written in [higher-level programming languages](https://en.wikipedia.org/wiki/High-level_programming_language) that require [compilation](https://en.wikipedia.org/wiki/Compiler) or [interpretation](https://en.wikipedia.org/wiki/Interpreter_(computing)) to become executable ([Krysa & Sedek 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf#%5B%7B%22num%22%3A515%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)).
 
 Since the 1950s, hundreds of [programming languages](https://en.wikipedia.org/wiki/Programming_language) have been created, each with its own syntax, design philosophy, and community of practitioners. Some languages, like [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran) and [COBOL (1959)](https://en.wikipedia.org/wiki/COBOL), emerged in specific institutional contexts—scientific computing and business administration respectively—and continue to run critical systems decades later. Others, like [Python (1991)](https://en.wikipedia.org/wiki/Python_(programming_language)), were designed with readability and accessibility in mind. This diversity means that source code must be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
 
@@ -87,7 +87,7 @@ But where did this tradition originate? The example traces back to Brian Kernigh
 
 This example helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
 
-#### Explore Further
+### Reading/viewing suggestions
 
 **Foundational Texts on Code as Communication:**
 
