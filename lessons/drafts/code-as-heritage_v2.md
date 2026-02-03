@@ -128,7 +128,7 @@ Questions for reflection:
 2. Looking at the 2023 UNESCO article, what specific arguments are presented for treating source code as heritage? How has this perspective evolved over the twenty years since the original Charter?
 3. What specific benefits does code preservation offer to society, and in which fields (legacy, research, etc.) is it recognized as having particular value?
 
-#### Explore Further
+### Reading/viewing suggestions
 
 **Key UNESCO Documents:**
 
@@ -179,7 +179,7 @@ Questions for reflection:
 2. Analyze preservation challenges: What specific technical and cultural obstacles do both authors encounter in their preservation efforts?
 3. Compare methodological approaches: How do their different approaches reflect the broader challenge of code preservation?
 
-#### Explore Further
+### Reading/viewing suggestions
 
 **Digital Preservation Challenges:**
 
@@ -295,7 +295,7 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 **Figure 3:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
 
-#### Explore Further
+### Reading/viewing suggestions
 
 **Critical Code Studies and Digital Source Criticism:**
 
@@ -458,7 +458,7 @@ MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
 
 The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments—the human-readable parts meant to document the work—can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
 
-#### Explore Further
+### Reading/viewing suggestions
 
 - Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. *Gates Notes*. https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
 
@@ -671,7 +671,7 @@ This case study has traced how code becomes heritage through a series of decisio
 
 The Apollo code is now preserved across multiple repositories: the Virtual AGC Project at ibiblio.org, the chrislgarry/Apollo-11 GitHub repository, and Software Heritage's persistent archive. These multiple copies serve different preservation functions—accessibility, redundancy, and scholarly citation—illustrating the preservation strategies examined in Section 3.
 
-#### Explore Further
+### Reading/viewing suggestions
 
 - Burkey, Ron. Virtual AGC Project. http://www.ibiblio.org/apollo/
 
@@ -768,7 +768,7 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 1. How does the three-tier organization system ("Source Files," "Commits," and "Projects") mirror actual software development workflows? How might this organizational approach benefit different types of historical research?
 2. Why are persistent identifiers so crucial for digital scholarship? How do they address challenges we discussed in Section 2 regarding code as archival construction?
 
-#### Explore Further
+### Reading/viewing suggestions
 
 **Software Heritage Documentation:**
 
@@ -864,7 +864,7 @@ For a concrete example, examine: archive.org/details/jsmess_engine_v2
 
 **Comparative reflection:** How do these three approaches—comprehensive source code archiving, secure long-term storage, and executable preservation—address different aspects of code as heritage? Which aspects might still be missing from current preservation efforts?
 
-#### Explore Further
+### Reading/viewing suggestions
 
 **Comparative Frameworks:**
 
