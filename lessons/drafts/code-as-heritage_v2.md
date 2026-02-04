@@ -238,7 +238,7 @@ This lesson focuses primarily on the first level while acknowledging that deeper
 
 Historians trained in source criticism will recognize familiar questions when approaching code: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies.
 
-Source code has emerged as a valuable resource for humanities research, particularly in critical code studies, digital history, and science and technology studies. Pioneer work in this field began in the early 2000s ([Mackenzie 2006](https://books.google.lu/books?id=083BUgMnLKQC); [Manovich 2001](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf); [Fuller 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf)), with notable contributions along the way ([Coleman 2018](https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2); [Cox and McLean 2012](https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political); [Berry 2016](https://books.google.lu/books?id=GeYgDAAAQBAJ); [Rushkoff 2010](https://books.google.lu/books?id=e2YCuxBjkq0C); [Hayles 2005](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html)). The 2020 publication of the [Manifesto for Critical Code Studies](https://books.google.fr/books?id=k4LPDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false) by Mark Marino, enriched with detailed case studies, further developed the exploration of code as cultural expression. 
+Source code has emerged as a valuable resource for humanities research, particularly in critical code studies, digital history, and science and technology studies. Pioneer work in this field began in the early 2000s (Mackenzie 2006; [Manovich 2001](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf); [Fuller 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf)), with notable contributions along the way ([Coleman 2018](https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2); [Cox and McLean 2012](https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political); Berry 2016; [Rushkoff 2010](https://books.google.lu/books?id=e2YCuxBjkq0C); [Hayles 2005](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html)). The 2020 publication of the [Manifesto for Critical Code Studies](https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies) by Mark Marino, enriched with detailed case studies, further developed the exploration of code as cultural expression. 
 
 As Marino argues, we must attend to "the extra-functional significance of computer source code"—what code means beyond what it does. These initiatives treat programming languages as forms of creative writing, examine the cultural assumptions embedded in algorithms, and investigate how software development practices reflect broader social and political contexts. These works reveal how seemingly neutral technical decisions actually reflect cultural biases, political assumptions, and aesthetic preferences. By examining code as a form of cultural expression, scholars can explore questions about power, identity, and creativity in digital environments.
 
@@ -302,9 +302,9 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 **Critical Code Studies and Digital Source Criticism:**
 
-- Marino, Mark C. 2020. *Critical Code Studies*. Cambridge, MA: MIT Press. https://books.google.fr/books?id=k4LPDwAAQBAJ
+- Marino, Mark C. 2020. *Critical Code Studies*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies
 
-- Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Digital Age*. London: Palgrave Macmillan. https://books.google.lu/books?id=GeYgDAAAQBAJ
+- Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Digital Age*. London: Palgrave Macmillan
 
 - Cox, Geoff, and Alex McLean. 2012. *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political
 
@@ -314,7 +314,7 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 - Fuller, Matthew, ed. 2008. *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf
 
-- Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter Lang. https://books.google.lu/books?id=083BUgMnLKQC
+- Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter Lang. 
 
 - Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262134018
 
