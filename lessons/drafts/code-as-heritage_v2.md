@@ -425,19 +425,19 @@ You now have two related artifacts before you: a photograph of a 1975 printout a
 
 The artifacts you have examined belong to the lineage of Microsoft BASIC—the program that launched Microsoft as a company in 1975. Bill Gates and Paul Allen wrote the original interpreter for the Altair 8800, one of the first commercially successful personal computers. Over the following years, this code evolved and was adapted for numerous platforms, including the IBM PC and compatibles, where it became known as GW-BASIC.
 
-**Visit the GitHub Repository**
+**Visit the GitHub repository**
 
-Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub. When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the initial commit does not date back to 2020 (when Microsoft uploaded the code) but rather reflects the original creation date from the 1980s. This is because GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the archive. In this case, Microsoft chose to preserve the historical timestamps.
+Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub. When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the initial commit does not date back to 2020 (when Microsoft uploaded the code) but rather reflects the original creation date from the 1980s. This is because GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the platform. In this case, Microsoft chose to preserve the historical timestamps.
 
 This is a thoughtful archival decision, but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know — or may not record — when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
 
-**Code Evolution and Lineage**
+**Code evolution and lineage**
 
-Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC—it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
+Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC: it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
 
-This pattern—code being reused, adapted, and evolved across platforms and decades—is fundamental to software history. Programs are not static artifacts frozen at the moment of creation; they have lineages, descendants, and branches. Understanding a piece of code often means tracing where it came from and what it became.
+This pattern of code being reused, adapted, and evolved across platforms and decades is fundamental to software history. Programs are not static artifacts frozen at the moment of creation; they have lineages, descendants, and branches. Understanding a piece of code often means tracing where it came from and what it became.
 
-**How Later Code Remembers Its Origins**
+**How later code remembers its origins**
 
 Notice how the 1983 code preserves memory of its 1975 origins. The comments explicitly state: "ORIGINALLY WRITTEN ON THE PDP-10 FROM FEBRUARY 9 TO APRIL 9 1975." This is the code documenting its own history—a form of self-referential provenance that historians can use to trace lineage.
 
@@ -459,7 +459,7 @@ PAUL ALLEN WROTE A LOT OF OTHER STUFF AND FAST CODE.
 MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
 ```
 
-The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments—the human-readable parts meant to document the work—can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
+The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments, that represent the human-readable parts meant to document the work, can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
 
 ### Reading/viewing suggestions
 
