@@ -421,15 +421,15 @@ You now have two related artifacts before you: a photograph of a 1975 printout a
    
    What does each moment add or transform? Why might code need to evolve as technical environments change? How does the same program lineage exist in different material forms—paper printout, magnetic storage, digital repository, photographic image?
 
-#### Explore Further
+#### Explore further the context of creation
 
 The artifacts you have examined belong to the lineage of Microsoft BASIC—the program that launched Microsoft as a company in 1975. Bill Gates and Paul Allen wrote the original interpreter for the Altair 8800, one of the first commercially successful personal computers. Over the following years, this code evolved and was adapted for numerous platforms, including the IBM PC and compatibles, where it became known as GW-BASIC.
 
 **Visit the GitHub Repository**
 
-Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub. When you examine the commit history, you will notice something unusual: the dates shown are not 2020 (when Microsoft uploaded the code) but rather reflect the original creation dates from the 1980s. GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the archive. In this case, Microsoft chose to preserve the historical timestamps.
+Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub. When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the initial commit does not date back to 2020 (when Microsoft uploaded the code) but rather reflects the original creation date from the 1980s. This is because GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the archive. In this case, Microsoft chose to preserve the historical timestamps.
 
-This is a thoughtful archival decision—but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know—or may not record—when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
+This is a thoughtful archival decision, but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know — or may not record — when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
 
 **Code Evolution and Lineage**
 
