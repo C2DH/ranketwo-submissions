@@ -603,7 +603,7 @@ Using the header above, answer the questions posed in the previous section:
 <details>
 <summary><strong>Understanding the Header Layers (click to expand)</strong></summary>
 
-The header is a palimpsest, i.e. a document where different historical moments coexist, each requiring distinct analytical attention:
+The header is a palimpsest, i.e. a document element where different historical moments coexist, each requiring distinct analytical attention:
 
 **Original historical content (1969):**
 - The routine name: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
@@ -621,7 +621,7 @@ The header is a palimpsest, i.e. a document where different historical moments c
 - Attribution: "Onno's notes... which he got from Don Eyles"
 - The 40th anniversary gathering as source
 
-The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization—the archive documents its own construction.
+The header above uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending the file format and the programming or markup language, but this is beyond the scope of the current lesson.* 
 
 </details>
 
@@ -702,9 +702,9 @@ Having examined code preservation challenges and historical analysis techniques,
 
 ### 3.a Software Heritage: Mission, Scope and Infrastructure - 40 minutes
 
-Software Heritage emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model—a nonprofit foundation with academic, governmental, and industry partners—prioritizes long-term preservation over commercial considerations. The initiative's publications appear in academic venues; its methods are documented for scholarly scrutiny.
+[Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. The initiative's publications appear in academic venues; its methods are documented for scholarly scrutiny.
 
-Think of Software Heritage as a response to an important assessment: preserving source code isn't something that can be done through individual, scattered efforts. Instead, it requires well-organized, institutional approaches ([Di Cosmo and Zacchiroli 2017](https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf)). To understand its focus, imagine a library that aims to collect all publicly available books - Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. Despite this necessary limitation, the archive has still managed to collect an impressive collection of millions of software projects and repositories.
+Think of Software Heritage as a response to an important assessment: preserving source code isn't something that can be done through individual, scattered efforts. Instead, it requires well-organized, institutional approaches ([Di Cosmo and Zacchiroli 2017](https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf)). To understand its focus, imagine a library that aims to collect all publicly available books; Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. Despite this necessary limitation, the archive has still managed to collect an impressive collection of millions of software projects and repositories.
 
 Software Heritage aims to preserve everything publicly available. This comprehensive approach is like preserving an entire ecosystem rather than just a few species. Why does this matter? Because historical significance often isn't apparent immediately. By preserving the complete landscape of software development, future researchers will have access to much richer historical evidence than they would with a more selective approach.
 
