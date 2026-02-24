@@ -152,7 +152,7 @@ It is important to understand how the above steps apply to source criticism. Whe
 
 ### Instructions
 
-Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/show-to-read-a-map.txt).**
+Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/how-to-read-a-map.txt).**
 
 In the video, the discussant talks about map projections as one of the elements defining perspective. Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it. 
 
