@@ -30,6 +30,8 @@ order:
 og:
   description: 
 ---
+<!--This version was the initial file of the lesson; it was updated by the author but also a new file was created in this occasion, named v2. In order to avoid conflicting versions and multiple files, the v2 created by the author is now the working version and renamed with the lesson slug, in the folder of the active drafts. This file will is held here as long as the lesson is in progress in this repository. Note of Febr. 2026.-->
+
 # Code as Heritage
 
 ![Computer screen displaying lines of source code with syntax highlighting](/assets/images/code-as-heritage/markus-spiske-fN6HM1hrgxk-unsplash.jpg "Digital code web source code development")
