@@ -57,7 +57,7 @@ In this lesson, you will explore three key dimensions of understanding code as h
 
 Each section includes practical exercises designed to develop your critical thinking about digital sources rather than technical programming skills. By the end of this lesson, you should be familiar with how to approach source code as a historian, recognizing its value as historical evidence.
 
-## 1 Understanding Digital Heritage Recognition
+## 1 Understanding Recognition of Source Code as Digital Heritage
 
 > [!NOTE]  
 > **Learning Objectives for Section 1:**
@@ -213,16 +213,16 @@ Questions for reflection:
 > **Learning Objectives for Section 2:**
 > By completing this section, you will be able to:
 > - Apply source criticism methods to code, attending simultaneously to its technical function, textual content, historical context, and archival transmission
-> - Use programming language choices, naming conventions, and code style as chronological and cultural markers
+<!--> - Use programming language choices, naming conventions, and code style as chronological and cultural markers
 > - Analyze comments, documentation practices, and embedded cultural references for historical and social evidence
 > - Trace how code transforms across multiple preservation stages (original creation, archival storage, digitisation, transcription, platform publication)
 > - Examine authorship, attribution, and invisible labour in software development through code artifacts and complementary sources
 > - Recognize both the possibilities and limitations of what code alone can reveal about its creation context and the necessity of triangulating multiple source types
-> - Understand code as cultural expression, including its playful, creative, and political dimensions beyond purely functional purposes
+> - Understand code as cultural expression, including its playful, creative, and political dimensions beyond purely functional purposes -->
 
 Understanding source code as a historical source requires developing new literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing—a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
 
-### 2.a Source Code Criticism - Principles — 30 minutes
+### 2.a Defining Principles for Source Code Criticism - 30 minutes
 
 Approaching code as a historical source does not require you to become a programmer—but it does require developing a new kind of literacy. This lesson develops that awareness without assuming prior programming experience, while recognizing that code is not simply "text in another language" but a distinctive form of human expression with its own material and logical properties.
 
@@ -244,7 +244,7 @@ As Marino argues, we must attend to "the extra-functional significance of comput
 
 Every type of historical source, from medieval charters to nineteenth-century newspapers to twentieth-century film, requires adapted methods of analysis suited to its specific material and communicative properties. Code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure; what changes is where we find answers and what new questions the source itself raises.
 
-#### Specificities of Source Code as Historical Evidence
+#### Specificities of Source Code as Historical Source
 
 Understanding source code as a specific kind of born-digital source helps us approach it with appropriate analytical tools.
 
@@ -336,7 +336,7 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 - Code.org. 2015. 'What Most Schools Don't Teach: A Video Introduction to Computer Science'. YouTube video, 5:05. https://www.youtube.com/watch?v=nKIu9yen5nc — Foundational overview of programming concepts for beginners.
 
-### 2.b Applying Source Code Criticism: A Case Study — 35 minutes
+### 2.b Applying Source Code Criticism — 35 minutes
 
 In Section 2.a, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
 
@@ -472,7 +472,11 @@ The meaning is similar, but the wording has shifted. The specific technical term
 - Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
 
 
-### 2.c The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 45 minutes
+## 3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 45 minutes
+
+> [!NOTE]  
+> **Learning Objectives for Section 3:**
+> Engage with the materiality, technicality, and embedded cultural references of code in aims of historical analysis
 
 On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. The AGC software represented one of the most complex programming projects of its era—and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
 
@@ -480,7 +484,7 @@ On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished
 
 **Figure 5:** The Apollo Guidance Computer (AGC), the hardware on which the code examined in this case study ran. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload—yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
 
-In Section 2.a, we introduced analytical questions for approaching code as historical evidence—questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact. We begin with the original form in which much of this code survived: paper.
+In assignment 2, we introduced analytical questions for approaching code as historical evidence—questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact. We begin with the original form in which much of this code survived: paper.
 
 #### The Original Artifact: Reading the Paper Listing
 
@@ -688,19 +692,18 @@ The Apollo code is now preserved across multiple repositories: the Virtual AGC P
 
 - Tiwari, Deepika, Tim Toady, Martin Monperrus, and Benoit Baudry. 2024. "With Great Humor Comes Great Developer Engagement." *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)*: 1-11. https://doi.org/10.1109/ICSE-SEIS.2024.12
 
-## 3 Preserving Code: Initiatives and Infrastructures
+## 4 Preserving Code: Initiatives and Infrastructures
 
 > [!NOTE]  
-> **Learning Objectives for Section 3:**
+> **Learning Objectives for Section 4:**
 > By completing this section, you will be able to:
-> - Apply source criticism to code, analyzing it as technical object, textual artifact, historical trace, and archival construction
-> - Navigate the Software Heritage archive and understand its organizational structure
-> - Evaluate the strengths and limitations of different preservation strategies
-> - Understand the role of persistent identifiers in digital scholarship
+> - Experience navigation of an institutional code archive and understand its organizational structure
+> - Evaluate different preservation strategies
+
 
 Having examined code preservation challenges and historical analysis techniques, you now turn to actual archiving initiatives. This section examines how different institutions with different values and missions have approached the challenge of preserving software heritage. Understanding these institutional contexts helps you interpret their choices and recognize what each approach captures and what it may miss.
 
-### 3.a Software Heritage: Mission, Scope and Infrastructure - 40 minutes
+### 4.a Software Heritage: Mission, Scope and Infrastructure - 40 minutes
 
 [Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. The initiative's publications appear in academic venues; its methods are documented for scholarly scrutiny.
 
@@ -793,7 +796,7 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 
 - Software Heritage Features. https://www.softwareheritage.org/software-heritage-features/
 
-### 3.b Comparative Preservation Approaches - 25 minutes
+### 4.b Comparative Code Preservation Approaches - 25 minutes
 
 Software Heritage represents one approach to digital preservation. To situate it within the broader field, we can compare it with initiatives that emerge from different institutional contexts and reflect different values. These different preservation strategies function similarly to how museums, libraries, and archives might each preserve cultural artifacts differently. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
 
