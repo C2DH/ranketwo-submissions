@@ -36,11 +36,13 @@ og:
 
 [Introduction](#introduction)
 
-[1 Understanding Digital Heritage Recognition](#1-understanding-digital-heritage-recognition)
+[1 Understanding Digital Heritage Recognition](#1-understanding-recognition-of-source-code-as-digital-heritage)
 
 [2 Reading Code as Cultural Text](#2-reading-code-as-cultural-text)
 
-[3 Preserving Code: Initiatives and Infrastructures](#3-preserving-code-initiatives-and-infrastructures)
+[3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories](#3-a-case-study-of-code-source-criticism---the-journey-of-the-apollo-code-preservation-heritagization-and-hidden-histories)
+
+[4 Preserving Code: Initiatives and Infrastructures](#3-preserving-code-initiatives-and-infrastructures)
 
 [Resources for Learning to Code](#resources-for-learning-to-code)
 
@@ -472,7 +474,9 @@ The meaning is similar, but the wording has shifted. The specific technical term
 - Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
 
 
-## 3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories — 45 minutes
+## 3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories
+
+45 minutes
 
 > [!NOTE]  
 > **Learning Objectives for Section 3:**
