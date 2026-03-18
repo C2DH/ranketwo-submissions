@@ -224,9 +224,7 @@ Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_Wo
 > - Recognize both the possibilities and limitations of what code alone can reveal about its creation context and the necessity of triangulating multiple source types
 > - Understand code as cultural expression, including its playful, creative, and political dimensions beyond purely functional purposes -->
 
-Understanding source code as a historical source requires developing new literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing—a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
-
-### 2.a Defining Principles for Source Code Criticism - 30 minutes
+Understanding source code as a historical source requires developing new literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing — a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
 
 Approaching code as a historical source does not require you to become a programmer—but it does require developing a new kind of literacy. This lesson develops that awareness without assuming prior programming experience, while recognizing that code is not simply "text in another language" but a distinctive form of human expression with its own material and logical properties.
 
@@ -234,23 +232,17 @@ The relationship between historical analysis and technical understanding operate
 
 * **Reading code as cultural text** does not require programming expertise—you can analyze naming conventions, comments, documentation practices, and embedded cultural references without being able to write or execute code yourself.
 * **Understanding what code does** benefits from basic familiarity with programming concepts—not expertise, but enough literacy to recognize structures, follow logic, and understand why certain choices were made.
-* **Evaluating code's technical quality or reconstructing functionality** requires genuine programming knowledge—a level beyond what this lesson addresses.
+* **Evaluating code's technical quality or reconstructing functionality** requires genuine programming knowledge — a level beyond what this lesson addresses.
 
 This lesson focuses primarily on the first level while acknowledging that deeper engagement benefits from the second.
 
-#### Source Criticism and Born-Digital Heritage
+### 2.a Defining a Roadmap for Source Code Criticism - 30 minutes
 
-Historians trained in source criticism will recognize familiar questions when approaching code: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies.
+Source code has emerged as a valuable resource for humanities research, particularly in critical code studies, digital history, and science and technology studies since the early 2000s (see relevant references below). The focus is currently on "the extra-functional significance of computer source code" (Marino 2020): what code means beyond what it does. Current researches treat programming languages as forms of creative writing, examine the cultural assumptions embedded in algorithms, and investigate how software development practices reflect broader social and political contexts. These works reveal how seemingly neutral technical decisions actually reflect cultural biases, political assumptions, and aesthetic preferences. By examining code as a form of cultural expression, scholars can explore questions about power, identity, and creativity in digital environments.
 
-Source code has emerged as a valuable resource for humanities research, particularly in critical code studies, digital history, and science and technology studies. Pioneer work in this field began in the early 2000s (Mackenzie 2006; [Manovich 2001](https://dss-edit.com/plu/Manovich-Lev_The_Language_of_the_New_Media.pdf); [Fuller 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf)), with notable contributions along the way ([Coleman 2018](https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2); [Cox and McLean 2012](https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political); Berry 2016; [Rushkoff 2010](https://books.google.lu/books?id=e2YCuxBjkq0C); [Hayles 2005](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html)). The 2020 publication of the [Manifesto for Critical Code Studies](https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies) by Mark Marino, enriched with detailed case studies, further developed the exploration of code as cultural expression. 
+Every type of historical source, from medieval charters to nineteenth-century newspapers to twentieth-century film, requires adapted methods of analysis suited to its specific material and communicative properties. Code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies. 
 
-As Marino argues, we must attend to "the extra-functional significance of computer source code": what code means beyond what it does. These initiatives treat programming languages as forms of creative writing, examine the cultural assumptions embedded in algorithms, and investigate how software development practices reflect broader social and political contexts. These works reveal how seemingly neutral technical decisions actually reflect cultural biases, political assumptions, and aesthetic preferences. By examining code as a form of cultural expression, scholars can explore questions about power, identity, and creativity in digital environments.
-
-Every type of historical source, from medieval charters to nineteenth-century newspapers to twentieth-century film, requires adapted methods of analysis suited to its specific material and communicative properties. Code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure; what changes is where we find answers and what new questions the source itself raises.
-
-#### Specificities of Source Code as Historical Source
-
-Understanding source code as a specific kind of born-digital source helps us approach it with appropriate analytical tools.
+What changes is where we find answers and what new questions the source itself raises. Understanding source code as a specific kind of born-digital source helps us approach it with appropriate analytical tools. 
 
 **Self-documenting artifacts:** Code often contains its own contextual information. Comments may explain the programmer's intentions, name the author, or record the date of creation. When code is preserved through platforms like GitHub or other version control systems, the artifact includes not just the code itself but commit messages, branch histories, contributor identities, and timestamps. The "source" becomes intertwined with its documentary apparatus. This intertwining can be analytically productive. Traditional historians often lament the loss of context: who wrote this manuscript? Under what circumstances? With some code, particularly from the era of collaborative software development, contextual information may be preserved *within* the artifact itself. Version control systems and comment histories can provide contextual density that paper archives rarely offer. 
 
@@ -431,7 +423,8 @@ This is a thoughtful archival decision, but not all historical code you find onl
 
 ### Reading/viewing suggestions
 
-#### Critical Code Studies and Digital Source Criticism
+
+#### Critical Code Studies
 
 Marino, Mark C. 2020. *Critical Code Studies*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies
 
