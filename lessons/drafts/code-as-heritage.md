@@ -6,9 +6,9 @@ publication_date:
 toc: on
 research-phase: 
 activities: 
-  -  
+  - analyzing 
 mediatypes:
-  - 
+  - code and script
 authors:
   - titayna-kauffmann-will
 editors: 
@@ -87,26 +87,6 @@ But where did this tradition originate? The example traces back to Brian Kernigh
 
 This example helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
 
-### Reading/viewing suggestions
-
-**Foundational Texts on Code as Communication:**
-
-- Abelson, Harold, and Gerald Jay Sussman. 1996. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press. https://sarabander.github.io/sicp/html/index.xhtml
-
-- Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In *Software Studies: A Lexicon*, edited by Matthew Fuller, 236–43. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262062749.003.0034
-
-- Raymond, Darrell Ronald. 1991. 'Reading Source Code'. *CASCON '91: Proceedings of the 1991 Conference of the Centre for Advanced Studies on Collaborative Research*: 3–16. https://dl.acm.org/doi/10.5555/962111.962113
-
-- Méadel, Cécile, and Guillaume Sire. 2017. 'Les sciences sociales orientées programmes. État des lieux et perspectives'. *Réseaux* 206 (6): 9–34. https://doi.org/10.3917/res.206.0009
-
-**Explore Online:**
-
-- Rosetta Code. 'Hello World/Text'. https://rosettacode.org/wiki/Hello_world/Text — Implementations of "Hello, World!" in over 300 programming languages, documenting the cultural persistence of this convention.
-
-- Wikipedia. 'Programming Language'. https://en.wikipedia.org/wiki/Programming_language
-
-- Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
-
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
 The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
@@ -128,21 +108,6 @@ Questions for reflection:
 2. Looking at the 2023 UNESCO article, what specific arguments are presented for treating source code as heritage? How has this perspective evolved over the twenty years since the original Charter?
 3. What specific benefits does code preservation offer to society, and in which fields (legacy, research, etc.) is it recognized as having particular value?
 
-### Reading/viewing suggestions
-
-**Key UNESCO Documents:**
-
-- UNESCO. 2003. *Charter on the Preservation of the Digital Heritage*. https://unesdoc.unesco.org/ark:/48223/pf0000179529 (Accessed 2025)
-
-- UNESCO. 2023. 'Positioning Software Source Code as Digital Heritage for Sustainable Development'. https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development
-
-**Digital Heritage Theory:**
-
-- Musiani, Francesca, and Valérie Schafer. 2016. 'Digital Heritage and Heritagization'. *RESET: Recherches en Sciences Sociales sur Internet* 6. https://doi.org/10.4000/reset.806
-
-- Talboom, Leontien, and Peter Mechant. 2019. 'Born-Digital Archives'. *International Journal of Digital Humanities* 1: 157–163. https://doi.org/10.1007/s42803-019-00011-x
-
-- Winters, Jane, and Andrew Prescott. 2019. 'Negotiating the Born-Digital: A Problem of Search'. *Archives and Manuscripts* 47 (3): 391–403. https://doi.org/10.1080/01576895.2019.1640753
 
 ### 1.c The Fragility of Code: Understanding Digital Preservation Challenges - 20 minutes
 
@@ -186,7 +151,44 @@ Questions for reflection:
 
 ### Reading/viewing suggestions
 
-**Digital Preservation Challenges:**
+#### Foundational Texts on Code as Communication
+
+*These references serve part 1.a*
+Abelson, Harold, and Gerald Jay Sussman. 1996. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press. https://sarabander.github.io/sicp/html/index.xhtml
+
+Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In *Software Studies: A Lexicon*, edited by Matthew Fuller, 236–43. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262062749.003.0034
+
+Raymond, Darrell Ronald. 1991. 'Reading Source Code'. *CASCON '91: Proceedings of the 1991 Conference of the Centre for Advanced Studies on Collaborative Research*: 3–16. https://dl.acm.org/doi/10.5555/962111.962113
+
+Méadel, Cécile, and Guillaume Sire. 2017. 'Les sciences sociales orientées programmes. État des lieux et perspectives'. *Réseaux* 206 (6): 9–34. https://doi.org/10.3917/res.206.0009
+
+**Explore Online:**
+
+Rosetta Code. 'Hello World/Text'. https://rosettacode.org/wiki/Hello_world/Text — Implementations of "Hello, World!" in over 300 programming languages, documenting the cultural persistence of this convention.
+
+Wikipedia. 'Programming Language'. https://en.wikipedia.org/wiki/Programming_language
+
+Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+
+#### Key UNESCO Documents
+
+*These references serve part 1.b*
+
+- UNESCO. 2003. *Charter on the Preservation of the Digital Heritage*. https://unesdoc.unesco.org/ark:/48223/pf0000179529 (Accessed 2025)
+
+- UNESCO. 2023. 'Positioning Software Source Code as Digital Heritage for Sustainable Development'. https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development
+
+**Digital Heritage Theory:**
+
+- Musiani, Francesca, and Valérie Schafer. 2016. 'Digital Heritage and Heritagization'. *RESET: Recherches en Sciences Sociales sur Internet* 6. https://doi.org/10.4000/reset.806
+
+- Talboom, Leontien, and Peter Mechant. 2019. 'Born-Digital Archives'. *International Journal of Digital Humanities* 1: 157–163. https://doi.org/10.1007/s42803-019-00011-x
+
+- Winters, Jane, and Andrew Prescott. 2019. 'Negotiating the Born-Digital: A Problem of Search'. *Archives and Manuscripts* 47 (3): 391–403. https://doi.org/10.1080/01576895.2019.1640753
+
+#### Digital Preservation Challenges
+
+*These references serve part 1.c*
 
 - Conway, Paul. 1996. *Preservation in the Digital World*. Commission on Preservation and Access. https://www.clir.org/pubs/reports/pub154/
 
@@ -215,7 +217,7 @@ Questions for reflection:
 > **Learning Objectives for Section 2:**
 > By completing this section, you will be able to:
 > - Apply source criticism methods to code, attending simultaneously to its technical function, textual content, historical context, and archival transmission
-<!--> - Use programming language choices, naming conventions, and code style as chronological and cultural markers
+<!-- > - Use programming language choices, naming conventions, and code style as chronological and cultural markers
 > - Analyze comments, documentation practices, and embedded cultural references for historical and social evidence
 > - Trace how code transforms across multiple preservation stages (original creation, archival storage, digitisation, transcription, platform publication)
 > - Examine authorship, attribution, and invisible labour in software development through code artifacts and complementary sources
@@ -300,43 +302,6 @@ To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hier
 
 **Figure 3:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
 
-### Reading/viewing suggestions
-
-**Critical Code Studies and Digital Source Criticism:**
-
-- Marino, Mark C. 2020. *Critical Code Studies*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies
-
-- Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Digital Age*. London: Palgrave Macmillan
-
-- Cox, Geoff, and Alex McLean. 2012. *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political
-
-- Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
-
-**Foundational Works in Software Studies:**
-
-- Fuller, Matthew, ed. 2008. *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf
-
-- Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter Lang. 
-
-- Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262134018
-
-- Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Literary Texts*. Chicago: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html
-
-- Rushkoff, Douglas. 2010. *Program or Be Programmed: Ten Commands for a Digital Age*. New York: OR Books. https://books.google.lu/books?id=e2YCuxBjkq0C
-
-- Coleman, E. Gabriella. 2018. 'The Anthropology of Hackers'. *International Journal of Advanced Computer Science and Applications* 9 (9). https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2
-
-**Programming Language and Culture:**
-
-- Meyerovich, Leo A., and Ariel S. Rabkin. 2013. 'Empirical Analysis of Programming Language Adoption'. *Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages & Applications*: 1–18. https://dl.acm.org/doi/10.1145/2509136.2509515
-
-- Walton, Janice. 2024. 'The Culture of Programming'. In *Culturally Responsive Computing*. https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/
-
-**Watch:**
-
-- Hayden, Gabrielle. 2022. 'Language Hierarchies in Programming'. YouTube video, approx. 20 min. https://www.youtube.com/watch?v=kCZRauYfqvg — Draws on feminist and post-colonial theory to analyze biases in discussions of programming languages.
-
-- Code.org. 2015. 'What Most Schools Don't Teach: A Video Introduction to Computer Science'. YouTube video, 5:05. https://www.youtube.com/watch?v=nKIu9yen5nc — Foundational overview of programming concepts for beginners.
 
 ### 2.b Applying Source Code Criticism — 35 minutes
 
@@ -373,7 +338,7 @@ The image above is a photograph of the original source code for Microsoft BASIC,
 
 #### Artifact 2: The Snippet
 
-Now examine this second artifact. This is the source code of GW-BASIC, a version of Microsoft BASIC developed for IBM PC compatibles, dating from 1983. Microsoft published this code on GitHub in 2020 ([Microsoft, 2020](https://github.com/microsoft/GW-BASIC/blob/master/GWMAIN.ASM)). 
+Now examine this second artifact. This is the source code of GW-BASIC, a version of Microsoft BASIC developed for IBM PC compatibles, dating from 1983. 
 
 Though written eight years after the first artifact, this code is a direct descendant of the 1975 program—and, as you will see, it carries the memory of its origins in its comments.
 
@@ -427,12 +392,6 @@ You now have two related artifacts before you: a photograph of a 1975 printout a
 
 The artifacts you have examined belong to the lineage of Microsoft BASIC—the program that launched Microsoft as a company in 1975. Bill Gates and Paul Allen wrote the original interpreter for the Altair 8800, one of the first commercially successful personal computers. Over the following years, this code evolved and was adapted for numerous platforms, including the IBM PC and compatibles, where it became known as GW-BASIC.
 
-**Visit the GitHub repository**
-
-Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub. When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the initial commit does not date back to 2020 (when Microsoft uploaded the code) but rather reflects the original creation date from the 1980s. This is because GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the platform. In this case, Microsoft chose to preserve the historical timestamps.
-
-This is a thoughtful archival decision, but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know — or may not record — when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
-
 **Code evolution and lineage**
 
 Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC: it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
@@ -463,15 +422,55 @@ MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
 
 The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments, that represent the human-readable parts meant to document the work, can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
 
+**Visit the GitHub repository**
+Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
+
+Microsoft published this code on GitHub in 2020 ([Microsoft, 2020](https://github.com/microsoft/GW-BASIC/blob/master/GWMAIN.ASM)). Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub. When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the initial commit does not date back to 2020 (when Microsoft uploaded the code) but rather reflects the original creation date from the 1980s. This is because GitHub allows repository creators to set commit dates that correspond to when code was originally written, not when it was deposited in the platform. In this case, Microsoft chose to preserve the historical timestamps.
+
+This is a thoughtful archival decision, but not all historical code you find online receives this level of care. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know — or may not record — when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
+
 ### Reading/viewing suggestions
 
-- Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. *Gates Notes*. https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
+#### Critical Code Studies and Digital Source Criticism
 
-- James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Programmer*. https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html
+Marino, Mark C. 2020. *Critical Code Studies*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies
 
-**Explore Online:**
+Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Digital Age*. London: Palgrave Macmillan
 
-- Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
+Cox, Geoff, and Alex McLean. 2012. *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political
+
+Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
+
+#### Foundational Works in Software Studies
+
+Fuller, Matthew, ed. 2008. *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf
+
+Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter Lang. 
+
+Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262134018
+
+Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Literary Texts*. Chicago: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html
+
+Rushkoff, Douglas. 2010. *Program or Be Programmed: Ten Commands for a Digital Age*. New York: OR Books. https://books.google.lu/books?id=e2YCuxBjkq0C
+
+Coleman, E. Gabriella. 2018. 'The Anthropology of Hackers'. *International Journal of Advanced Computer Science and Applications* 9 (9). https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2
+
+#### Programming Language and Culture
+
+Meyerovich, Leo A., and Ariel S. Rabkin. 2013. 'Empirical Analysis of Programming Language Adoption'. *Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages & Applications*: 1–18. https://dl.acm.org/doi/10.1145/2509136.2509515
+
+Walton, Janice. 2024. 'The Culture of Programming'. In *Culturally Responsive Computing*. https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/
+
+**Watch:**
+
+Hayden, Gabrielle. 2022. 'Language Hierarchies in Programming'. YouTube video, approx. 20 min. https://www.youtube.com/watch?v=kCZRauYfqvg — Draws on feminist and post-colonial theory to analyze biases in discussions of programming languages.
+
+Code.org. 2015. 'What Most Schools Don't Teach: A Video Introduction to Computer Science'. YouTube video, 5:05. https://www.youtube.com/watch?v=nKIu9yen5nc — Foundational overview of programming concepts for beginners.
+
+Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. *Gates Notes*. https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
+
+James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Programmer*. https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html
+
 
 
 ## 3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories
@@ -778,27 +777,6 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 1. How does the three-tier organization system ("Source Files," "Commits," and "Projects") mirror actual software development workflows? How might this organizational approach benefit different types of historical research?
 2. Why are persistent identifiers so crucial for digital scholarship? How do they address challenges we discussed in Section 2 regarding code as archival construction?
 
-### Reading/viewing suggestions
-
-**Software Heritage Documentation:**
-
-- Di Cosmo, Roberto, and Stefano Zacchiroli. 2017. 'Software Heritage: Why and How to Preserve Software Source Code'. *Proceedings of the 14th International Conference on Digital Preservation (iPRES 2017)*. https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf
-
-- Di Cosmo, Roberto, Morane Gruenpeter, and Stefano Zacchiroli. 2020. 'Referencing Source Code Artifacts: A Separate Concern in Software Citation'. *Computing in Science & Engineering* 22 (2): 33–43. https://doi.org/10.1109/MCSE.2019.2963148
-
-- Software Heritage. 2019. *Paris Call: Software Source Code as Heritage for Sustainable Development*. UNESCO/INRIA. https://unesdoc.unesco.org/ark:/48223/pf0000366715
-
-**Key Milestones:**
-
-- Software Heritage. 2016. 'We Have Come a Long Way'. https://www.softwareheritage.org/2016/12/30/we-have-come-a-long-way/
-
-- Software Heritage. 2022. 'Software Heritage in 2021: Five Years Already'. https://www.softwareheritage.org/2022/01/05/software-heritage-in-2021-five-years-already/
-
-**Explore Online:**
-
-- Software Heritage Archive. https://www.softwareheritage.org (Accessed regularly; content continuously updated)
-
-- Software Heritage Features. https://www.softwareheritage.org/software-heritage-features/
 
 ### 4.b Comparative Code Preservation Approaches - 25 minutes
 
@@ -876,82 +854,55 @@ For a concrete example, examine: archive.org/details/jsmess_engine_v2
 
 ### Reading/viewing suggestions
 
-**Comparative Frameworks:**
+#### Software Heritage Documentation
+*These references serve part 4.b*
 
-- Matthews, Brian, Arif Shaon, Juan Bicarregui, and Catherine Jones. 2010. 'A Framework for Software Preservation'. *International Journal of Digital Curation* 5 (1): 91–105. https://doi.org/10.2218/ijdc.v5i1.145
+Di Cosmo, Roberto, and Stefano Zacchiroli. 2017. 'Software Heritage: Why and How to Preserve Software Source Code'. *Proceedings of the 14th International Conference on Digital Preservation (iPRES 2017)*. https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf
+
+Di Cosmo, Roberto, Morane Gruenpeter, and Stefano Zacchiroli. 2020. 'Referencing Source Code Artifacts: A Separate Concern in Software Citation'. *Computing in Science & Engineering* 22 (2): 33–43. https://doi.org/10.1109/MCSE.2019.2963148
+
+Software Heritage. 2019. *Paris Call: Software Source Code as Heritage for Sustainable Development*. UNESCO/INRIA. https://unesdoc.unesco.org/ark:/48223/pf0000366715
+
+**Key Milestones:**
+
+Software Heritage. 2016. 'We Have Come a Long Way'. https://www.softwareheritage.org/2016/12/30/we-have-come-a-long-way/
+
+Software Heritage. 2022. 'Software Heritage in 2021: Five Years Already'. https://www.softwareheritage.org/2022/01/05/software-heritage-in-2021-five-years-already/
+
+**Explore Online:**
+
+Software Heritage Archive. https://www.softwareheritage.org (Accessed regularly; content continuously updated)
+
+Software Heritage Features. https://www.softwareheritage.org/software-heritage-features/
+
+
+#### Comparative Frameworks
+*These references serve part 4.b*
+
+Matthews, Brian, Arif Shaon, Juan Bicarregui, and Catherine Jones. 2010. 'A Framework for Software Preservation'. *International Journal of Digital Curation* 5 (1): 91–105. https://doi.org/10.2218/ijdc.v5i1.145
 
 **GitHub Archive Program:**
 
-- GitHub Archive Program. https://archiveprogram.github.com/
+GitHub Archive Program. https://archiveprogram.github.com/
 
 **Watch:**
 
-- GitHub. 2020. *GitHub Arctic Code Vault*. YouTube video, 3:55. https://www.youtube.com/watch?v=0v9Rwqxa8eI
+GitHub. 2020. *GitHub Arctic Code Vault*. YouTube video, 3:55. https://www.youtube.com/watch?v=0v9Rwqxa8eI
 
 **Internet Archive Software Collection:**
 
-- Internet Archive. *Software Collection*. https://archive.org/details/software
+Internet Archive. *Software Collection*. https://archive.org/details/software
 
-- Internet Archive. JSMESS Engine (browser-based emulation). https://archive.org/details/jsmess_engine_v2
+Internet Archive. JSMESS Engine (browser-based emulation). https://archive.org/details/jsmess_engine_v2
 
-- Lowood, Henry. 2009. 'Videogames in Computer Space: The Complex History of Pong'. *IEEE Annals of the History of Computing* 31 (3): 5–19. https://doi.org/10.1109/MAHC.2009.53
+Lowood, Henry. 2009. 'Videogames in Computer Space: The Complex History of Pong'. *IEEE Annals of the History of Computing* 31 (3): 5–19. https://doi.org/10.1109/MAHC.2009.53
 
-**Other Initiatives:**
+#### Other Preservation Initiatives in the Unites States of America
 
-*Computer History Museum (USA):*
+Computer History Museum. *Software Preservation Group*. https://softwarepreservation.computerhistory.org/
 
-- Computer History Museum. *Software Preservation Group*. https://softwarepreservation.computerhistory.org/
+Software Preservation Network. https://www.softwarepreservationnetwork.org/
 
-*Software Preservation Network (USA):*
+Yale University Library. *Software Preservation and Emulation*. Research Guide. https://guides.library.yale.edu/softwarepreservationandemulation
 
-- Software Preservation Network. https://www.softwarepreservationnetwork.org/
 
-*Emulation-as-a-Service Infrastructure (EaaSI):*
-
-- Yale University Library. *Software Preservation and Emulation*. Research Guide. https://guides.library.yale.edu/softwarepreservationandemulation
-
-## Resources for Learning to Code
-
-This lesson has equipped you to approach source code as a historian—to read it critically, to trace its transformations, and to recognize what it can and cannot tell you about its creators and contexts.
-
-For those who wish to develop basic programming literacy alongside these critical skills, several open-access resources take approaches aligned with what we have explored here.
-
-**For Humanities Researchers:**
-
-- *The Programming Historian*. Peer-reviewed tutorials designed for humanists, available in English, French, Spanish, and Portuguese. https://programminghistorian.org/
-
-- *Software Carpentry*. Workshops teaching foundational coding and data skills to researchers across disciplines. https://software-carpentry.org/
-
-- *Library Carpentry*. Coding and data skills for library and information professionals. https://librarycarpentry.org/
-
-- Walsh, Melanie. *Introduction to Cultural Analytics & Python*. Open textbook combining Python with humanities methods. https://melaniewalsh.github.io/Intro-Cultural-Analytics/
-
-- *DARIAH-Campus*. Training resources for digital arts and humanities. https://campus.dariah.eu/
-
-**Self-Paced Learning Platforms:**
-
-- *freeCodeCamp*. Project-based curriculum covering web development, Python, and data analysis. https://www.freecodecamp.org/
-
-- *The Odin Project*. Full-stack web development, entirely open source. https://www.theodinproject.com/
-
-- *Exercism*. Practice exercises in 70+ programming languages with mentorship. https://exercism.org/
-
-- *Codecademy*. Interactive lessons in multiple languages (free tier available). https://www.codecademy.com/learn/paths/computer-science-101
-
-- *Khan Academy Computing*. Visual, interactive introductions to programming concepts. https://www.khanacademy.org/computing/computer-programming
-
-- *Kaggle Learn*. Free micro-courses on Python and data science. https://www.kaggle.com/learn
-
-**University Courses (Open Access):**
-
-- *CS50: Introduction to Computer Science* (Harvard). Widely regarded introductory course, freely available. https://cs50.harvard.edu/
-
-- *MIT OpenCourseWare*. Computer science courses including the classic *Structure and Interpretation of Computer Programs*. https://ocw.mit.edu/
-
-**Documentation and References:**
-
-- *Python.org*. Official beginner's tutorial. https://docs.python.org/3/tutorial/
-
-- *MDN Web Docs* (Mozilla). Authoritative documentation for HTML, CSS, and JavaScript. https://developer.mozilla.org/
-
-- Sweigart, Al. *Automate the Boring Stuff with Python*. Practical, task-oriented introduction. https://automatetheboringstuff.com/
