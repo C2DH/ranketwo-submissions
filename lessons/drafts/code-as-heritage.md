@@ -38,7 +38,7 @@ og:
 
 [1 Understanding Digital Heritage Recognition](#1-understanding-recognition-of-source-code-as-digital-heritage)
 
-[2 Reading Code as Cultural Text](#2-reading-code-as-cultural-text)
+[2 Reading Code as Historical Source](#2-reading-code-as-historical-source)
 
 [3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories](#3-a-case-study-of-code-source-criticism---the-journey-of-the-apollo-code-preservation-heritagization-and-hidden-histories)
 
@@ -75,7 +75,7 @@ To define our object of study, consider Harold Abelson and Gerald Jay Sussman's 
 
 Since the 1950s, hundreds of [programming languages](https://en.wikipedia.org/wiki/Programming_language) have been created, each with its own syntax, design philosophy, and community of practitioners. Some languages, like [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran) and [COBOL (1959)](https://en.wikipedia.org/wiki/COBOL), emerged in specific institutional contexts—scientific computing and business administration respectively—and continue to run critical systems decades later. Others, like [Python (1991)](https://en.wikipedia.org/wiki/Python_(programming_language)), were designed with readability and accessibility in mind. This diversity means that source code must be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
 
-Computer scientist Darrell Ronald Raymond emphasizes this idea in his 1991 article "Reading source code": "the main role of source code is not a compilable entity, but a human-readable statement of intent and mechanism in the program" ([1991:3](https://dl.acm.org/doi/10.5555/962111.962113)). This also implies that code is more than written words. It is both an object and an action, simultaneously enabling and constraining activities ([Méadel and Sire 2017](https://shs.cairn.info/revue-reseaux-2017-6-page-9?lang=fr&tab=texte-integral)). Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance—becoming part of programming culture itself.
+Computer scientist Darrell Ronald Raymond emphasizes this idea in his 1991 article "Reading source code": "the main role of source code is not a compilable entity, but a human-readable statement of intent and mechanism in the program" ([1991:3](https://dl.acm.org/doi/10.5555/962111.962113)). This also implies that code is more than written words. It is both an object and an action. Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance—becoming part of programming culture itself.
 
 ![The famous "Hello, World!" program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/code-as-heritage/Hello_World_Brian_Kernighan_1978.jpg "Hello World program by Brian Kernighan")
 
@@ -167,8 +167,6 @@ Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In *Software Studies: A 
 
 Raymond, Darrell Ronald. 1991. 'Reading Source Code'. *CASCON '91: Proceedings of the 1991 Conference of the Centre for Advanced Studies on Collaborative Research*: 3–16. https://dl.acm.org/doi/10.5555/962111.962113
 
-Méadel, Cécile, and Guillaume Sire. 2017. 'Les sciences sociales orientées programmes. État des lieux et perspectives'. *Réseaux* 206 (6): 9–34. https://doi.org/10.3917/res.206.0009
-
 **Explore Online:**
 
 Rosetta Code. 'Hello World/Text'. https://rosettacode.org/wiki/Hello_world/Text — Implementations of "Hello, World!" in over 300 programming languages, documenting the cultural persistence of this convention.
@@ -249,7 +247,7 @@ What changes is where we find answers and what new questions the source itself r
 
 When approaching any code artifact, the following questions can guide your analysis. These are not sequential steps but concurrent concerns — a single element of code may illuminate several at once. This is not an exhaustive methodology but a starting point; the field of digital source criticism remains open, and specific sources may raise questions not anticipated here.
 
-**Establishing provenance and authenticity:** Who wrote this code? When was it created? Where did it originate, and how did it reach us? Sometimes, proprietary source code becomes available through unauthorized leaks. For example, in 2023, portions of Twitter's source code were leaked on GitHub, revealing aspects of their recommendation algorithm ([Yu 2023](https://www.wowebsites.com/blog/2023/04/twitter-algorithm-code-leaked-and-released-an-explanation/)).must consider.
+**Establishing provenance and authenticity:** Who wrote this code? When was it created? Where did it originate, and how did it reach us? Sometimes, proprietary source code becomes available through unauthorized leaks. For example, in 2023, portions of Twitter's source code were leaked on GitHub, revealing aspects of their recommendation algorithm ([Yu 2023](https://www.wowebsites.com/blog/2023/04/twitter-algorithm-code-leaked-and-released-an-explanation/)).
 
 **Questioning the broader context:** When and why was this code written? What problem did it address, and for what audience? Understanding the broader purpose — whether the system is a game, a scientific calculation, or a business application — is essential for guiding analysis. Consider also what technological constraints existed at the time: memory limitations, processing speed, and available hardware all influenced how programmers worked.
 
@@ -421,8 +419,6 @@ Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Dig
 
 Cox, Geoff, and Alex McLean. 2012. *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political
 
-Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
-
 #### Foundational Works in Software Studies
 
 Fuller, Matthew, ed. 2008. *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf
@@ -432,10 +428,6 @@ Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter
 Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262134018
 
 Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Literary Texts*. Chicago: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html
-
-Rushkoff, Douglas. 2010. *Program or Be Programmed: Ten Commands for a Digital Age*. New York: OR Books. https://books.google.lu/books?id=e2YCuxBjkq0C
-
-Coleman, E. Gabriella. 2018. 'The Anthropology of Hackers'. *International Journal of Advanced Computer Science and Applications* 9 (9). https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2
 
 #### Programming Language and Culture
 
@@ -654,7 +646,7 @@ The Apollo code's journey from creation to online accessibility can be mapped as
 | Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. This Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
+Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars call a "reborn digital" object: a artifact that originateda in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digitl existence ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
 
 ### Reading/viewing suggestions
 
@@ -663,6 +655,8 @@ Transmission is never neutral. Each stage enabled certain forms of access — di
 - Coding with Dee. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
 
 - Di Cosmo, Roberto. 2019. "Archiving and Referencing the Apollo Source Code." *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+
+- Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
 
 - Hamilton, Margaret. 2004. Oral history interview. Computer History Museum. https://www.youtube.com/watch?v=6bVRytYSTEk
 
@@ -683,29 +677,13 @@ Having examined code preservation challenges and historical analysis techniques,
 
 ### 4.a Software Heritage: Mission, Scope and Infrastructure - 40 minutes
 
-[Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. The initiative's publications appear in academic venues; its methods are documented for scholarly scrutiny.
-
-Think of Software Heritage as a response to an important assessment: preserving source code isn't something that can be done through individual, scattered efforts. Instead, it requires well-organized, institutional approaches ([Di Cosmo and Zacchiroli 2017](https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf)). To understand its focus, imagine a library that aims to collect all publicly available books; Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. Despite this necessary limitation, the archive has still managed to collect an impressive collection of millions of software projects and repositories.
-
-Software Heritage aims to preserve everything publicly available. This comprehensive approach is like preserving an entire ecosystem rather than just a few species. Why does this matter? Because historical significance often isn't apparent immediately. By preserving the complete landscape of software development, future researchers will have access to much richer historical evidence than they would with a more selective approach.
-
-**Technical Architecture**
-
-Software Heritage's interface is similar to a library with a special organization system designed for two key purposes: safeguarding code for future generations while making it accessible for today's researchers and developers. The platform organizes preserved code into three fundamental levels:
-
-* Source files: The individual pieces of code 
-* Commits: Snapshots of code at specific moments in time
-* Projects: Complete software repositories
-
-This three-tier organization mirrors how software development works in practice, providing stable reference points that historians and researchers can use for consistent analysis.
-
-When exploring Software Heritage, you will find search and browsing tools that open up multiple pathways for historical investigation. One limitation is that the archive lacks currently intuitive browsing capabilities, making it difficult to explore without specific search criteria in mind. If you have one, you could, for example, track how specific algorithms have evolved over decades, examine shifts in programming practices across different time periods, or map out the collaborative networks behind major software projects.
+[Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. Think of it as a library that aims to collect all publicly available books — Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. By preserving the complete landscape of software development, it ensures that future researchers will have access to much richer historical evidence than a more selective approach would allow. For a detailed introduction to navigating Software Heritage, see the Programming Historian lesson: [Préserver les logiciels de recherche](https://programminghistorian.org/fr/lecons/preserver-logiciels-recherche).
 
 ![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Software_Heritage_Apollo11_Browse.png "Software Heritage: Apollo-11 repository directory structure")
 
-**Figure 8:** The Software Heritage browse interface displaying the Apollo-11 repository, showing how the archive presents the directory structure and file organization of preserved projects. Note that this GitHub repository itself represents a transcribed and reconstructed version of the original Apollo Guidance Computer source code from the 1960s—a "reborn digital" artifact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives like Software Heritage capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
+**Figure 8:** The Software Heritage browse interface displaying the Apollo-11 repository. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
 
-What makes this approach educationally valuable is its concept of "pace layers" - different preservation methods designed to function across various time scales, from years to millennia. This layered approach helps ensure that our digital heritage remains accessible to future generations regardless of technological changes ([GitHub Archive Program 2025](https://archiveprogram.github.com/)).
+Note that the Apollo-11 repository visible here is itself a transcribed and reconstructed version of the original 1960s code — a "reborn digital" artifact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers.
 
 **Exercise: Understanding Software Heritage's Development**
 
@@ -755,35 +733,33 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 
 ### 4.b Comparative Code Preservation Approaches - 25 minutes
 
-Software Heritage represents one approach to digital preservation. To situate it within the broader field, we can compare it with initiatives that emerge from different institutional contexts and reflect different values. These different preservation strategies function similarly to how museums, libraries, and archives might each preserve cultural artifacts differently. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
+Software Heritage represents one approach to digital preservation. To situate it within the broader field, we can compare it with initiatives that emerge from different institutional contexts and reflect different values. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
 
 **GitHub Archive Program: A Corporate Initiative**
 
 The GitHub Archive Program represents a different institutional logic. GitHub, owned by Microsoft since 2018, is a commercial platform where most of the world's open-source development now takes place. The Archive Program—including the Arctic Code Vault—serves multiple purposes: genuine preservation, corporate social responsibility, and platform legitimation. This is not criticism but context: understanding *who* preserves code and *why* shapes how we interpret preservation choices.
 
-Launched in 2020, the program creates secure, long-term backups through multiple storage methods - think of it as creating several types of time capsules simultaneously. Perhaps most fascinating is the [Arctic Code Vault](https://www.youtube.com/watch?v=0v9Rwqxa8eI), housed in an abandoned mine deep within Svalbard's Arctic archipelago, where code is stored in a facility designed to last centuries.
+Launched in 2020, the program creates secure, long-term backups through multiple storage methods. Perhaps most striking is the [Arctic Code Vault](https://www.youtube.com/watch?v=0v9Rwqxa8eI), housed in an abandoned mine deep within Svalbard's Arctic archipelago, where code is stored in a facility designed to last centuries.
 
 ![GitHub Open Source Archive Box with AI-generated design](/assets/images/code-as-heritage/GitHub_Archive_Box.png "GitHub Archive Box")
 
-**Figure 9:** A museum-quality archival case designed by artist and engineer Alex Maki-Jokela for the GitHub Archive Program. The box features 3D-printed and AI-generated artwork, and contains 17,000 open-source repositories archived on hardened film designed to survive 1,000 years. The aesthetic design reflects an important principle: that preservation efforts must be valued as objects in themselves to ensure long-term commitment to heritage protection. *Credit: GitHub Archive Program, Design by Alex Maki-Jokela, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
+**Figure 9:** Archival case for the GitHub Archive Program, containing 17,000 open-source repositories archived on hardened film. Design by Alex Maki-Jokela. *Credit: GitHub Archive Program, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
 
 ![Interior of the Svalbard Global Seed Vault storage facility in the Arctic](/assets/images/code-as-heritage/Svalbard_seed_vault_IMG_8894.JPG "Svalbard Global Seed Vault entrance")
 
-**Figure 10:** The entrance to the Svalbard Global Seed Vault, an underground facility in the Arctic designed to preserve plant seeds for centuries. The GitHub Arctic Code Vault was intentionally placed near this seed vault as a conceptual parallel—both preserve humanity's most precious biological and digital heritage in a location designed to survive catastrophic changes. *Credit: Bjoertvedt, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8894.JPG)*
-
-What makes this approach educationally valuable is its concept of "pace layers" - different preservation methods designed to function across various time scales, from years to millennia. This layered approach helps ensure that our digital heritage remains accessible to future generations regardless of technological changes ([GitHub Archive Program 2025](https://archiveprogram.github.com/)).
+**Figure 10:** The Svalbard Global Seed Vault, Arctic Norway. The GitHub Arctic Code Vault is located nearby. *Credit: Bjoertvedt, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8894.JPG)*
 
 **Internet Archive Software Collection: The Pioneer Spirit**
 
-The Internet Archive, founded by Brewster Kahle in 1996, embodies the idealism of early internet culture—the belief that digital technology could democratize access to human knowledge. Its motto, "Universal Access to All Knowledge," reflects this founding vision. 
+The Internet Archive, founded by Brewster Kahle in 1996, embodies the idealism of early internet culture — the belief that digital technology could democratize access to human knowledge. Its motto, "Universal Access to All Knowledge," reflects this founding vision.
 
-While Software Heritage focuses primarily on preserving source code (the building blocks of software), the Internet Archive takes a different approach. It preserves the complete software experience by collecting not just executable programs, but also their accompanying documentation, media, and cultural artifacts that help users understand the historical context in which the software was actually used. Think of this as preserving not just a historical building, but also photographs, newspapers, and artifacts showing how people lived in and interacted with that building. 
-
-This holistic collection ranges from early personal computer applications to beloved classic arcade games, and importantly, offers something unique for hands-on learning: emulated environments where users can actively experience the software functioning as it did decades ago, rather than just passively viewing static code ([Internet Archive 2025](https://archive.org/details/software)).
+While Software Heritage focuses primarily on preserving source code, the Internet Archive preserves the complete software experience: not just executable programs, but also their accompanying documentation, media, and cultural artifacts that help users understand the historical context in which the software was actually used. This holistic collection ranges from early personal computer applications to classic arcade games, and offers emulated environments where users can actively experience the software functioning as it did decades ago ([Internet Archive 2025](https://archive.org/details/software)).
 
 ![Staff at the Internet Archive warehouse sorting physical software materials for the software collection](/assets/images/code-as-heritage/Internet_Archive_software_collection_sorting.jpg "Internet Archive software collection sorting")
 
-**Figure 11:** Archivists at the Internet Archive's warehouse in 2018 sorting physical software materials as part of the ongoing effort to preserve and digitize the software collection. This image reveals the physical labor and curatorial work involved in heritage preservation—the human effort behind digitization and archiving initiatives. *Credit: Jason Scott, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-03_Internet_Archive_software_collection_sorting.jpg)*
+**Figure 11:** Archivists at the Internet Archive's warehouse sorting physical software materials, 2018. *Credit: Jason Scott, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-03_Internet_Archive_software_collection_sorting.jpg)*
+
+This image is a reminder that heritage preservation involves physical labour and curatorial work — the human effort behind digitization and archiving initiatives that is rarely visible in the final archive.
 
 **Comparing Approaches**
 
