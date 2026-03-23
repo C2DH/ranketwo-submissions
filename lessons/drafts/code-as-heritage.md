@@ -284,7 +284,9 @@ The following table summarizes these questions as a quick reference:
 
 ### 2.b Applying Source Code Criticism — 35 minutes
 
-In Section 2.a, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
+This section puts into practice the analytical framework introduced in 2.a. You will examine two related code artifacts from the history of personal computing, applying the key analytical questions to real historical sources. The two artifacts are deliberately connected — they belong to the same program lineage — allowing you to observe how code evolves across time and what that evolution reveals historically.
+
+Previously, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
 
 > **A note before you begin:** You are encouraged to search the web at any point during this exercise to help identify the artifact and verify your hypotheses. Searching for names, dates, or technical terms you observe in the document is part of the analytical process—just as a historian might consult reference works while examining an unfamiliar source.
 
@@ -300,13 +302,13 @@ Examine the following digitized document carefully. Before reading further, spen
 
 Examine the artifact and answer the following questions:
 
-1. **Provenance and dating:** Who is credited as author? What dates appear? Where did this code originate, and how might it have reached us in this form?
+1. **Provenance and authenticity:** Who is credited as author? What dates appear? Where did this code originate, and how might it have reached us in this form?
 
-2. **Programming language context:** Look at the document header and structure. Can you identify what programming language this is?
+2. **Linguistic and cultural markers:** Look at the document header and structure. Can you identify what programming language this is?
 
-3. **Cultural markers:** Examine how credit is attributed among the people mentioned. What does the language used—its tone, its informality—reveal about early software culture and workplace dynamics?
+3. **Comments and documentation:** Examine how credit is attributed among the people mentioned. What does the language used—its tone, its informality—reveal about early software culture and workplace dynamics?
 
-4. **Material form:** What type of physical document is this? What printing technology produced it? What do the physical characteristics (paper format, margins, perforations) tell you about the technical environment of the time?
+4. **Material form and transmission:** What type of physical document is this? What printing technology produced it? What do the physical characteristics (paper format, margins, perforations) tell you about the technical environment of the time?
 
 <details>
 <summary><strong>Catch up: What is this artifact? (click to expand if you skipped the exercise)</strong></summary>
@@ -317,7 +319,7 @@ The image above is a photograph of the original source code for Microsoft BASIC,
 
 #### Artifact 2: The Snippet
 
-Now examine this second artifact. This is the source code of GW-BASIC, a version of Microsoft BASIC developed for IBM PC compatibles, dating from 1983. 
+Now examine this second artifact. This is a short excerpt — a snippet — from the source code of [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), a version of [Microsoft BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC) developed for IBM PC compatibles, dating from 1983.
 
 Though written eight years after the first artifact, this code is a direct descendant of the 1975 program—and, as you will see, it carries the memory of its origins in its comments.
 
@@ -355,7 +357,7 @@ MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
 
 #### Exercise Part 2: Comparing the Artifacts
 
-You now have two related artifacts before you: a photograph of a 1975 printout and a code file from 1983, published online in 2020.
+You now have two related artifacts before you: a photograph of a 1975 printout and a code file from 1983, published online in 2020 in a [GitHub](https://en.wikipedia.org/wiki/GitHub) repository — a platform for hosting and sharing code.
 
 1. **What changed? What stayed the same?** Compare the two artifacts. What elements appear in both? What differences do you notice in the headers, dates, or content?
 
@@ -461,19 +463,21 @@ James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Prog
 > **Learning Objectives for Section 3:**
 > Engage with the materiality, technicality, and embedded cultural references of code in aims of historical analysis
 
-On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. The AGC software represented one of the most complex programming projects of its era—and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
+On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload — yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. The AGC software represented one of the most complex programming projects of its era — and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
 
 ![The Apollo Guidance Computer (AGC) hardware module](/assets/images/code-as-heritage/Apollo_Guidance_Computer_AGC.jpg "Apollo Guidance Computer")
 
-**Figure 5:** The Apollo Guidance Computer (AGC), the hardware on which the code examined in this case study ran. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload—yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
+**Figure 5:** The Apollo Guidance Computer (AGC), 1969. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
 
-In assignment 2, we introduced analytical questions for approaching code as historical evidence—questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact. We begin with the original form in which much of this code survived: paper.
+In section 2, we introduced analytical questions for approaching code as historical evidence — questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact across three dimensions: its survival as a paper artifact, the hidden histories it conceals, and its journey from paper to digital.
 
-#### The Original Artifact: Reading the Paper Listing
+### 3.a The Original Artifact: Reading the Paper Listing
+
+The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription. Yet even when code survives, it doesn't carry everything with it — the paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project.
 
 ![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
 
-**Figure 6:** Original scanned page 731 from the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, showing the beginning of the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE. This hardcopy listing, digitised from the MIT Museum archives, represents one of the most important preserved examples of space program source code. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections*
+**Figure 6:** Page 731 of the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, 14 July 1969. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections.*
 
 This is a page from the printed source code listing for the Apollo 11 Lunar Module software. Before examining the digitised version, consider what the original paper artifact reveals:
 
@@ -487,7 +491,7 @@ This is a page from the printed source code listing for the Apollo 11 Lunar Modu
 **What is visible without technical expertise:**
 
 - The routine name at the bottom: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
-- A timestamp and program identifier in the header area
+- A timestamp — a machine-generated record of the exact time the code was compiled (here: `16:27 JULY 14, 1969`) — and a program identifier in the header area
 - Columns of abbreviated instructions and numeric codes
 
 
@@ -501,31 +505,55 @@ Examine Figure 6 carefully. Without any programming knowledge, identify:
 
 This exercise demonstrates a key principle: even without technical expertise, historians can extract significant information from code artifacts by attending to their formal properties, visible text, and material characteristics.
 
-#### What Was at Risk: Software Preservation and Archival Silences
+### 3.b Hidden Histories: Gender and Invisible Labour
 
-The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges for historical research. As James Cortada observed in his assessment of the field, "very little software from the 1960s has been preserved," characterising the history of software as "a big, black hole in the history of modern technology" ([Cortada 2002, pp. 72, 77](https://doi.org/10.1109/85.988584)). The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription.
-
-Yet even when code survives, it doesn't carry everything with it. The paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project. These silences become visible when we consider what surrounds the code but is not contained within it. As with any historical source, understanding code requires cross-referencing multiple types of evidence: institutional records, contemporary publications, material artifacts, and testimony from those involved. No single source, however rich, tells the complete story.
-
-#### The Question of Recognition: Gender and Invisible Labour
+The code artifact alone does not reveal who produced it, under what conditions, or what that labour cost. To recover those dimensions, historians need other sources — and oral history is one of the most important.
 
 ![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
 
-**Figure 7:** Margaret Hamilton in 1969, standing beside the printed source code listings she and her MIT team produced for the Apollo program's Lunar Module and Command Module. The stacks of paper—roughly Hamilton's own height—illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
+**Figure 7:** [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)), director of MIT's Software Engineering Division, beside the Apollo program's source code listings, 1969. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
 
-This photograph of [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) beside the Apollo code listings vividly illustrates the materiality of software in the 1960s. The physical bulk of the printouts is striking: these stacks, nearly as tall as Hamilton herself, represent hundreds of thousands of lines of code, produced by a team of programmers working under Hamilton's direction at MIT's Instrumentation Laboratory. 
+Margaret Hamilton directed the team at MIT's Instrumentation Laboratory that produced the Apollo software. She is also credited with coining the term "software engineering." The stacks of printed code beside her — roughly her own height — illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation.
 
-Recovering the conditions behind the code requires sources beyond the artifact itself. Hamilton's oral history interview, conducted by the Computer History Museum in 2004, offers testimony that complements the technical archive. She describes being frequently the only woman in her professional environments and recounts how her coining of the term "software engineering" was initially treated as humorous by hardware engineers before gaining acceptance. She also describes bringing her daughter to the laboratory on nights and weekends to manage the demands of work and family, and facing direct challenges from colleagues who questioned how she could work while having a child at home ([Hamilton 2004](https://www.youtube.com/watch?v=6bVRytYSTEk)). 
+**Exercise: Code and invisible labour**
 
-These details about gender dynamics, professional recognition, and the practical conditions of technical labour do not appear in the code itself. Historians of computing have documented how the programming profession became increasingly masculinised during the 1960s and 1970s. Nathan Ensmenger's research shows that while women had played significant early roles in programming, including the ENIAC programmers of the 1940s, the field's professionalisation involved constructing both a professional and a gender identity, with masculinity serving as one resource for distancing the occupation from its lower-status clerical origins ([Ensmenger 2010, pp. 236-240](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects.
+In 2004, the Computer History Museum conducted an oral history interview with Hamilton. The following excerpts are drawn directly from that transcript. Read them, then watch the interview ([Margaret Hamilton oral history, Computer History Museum, 2004](https://www.youtube.com/watch?v=6bVRytYSTEk)) to explore further.
 
-Oral history interviews with software pioneers thus constitute important sources for computing history, capturing dimensions of experience that technical documentation does not record. The [Computer History Museum](https://computerhistory.org/), [NASA History Office](https://www.nasa.gov/history/history-office/) and other institutions have conducted interviews that provide context for interpreting archival materials.
+On working in exclusively male environments:
 
-#### From Paper to Digital: Questions of Reconstruction
+> *"It was all men. All men and me."*
+
+On bringing her daughter to the laboratory to work nights and weekends, and a colleague's reaction:
+
+> *"He said how can you work here when you have a baby at home [...]. He wasn't used to having a woman there number one, and number two with a child."*
+
+On coining the term "software engineering" and how it was received:
+
+> *"The engineers thought it was funny. There's margaret again, with her software engineering. You know it was funny."*
+
+On pay inequality:
+
+> *"I found out that some men were making twice as much as women, for no reason, but excuses were given out, like, well because women get married, their husband will support them so they don't need us."*
+
+Her own framing of these experiences:
+
+> *"I didn't think of it as men and women. It wasn't fair"*
+
+Considering the excerpts above, reflect on:
+
+- What aspects of Hamilton's experience and contribution do not appear anywhere in the code itself?
+- How does her testimony complement what the paper listing (Figure 6) can tell us about the Apollo project?
+- What does this suggest about the types of sources historians must use alongside code artifacts?
+
+These details about gender dynamics, professional recognition, and the practical conditions of technical labour do not appear in the code itself. The programming profession became increasingly masculinised during the 1960s and 1970s: while women had played significant early roles in programming, the field's professionalisation involved constructing a gendered professional identity that marginalised women's contributions ([Ensmenger 2010](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). 
+
+Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects. Oral history interviews with software pioneers thus constitute essential sources for computing history, capturing dimensions of experience that no code artifact, however well preserved, can supply on its own. The [Computer History Museum](https://computerhistory.org/) and [NASA History Office](https://www.nasa.gov/history/history-office/) hold collections of such interviews that provide indispensable context for interpreting archival materials.
+
+### 3.c From Paper to Digital: Questions of Reconstruction
 
 The paper listings held at the MIT Museum are not what most people encounter today when they access the Apollo code. The version available online is a digital reconstruction: transcribed, formatted, and hosted on platforms that did not exist in 1969. For historians, this raises a familiar methodological concern: when we work with a copy or transcription rather than an original, we need to understand the chain of transmission. Who produced the version we are consulting? Under what circumstances? What transformations occurred along the way?
 
-Today, the Apollo 11 source code is accessible on GitHub. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
+Today, the Apollo 11 source code is accessible on [GitHub](https://en.wikipedia.org/wiki/GitHub) — a platform for hosting and sharing code. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
 
 **Source:** https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
 
@@ -576,21 +604,20 @@ Today, the Apollo 11 source code is accessible on GitHub. Examine the header of 
 # BURN, BABY, BURN -- MASTER IGNITION ROUTINE
 ```
 
-**Exercise Part 2: Tracing the code's journey**
+**Exercise: Tracing the code's journey**
 
-Using the header above, answer the questions posed in the previous section:
+Using the header above, answer the following questions:
 
 - Who digitised the original paper listings? Who transcribed them into text files?
 - What institution held the source material?
 - What changes were made to the files after initial transcription, and when?
 - How does the header distinguish between original 1969 content and later additions?
-
-**Markers of heritagization: what the header reveals**
+- The routine is named BURN_BABY_BURN. Based on the `##` comments in the header, where does this name come from? What does the presence of this cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming? What does it reveal about the types of sources historians need to interpret code artifacts?
 
 <details>
 <summary><strong>Understanding the Header Layers (click to expand)</strong></summary>
 
-The header is a palimpsest, i.e. a document element where different historical moments coexist, each requiring distinct analytical attention:
+The header is a palimpsest — a document where different historical moments coexist, each requiring distinct analytical attention:
 
 **Original historical content (1969):**
 - The routine name: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
@@ -608,32 +635,14 @@ The header is a palimpsest, i.e. a document element where different historical m
 - Attribution: "Onno's notes... which he got from Don Eyles"
 - The 40th anniversary gathering as source
 
-The header above uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending the file format and the programming or markup language, but this is beyond the scope of the current lesson.* 
+The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending on the file format and the programming or markup language, but this is beyond the scope of the current lesson.*
+
+The BURN_BABY_BURN routine name is not an anomaly. Software development has historically incorporated humour, wordplay, and cultural references as part of its working culture. The name traces back to the phrase used by disc jockey Magnificent Montague on Los Angeles radio station KGFJ, which became associated with the Watts uprising of August 1965 — embedding a reference that carried multiple resonances: musical intensity, social upheaval, and the literal burning of rocket fuel. Crucially, this meaning would be invisible without Don Eyles' testimony at a 2009 reunion of AGC developers — illustrating how oral history can unlock what code alone cannot reveal ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12); [Montague and Baker 2003](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)).
+
 
 </details>
 
-#### Cultural References in Technical Work: The BURN_BABY_BURN Routine
-
-The routine's name warrants attention: BURN_BABY_BURN was not a placeholder or informal label but the official identifier for the master ignition routine controlling the Lunar Module's engine during descent.
-
-**Exercise Part 3: Humour and cultural references in code**
-
-Before reading the explanation below, examine the header's account of the routine name's origin. Consider:
-
-- What does the presence of a cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming?
-- The meaning of this name would not be self-evident without Don Eyles' testimony at a 2009 reunion. What does this suggest about the types of sources historians need to interpret code artifacts?
-
-**Humour as a dimension of software culture**
-
-The BURN_BABY_BURN routine name is not an anomaly but an instance of a broader phenomenon. Software development, despite its technical demands, has historically incorporated humour, wordplay, and cultural references as part of its working culture. Recent research has begun to examine this systematically.
-
-Deepika Tiwari, Martin Monperrus, and Benoit Baudry at KTH Royal Institute of Technology studied humour in software projects through analysis of code repositories and a survey of 125 developers. Their findings argue that humour functions as a vector of developer engagement: "The worldwide collaborative effort for the creation of software is technically and socially demanding. The more engaged developers are, the more value they impart to the software they create" ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12)). Their research found cultural references ranging from film dialogue (*The Big Lebowski*) to literary allusions (*Harry Potter*) to song lyrics embedded in code across diverse projects. Significantly, the researchers note that "humor doesn't detract from the serious side of developing high-quality software"—it coexists with rigorous technical practice.
-
-The BURN_BABY_BURN case illustrates how such references can carry layered meanings. The header explains that the name "traces back to 1965 and the Los Angeles riots, and was inspired by disc jockey extraordinaire and radio station owner Magnificent Montague," who used the phrase when playing hit records on Los Angeles radio station KGFJ. The catchphrase, originally an expression of musical enthusiasm, became associated with the Watts uprising of August 1965, taking on more charged meanings. Montague later reflected on this appropriation with ambivalence, as documented in his autobiography ([Montague and Baker 2003](https://books.google.fr/books?id=tuIY84BT-JIC&printsec=frontcover&source=gbs_book_other_versions_r&redir_esc=y#v=onepage&q&f=false)). MIT programmers Peter Adler and Don Eyles chose this phrase for the master ignition routine in 1966-1967, embedding a reference that carried multiple cultural resonances: musical intensity, social upheaval, and the literal burning of rocket fuel.
-
-#### The Chain of Transmission
-
-The Apollo code's journey can be mapped as a chain of transmission, with each stage enabling certain forms of access while introducing specific transformations:
+The Apollo code's journey from creation to online accessibility can be mapped as a chain of transmission. Each stage enabled certain forms of access while introducing specific transformations:
 
 | Stage | Approximate Date | Form | What Was Preserved | What Was Transformed |
 |-------|------------------|------|-------------------|---------------------|
@@ -645,21 +654,7 @@ The Apollo code's journey can be mapped as a chain of transmission, with each st
 | Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-This table illustrates a general principle in archival theory: transmission is never neutral. Each stage enabled certain forms of access—digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators—while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. As Wolfgang Ernst has argued, digital objects "exist in constant movement," complicating any straightforward notion of an "original" ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). 
-
-#### What the Code Cannot Tell Us
-
-To conclude this case study, it is worth reflecting on what you have learned and what remains beyond the artifact's reach.
-
-The preserved Apollo code allows us to examine technical decisions, trace cultural references, and understand something of how 1960s programmers organised complex software projects. The GitHub header, with its careful documentation of provenance and added historical context, exemplifies thoughtful heritagization that aids future researchers.
-
-Yet the code alone cannot tell us how the team worked day-to-day, what alternatives were considered and rejected, or what it was like to be a woman directing a software division in the 1960s. For those questions, we need other sources: oral histories like Hamilton's interview, institutional records from MIT and NASA, contemporary technical publications, and the broader historiography of computing. The Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types.
-
-#### Synthesis
-
-This case study has traced how code becomes heritage through a series of decisions, interventions, and transformations. The Apollo software moved from working program to archived printouts to digitised images to transcribed files to online repositories—each stage preserving certain aspects while introducing others. Along the way, you have seen how code documentation captures some forms of authorship while obscuring others, how oral history complements technical archives, and how the chain of transmission shapes what historians can know about the original artifact.
-
-The Apollo code is now preserved across multiple repositories: the Virtual AGC Project at ibiblio.org, the chrislgarry/Apollo-11 GitHub repository, and Software Heritage's persistent archive. These multiple copies serve different preservation functions—accessibility, redundancy, and scholarly citation—illustrating the preservation strategies examined in Section 3.
+Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. This Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
 
 ### Reading/viewing suggestions
 
