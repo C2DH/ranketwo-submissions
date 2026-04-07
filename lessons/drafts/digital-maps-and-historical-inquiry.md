@@ -157,20 +157,23 @@ How to read a historical map? Considering the above, we need to combine traditio
 
 Consider: 
 
-1. Perspective
-  a) Mapmaker: who created the map and where 
-  b) Scope and scale: what is depicted (part of the world, world...)
-  c) Projection
-2. Audience and purpose
-  a) Utility of the map
-  b) Argument 
-3. Choices
-  a) What is represented in the map 
-  b) What is missing 
-  c) How is it represented  
-4. Knowledge and change
-  a) State of the scientific knowledge at the time of creation of the map
-  b) Available technologies to create the map
+1. **Perspective**
+   - **Mapmaker**: who created the map and where  
+   - **Scope and scale**: what is depicted (part of the world, world, etc.)  
+   - **Projection**
+
+2. **Audience and purpose**
+   - **Utility of the map**  
+   - **Argument**
+
+3. **Choices**
+   - What is represented in the map  
+   - What is missing  
+   - How is it represented  
+
+4. **Knowledge and change**
+   - **State of scientific knowledge** at the time of creation  
+   - **Available technologies** used to create the map  
 
 
 
