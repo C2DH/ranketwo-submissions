@@ -17,7 +17,8 @@ authors:
 editors: 
   - sofia-papastamkou
 reviewers:
-- tbd
+  - Lauren Coetzee
+  - Julius Wilm 
 lang: en
 unit_id: digital-maps-and-historical-inquiry
 link: /u/digital-maps-and-historical-inquiry/
