@@ -153,6 +153,44 @@ It is important to understand how the above steps apply to source criticism. Whe
 
 ### Instructions
 
+How to read a historical map? Considering the above, we need to combine traditional source criticism principles with the specificities that are inherent to the process of creation of maps. 
+
+Consider: 
+
+1. Perspective
+  a) Mapmaker: who created the map and where 
+  b) Scope and scale: what is depicted (part of the world, world...)
+  c) Projection
+2. Audience and purpose
+  a) Utility of the map
+  b) Argument 
+3. Choices
+  a) What is represented in the map 
+  b) What is missing 
+  c) How is it represented  
+4. Knowledge and change
+  a) State of the scientific knowledge at the time of creation of the map
+  b) Available technologies to create the map
+
+
+
+You can shape your own checklist as you go through this lesson by adding elements or editing the above scheme. In the end, you will have created your personal “Catalogue of Map Elements”. 
+
+![How to interpret a historical map](/assets/images/historical-map-criticism-conceptual.png "How to interpret a historical map")
+
+| **1. PERSPECTIVE** | **2. AUDIENCE & PURPOSE** |
+|-------------------|--------------------------|
+| • Mapmaker (who? where?) | • Utility (what for?) |
+| • Geography (scale? scope?) | • Argument (message?) |
+| • Projection | |
+
+| **3. CHOICES** | **4. KNOWLEDGE & CHANGE** |
+|---------------|---------------------------|
+| • What is shown? | • Scientific knowledge at the time |
+| • What is missing? | • Available technologies |
+| • How is it represented? | | 
+  
+*Editor's Note: The principles of the above interpretative grid were inspired by: Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/ In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402 These ressources are no longer available after the Choices Program stopped receive funding as of June 30, 2025, meaning that "content is not being licensed, transferred or maintained for access or classroom as of the program end date". 
 <!--Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/how-to-read-a-map.txt).**
 
 In the video, the discussant talks about map projections as one of the elements defining perspective. Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it. 
