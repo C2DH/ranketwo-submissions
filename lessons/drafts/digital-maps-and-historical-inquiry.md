@@ -189,6 +189,8 @@ You can shape your own checklist as you go through this lesson by adding element
 | • What is shown? | • Scientific knowledge at the time |
 | • What is missing? | • Available technologies |
 | • How is it represented? | | 
+
+If you wish to see how the above principles are applied to historical map analysis, watch this video analyzing a map of Africa of the 17<sup>th</sup> century: [Burns Library: “How to Read a Historical Map” 1886](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
   
 *Editor's Note: The principles of the above interpretative grid were inspired by: Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/ In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402 These ressources are no longer available after the Choices Program stopped receive funding as of June 30, 2025, meaning that "content is not being licensed, transferred or maintained for access or classroom as of the program end date". 
 <!--Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/how-to-read-a-map.txt).**
