@@ -38,7 +38,7 @@ og:
 
 [1 Understanding Digital Heritage Recognition](#1-understanding-recognition-of-source-code-as-digital-heritage)
 
-[2 Reading Code as Cultural Text](#2-reading-code-as-cultural-text)
+[2 Reading Code as Historical Source](#2-reading-code-as-historical-source)
 
 [3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories](#3-a-case-study-of-code-source-criticism---the-journey-of-the-apollo-code-preservation-heritagization-and-hidden-histories)
 
@@ -75,17 +75,24 @@ To define our object of study, consider Harold Abelson and Gerald Jay Sussman's 
 
 Since the 1950s, hundreds of [programming languages](https://en.wikipedia.org/wiki/Programming_language) have been created, each with its own syntax, design philosophy, and community of practitioners. Some languages, like [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran) and [COBOL (1959)](https://en.wikipedia.org/wiki/COBOL), emerged in specific institutional contexts—scientific computing and business administration respectively—and continue to run critical systems decades later. Others, like [Python (1991)](https://en.wikipedia.org/wiki/Python_(programming_language)), were designed with readability and accessibility in mind. This diversity means that source code must be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
 
-Computer scientist Darrell Ronald Raymond emphasizes this idea in his 1991 article "Reading source code": "the main role of source code is not a compilable entity, but a human-readable statement of intent and mechanism in the program" ([1991:3](https://dl.acm.org/doi/10.5555/962111.962113)). This also implies that code is more than written words. It is both an object and an action, simultaneously enabling and constraining activities ([Méadel and Sire 2017](https://shs.cairn.info/revue-reseaux-2017-6-page-9?lang=fr&tab=texte-integral)). Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance—becoming part of programming culture itself.
+Computer scientist Darrell Ronald Raymond emphasizes this idea in his 1991 article "Reading source code": "the main role of source code is not a compilable entity, but a human-readable statement of intent and mechanism in the program" ([1991:3](https://dl.acm.org/doi/10.5555/962111.962113)). This also implies that code is more than written words. It is both an object and an action. Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance—becoming part of programming culture itself.
 
 ![The famous "Hello, World!" program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/code-as-heritage/Hello_World_Brian_Kernighan_1978.jpg "Hello World program by Brian Kernighan")
 
-**Figure 1:** Brian Kernighan's "Hello, World!" program written in C and printed on dot-matrix computer paper, as featured in *The C Programming Language* (1978). At the time of its publication, this was simply an introductory example; it has since become the universal convention for first programs in computing education. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
+**Figure 1:** Brian Kernighan, "Hello, World!" program in C, printed on dot-matrix computer paper. Published in *The C Programming Language*, 1978. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
 
 If you have ever opened a programming tutorial, textbook, or online course, you have likely encountered "Hello, World!"—a simple program that displays these two words on the screen. This modest example has become a standard convention: when introducing any programming language, authors almost invariably begin with a "Hello, World!" program. The [Rosetta Code repository](https://rosettacode.org/wiki/Hello_world/Text) documents the historical persistence and cultural significance of this convention by collecting implementations of "Hello, World!" in over 300 programming languages, organized chronologically from early mainframe languages through contemporary ones.
 
 But where did this tradition originate? The example traces back to Brian Kernighan, who first documented it in a 1972 Bell Labs memorandum titled *A Tutorial Introduction to the Language B*. It gained widespread adoption through *The C Programming Language* (1978), co-authored by Kernighan and Dennis Ritchie, one of the most influential programming textbooks ever published ([Wikipedia: "Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)). The persistence of this convention across five decades and hundreds of programming languages illustrates that programming, like any human practice, develops shared traditions. The appearance of "Hello, World!" in contemporary Python tutorials represents direct historical lineage from Kernighan's 1972 memorandum and a form of cultural transmission preserved in code.
 
+**Explore further:**
+Examine this poster from the *Source Code Exhibition*: [OPTIMIZING THE FUTURE: the Fortran Source Code of the Latin American World Model](https://www.sourcecode-exhibition.softwareheritage.org/optimizing-the-future-the-fortran-source-code-of-the-latin-american-world-model/)
+
+The LAWM (Latin America World Model) was developed in the 1970s by a multidisciplinary Argentinian team. Its Fortran source code, preserved as a printed sheet, is both a technical artifact and a political statement. As you read the page, consider: what does this code reveal beyond its technical function? What does it tell you about the values and context of its creators?
+
 This example helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
+
+Not all source code is equally accessible. Code can be [open source](https://opensource.org/osd) or [proprietary](https://en.wikipedia.org/wiki/Proprietary_software), a distinction that fundamentally conditions who can read, analyze, and preserve it.
 
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
@@ -130,7 +137,7 @@ Take the example of the game *Jet Set Willy* ([Aycock et al. 2017](https://intar
 
 ![Original cassette tape of Jet Set Willy for the Commodore 64, showing the game label on a standard audio cassette](/assets/images/code-as-heritage/Jet_Set_Willy_Cassette.jpg "Jet Set Willy cassette tape")
 
-**Figure 2:** Original cassette tape of *Jet Set Willy* (Commodore 64 version, 1984). Image credit: Cassette scan from [Internet Archive](https://archive.org/details/uta_Jet_Set_Willy_1984_Software_Projects_387), "The Ultimate Tape Archive" collection.*  
+**Figure 2:** Original cassette tape of *Jet Set Willy* (Commodore 64 version, 1984). *Source: "The Ultimate Tape Archive" collection, [Internet Archive](https://archive.org/details/uta_Jet_Set_Willy_1984_Software_Projects_387).*  
  
 Likewise games, early web applications, mobile apps, and desktop software that fundamentally shaped our computer interactions have disappeared, taking with them vital evidence of digital culture's evolution ([Kirschenbaum and Ovenden 2014](https://www.clir.org/pubs/reports/pub149/)). This loss extends far beyond individual programs as it affects entire development ecosystems. As programming languages become obsolete and development tools disappear, the specialized knowledge of working with these particular systems gradually scatters as communities evolve and move on to newer technologies ([Shustek 2006](https://ieeexplore.ieee.org/document/4042496)). The resulting impact is both technical and cultural: we lose valuable access to the creative processes that developers used, the collaborative practices they established, and the innovative solutions they created — all of which defined significant periods in computing history.
 
@@ -159,8 +166,6 @@ Abelson, Harold, and Gerald Jay Sussman. 1996. *Structure and Interpretation of 
 Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In *Software Studies: A Lexicon*, edited by Matthew Fuller, 236–43. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262062749.003.0034
 
 Raymond, Darrell Ronald. 1991. 'Reading Source Code'. *CASCON '91: Proceedings of the 1991 Conference of the Centre for Advanced Studies on Collaborative Research*: 3–16. https://dl.acm.org/doi/10.5555/962111.962113
-
-Méadel, Cécile, and Guillaume Sire. 2017. 'Les sciences sociales orientées programmes. État des lieux et perspectives'. *Réseaux* 206 (6): 9–34. https://doi.org/10.3917/res.206.0009
 
 **Explore Online:**
 
@@ -211,22 +216,16 @@ Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_Wo
 - Internet Archive. *Jet Set Willy* (Commodore 64, 1984). Playable in browser-based emulator. https://archive.org/details/Jet_Set_Willy_1984_Software_Projects
 
 
-## 2 Reading Code as Cultural Text
+## 2 Reading Code as Historical Source
 
 > [!NOTE]  
 > **Learning Objectives for Section 2:**
 > By completing this section, you will be able to:
 > - Apply source criticism methods to code, attending simultaneously to its technical function, textual content, historical context, and archival transmission
-<!-- > - Use programming language choices, naming conventions, and code style as chronological and cultural markers
-> - Analyze comments, documentation practices, and embedded cultural references for historical and social evidence
-> - Trace how code transforms across multiple preservation stages (original creation, archival storage, digitisation, transcription, platform publication)
-> - Examine authorship, attribution, and invisible labour in software development through code artifacts and complementary sources
-> - Recognize both the possibilities and limitations of what code alone can reveal about its creation context and the necessity of triangulating multiple source types
-> - Understand code as cultural expression, including its playful, creative, and political dimensions beyond purely functional purposes -->
 
-Understanding source code as a historical source requires developing new literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing — a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
+Understanding source code as a historical source requires developing data literacy skills that bridge technical and cultural analysis. Source code is fundamentally a form of writing — a way humans communicate instructions, ideas, and solutions to both computers and other humans. Like other written forms, it bears the marks of its author's background, the conventions of its era, and its cultural context. Programming languages function similarly to human languages in that they have their own grammar, style conventions, and cultural associations that evolve across different communities and historical periods.
 
-Approaching code as a historical source does not require you to become a programmer—but it does require developing a new kind of literacy. This lesson develops that awareness without assuming prior programming experience, while recognizing that code is not simply "text in another language" but a distinctive form of human expression with its own material and logical properties.
+Approaching code as a historical source does not require you to become a programmer—but it does require developing data literacy. This lesson develops that awareness without assuming prior programming experience, while recognizing that code is not simply "text in another language" but a distinctive form of human expression with its own material and logical properties.
 
 The relationship between historical analysis and technical understanding operates at several levels:
 
@@ -236,68 +235,56 @@ The relationship between historical analysis and technical understanding operate
 
 This lesson focuses primarily on the first level while acknowledging that deeper engagement benefits from the second.
 
-### 2.a Defining a Roadmap for Source Code Criticism - 30 minutes
+### 2.a A Framework for Source Code Criticism - 30 minutes
 
 Source code has emerged as a valuable resource for humanities research, particularly in critical code studies, digital history, and science and technology studies since the early 2000s (see relevant references below). The focus is currently on "the extra-functional significance of computer source code" (Marino 2020): what code means beyond what it does. Current researches treat programming languages as forms of creative writing, examine the cultural assumptions embedded in algorithms, and investigate how software development practices reflect broader social and political contexts. These works reveal how seemingly neutral technical decisions actually reflect cultural biases, political assumptions, and aesthetic preferences. By examining code as a form of cultural expression, scholars can explore questions about power, identity, and creativity in digital environments.
 
-Every type of historical source, from medieval charters to nineteenth-century newspapers to twentieth-century film, requires adapted methods of analysis suited to its specific material and communicative properties. Code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies. 
+Every type of historical source requires adapted methods of analysis suited to its specific material and communicative properties. Code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies. 
 
 What changes is where we find answers and what new questions the source itself raises. Understanding source code as a specific kind of born-digital source helps us approach it with appropriate analytical tools. 
-
-**Self-documenting artifacts:** Code often contains its own contextual information. Comments may explain the programmer's intentions, name the author, or record the date of creation. When code is preserved through platforms like GitHub or other version control systems, the artifact includes not just the code itself but commit messages, branch histories, contributor identities, and timestamps. The "source" becomes intertwined with its documentary apparatus. This intertwining can be analytically productive. Traditional historians often lament the loss of context: who wrote this manuscript? Under what circumstances? With some code, particularly from the era of collaborative software development, contextual information may be preserved *within* the artifact itself. Version control systems and comment histories can provide contextual density that paper archives rarely offer. 
-
-However, this advantage applies unevenly to historical code. Software from the 1960s, 1970s, or 1980s typically lacks version control metadata entirely. Comments may be sparse or absent. The programmer's name may appear nowhere in the artifact. For such sources, establishing provenance requires the same external detective work familiar from traditional archives—correspondence, institutional records, oral histories, contemporary publications.
-
-**Dependency on technical infrastructure:** Code exists in a dual state: it can be read as text, but it can also be executed as a functional program. These two modes of engagement have different requirements. Reading code as text—whether on paper printouts, in archived files, or in documentation—requires no special infrastructure beyond what any textual source demands. However, understanding what code *does* when executed often requires access to the original technical environment: the hardware, operating system, compilers, and libraries for which it was written. 
-
-A program written for a 1970s mainframe will not run on a modern laptop without substantial reconstruction. Historical code survives in various forms—printed listings, magnetic tapes, optical disks, migrated files, or even photographs of screens—and each form of survival carries different implications for historical analysis. Code preserved on paper can be read but not executed. Code preserved on obsolete media may require specialized equipment to access. Code that has been migrated to modern formats may have been altered—intentionally or inadvertently—in ways that can affect its meaning. 
-
-When historians seek to understand not just what code *says* but what it *does*, they depend on reconstructed environments: emulators, virtual machines, or restored hardware. This dependency means that our access to the *functional* dimension of historical code is always mediated by preservation decisions and technical interventions—sometimes in ways that are not immediately visible.
 
 #### Key Analytical Questions for Source Code as Historical Evidence
 
 When approaching any code artifact, the following questions can guide your analysis. These are not sequential steps but concurrent concerns — a single element of code may illuminate several at once. This is not an exhaustive methodology but a starting point; the field of digital source criticism remains open, and specific sources may raise questions not anticipated here.
 
-**Establishing provenance and authenticity:** When encountering code, begin with fundamental questions of authenticity: Who wrote this code? When was it created? Where did this code originate? How did it reach us? Just as historians carefully verify the authenticity of manuscripts or documents, we must establish the credible origins of code. Sometimes, proprietary source code becomes available through unauthorized leaks. For example, in 2023, portions of Twitter's source code were leaked on GitHub, revealing aspects of their recommendation algorithm ([Yu 2023](https://www.wowebsites.com/blog/2023/04/twitter-algorithm-code-leaked-and-released-an-explanation/)). Such cases raise distinct questions about authenticity and completeness that historians must consider.
+**Establishing provenance and authenticity:** Who wrote this code? When was it created? Where did it originate, and how did it reach us? Sometimes, proprietary source code becomes available through unauthorized leaks. For example, in 2023, portions of Twitter's source code were leaked on GitHub, revealing aspects of their recommendation algorithm ([Yu 2023](https://www.wowebsites.com/blog/2023/04/twitter-algorithm-code-leaked-and-released-an-explanation/)).
 
-**Questioning the broader context:** When and why was this code written? In what environment? What problem did it address? What technological constraints existed? Can you create a technological genealogy? Understanding what a program was designed to accomplish provides essential context for interpretation. A full grasp of every technical detail is not required; nevertheless, understanding the broader purpose, such as whether the system is a game, a scientific calculation, or a business application, is essential for guiding subsequent analysis. Consider also what technological constraints existed at the time: memory limitations, processing speed, available programming languages, and hardware capabilities all influenced how programmers worked.
+**Questioning the broader context:** When and why was this code written? What problem did it address, and for what audience? Understanding the broader purpose — whether the system is a game, a scientific calculation, or a business application — is essential for guiding analysis. Consider also what technological constraints existed at the time: memory limitations, processing speed, and available hardware all influenced how programmers worked.
 
-**Dependencies and networks:** You should examine what external code a program relies on, as dependencies reveal networks of collaboration and influence. Like citations in academic papers, dependencies show how programmers built upon existing work and participated in broader development communities. The networked nature of modern software development means that seemingly isolated programs often rely on extensive external code. In 2016, a single developer removing 11 lines of code temporarily disrupted much of the Internet, revealing hidden dependencies in the software ecosystem ([Collins 2016](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)). Just as historians cross-reference multiple sources, code analysis benefits from comparing similar programs from the same period, examining related documentation, or studying the broader software ecosystem. Look for corroborating evidence in contemporary technical manuals, industry publications, or other preserved codebases.
+**Dependencies and networks:** What external code does a program rely on? Like citations in academic papers, dependencies reveal how programmers built upon existing work and participated in broader development communities. In 2016, a single developer removing 11 lines of code temporarily disrupted much of the Internet, revealing hidden dependencies in the software ecosystem ([Collins 2016](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)).
 
-**Linguistic and cultural markers:** Source code carries cultural fingerprints that reveal much about its creators and their context. However, these markers are not neutral—they reflect broader power structures. Programming languages, like human languages, are embedded in social hierarchies and subject to similar patterns of bias and discrimination.
+**Linguistic and cultural markers:** Source code carries cultural fingerprints that reveal much about its creators and their context, though these markers are not neutral — they reflect broader power structures. Most programming languages use English-based syntax, even when created by non-English speakers: [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) was developed in the Netherlands, [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) in Japan. Programming language choices are fundamentally social decisions, shaped by personal networks and team familiarity rather than purely technical considerations ([Meyerovich and Rabkin 2013](https://dl.acm.org/doi/10.1145/2509136.2509515)). To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hierarchies in Programming"](https://www.youtube.com/watch?v=kCZRauYfqvg) (approximately 20 minutes), which draws on feminist and post-colonial theory to analyze how biases about human languages appear in discussions of programming languages.
 
-Most programming languages use English-based syntax, even when created by non-English speakers. For example, [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) was developed in the Netherlands, [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) in Japan. Sociological research confirms that programming language choices are fundamentally social decisions. A 2015 Carnegie Mellon University study found that developers choose languages based primarily on personal networks, what colleagues use, and team familiarity, rather than purely technical considerations ([Meyerovich and Rabkin 2013](https://dl.acm.org/doi/10.1145/2509136.2509515)). This means the cultural and linguistic dimensions of programming communities matter for understanding how code circulates and who has access to it.
+**Code structure and style:** Code has its own "writing style." Well-structured, consistently formatted code often indicates professional settings with established coding standards; code that appears hastily written might reveal academic prototypes, emergency fixes, or situations where speed was prioritized over elegance. The programmer's background and training also leave traces — see the [MIT Coding and Comment Style guide](https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/) for an example of professional conventions.
 
-To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hierarchies in Programming"](https://www.youtube.com/watch?v=kCZRauYfqvg) (approximately 20 minutes), which draws on feminist and post-colonial theory to analyze how biases about human languages appear in discussions of programming languages.
+**Comments and documentation:** Comments are portions of text embedded within source code that the compiler or interpreter ignores during execution — the programmer's personal notes and explanations. They can document team decisions, clarify complex logic, and sometimes include personal reflections or humor. They also signal the intended audience: sparse, technical comments assume expertise, while detailed explanations target beginners ([Emadamerho-Atori 2024](https://www.altexsoft.com/blog/how-to-write-code-documentation/)).
 
-> The use of English-based keywords in programming languages like "if," "else," "for," and "while" reflects the dominance of English-speaking countries in early computing history, creating barriers for non-native English speakers. Cultural factors influence programming language design. Some languages tend toward straightforward, more explicit or verbose syntax with clear variable declarations ([Walton 2024](https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/)).
+**Political dimensions and power structures:** Code doesn't exist in a political vacuum — it reflects and shapes power relationships. Who has access to this code? What assumptions about users are embedded in its design? How does it distribute agency between users and systems? The ongoing dispute between France and India over Rafale fighter jet source code exemplifies how code embodies political power structures in defense technology ([Dasgupta 2025](https://www.india.com/business/what-is-source-code-why-is-it-crucial-for-fighter-planes-know-its-role-in-missile-integration-and-upgrades-7849472/)).
 
-**Code structure and style:** Think of code as having its own "writing style," just like how authors have different ways of organizing their paragraphs and sentences. When examining historical code, pay attention to how it's organized and formatted. This can tell you a lot about:
-
-* The development environment: Well-structured, clean code with consistent indentation and naming often indicates professional settings with established coding standards
-* The development context: Code that appears hastily written might reveal academic prototypes, emergency fixes, or situations where speed was prioritized over elegance
-* The programmer's background: Just as handwriting reveals personality traits, coding style can reflect a developer's training and experience
-
-> To better understand what "good code structure" looks like in different contexts, you can explore resources like the [MIT Coding and Comment Style guide](https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/), which explains coding conventions used in professional and academic settings.
-
-**Comments and documentation:** Think of comments as the programmer's personal notes and explanations within the code. Comments are portions of text embedded within source code that the compiler or interpreter ignores during execution. These human-readable annotations provide direct windows into thinking processes. Pay attention to how comments explain debugging approaches, clarify complex algorithms, document team decisions, and sometimes include personal reflections or humor that humanizes the technical work. Ask yourself: Is the code written for experienced technical experts or newcomers to the project? Does it include detailed comments that explain complex concepts, or assume prior knowledge? By analyzing these audience considerations, you can better understand broader issues of technological accessibility and the boundaries between different technical communities.
-
-> Code documentation reveals its intended audience through the level of explanation provided. For instance, code intended for expert JavaScript developers typically contains minimal, technical comments assuming significant prior knowledge, while code designed for beginners includes extensive explanations of basic concepts and step-by-step logic ([Emadamerho-Atori, 2024](https://www.altexsoft.com/blog/how-to-write-code-documentation/)).
-
-**Political dimensions and power structures:** Code doesn't exist in a political vacuum - it reflects and shapes power relationships. Who has access to this code? What assumptions about users are embedded in its design? How does it distribute agency between users and systems? The choice between open source and proprietary models reflects different philosophies about technological power and knowledge sharing.
-
-> The ongoing dispute between France and India over Rafale fighter jet source code exemplifies how code embodies political power structures in defense technology. India urgently seeks access to part of the source code of the Rafale, which forms the aircraft's electronic backbone ([Dasgupta, 2025](https://www.india.com/business/what-is-source-code-why-is-it-crucial-for-fighter-planes-know-its-role-in-missile-integration-and-upgrades-7849472/)). This represents a broader tension between India's "Atmanirbhar Bharat" (Self-Reliant India) initiative and Western defense contractors' business model.
-
-**What is absent or missing:** Sometimes what code *doesn't* include reveals as much about historical context as what it does. What programming practices, security measures, or accessibility features that we might expect today are missing? These gaps can highlight evolving standards and changing priorities in software development over time. Consider also absences in the historical record itself. The systematic exclusion of the six women who programmed [ENIAC](https://en.wikipedia.org/wiki/ENIAC) from historical documentation for decades demonstrates how what is missing reveals as much as what's included ([Light 1999](https://rybn.org/human_computers/articles/when_computers_were_women.pdf)). This gap in the historical record wasn't accidental but reflected broader societal attitudes that marginalized women's technical contributions, showing how the absence of documentation can be as historically significant as its presence ([MacDonald 2016](https://www.sciencealert.com/these-6-women-were-written-out-of-tech-history)).
+**What is absent or missing:** Sometimes what code *doesn't* include reveals as much about historical context as what it does. What programming practices, security measures, or accessibility features that we might expect today are missing? Consider also absences in the historical record itself. The systematic exclusion of the six women who programmed [ENIAC](https://en.wikipedia.org/wiki/ENIAC) from historical documentation for decades demonstrates how what is missing reveals as much as what's included ([Light 1999](https://rybn.org/human_computers/articles/when_computers_were_women.pdf)).
 
 ![Women programmers holding parts of early Army computers including ENIAC, EDVAC, ORDVAC, and BRLESC-I boards](/assets/images/code-as-heritage/Women_holding_parts_of_the_first_four_Army_computers.jpg "Women holding parts of the first four Army computers")
 
 **Figure 3:** Four women programmers—Patsy Simmers, Gail Taylor, Milly Beck, and Norma Stec—holding boards from early U.S. Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
 
+The following table summarizes these questions as a quick reference:
+
+| Question | What to look for |
+|---|---|
+| Provenance and authenticity | Author, date, origin, chain of transmission |
+| Broader context | Purpose, technological constraints, historical moment |
+| Dependencies and networks | External code relied upon, communities of practice |
+| Linguistic and cultural markers | Language choice, syntax conventions, accessibility |
+| Code structure and style | Formatting, organization, development environment |
+| Comments and documentation | Annotations, intended audience, working culture |
+| Political dimensions | Access conditions, embedded assumptions, power relations |
+| What is absent | Missing features, gaps in the historical record |
 
 ### 2.b Applying Source Code Criticism — 35 minutes
 
-In Section 2.a, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
+This section puts into practice the analytical framework introduced in 2.a. You will examine two related code artifacts from the history of personal computing, applying the key analytical questions to real historical sources. The two artifacts are deliberately connected — they belong to the same program lineage — allowing you to observe how code evolves across time and what that evolution reveals historically.
+
+Previously, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
 
 > **A note before you begin:** You are encouraged to search the web at any point during this exercise to help identify the artifact and verify your hypotheses. Searching for names, dates, or technical terms you observe in the document is part of the analytical process—just as a historian might consult reference works while examining an unfamiliar source.
 
@@ -313,13 +300,13 @@ Examine the following digitized document carefully. Before reading further, spen
 
 Examine the artifact and answer the following questions:
 
-1. **Provenance and dating:** Who is credited as author? What dates appear? Where did this code originate, and how might it have reached us in this form?
+1. **Provenance and authenticity:** Who is credited as author? What dates appear? Where did this code originate, and how might it have reached us in this form?
 
-2. **Programming language context:** Look at the document header and structure. Can you identify what programming language this is?
+2. **Linguistic and cultural markers:** Look at the document header and structure. Can you identify what programming language this is?
 
-3. **Cultural markers:** Examine how credit is attributed among the people mentioned. What does the language used—its tone, its informality—reveal about early software culture and workplace dynamics?
+3. **Comments and documentation:** Examine how credit is attributed among the people mentioned. What does the language used—its tone, its informality—reveal about early software culture and workplace dynamics?
 
-4. **Material form:** What type of physical document is this? What printing technology produced it? What do the physical characteristics (paper format, margins, perforations) tell you about the technical environment of the time?
+4. **Material form and transmission:** What type of physical document is this? What printing technology produced it? What do the physical characteristics (paper format, margins, perforations) tell you about the technical environment of the time?
 
 <details>
 <summary><strong>Catch up: What is this artifact? (click to expand if you skipped the exercise)</strong></summary>
@@ -330,7 +317,7 @@ The image above is a photograph of the original source code for Microsoft BASIC,
 
 #### Artifact 2: The Snippet
 
-Now examine this second artifact. This is the source code of GW-BASIC, a version of Microsoft BASIC developed for IBM PC compatibles, dating from 1983. 
+Now examine this second artifact. This is a short excerpt — a snippet — from the source code of [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), a version of [Microsoft BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC) developed for IBM PC compatibles, dating from 1983.
 
 Though written eight years after the first artifact, this code is a direct descendant of the 1975 program—and, as you will see, it carries the memory of its origins in its comments.
 
@@ -368,7 +355,7 @@ MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
 
 #### Exercise Part 2: Comparing the Artifacts
 
-You now have two related artifacts before you: a photograph of a 1975 printout and a code file from 1983, published online in 2020.
+You now have two related artifacts before you: a photograph of a 1975 printout and a code file from 1983, published online in 2020 in a [GitHub](https://en.wikipedia.org/wiki/GitHub) repository — a platform for hosting and sharing code.
 
 1. **What changed? What stayed the same?** Compare the two artifacts. What elements appear in both? What differences do you notice in the headers, dates, or content?
 
@@ -432,8 +419,6 @@ Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Dig
 
 Cox, Geoff, and Alex McLean. 2012. *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political
 
-Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
-
 #### Foundational Works in Software Studies
 
 Fuller, Matthew, ed. 2008. *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf
@@ -443,10 +428,6 @@ Mackenzie, Adrian. 2006. *Cutting Code: Software and Sociality*. New York: Peter
 Manovich, Lev. 2001. *The Language of New Media*. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262134018
 
 Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Literary Texts*. Chicago: University of Chicago Press. https://press.uchicago.edu/ucp/books/book/chicago/M/bo3622698.html
-
-Rushkoff, Douglas. 2010. *Program or Be Programmed: Ten Commands for a Digital Age*. New York: OR Books. https://books.google.lu/books?id=e2YCuxBjkq0C
-
-Coleman, E. Gabriella. 2018. 'The Anthropology of Hackers'. *International Journal of Advanced Computer Science and Applications* 9 (9). https://thesai.org/Publications/ViewPaper?Volume=9&Issue=9&Code=ijacsa&SerialNo=2
 
 #### Programming Language and Culture
 
@@ -474,19 +455,21 @@ James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Prog
 > **Learning Objectives for Section 3:**
 > Engage with the materiality, technicality, and embedded cultural references of code in aims of historical analysis
 
-On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. The AGC software represented one of the most complex programming projects of its era—and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
+On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload — yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. The AGC software represented one of the most complex programming projects of its era — and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to the artifact can reveal.
 
 ![The Apollo Guidance Computer (AGC) hardware module](/assets/images/code-as-heritage/Apollo_Guidance_Computer_AGC.jpg "Apollo Guidance Computer")
 
-**Figure 5:** The Apollo Guidance Computer (AGC), the hardware on which the code examined in this case study ran. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload—yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
+**Figure 5:** The Apollo Guidance Computer (AGC), 1969. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
 
-In assignment 2, we introduced analytical questions for approaching code as historical evidence—questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact. We begin with the original form in which much of this code survived: paper.
+In section 2, we introduced analytical questions for approaching code as historical evidence — questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete artifact across three dimensions: its survival as a paper artifact, the hidden histories it conceals, and its journey from paper to digital.
 
-#### The Original Artifact: Reading the Paper Listing
+### 3.a The Original Artifact: Reading the Paper Listing
+
+The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription. Yet even when code survives, it doesn't carry everything with it — the paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project.
 
 ![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
 
-**Figure 6:** Original scanned page 731 from the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, showing the beginning of the BURN_BABY_BURN--MASTER_IGNITION_ROUTINE. This hardcopy listing, digitised from the MIT Museum archives, represents one of the most important preserved examples of space program source code. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections*
+**Figure 6:** Page 731 of the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, 14 July 1969. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections.*
 
 This is a page from the printed source code listing for the Apollo 11 Lunar Module software. Before examining the digitised version, consider what the original paper artifact reveals:
 
@@ -500,7 +483,7 @@ This is a page from the printed source code listing for the Apollo 11 Lunar Modu
 **What is visible without technical expertise:**
 
 - The routine name at the bottom: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
-- A timestamp and program identifier in the header area
+- A timestamp — a machine-generated record of the exact time the code was compiled (here: `16:27 JULY 14, 1969`) — and a program identifier in the header area
 - Columns of abbreviated instructions and numeric codes
 
 
@@ -514,31 +497,55 @@ Examine Figure 6 carefully. Without any programming knowledge, identify:
 
 This exercise demonstrates a key principle: even without technical expertise, historians can extract significant information from code artifacts by attending to their formal properties, visible text, and material characteristics.
 
-#### What Was at Risk: Software Preservation and Archival Silences
+### 3.b Hidden Histories: Gender and Invisible Labour
 
-The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges for historical research. As James Cortada observed in his assessment of the field, "very little software from the 1960s has been preserved," characterising the history of software as "a big, black hole in the history of modern technology" ([Cortada 2002, pp. 72, 77](https://doi.org/10.1109/85.988584)). The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription.
-
-Yet even when code survives, it doesn't carry everything with it. The paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project. These silences become visible when we consider what surrounds the code but is not contained within it. As with any historical source, understanding code requires cross-referencing multiple types of evidence: institutional records, contemporary publications, material artifacts, and testimony from those involved. No single source, however rich, tells the complete story.
-
-#### The Question of Recognition: Gender and Invisible Labour
+The code artifact alone does not reveal who produced it, under what conditions, or what that labour cost. To recover those dimensions, historians need other sources — and oral history is one of the most important.
 
 ![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
 
-**Figure 7:** Margaret Hamilton in 1969, standing beside the printed source code listings she and her MIT team produced for the Apollo program's Lunar Module and Command Module. The stacks of paper—roughly Hamilton's own height—illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
+**Figure 7:** [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)), director of MIT's Software Engineering Division, beside the Apollo program's source code listings, 1969. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
 
-This photograph of [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)) beside the Apollo code listings vividly illustrates the materiality of software in the 1960s. The physical bulk of the printouts is striking: these stacks, nearly as tall as Hamilton herself, represent hundreds of thousands of lines of code, produced by a team of programmers working under Hamilton's direction at MIT's Instrumentation Laboratory. 
+Margaret Hamilton directed the team at MIT's Instrumentation Laboratory that produced the Apollo software. She is also credited with coining the term "software engineering." The stacks of printed code beside her — roughly her own height — illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation.
 
-Recovering the conditions behind the code requires sources beyond the artifact itself. Hamilton's oral history interview, conducted by the Computer History Museum in 2004, offers testimony that complements the technical archive. She describes being frequently the only woman in her professional environments and recounts how her coining of the term "software engineering" was initially treated as humorous by hardware engineers before gaining acceptance. She also describes bringing her daughter to the laboratory on nights and weekends to manage the demands of work and family, and facing direct challenges from colleagues who questioned how she could work while having a child at home ([Hamilton 2004](https://www.youtube.com/watch?v=6bVRytYSTEk)). 
+**Exercise: Code and invisible labour**
 
-These details about gender dynamics, professional recognition, and the practical conditions of technical labour do not appear in the code itself. Historians of computing have documented how the programming profession became increasingly masculinised during the 1960s and 1970s. Nathan Ensmenger's research shows that while women had played significant early roles in programming, including the ENIAC programmers of the 1940s, the field's professionalisation involved constructing both a professional and a gender identity, with masculinity serving as one resource for distancing the occupation from its lower-status clerical origins ([Ensmenger 2010, pp. 236-240](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects.
+In 2004, the Computer History Museum conducted an oral history interview with Hamilton. The following excerpts are drawn directly from that transcript. Read them, then watch the interview ([Margaret Hamilton oral history, Computer History Museum, 2004](https://www.youtube.com/watch?v=6bVRytYSTEk)) to explore further.
 
-Oral history interviews with software pioneers thus constitute important sources for computing history, capturing dimensions of experience that technical documentation does not record. The [Computer History Museum](https://computerhistory.org/), [NASA History Office](https://www.nasa.gov/history/history-office/) and other institutions have conducted interviews that provide context for interpreting archival materials.
+On working in exclusively male environments:
 
-#### From Paper to Digital: Questions of Reconstruction
+> *"It was all men. All men and me."*
+
+On bringing her daughter to the laboratory to work nights and weekends, and a colleague's reaction:
+
+> *"He said how can you work here when you have a baby at home [...]. He wasn't used to having a woman there number one, and number two with a child."*
+
+On coining the term "software engineering" and how it was received:
+
+> *"The engineers thought it was funny. There's margaret again, with her software engineering. You know it was funny."*
+
+On pay inequality:
+
+> *"I found out that some men were making twice as much as women, for no reason, but excuses were given out, like, well because women get married, their husband will support them so they don't need us."*
+
+Her own framing of these experiences:
+
+> *"I didn't think of it as men and women. It wasn't fair"*
+
+Considering the excerpts above, reflect on:
+
+- What aspects of Hamilton's experience and contribution do not appear anywhere in the code itself?
+- How does her testimony complement what the paper listing (Figure 6) can tell us about the Apollo project?
+- What does this suggest about the types of sources historians must use alongside code artifacts?
+
+These details about gender dynamics, professional recognition, and the practical conditions of technical labour do not appear in the code itself. The programming profession became increasingly masculinised during the 1960s and 1970s: while women had played significant early roles in programming, the field's professionalisation involved constructing a gendered professional identity that marginalised women's contributions ([Ensmenger 2010](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). 
+
+Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects. Oral history interviews with software pioneers thus constitute essential sources for computing history, capturing dimensions of experience that no code artifact, however well preserved, can supply on its own. The [Computer History Museum](https://computerhistory.org/) and [NASA History Office](https://www.nasa.gov/history/history-office/) hold collections of such interviews that provide indispensable context for interpreting archival materials.
+
+### 3.c From Paper to Digital: Questions of Reconstruction
 
 The paper listings held at the MIT Museum are not what most people encounter today when they access the Apollo code. The version available online is a digital reconstruction: transcribed, formatted, and hosted on platforms that did not exist in 1969. For historians, this raises a familiar methodological concern: when we work with a copy or transcription rather than an original, we need to understand the chain of transmission. Who produced the version we are consulting? Under what circumstances? What transformations occurred along the way?
 
-Today, the Apollo 11 source code is accessible on GitHub. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
+Today, the Apollo 11 source code is accessible on [GitHub](https://en.wikipedia.org/wiki/GitHub) — a platform for hosting and sharing code. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
 
 **Source:** https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
 
@@ -589,21 +596,20 @@ Today, the Apollo 11 source code is accessible on GitHub. Examine the header of 
 # BURN, BABY, BURN -- MASTER IGNITION ROUTINE
 ```
 
-**Exercise Part 2: Tracing the code's journey**
+**Exercise: Tracing the code's journey**
 
-Using the header above, answer the questions posed in the previous section:
+Using the header above, answer the following questions:
 
 - Who digitised the original paper listings? Who transcribed them into text files?
 - What institution held the source material?
 - What changes were made to the files after initial transcription, and when?
 - How does the header distinguish between original 1969 content and later additions?
-
-**Markers of heritagization: what the header reveals**
+- The routine is named BURN_BABY_BURN. Based on the `##` comments in the header, where does this name come from? What does the presence of this cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming? What does it reveal about the types of sources historians need to interpret code artifacts?
 
 <details>
 <summary><strong>Understanding the Header Layers (click to expand)</strong></summary>
 
-The header is a palimpsest, i.e. a document element where different historical moments coexist, each requiring distinct analytical attention:
+The header is a palimpsest — a document where different historical moments coexist, each requiring distinct analytical attention:
 
 **Original historical content (1969):**
 - The routine name: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
@@ -621,32 +627,14 @@ The header is a palimpsest, i.e. a document element where different historical m
 - Attribution: "Onno's notes... which he got from Don Eyles"
 - The 40th anniversary gathering as source
 
-The header above uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending the file format and the programming or markup language, but this is beyond the scope of the current lesson.* 
+The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending on the file format and the programming or markup language, but this is beyond the scope of the current lesson.*
+
+The BURN_BABY_BURN routine name is not an anomaly. Software development has historically incorporated humour, wordplay, and cultural references as part of its working culture. The name traces back to the phrase used by disc jockey Magnificent Montague on Los Angeles radio station KGFJ, which became associated with the Watts uprising of August 1965 — embedding a reference that carried multiple resonances: musical intensity, social upheaval, and the literal burning of rocket fuel. Crucially, this meaning would be invisible without Don Eyles' testimony at a 2009 reunion of AGC developers — illustrating how oral history can unlock what code alone cannot reveal ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12); [Montague and Baker 2003](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)).
+
 
 </details>
 
-#### Cultural References in Technical Work: The BURN_BABY_BURN Routine
-
-The routine's name warrants attention: BURN_BABY_BURN was not a placeholder or informal label but the official identifier for the master ignition routine controlling the Lunar Module's engine during descent.
-
-**Exercise Part 3: Humour and cultural references in code**
-
-Before reading the explanation below, examine the header's account of the routine name's origin. Consider:
-
-- What does the presence of a cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming?
-- The meaning of this name would not be self-evident without Don Eyles' testimony at a 2009 reunion. What does this suggest about the types of sources historians need to interpret code artifacts?
-
-**Humour as a dimension of software culture**
-
-The BURN_BABY_BURN routine name is not an anomaly but an instance of a broader phenomenon. Software development, despite its technical demands, has historically incorporated humour, wordplay, and cultural references as part of its working culture. Recent research has begun to examine this systematically.
-
-Deepika Tiwari, Martin Monperrus, and Benoit Baudry at KTH Royal Institute of Technology studied humour in software projects through analysis of code repositories and a survey of 125 developers. Their findings argue that humour functions as a vector of developer engagement: "The worldwide collaborative effort for the creation of software is technically and socially demanding. The more engaged developers are, the more value they impart to the software they create" ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12)). Their research found cultural references ranging from film dialogue (*The Big Lebowski*) to literary allusions (*Harry Potter*) to song lyrics embedded in code across diverse projects. Significantly, the researchers note that "humor doesn't detract from the serious side of developing high-quality software"—it coexists with rigorous technical practice.
-
-The BURN_BABY_BURN case illustrates how such references can carry layered meanings. The header explains that the name "traces back to 1965 and the Los Angeles riots, and was inspired by disc jockey extraordinaire and radio station owner Magnificent Montague," who used the phrase when playing hit records on Los Angeles radio station KGFJ. The catchphrase, originally an expression of musical enthusiasm, became associated with the Watts uprising of August 1965, taking on more charged meanings. Montague later reflected on this appropriation with ambivalence, as documented in his autobiography ([Montague and Baker 2003](https://books.google.fr/books?id=tuIY84BT-JIC&printsec=frontcover&source=gbs_book_other_versions_r&redir_esc=y#v=onepage&q&f=false)). MIT programmers Peter Adler and Don Eyles chose this phrase for the master ignition routine in 1966-1967, embedding a reference that carried multiple cultural resonances: musical intensity, social upheaval, and the literal burning of rocket fuel.
-
-#### The Chain of Transmission
-
-The Apollo code's journey can be mapped as a chain of transmission, with each stage enabling certain forms of access while introducing specific transformations:
+The Apollo code's journey from creation to online accessibility can be mapped as a chain of transmission. Each stage enabled certain forms of access while introducing specific transformations:
 
 | Stage | Approximate Date | Form | What Was Preserved | What Was Transformed |
 |-------|------------------|------|-------------------|---------------------|
@@ -658,21 +646,7 @@ The Apollo code's journey can be mapped as a chain of transmission, with each st
 | Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-This table illustrates a general principle in archival theory: transmission is never neutral. Each stage enabled certain forms of access—digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators—while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. As Wolfgang Ernst has argued, digital objects "exist in constant movement," complicating any straightforward notion of an "original" ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). 
-
-#### What the Code Cannot Tell Us
-
-To conclude this case study, it is worth reflecting on what you have learned and what remains beyond the artifact's reach.
-
-The preserved Apollo code allows us to examine technical decisions, trace cultural references, and understand something of how 1960s programmers organised complex software projects. The GitHub header, with its careful documentation of provenance and added historical context, exemplifies thoughtful heritagization that aids future researchers.
-
-Yet the code alone cannot tell us how the team worked day-to-day, what alternatives were considered and rejected, or what it was like to be a woman directing a software division in the 1960s. For those questions, we need other sources: oral histories like Hamilton's interview, institutional records from MIT and NASA, contemporary technical publications, and the broader historiography of computing. The Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types.
-
-#### Synthesis
-
-This case study has traced how code becomes heritage through a series of decisions, interventions, and transformations. The Apollo software moved from working program to archived printouts to digitised images to transcribed files to online repositories—each stage preserving certain aspects while introducing others. Along the way, you have seen how code documentation captures some forms of authorship while obscuring others, how oral history complements technical archives, and how the chain of transmission shapes what historians can know about the original artifact.
-
-The Apollo code is now preserved across multiple repositories: the Virtual AGC Project at ibiblio.org, the chrislgarry/Apollo-11 GitHub repository, and Software Heritage's persistent archive. These multiple copies serve different preservation functions—accessibility, redundancy, and scholarly citation—illustrating the preservation strategies examined in Section 3.
+Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars call a "reborn digital" object: a artifact that originateda in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digitl existence ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
 
 ### Reading/viewing suggestions
 
@@ -681,6 +655,8 @@ The Apollo code is now preserved across multiple repositories: the Virtual AGC P
 - Coding with Dee. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
 
 - Di Cosmo, Roberto. 2019. "Archiving and Referencing the Apollo Source Code." *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+
+- Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
 
 - Hamilton, Margaret. 2004. Oral history interview. Computer History Museum. https://www.youtube.com/watch?v=6bVRytYSTEk
 
@@ -701,29 +677,13 @@ Having examined code preservation challenges and historical analysis techniques,
 
 ### 4.a Software Heritage: Mission, Scope and Infrastructure - 40 minutes
 
-[Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. The initiative's publications appear in academic venues; its methods are documented for scholarly scrutiny.
-
-Think of Software Heritage as a response to an important assessment: preserving source code isn't something that can be done through individual, scattered efforts. Instead, it requires well-organized, institutional approaches ([Di Cosmo and Zacchiroli 2017](https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf)). To understand its focus, imagine a library that aims to collect all publicly available books; Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. Despite this necessary limitation, the archive has still managed to collect an impressive collection of millions of software projects and repositories.
-
-Software Heritage aims to preserve everything publicly available. This comprehensive approach is like preserving an entire ecosystem rather than just a few species. Why does this matter? Because historical significance often isn't apparent immediately. By preserving the complete landscape of software development, future researchers will have access to much richer historical evidence than they would with a more selective approach.
-
-**Technical Architecture**
-
-Software Heritage's interface is similar to a library with a special organization system designed for two key purposes: safeguarding code for future generations while making it accessible for today's researchers and developers. The platform organizes preserved code into three fundamental levels:
-
-* Source files: The individual pieces of code 
-* Commits: Snapshots of code at specific moments in time
-* Projects: Complete software repositories
-
-This three-tier organization mirrors how software development works in practice, providing stable reference points that historians and researchers can use for consistent analysis.
-
-When exploring Software Heritage, you will find search and browsing tools that open up multiple pathways for historical investigation. One limitation is that the archive lacks currently intuitive browsing capabilities, making it difficult to explore without specific search criteria in mind. If you have one, you could, for example, track how specific algorithms have evolved over decades, examine shifts in programming practices across different time periods, or map out the collaborative networks behind major software projects.
+[Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. Think of it as a library that aims to collect all publicly available books — Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. By preserving the complete landscape of software development, it ensures that future researchers will have access to much richer historical evidence than a more selective approach would allow. For a detailed introduction to navigating Software Heritage, see the Programming Historian lesson: [Préserver les logiciels de recherche](https://programminghistorian.org/fr/lecons/preserver-logiciels-recherche).
 
 ![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Software_Heritage_Apollo11_Browse.png "Software Heritage: Apollo-11 repository directory structure")
 
-**Figure 8:** The Software Heritage browse interface displaying the Apollo-11 repository, showing how the archive presents the directory structure and file organization of preserved projects. Note that this GitHub repository itself represents a transcribed and reconstructed version of the original Apollo Guidance Computer source code from the 1960s—a "reborn digital" artifact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives like Software Heritage capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
+**Figure 8:** The Software Heritage browse interface displaying the Apollo-11 repository. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
 
-What makes this approach educationally valuable is its concept of "pace layers" - different preservation methods designed to function across various time scales, from years to millennia. This layered approach helps ensure that our digital heritage remains accessible to future generations regardless of technological changes ([GitHub Archive Program 2025](https://archiveprogram.github.com/)).
+Note that the Apollo-11 repository visible here is itself a transcribed and reconstructed version of the original 1960s code — a "reborn digital" artifact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers.
 
 **Exercise: Understanding Software Heritage's Development**
 
@@ -773,35 +733,33 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 
 ### 4.b Comparative Code Preservation Approaches - 25 minutes
 
-Software Heritage represents one approach to digital preservation. To situate it within the broader field, we can compare it with initiatives that emerge from different institutional contexts and reflect different values. These different preservation strategies function similarly to how museums, libraries, and archives might each preserve cultural artifacts differently. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
+Software Heritage represents one approach to digital preservation. To situate it within the broader field, we can compare it with initiatives that emerge from different institutional contexts and reflect different values. Each approach has unique strengths and limitations that reflect their specific preservation goals and institutional missions.
 
 **GitHub Archive Program: A Corporate Initiative**
 
 The GitHub Archive Program represents a different institutional logic. GitHub, owned by Microsoft since 2018, is a commercial platform where most of the world's open-source development now takes place. The Archive Program—including the Arctic Code Vault—serves multiple purposes: genuine preservation, corporate social responsibility, and platform legitimation. This is not criticism but context: understanding *who* preserves code and *why* shapes how we interpret preservation choices.
 
-Launched in 2020, the program creates secure, long-term backups through multiple storage methods - think of it as creating several types of time capsules simultaneously. Perhaps most fascinating is the [Arctic Code Vault](https://www.youtube.com/watch?v=0v9Rwqxa8eI), housed in an abandoned mine deep within Svalbard's Arctic archipelago, where code is stored in a facility designed to last centuries.
+Launched in 2020, the program creates secure, long-term backups through multiple storage methods. Perhaps most striking is the [Arctic Code Vault](https://www.youtube.com/watch?v=0v9Rwqxa8eI), housed in an abandoned mine deep within Svalbard's Arctic archipelago, where code is stored in a facility designed to last centuries.
 
 ![GitHub Open Source Archive Box with AI-generated design](/assets/images/code-as-heritage/GitHub_Archive_Box.png "GitHub Archive Box")
 
-**Figure 9:** A museum-quality archival case designed by artist and engineer Alex Maki-Jokela for the GitHub Archive Program. The box features 3D-printed and AI-generated artwork, and contains 17,000 open-source repositories archived on hardened film designed to survive 1,000 years. The aesthetic design reflects an important principle: that preservation efforts must be valued as objects in themselves to ensure long-term commitment to heritage protection. *Credit: GitHub Archive Program, Design by Alex Maki-Jokela, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
+**Figure 9:** Archival case for the GitHub Archive Program, containing 17,000 open-source repositories archived on hardened film. Design by Alex Maki-Jokela. *Credit: GitHub Archive Program, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
 
 ![Interior of the Svalbard Global Seed Vault storage facility in the Arctic](/assets/images/code-as-heritage/Svalbard_seed_vault_IMG_8894.JPG "Svalbard Global Seed Vault entrance")
 
-**Figure 10:** The entrance to the Svalbard Global Seed Vault, an underground facility in the Arctic designed to preserve plant seeds for centuries. The GitHub Arctic Code Vault was intentionally placed near this seed vault as a conceptual parallel—both preserve humanity's most precious biological and digital heritage in a location designed to survive catastrophic changes. *Credit: Bjoertvedt, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8894.JPG)*
-
-What makes this approach educationally valuable is its concept of "pace layers" - different preservation methods designed to function across various time scales, from years to millennia. This layered approach helps ensure that our digital heritage remains accessible to future generations regardless of technological changes ([GitHub Archive Program 2025](https://archiveprogram.github.com/)).
+**Figure 10:** The Svalbard Global Seed Vault, Arctic Norway. The GitHub Arctic Code Vault is located nearby. *Credit: Bjoertvedt, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault_IMG_8894.JPG)*
 
 **Internet Archive Software Collection: The Pioneer Spirit**
 
-The Internet Archive, founded by Brewster Kahle in 1996, embodies the idealism of early internet culture—the belief that digital technology could democratize access to human knowledge. Its motto, "Universal Access to All Knowledge," reflects this founding vision. 
+The Internet Archive, founded by Brewster Kahle in 1996, embodies the idealism of early internet culture — the belief that digital technology could democratize access to human knowledge. Its motto, "Universal Access to All Knowledge," reflects this founding vision.
 
-While Software Heritage focuses primarily on preserving source code (the building blocks of software), the Internet Archive takes a different approach. It preserves the complete software experience by collecting not just executable programs, but also their accompanying documentation, media, and cultural artifacts that help users understand the historical context in which the software was actually used. Think of this as preserving not just a historical building, but also photographs, newspapers, and artifacts showing how people lived in and interacted with that building. 
-
-This holistic collection ranges from early personal computer applications to beloved classic arcade games, and importantly, offers something unique for hands-on learning: emulated environments where users can actively experience the software functioning as it did decades ago, rather than just passively viewing static code ([Internet Archive 2025](https://archive.org/details/software)).
+While Software Heritage focuses primarily on preserving source code, the Internet Archive preserves the complete software experience: not just executable programs, but also their accompanying documentation, media, and cultural artifacts that help users understand the historical context in which the software was actually used. This holistic collection ranges from early personal computer applications to classic arcade games, and offers emulated environments where users can actively experience the software functioning as it did decades ago ([Internet Archive 2025](https://archive.org/details/software)).
 
 ![Staff at the Internet Archive warehouse sorting physical software materials for the software collection](/assets/images/code-as-heritage/Internet_Archive_software_collection_sorting.jpg "Internet Archive software collection sorting")
 
-**Figure 11:** Archivists at the Internet Archive's warehouse in 2018 sorting physical software materials as part of the ongoing effort to preserve and digitize the software collection. This image reveals the physical labor and curatorial work involved in heritage preservation—the human effort behind digitization and archiving initiatives. *Credit: Jason Scott, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-03_Internet_Archive_software_collection_sorting.jpg)*
+**Figure 11:** Archivists at the Internet Archive's warehouse sorting physical software materials, 2018. *Credit: Jason Scott, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018-03_Internet_Archive_software_collection_sorting.jpg)*
+
+This image is a reminder that heritage preservation involves physical labour and curatorial work — the human effort behind digitization and archiving initiatives that is rarely visible in the final archive.
 
 **Comparing Approaches**
 
