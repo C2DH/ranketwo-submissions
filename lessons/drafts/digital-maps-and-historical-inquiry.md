@@ -178,17 +178,13 @@ You can shape your own checklist as you go through this lesson by adding element
 
 ![How to interpret a historical map](/assets/images/maps-as-historical-sources/historical-map-criticism-conceptual.png "How to interpret a historical map")
 
-| **1. PERSPECTIVE** | **2. AUDIENCE & PURPOSE** |
-|-------------------|--------------------------|
-| • Mapmaker (who? where?) | • Utility (what for?) |
-| • Geography (scale? scope?) | • Argument (message?) |
-| • Projection | |
 
-| **3. CHOICES** | **4. KNOWLEDGE & CHANGE** |
-|---------------|---------------------------|
-| • What is shown? | • Scientific knowledge at the time |
-| • What is missing? | • Available technologies |
-| • How is it represented? | | 
+| **1. PERSPECTIVE** | **2. AUDIENCE & PURPOSE** | **3. CHOICES** | **4. KNOWLEDGE & CHANGE** |
+|-------------------|--------------------------|----------------|---------------------------|
+| • Mapmaker (who? where?) | • Utility (what for?) | • What is shown? | • Scientific knowledge at the time |
+| • Geography (scope?) | • Argument (message?) | • What is missing? | • Available technologies |
+| • Projection |  | • How is it represented? |  |
+
 
 If you wish to see how the above principles are applied to historical map analysis, watch this video analyzing a map of Africa of the 17<sup>th</sup> century: [Burns Library: “How to Read a Historical Map” 1886](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
   
