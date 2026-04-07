@@ -149,23 +149,29 @@ In principle, all maps are thematic. It is possible to distinguish between maps 
 9.	Defining a layout 
 10.	Being conscious of visual hierarchy
 
-It is important to understand how the above steps apply to source criticism. When analyzing maps as historical sources, we start with the fundamental questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely. We should keep in mind that the authors, cartographers, and editors (in short: the creators) of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
+It is important to understand how the above steps apply to source criticism. When analyzing maps as historical sources, we start with the fundamental questions of: Who produced the map, and when? To what purpose, and for whom? What is the content of the map? How is the map content presented? Some of these questions can be answered with the help of descriptive information on maps (as in 1.b), of information contained in other sources, and through studying the maps' content closely. We should keep in mind that the creators, i.e. the authors, cartographers, and editors, of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbolism and styles developed over centuries and especially since the 19th century. Therefore, maps develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorizing, systematizing, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted on them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area of space that can be seen on a map and the allocation of centres and peripheral locations are hereby connected.
 
 ### Instructions
 
-Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/how-to-read-a-map.txt).**
+<!--Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/how-to-read-a-map.txt).**
 
 In the video, the discussant talks about map projections as one of the elements defining perspective. Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it. 
 
-If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01). 
+If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01).--> 
 
-### 2.a Playing with perspective and distortion
+
+
+### 2.a Playing with perspective and distortion - 20 minutes
 
 *Learning outcome: hands-on experience to understand map projection and its effect on the visualization of space*
 
+To understand what a map projection is and how distortion is inherent to it, please read [the introduction of the Wikipedia notice](https://en.wikipedia.org/wiki/Map_projection). 
+
+Then watch the 6-minute video: [Why all world maps are wrong](https://youtu.be/kIID5FDi2JQ) 
+
 Play with different map projections. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
 
-Continue further down the page and read the text below the illustration to learn more about projections. 
+To learn more about projections, if you wish, you may continue reading the Wikipedia article. You can also parse the [list of projections](https://en.wikipedia.org/wiki/List_of_map_projections#) to get familiar with the variety of the existing projections. 
 
 ### 2.b Comparing perspectives
 
