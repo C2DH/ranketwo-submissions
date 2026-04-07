@@ -176,7 +176,7 @@ Consider:
 
 You can shape your own checklist as you go through this lesson by adding elements or editing the above scheme. In the end, you will have created your personal “Catalogue of Map Elements”. 
 
-![How to interpret a historical map](/assets/images/historical-map-criticism-conceptual.png "How to interpret a historical map")
+![How to interpret a historical map](/assets/images/maps-as-historical-sources/historical-map-criticism-conceptual.png "How to interpret a historical map")
 
 | **1. PERSPECTIVE** | **2. AUDIENCE & PURPOSE** |
 |-------------------|--------------------------|
