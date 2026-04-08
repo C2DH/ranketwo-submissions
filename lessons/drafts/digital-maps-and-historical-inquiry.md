@@ -551,6 +551,17 @@ Browse the resources available on the website [The Historical GIS Research Netwo
 
 ### Reading/ viewing suggestions of: Datasets as maps: exploring historical Geographical Information Systems (GIS) 
 
+*On GIS historical criticism*
+**Wilm, Julius (April 13, 2023). Layering in GIS as a Method of Historical Deconstruction and Source Criticism. *TRAFO – Blog for Transregional Research*. DOI: [https://doi.org/10.58079/ut6o](https://doi.org/10.58079/ut6o) Retrieved 28 May 2025** 
+
+*Historical projects using GIS*
+
+Julius Wilm, Robert K. Nelson, and Justin Madron, “Homesteading,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed April 7, 2026, [https://dsl.richmond.edu/panorama/homesteading/](https://dsl.richmond.edu/panorama/homesteading/)
+
+Julius Wilm. Land Acquisition and Marginalization in the US West and South, 1863-1934. *History, GIS and US Studies* website https://juliuswilm.com/index.html [https://juliuswilm.com/projects.html](https://juliuswilm.com/projects.html)
+
+Land Acquisition and Dispossession. Mapping the Homestead Act, 1863-1912. [https://dsl.richmond.edu/panorama/homesteading/map/](https://dsl.richmond.edu/panorama/homesteading/map/)
+
 The European public service channel Arte has a program called “Mapping the World”, where maps take center stage to explain geopolitical events, past and present. Scan through the episode that shows different ways data is visualized and mapped and ask yourself what kind of information these maps communicate and to what effect:
 
 [Mapping the World. Rising Sea Levels: A Global Issue](https://www.arte.tv/en/videos/119961-011-A/mapping-the-world/) (12min16)
@@ -566,8 +577,7 @@ Hafen, Konrad. QGIS Tutorial for Beginners. November 11, 2021 Available at: [htt
 
 Geospatial School. QGIS for Beginners. YouTube Video. 26 January 2021. 50:40 minutes. [https://youtu.be/Eg4_duqH5Q4](https://youtu.be/Eg4_duqH5Q4){:target="_blank"} 
 
-*On GIS historical criticism*
-**Wilm, Julius (April 13, 2023). Layering in GIS as a Method of Historical Deconstruction and Source Criticism. *TRAFO – Blog for Transregional Research*. DOI: [https://doi.org/10.58079/ut6o](https://doi.org/10.58079/ut6o) Retrieved 28 May 2025** 
+
 
 <!--Keep your eyes open when you next read a newspaper and look out for maps that are used to depict data (e.g. movements of migration, war reports, climate and weather reports, trade routes, etc.).--> 
 
