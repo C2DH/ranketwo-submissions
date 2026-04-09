@@ -458,21 +458,21 @@ By Eliane Schmid
 
 GIS ≠ Maps. A [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) is a software that allows us to display data on a [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) area (this means we have a digital map encoded with [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system) ==> we have a map, created digitally, where the area that it represents is attached to geographic coordinates e.g. its exact geographic positions on earth represented mathematically) for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
 
-GIS allows the layering of information. **One could think of it as transparent sheets put on top of each other and held by a digital map: one of them showing roads, another rivers, another flagging the exact places where battles happened a given year. Each "layer" contains different types of data that you can turn on or off to see patterns and connections.** As historians, we can layer different historical sources **e.g. census data, trade routes, or historical events** and analyze spatial change over time **or discover connections that aren't obvious when looking at other types of sources.** 
+GIS allows the layering of information. **Imagine transparent sheets laid on top of each other: the first layer shows a base map, the next one may depict roads, another rivers, and yet another marks locations specific historical events. Each layer contains different types of data that you can turn on and off to see patterns and connections.** As historians, we can layer different historical sources **e.g. census data, trade routes, or national borders** and analyze spatial change over time **or discover connections that aren't obvious when looking at other types of sources.** 
 
 To understand what this can look like, access the [“Spatio-Temporal Map”](https://ww2.lu/spatiotemporal-map) of the online exhibition World War II Luxembourg. 
 * First, explore the maps. There are four different maps that you can choose from. 
-* Click on them one by one and notice how different the same space is represented each time. 
+* Click on them one by one and notice how the same space is represented differently each time. 
 * Describe briefly what each layer represents. 
 * Zoom in and out to see which layers have limits and which ones extend far beyond the borders of Luxembourg, or Europe. Why is that? 
 * Study the most colorful map carefully: 
   * What does it depict? 
-  * How does its appearance change when you change the map lying underneath it? 
+  * How does its appearance change when you change the map layer lying underneath it? 
   * Why is it projected at an angle?
 
 Turning on and off these so-called layers is a simple, yet pertinent example of GIS. These four different maps are four different layers of information that we can call upon and rearrange. They are four different ways of visualizing spatial data. 
 
-Now compare this to your everyday use of Google Maps and the different functions you have there: Did you ever think about these functions as an act of activating and deactivating layers of information? Play around with Google Maps on your browser or smartphone and think about the information that can be revealed or hidden. Type different key word searches, such as ‘pharmacy’ or ‘train station’ and think of these in terms of information layers that are being turned on and off. You may also build yourself a layer of data to add it in a map, guided by the exercise that follows. 
+Now compare this to your everyday use of Google Maps and the different functions you have there: Did you ever think about these functions as an act of activating and deactivating layers of information? Play around with Google Maps, or any map provider of your choice, on your browser or smartphone and think about the information that can be revealed or hidden. Type different key word searches, such as ‘pharmacy’ or ‘train station’ and think of these in terms of information layers that are being turned on and off. You can also build your own layer of data to add it on the map, guided by the exercise that follows. 
 
 ### 4.b What’s in a name? Street names as a reflection of local histories
 By Werner Tschacher, Stefan Krebs
