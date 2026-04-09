@@ -218,7 +218,7 @@ To learn more about projections, you may continue reading the Wikipedia article.
 
 ### 2.b Comparing perspectives
 
-There is a wide variety of methodological reflections concerning map analysis, usually called “critical cartography”. A suitable approach to maps largely depends upon the specific type of cartographic material at hand, and upon the research question. Despite the variety of analytical tools, many researchers prefer to apply comparative approaches. 
+There is a wide variety of methodological reflections concerning map analysis, usually called “[critical cartography](https://en.wikipedia.org/wiki/Critical_cartography)”. A suitable approach to maps largely depends upon the specific type of cartographic material at hand, and upon the research question. Despite the variety of analytical tools, many researchers prefer to apply comparative approaches. 
 
 We can start with basic questions such as: why does a certain map show a feature in a particular way, and why is this feature shown differently on another map? Step by step, we can go deeper into the details of the map and explore possible explanations for these differences.  
 
@@ -268,46 +268,49 @@ By Peter Haslinger
 
 *Learning outcome - apply internal source critique to a map*
 
-Since the 19<sup>th</sup> century, **the rise of nationalisms in Europe and worldwide highlighted the importance of population: ethnicity, language and religion represented high stakes in political antagonisms over perceived majorities and minorities and contested borders. The censuses conducted on a regular basis by states provided a statistical basis for measuring the use of language, demographic development, etc. over a longer period. Political debates were reflected in the cartographic production and census data was used to depict populations - and national(istic) arguments.** 
+Since the 19<sup>th</sup> century, the rise of nationalisms in Europe and worldwide highlighted the importance of population: ethnicity, language and religion represented high stakes in political antagonisms over perceived majorities and minorities and contested borders. The censuses conducted on a regular basis by states provided a statistical basis for measuring the use of language, demographic development, etc. over a longer period. Political debates were reflected in the cartographic production and census data was used to depict populations - and national(istic) arguments. 
 
-You will work with two maps that were created in the context of World War One and used respectively by the Polish and Hungarian delegations during the peace conference in Paris 1919/20 to legitimize national-territorial claims. These examples give insight into aspects of the cartographic debates about populations at the time. Both map authors were founding fathers of geography in their respective countries.
+You will work with two maps that were created in the context of [World War One](https://en.wikipedia.org/wiki/World_War_I) and used respectively by the Polish and Hungarian delegations during the peace conference in Paris 1919/20 to legitimize national-territorial claims. These examples give insight into aspects of the cartographic debates about populations at the time. Both map authors were founding fathers of geography in their respective countries.
 
-[Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) had produced maps during the war. In its aftermath, these maps served as cartographic templates for the Polish delegation's maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in its borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
+**Contextual information and maps**
+
+Polish cartographer [Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) had produced maps during the war. In its aftermath, these maps served as cartographic templates for the Polish delegation's maps at the Paris peace conference (published as Polski atlas kongresowy in 1921). His high credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritativeness of the maps presented by the Polish delegation among the decision makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalistic approach to Polish territorial claims by the combination of the territory of the Polish-Lithuanian Commonwealth (“Poland” in its borders of 1772) and additional areas in the west with some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
 
 Figure 1: Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer, and Stanisław Wiktor Weigner, eds. 1916. *Geograficzno-statystyczny atlas Polski [1-3]*. (Geographical and Statistical Atlas of Poland). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Poland. Public Domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)  
 
 ![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain.")
 
 
-[Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), future Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary, and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
+Hungarian politician [Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), who served as Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French, and English, as well as some Dutch, Italian, and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with a practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. As a preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used as an attachment to the Hungarian memoranda in order to retain as much territory as possible for Hungary, and was published in several editions even after the peace treaty of Trianon had been signed on June 4, 1920. Teleki’s method of not including areas that were less populated, and his choice of colors (light red for Hungarian, faint pink for Romanian) overemphasized the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
 Figure 2: Paul Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Den Haag: Lith. J. Smulders and Co., 1919. HM Military History Institute and Museum, Budapest, Hungary. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
 
 ![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider.")
 
-Check the maps and the contextual information provided above. You can also conduct some research on the web. Answer the following questions: 
+Check the maps and the contextual information provided above. If you feel you need further information, you can also conduct some research on the web. Then answer the following questions: 
 
-Context and perspective of creation
-* Who made the map? For whom? When? 
+Perspective and context of creation
+* Who made the map? For whom? When?
 
-What do the maps represent:
+Choices
 * What exactly is shown on the maps? 
 * What national perspectives are presented in each?
+* Modalities of the representation: 
+  * What kind of borders do you see? 
+  * What do the differently coloured territories stand for? 
+  * What is the statistical basis for this map? 
+  * What does the colour red stand for and what visual effect is it supposed to achieve? 
+  * How should the white areas on the map be interpreted?
 
-Choices and modalities of the representation: 
-* What kind of borders do you see? 
-* What do the differently coloured territories stand for? 
-* What is the statistical basis for this map? 
-* What does the colour red stand for and what visual effect is it supposed to achieve? 
-* How should the white areas on the map be interpreted?
-
-Audience and intention: For what purpose? 
-* What does the map tell us about the political intention of the map's author through the choice of map section and the drawn boundaries?
+Audience and purpose 
+* What does the map tell us about the political intention of the map's author through the choice of map section and the drawn boundaries? 
 
 Now write a short paragraph to summarize your findings: 
 * What stories do the maps tell?
 
-**To finish, conduct your own research on the web about both maps, using the title of each as search words. Note which libraries and in which countries the digitized versions of these maps are available. Based on your findings, what are your remarks about the geographic area of diffusion of the digitized versions of the maps?** 
+After their actual use, these maps were archived and, more recently, digitized. Conduct your own research on the web about both maps, using the title of each as search words. 
+* Which libraries and in which countries digitized and make available the maps? 
+* Based on your findings, what does this tell us on the cultural heritagization of these maps? 
 
 ### 2.d Visualizing power 
 By Christian Lotz
@@ -315,6 +318,8 @@ By Christian Lotz
 *Learning outcome - initiation to maps as data visualizations*
 
 Maps can be an impressive tool to visualize power. Political entities - kingdoms, nation states, and empires - have used them to mark borders, to outline territorial ambitions or to demonstrate influence. Cartographers coupled selection of data with techniques of visualization to highlight power and influence and to make arguments. The following example uses two maps of the world which, from different points of view, show the influence of the British Empire during the 1920s and 1930s.
+
+**Contextual information and maps**
 
 ![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
 
@@ -329,26 +334,37 @@ Figure 4: Alexander Radó, “International Movements of Capital”. In *The Atl
 
 The map “International Movements of Capital” belongs to the "Atlas of today and tomorrow“ published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages of global conflicts in the early 20th century. Most of the maps in the atlas were designed in black and white, some maps additionally include red colour. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: the British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines symbolize dangerous octopuses, reaching out to grab more and more parts of the world?
 
-* Who created the map? When and in what purpose? You can consult the Wikipedia article on the map creator to answer this question. Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025).  
+Check the maps and the contextual information provided above. If you need further information on the context of creation, you can also conduct some research on the web. The Wikipedia articles on the map creators can be useful to answer the questions below: 
 
-* **What do the circles and arrows represent? How do you interpret different sizes?**
+Wikipedia contributors, "British Chambers of Commerce," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) (accessed February 17, 2025).
 
-* **The map does not use colours, but distinguishes visually the categories of countries. What do these categories represent? WHich countries are represented individually and which collectively? Why do you think this is?** 
+Wikipedia contributors, "Alexander Radó," Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed February 17, 2025). 
 
-* **How do you interprete the use of black colour?** 
+**Then answer the following questions for each map:** 
 
-* **The map does not provide a dynamic (in the sense of interactive) visualization, given its date of creation. It does however have a sense of movement. How is this achieved?**
+Perspective and context of creation
+* Who created the map? When? Where? 
 
-* **Do you have access to the data the map creator worked with? How do you imagine them?**  
+Audience and purpose 
+* In what purpose was the map created? For whom?  
 
-**The part below (and questions above) were added by Sofia**
-Now you can take a look to the website [Our World In Data](https://ourworldindata.org/).
+Choices 
+* What is shown? What is missing?
+* Modalities of the representation
+  * Use of colours
+  * Use of symbols, if any: type, size... 
 
-Consult the 'About' page to understand the mission of the initiative and the contributors.
+### 2.e Visualizing data 
 
-Pick a map of your choice or use the one we propose: [GDP per capita, 2023](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
+By Sofia Papastamkou 
 
-* What types of visualizations do you have access to besides the map? 
+The map of Radó presented in 2.d has a particular sense of movement which brings it closer to contemporary dynamic, in the sense of interactive, visualisations based on availability of digital data and dedicated software. However, we do not have direct access to the data the map creator used, something that the technologies if his time did not make possible, admitting he would have to give access to his dataset. 
+
+To further explore this dimension, that is currently mainstream, you can take a look to the website [Our World In Data](https://ourworldindata.org/). Consult the 'About' page to understand the mission of the initiative and the contributors.
+
+Pick a map of your choice. Here, we use the world map that presents the gross domestic product (GDP) per capita for the current year: [GDP per capita](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
+
+* What types of visualizations do you have access to besides the map? Tip: use the table provided on top of the map to navigate the different visualizations.  
 * Do you have access to the data the map creator(s) worked with? 
 * Can you trace the origin of the data? Can you contextualize the visualizations by applying source criticism? 
 * What other elements and information do you find interesting? 
