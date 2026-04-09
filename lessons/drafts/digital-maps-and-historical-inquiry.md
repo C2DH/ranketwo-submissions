@@ -576,11 +576,18 @@ Browse the resources available on the website [The Historical GIS Research Netwo
 
 *Historical projects using GIS*
 
+American Panorama. An Atlas of United States History. [https://dsl.richmond.edu/panorama/](https://dsl.richmond.edu/panorama/)
+
+Land Acquisition and Dispossession. Mapping the Homestead Act, 1863-1912. [https://dsl.richmond.edu/panorama/homesteading/map/](https://dsl.richmond.edu/panorama/homesteading/map/)
+
 Julius Wilm, Robert K. Nelson, and Justin Madron, “Homesteading,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed April 7, 2026, [https://dsl.richmond.edu/panorama/homesteading/](https://dsl.richmond.edu/panorama/homesteading/)
 
 Julius Wilm. Land Acquisition and Marginalization in the US West and South, 1863-1934. *History, GIS and US Studies* website https://juliuswilm.com/index.html [https://juliuswilm.com/projects.html](https://juliuswilm.com/projects.html)
 
-Land Acquisition and Dispossession. Mapping the Homestead Act, 1863-1912. [https://dsl.richmond.edu/panorama/homesteading/map/](https://dsl.richmond.edu/panorama/homesteading/map/)
+Yan Wu, Cameron Blevins, Steven Braun. Gossamer Network. Companion website to Cameron Blevins, Paper Trails: The US Post and the Making of the American West (Oxford University Press, 2021). [https://gossamernetwork.com/](https://gossamernetwork.com/)
+
+
+*Watch:*
 
 The European public service channel Arte has a program called “Mapping the World”, where maps take center stage to explain geopolitical events, past and present. Scan through the episode that shows different ways data is visualized and mapped and ask yourself what kind of information these maps communicate and to what effect:
 
