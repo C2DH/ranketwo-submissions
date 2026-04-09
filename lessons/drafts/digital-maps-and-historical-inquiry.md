@@ -153,7 +153,7 @@ It is important to understand how the above steps apply to source criticism. Whe
 
 ### Instructions
 
-How to read a historical map? Considering the above, we need to combine traditional source criticism principles with the specificities that are inherent to the process of creation of maps. 
+How to read a historical map? Considering the above, we need to combine traditional source criticism principles with the specificities that are inherent to the process of creating maps. 
 
 Consider: 
 
