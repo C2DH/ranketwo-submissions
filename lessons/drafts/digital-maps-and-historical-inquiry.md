@@ -360,7 +360,7 @@ By Sofia Papastamkou
 
 The map of Radó presented in 2.d has a particular sense of movement which brings it closer to contemporary dynamic, in the sense of interactive, visualisations based on availability of digital data and dedicated software. However, we do not have direct access to the data the map creator used, something that the technologies if his time did not make possible, admitting he would have to give access to his dataset. 
 
-To further explore this dimension, that is currently mainstream, you can take a look to the website [Our World In Data](https://ourworldindata.org/). Consult the 'About' page to understand the mission of the initiative and the contributors.
+To further explore this dimension, that is currently mainstream, you can take a look to the website [Our World In Data](https://ourworldindata.org/). Consult the '[About](https://ourworldindata.org/about)' page to understand the mission of the initiative and the contributors.
 
 Pick a map of your choice. Here, we use the world map that presents the gross domestic product (GDP) per capita for the current year: [GDP per capita](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
 
