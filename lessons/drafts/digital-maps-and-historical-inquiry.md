@@ -210,7 +210,7 @@ Then watch the 6-minute video: [Why all world maps are wrong](https://youtu.be/k
 
 Play with different map projections. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
 
-To learn more about projections, if you wish, you may continue reading the Wikipedia article. You can also parse the [list of projections](https://en.wikipedia.org/wiki/List_of_map_projections#) to get familiar with the variety of the existing projections. 
+To learn more about projections, if you wish, you may continue reading the Wikipedia article. You can also study the [list of projections](https://en.wikipedia.org/wiki/List_of_map_projections#) to get familiar with the variety of the existing projections. 
 
 ### 2.b Comparing perspectives
 
