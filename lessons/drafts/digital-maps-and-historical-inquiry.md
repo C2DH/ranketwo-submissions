@@ -75,10 +75,10 @@ The technological tools we have at our disposal today have transformed how histo
 
 *Learning outcome 3 - identify forms of collaborative participation in maps' archival descriptions*
 
-In the digital age, it is substantially easier to access maps than ever before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps, as well as additional information provided for each map are highly disparate, **reflecting different purposes or conditions of creation of the archive**, means of funding, **or community investment**.
+In the digital age, it is substantially easier to access maps than ever before. With the onset of large-scale digitization efforts at libraries and archives, maps have also become far more accessible due to their availability online. Digital libraries and repositories provide manifold cartographic sources. However, the number of openly accessible maps, the quality of digitisation, the technical features linked to the maps, as well as additional information provided for each map are highly disparate, reflecting different purposes or conditions of creation of the archive, means of funding, or community investment.
 
 ### 1.a Interrogating the (digital) map archive
-Each online library has its advantages and disadvantages, **but this is highly dependent on the intended use of the resources one wishes to utilise** and the research question(s) being studied. For some projects, a simple map giving an overview of a certain region may already be sufficient; other projects may necessitate very large scale maps, including detailed information about the date of production, the publisher, etc. **In any case, the information provided by a map repository should allow historians to establish with certitude the provenance of the map and the available resources.** 
+Each online library has its advantages and disadvantages, but this is highly dependent on the intended use of the resources one wishes to utilise and the research question(s) being studied. For some projects, a simple map giving an overview of a certain region may already be sufficient; other projects may necessitate very large scale maps, including detailed information about the date of production, the publisher, etc. In any case, the information provided by a map repository should allow historians to establish with certitude the provenance of the map and the available resources.
 
 The following list proposes a selection of online map libraries that can be interesting for historians. There are many more, but we can start exploring here:
 
@@ -86,7 +86,7 @@ The following list proposes a selection of online map libraries that can be inte
 
 [David Rumsey Map Collection](https://www.davidrumsey.com/){:target="_blank"}
 
-[Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"}
+[Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/en/){:target="_blank"}
 
 [Arcanum Maps - The Historical Map Portal](https://maps.arcanum.com/en/){:target="_blank"}
 
@@ -94,40 +94,50 @@ The following list proposes a selection of online map libraries that can be inte
 
 [Mapster](http://igrek.amzp.pl/){:target="_blank"}
 
-**Please follow the links provided above and compare the different repositories (if your time is limited, pick no less than three to make the comparison). Look for the following information:**
+Please follow the links provided above. Select at least three repositories and compare them by looking up for the following information:
 
-**1. Who is the creator of the website**
+1. Who is the creator of the website?
 
-**2. What is the purpose of the website**
+2. What is the purpose of the website?
 
-**3. What kind of maps does the website provide: explore the geographic/ thematic scope and language(s) available**
+3. What kind of maps does the website provide? Explore the geographic/ thematic scope and language(s) available
 
-**4. How are the maps displayed? You may find static images (photos of digitized maps), or interactive maps (several layers of information which we call Geographical Information Systems) (see assignment number 4)**
+4. How are the maps displayed? For example, you may find static images (photos of digitized maps), or more interactive artifacts - which we call [Geographical Information Systems](https://en.wikipedia.org/wiki/Geographic_information_system) - that provide several layers of information (more on these in assignment 4).
 
-**5. Are the maps reusable, downloadable and possible to reuse (republish, remix...) without copyright restrictions? What kind of permission do the users have, if any?** 
+5. Is it allowed to download and reuse (republish, remix...) the maps without copyright restrictions? What kind of explicit permission do the users have, if any?
 
-### 1.b Describing maps in the archive 
-**Now it is time to get an idea of what information you can find at the level of the map: this information should allow you to contextualize the creation and availability of the maps, and evaluate them as historical sources. Maps are historical sources, and as such, have information which can tell us more about the time, place, and perceived realities visualised. The existence and the quality of systematic descriptions of archival resources, in this case maps, contains the added value hidden in the mediation of the archive. It is an essential element for historians who rely on it to contextualize and evaluate their sources.**   
+### 1.b Understanding maps in the archive 
 
-Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. **Pick one map you find interesting** in each of these repositories. What kind of additional information you can you find for each map? (date of publication, date of digitization, publisher, author...) Is there information that you would need but is missing? If so, why might that be? What are some advantages and disadvantages of these two online libraries concerning accessibility (e.g. can you access the maps easily, download them and reuse them for your own analysis? What research might be done with the maps provided?)
+Maps convey both explicit and implicit information about the time, place, and perceived realities they represent. To contextualize and critically evaluate maps as historical sources, systematic descriptive information, known as [metadata](https://en.wikipedia.org/wiki/Metadata), is essential. The availability and quality of this metadata constitute a key added value that archives offer to historians. The following exercise invites you to explore this dimension and to understand its importance in critically assessing both the repository and the map itself.
+
+Compare topographic maps which you can find on [Kartenforum](https://kartenforum.slub-dresden.de/en/){:target="_blank"} and on [Arcanum](https://maps.arcanum.com/en/){:target="_blank"}. 
+
+1. Pick one map you find interesting in each of these repositories
+2. Explore what kind of additional information you can you find for each map: date of publication, date of digitization, publisher, author... 
+
+Now reflect on the following: 
+
+1. Is there information that you would need but is missing? If so, why might that be? 
+2. What woud you define as advantages and disadvantages of these two online libraries? Think in terms of accessibility, possibility of reuse, available information, or anything else you can think of. 
+3. Can you think what research might be done with the maps provided?
 
 ### 1.c The collaborative map archive 
 
-**At least two of these websites, [OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"} and [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/){:target="_blank"} involve participatory practices based on a [community of contributors](https://en.wikipedia.org/wiki/Community_of_practice).** 
+At least two of these websites, [OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"} and [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/en){:target="_blank"} involve active participation of volunteer contributors who are not part of the institution or team that runs the map repository. > Tip - to find the information explore the "about" or "community" pages.   
 
-**Please explore them and take note of:** 
+Please explore these two repositories based on the following:  
 
-**1. What is the purpose of involving community users? What are they asked to do?** 
+1. What are volunteer contributors asked to do? What is the purpose of involving them? 
 
-**2. How can a user be actively involved? What are the actions one needs to take to be able to contribute? Note how they can access the resources and contribute as identified user**
+2. How are volunteer contributors enabled to contribute? What are the actions one needs to take to be able to contribute? Are there specific parts of the website dedicated to this collaborative aspect?  
 
-**3. Are there specific instructions one has to follow (guidelines)?** 
+3. Are there specific instructions volunteer contributors need to follow (guidelines) or everyine is allowed to so do as they wish? 
 
-**4. How are the contributions controlled and validated?**
+4. How are the contributions controlled and validated?
 
-**5. How are the contributions credited?**
+5. How are the contributions credited? Are contributors visible or rewarded? 
 
-**Now think about how information technologies bring together networks of users and enable the formation of communities. Ask yourself the question: would these contributions be possible without the existence of a website? How could the users have been involved in this case? Would they be able to contribute their knowledge? With what delays? Where would contributions be housed alternatively?**  
+Now reflect on the following question: would these contributions be possible without the existence of a website? Had this not been the case, could the external users be involved and able to contribute their knowledge? Reflecting on this should help you to understand how digital technologies and the web enable the formation of [communities](https://en.wikipedia.org/wiki/Community_of_practice) around domains and resources of perceived shared interest. Such "zones" can bring historians in contact with citizen science and participatory practices.    
 
 ### Reading/ viewing suggestions of: Accessing maps in the digital age and the mediation of the online repositories
  
@@ -176,10 +186,10 @@ Consider:
    - **Available technologies** used to create the map  
 
 
-
 You can shape your own checklist as you go through this lesson by adding elements or editing the above scheme. In the end, you will have created your personal “Catalogue of Map Elements”. 
 
 ![How to interpret a historical map](/assets/images/maps-as-historical-sources/historical-map-criticism-conceptual.png "How to interpret a historical map")
+Fig. 
 
 
 | **1. PERSPECTIVE** | **2. AUDIENCE & PURPOSE** | **3. CHOICES** | **4. KNOWLEDGE & CHANGE** |
@@ -191,13 +201,7 @@ You can shape your own checklist as you go through this lesson by adding element
 
 If you wish to see how the above principles are applied to historical map analysis, watch this video analyzing a map of Africa of the 17<sup>th</sup> century: [Burns Library: “How to Read a Historical Map” 1886](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
   
-*Editor's Note: The principles of the above interpretative grid were inspired by: Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/ In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402 These ressources are no longer available after the Choices Program stopped receiving funding as of June 30, 2025, meaning that "content is not being licensed, transferred or maintained for access or classroom as of the program end date".* 
-<!--Watch the video [Reading maps: How to analyze a map](https://www.youtube.com/watch?v=kLSS1qIEOT8) (2min10). Take notes on what librarian Michelle LeBlanc calls “Big Ideas in Map Analysis” and write a checklist for yourself on what your ideal map should include. Keep this checklist and add to, or edit it as you go through this lesson. In the end, you will have created your personal “Catalogue of Map Elements”. **If you need help, you can use [our own notes](/assets/docs/how-to-read-a-map.txt).**
-
-In the video, the discussant talks about map projections as one of the elements defining perspective. Read the Wikipedia notice to understand [what a map projection is](https://en.wikipedia.org/wiki/Map_projection) and how distortion is inherent to it. 
-
-If you wish to see how the above principles are applied to historical map analysis, watch the follow-up video: [Analyzing a map: “Imperial Federation,” 1886](https://www.youtube.com/watch?v=Nds2Rg_OOO8&t=107s) (4min01).--> 
-
+*Editor's Note: The principles of the above interpretative grid were inspired by: Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/ In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402 These ressources are no longer available after the Choices Program stopped receiving funding as of June 30, 2025, meaning that "content is not being licensed, transferred or maintained for access or classroom as of the program end date".*
 
 
 ### 2.a Playing with perspective and distortion - 20 minutes
