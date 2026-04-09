@@ -210,13 +210,13 @@ Then watch the 6-minute video: [Why all world maps are wrong](https://youtu.be/k
 
 Play with different map projections. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is being displayed. Think about why different map projections exist. What is their purpose? 
 
-To learn more about projections, if you wish, you may continue reading the Wikipedia article. You can also study the [list of projections](https://en.wikipedia.org/wiki/List_of_map_projections#) to get familiar with the variety of the existing projections. 
+To learn more about projections, you may continue reading the Wikipedia article. You can also study the [list of projections](https://en.wikipedia.org/wiki/List_of_map_projections#) to get familiar with the variety of the existing projections. 
 
 ### 2.b Comparing perspectives
 
-There is a wide variety of methodological reflections concerning map analysis, usually called “critical cartography”. A suitable approach to maps largely depends upon the specific type of cartographic material which is about to be examined, and upon the research question. Despite the variety of analytical tools, many authors advocate comparative approaches. 
+There is a wide variety of methodological reflections concerning map analysis, usually called “critical cartography”. A suitable approach to maps largely depends upon the specific type of cartographic material at hand, and upon the research question. Despite the variety of analytical tools, many researchers prefer to apply comparative approaches. 
 
-We may start with rather basic questions, such as: why does a certain map show a feature in a particular way, and why is this feature shown differently on another map? Step by step, we can go more into the details of the map and explore possible explanations for these differences.  
+We can start with basic questions such as: why does a certain map show a feature in a particular way, and why is this feature shown differently on another map? Step by step, we can go deeper into the details of the map and explore possible explanations for these differences.  
 
 Let us take the example of world maps. Observe the three maps below. 
 
@@ -236,15 +236,15 @@ Let us take the example of world maps. Observe the three maps below.
 
 ![German School-Atlas, World Map, 1932]({{ '/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg' | relative_url }} "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")
 
-Apply source criticism to the maps with the help of some basic questions: Who produced the map? When was it created? What is the content of the map? How is the map content presented? Why was the map created? To whom was the map addressed?  
+Apply source criticism to the maps with the help of the key questions introduced above: Who produced the map? When was it created? What is the content of the map? How is the map content presented? Why was the map created? To whom was the map addressed?  
 
-After these basic questions, go deeper into cartographic details to analyse the particular purpose which the map should fulfil, and examine possible intentions of the map creators. For the time being, you can focus on the question below:
+After this first step, go deeper into cartographic details to analyse the particular purposes the map was meant to fulfil, and examine possible intentions of the map creators. For the time being, you can focus on the questions below:
 
 *  Which continent does each map depict at its centre? Did the cartographers choose different map projections, and if so, why?
 
-In general, going more into the details of maps, and the tackling of such comparative questions may turn out rather difficult as we do not necessarily find detailed background material which gives insight into the production process and into the cartographer’s decisions. Therefore, we should proceed carefully when starting our interpretation and elaborating on explanations regarding the appearance and content of maps. When analysing a map, we should keep in mind that the authors, cartographers, and editors of maps have to make many decisions in the course of map production, implicitly or explicitly, consciously or not. They have to select particular features from the wealth of spatial information available and focus on a few features that should be visualized. Specific cartographic ‘languages’ and styles (symbols, colours etc.) for this have developed over centuries. Since the 19th century, increasing international exchange amongst cartographers and editors led to various implicit or explicit conventions regarding map design, such as putting geographic North to the top of the map. 
+Focusing on the details of maps, and tackling comparative questions may prove rather difficult as we do not necessarily have the relevant background material which gives insight into the production process and into the cartographer’s decisions. Therefore, we should proceed carefully when starting our interpretation and elaborating on explanations regarding the appearance and content of maps. When analysing a map, we should keep in mind that the authors, cartographers, and editors of maps have to make many decisions in the course of map production, implicitly or explicitly, consciously or unconsciously. Map makers select particular features from the wealth of spatial information available, and focus on a few features they want to visualize. Specific cartographic ‘languages’ and styles (symbols, colours etc.) for this have developed over centuries. Since the 19th century, increasing international exchange amongst cartographers and editors led to various conventions regarding map design, such as placing the geographic North at the top of the map. 
 
-Now consider two maps of the Mediterranean and note what you observe in the perspective of your findings above.
+Now study two maps of the Mediterranean and note your observations on the basis of what you have learned above.
 
 The first map is: "Petite carte d'Orient et de la Méditerranée" (1840) preserved in: Bibliothèque nationale de France, département Cartes et plans, GE DL 1840-261 
 
@@ -256,7 +256,7 @@ The second map is: "Mediterranean without Borders" (2011) of artist Sabine Réth
 
 Source: [http://sabine-rethore.net/fr/cartes/mediterraneesans.html](http://sabine-rethore.net/fr/cartes/mediterraneesans.html)
 
-Reflect on how the production of maps is based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of his/her map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. 
+Reflect on how the production of maps is based on a chain of decisions and therefore filters spatial reality. Most likely, the cartographer has applied particular techniques to support a specific perception of their map and counter unwanted interpretations. As a result, maps are media for categorizing, systematizing, levelling and stereotyping spatial features and individual characteristics of the objects depicted on them. 
 
 
 ### 2.c Decrypting choices, audience, and purpose: imagining populations in maps
