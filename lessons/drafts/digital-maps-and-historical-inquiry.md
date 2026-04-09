@@ -231,14 +231,15 @@ Let us take the example of world maps. Observe the three maps below.
 * Official National Atlas of India in. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
 
-![Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain") 
+![Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain")
+
+![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")  
 
 ![Official National Atlas of India, 1957](/assets/images/maps-as-historical-sources/india-national-atlas-welt.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
 
 <!--
-![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932") -->
-
 ![German School-Atlas, World Map, 1932]({{ '/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg' | relative_url }} "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")
+-->
 
 Apply source criticism to the maps with the help of the key questions introduced above: Who produced the map? When was it created? What is the content of the map? How is the map content presented? Why was the map created? To whom was the map addressed?  
 
