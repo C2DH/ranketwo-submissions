@@ -158,11 +158,13 @@ Questions for reflection:
 
 ### Reading/viewing suggestions
 
-#### Foundational Texts on Code as Communication
+<!--#### Foundational Texts on Code as Communication
 
-*These references serve part 1.a*
+*These references serve part 1.a*-->
+de Mol, Liesbeth, Maarten Bullynck. What's in a name? Origins, transpositions and transformations of the triptych Algorithm -Code -Program. J. Abbate and S. Dick. Abstractions and embodiments. New histories of computing and society, Johns Hopkins, 2022. ⟨hal-03081203v3⟩ https://hal.science/hal-03081203 
+
 Abelson, Harold, and Gerald Jay Sussman. 1996. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press. https://sarabander.github.io/sicp/html/index.xhtml
-
+<!--
 Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In *Software Studies: A Lexicon*, edited by Matthew Fuller, 236–43. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262062749.003.0034
 
 Raymond, Darrell Ronald. 1991. 'Reading Source Code'. *CASCON '91: Proceedings of the 1991 Conference of the Centre for Advanced Studies on Collaborative Research*: 3–16. https://dl.acm.org/doi/10.5555/962111.962113
@@ -182,25 +184,25 @@ Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_Wo
 - UNESCO. 2003. *Charter on the Preservation of the Digital Heritage*. https://unesdoc.unesco.org/ark:/48223/pf0000179529 (Accessed 2025)
 
 - UNESCO. 2023. 'Positioning Software Source Code as Digital Heritage for Sustainable Development'. https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development
-
+-->
 **Digital Heritage Theory:**
 
-- Musiani, Francesca, and Valérie Schafer. 2016. 'Digital Heritage and Heritagization'. *RESET: Recherches en Sciences Sociales sur Internet* 6. https://doi.org/10.4000/reset.806
-
+Musiani, Francesca, and Valérie Schafer. 2016. 'Digital Heritage and Heritagization'. *RESET: Recherches en Sciences Sociales sur Internet* 6. https://doi.org/10.4000/reset.806
+<!--
 - Talboom, Leontien, and Peter Mechant. 2019. 'Born-Digital Archives'. *International Journal of Digital Humanities* 1: 157–163. https://doi.org/10.1007/s42803-019-00011-x
 
 - Winters, Jane, and Andrew Prescott. 2019. 'Negotiating the Born-Digital: A Problem of Search'. *Archives and Manuscripts* 47 (3): 391–403. https://doi.org/10.1080/01576895.2019.1640753
-
-#### Digital Preservation Challenges
-
+-->
+**Digital Preservation Challenges**
+<!--
 *These references serve part 1.c*
 
 - Conway, Paul. 1996. *Preservation in the Digital World*. Commission on Preservation and Access. https://www.clir.org/pubs/reports/pub154/
 
 - Silva, Ana Paula. 2022. 'All of Humankind's Source Code in a Nutshell'. *Software Heritage*. https://www.softwareheritage.org/2022/06/28/all-of-humankinds-source-code-in-a-nutshell/
-
-- Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?' *IEEE Annals of the History of Computing* 28 (4): 112–111. https://doi.org/10.1109/MAHC.2006.78
-
+-->
+Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?' *IEEE Annals of the History of Computing* 28 (4): 112–111. https://doi.org/10.1109/MAHC.2006.78
+<!--
 **Case Studies in Code Recovery and Loss:**
 
 - Video Game History Foundation. 2023. 'Survey of the Video Game Reissue Market in the United States'. https://gamehistory.org/study-explainer/
@@ -214,7 +216,7 @@ Wikipedia. '"Hello, World!" program'. https://en.wikipedia.org/wiki/%22Hello,_Wo
 **Explore Online:**
 
 - Internet Archive. *Jet Set Willy* (Commodore 64, 1984). Playable in browser-based emulator. https://archive.org/details/Jet_Set_Willy_1984_Software_Projects
-
+-->
 
 ## 2 Reading Code as Historical Source
 
@@ -411,10 +413,10 @@ This is a thoughtful archival decision, but not all historical code you find onl
 ### Reading/viewing suggestions
 
 
-#### Critical Code Studies
+<!--#### Critical Code Studies -->
 
 Marino, Mark C. 2020. *Critical Code Studies*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/4627/Critical-Code-Studies
-
+<!--
 Berry, David M. 2011. *The Philosophy of Software: Code and Mediation in the Digital Age*. London: Palgrave Macmillan
 
 Cox, Geoff, and Alex McLean. 2012. *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, MA: MIT Press. https://direct.mit.edu/books/monograph/3964/Speaking-CodeCoding-as-Aesthetic-and-Political
@@ -434,13 +436,13 @@ Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Lite
 Meyerovich, Leo A., and Ariel S. Rabkin. 2013. 'Empirical Analysis of Programming Language Adoption'. *Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages & Applications*: 1–18. https://dl.acm.org/doi/10.1145/2509136.2509515
 
 Walton, Janice. 2024. 'The Culture of Programming'. In *Culturally Responsive Computing*. https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/
-
+-->
 **Watch:**
 
 Hayden, Gabrielle. 2022. 'Language Hierarchies in Programming'. YouTube video, approx. 20 min. https://www.youtube.com/watch?v=kCZRauYfqvg — Draws on feminist and post-colonial theory to analyze biases in discussions of programming languages.
-
+<!--
 Code.org. 2015. 'What Most Schools Don't Teach: A Video Introduction to Computer Science'. YouTube video, 5:05. https://www.youtube.com/watch?v=nKIu9yen5nc — Foundational overview of programming concepts for beginners.
-
+-->
 Gates, Bill. 2025. 'Celebrating 50 Years of Microsoft'. *Gates Notes*. https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
 
 James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Programmer*. https://www.i-programmer.info/news/82-heritage/17946-bill-gates-shares-the-code-that-launched-microsoft.html
@@ -650,20 +652,20 @@ Transmission is never neutral. Each stage enabled certain forms of access — di
 
 ### Reading/viewing suggestions
 
-- Burkey, Ron. Virtual AGC Project. http://www.ibiblio.org/apollo/
+Burkey, Ron. Virtual AGC Project. http://www.ibiblio.org/apollo/
 
-- Coding with Dee. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
+Coding with Dee. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
 
-- Di Cosmo, Roberto. 2019. "Archiving and Referencing the Apollo Source Code." *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+Di Cosmo, Roberto. 2019. "Archiving and Referencing the Apollo Source Code." *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+<!--
+- Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive -->
 
-- Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive
-
-- Hamilton, Margaret. 2004. Oral history interview. Computer History Museum. https://www.youtube.com/watch?v=6bVRytYSTEk
-
+Hamilton, Margaret. 2004. Oral history interview. Computer History Museum. https://www.youtube.com/watch?v=6bVRytYSTEk
+<!--
 - Montague, Magnificent, with Bob Baker. 2003. *Burn, Baby! BURN!: The Autobiography of Magnificent Montague*. Urbana: University of Illinois Press.
 
 - Tiwari, Deepika, Tim Toady, Martin Monperrus, and Benoit Baudry. 2024. "With Great Humor Comes Great Developer Engagement." *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)*: 1-11. https://doi.org/10.1109/ICSE-SEIS.2024.12
-
+-->
 ## 4 Preserving Code: Initiatives and Infrastructures
 
 > [!NOTE]  
@@ -737,7 +739,7 @@ Software Heritage represents one approach to digital preservation. To situate it
 
 **GitHub Archive Program: A Corporate Initiative**
 
-The GitHub Archive Program represents a different institutional logic. GitHub, owned by Microsoft since 2018, is a commercial platform where most of the world's open-source development now takes place. The Archive Program—including the Arctic Code Vault—serves multiple purposes: genuine preservation, corporate social responsibility, and platform legitimation. This is not criticism but context: understanding *who* preserves code and *why* shapes how we interpret preservation choices.
+The [GitHub Archive Program](https://archiveprogram.github.com/) represents a different institutional logic. GitHub, owned by Microsoft since 2018, is a commercial platform where most of the world's open-source development now takes place. The Archive Program—including the Arctic Code Vault—serves multiple purposes: genuine preservation, corporate social responsibility, and platform legitimation. This is not criticism but context: understanding *who* preserves code and *why* shapes how we interpret preservation choices.
 
 Launched in 2020, the program creates secure, long-term backups through multiple storage methods. Perhaps most striking is the [Arctic Code Vault](https://www.youtube.com/watch?v=0v9Rwqxa8eI), housed in an abandoned mine deep within Svalbard's Arctic archipelago, where code is stored in a facility designed to last centuries.
 
@@ -804,12 +806,13 @@ For a concrete example, examine: archive.org/details/jsmess_engine_v2
 **Comparative reflection:** How do these three approaches—comprehensive source code archiving, secure long-term storage, and executable preservation—address different aspects of code as heritage? Which aspects might still be missing from current preservation efforts?
 
 ### Reading/viewing suggestions
-
+<!--
 #### Software Heritage Documentation
-*These references serve part 4.b*
+*These references serve part 4.b* -->
 
 Di Cosmo, Roberto, and Stefano Zacchiroli. 2017. 'Software Heritage: Why and How to Preserve Software Source Code'. *Proceedings of the 14th International Conference on Digital Preservation (iPRES 2017)*. https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf
 
+<!--
 Di Cosmo, Roberto, Morane Gruenpeter, and Stefano Zacchiroli. 2020. 'Referencing Source Code Artifacts: A Separate Concern in Software Citation'. *Computing in Science & Engineering* 22 (2): 33–43. https://doi.org/10.1109/MCSE.2019.2963148
 
 Software Heritage. 2019. *Paris Call: Software Source Code as Heritage for Sustainable Development*. UNESCO/INRIA. https://unesdoc.unesco.org/ark:/48223/pf0000366715
@@ -825,30 +828,33 @@ Software Heritage. 2022. 'Software Heritage in 2021: Five Years Already'. https:
 Software Heritage Archive. https://www.softwareheritage.org (Accessed regularly; content continuously updated)
 
 Software Heritage Features. https://www.softwareheritage.org/software-heritage-features/
-
-
+-->
+<!--
 #### Comparative Frameworks
-*These references serve part 4.b*
+*These references serve part 4.b* -->
 
 Matthews, Brian, Arif Shaon, Juan Bicarregui, and Catherine Jones. 2010. 'A Framework for Software Preservation'. *International Journal of Digital Curation* 5 (1): 91–105. https://doi.org/10.2218/ijdc.v5i1.145
-
+<!-- 
 **GitHub Archive Program:**
-
-GitHub Archive Program. https://archiveprogram.github.com/
-
+this link to be integrated in the subpart treating of GH archive
+GitHub Archive Program. https://archiveprogram.github.com/ 
+--> 
 **Watch:**
 
 GitHub. 2020. *GitHub Arctic Code Vault*. YouTube video, 3:55. https://www.youtube.com/watch?v=0v9Rwqxa8eI
 
+<!-- no need, they are in the lesson text
 **Internet Archive Software Collection:**
 
 Internet Archive. *Software Collection*. https://archive.org/details/software
 
 Internet Archive. JSMESS Engine (browser-based emulation). https://archive.org/details/jsmess_engine_v2
+--> 
 
+<!-- to go
 Lowood, Henry. 2009. 'Videogames in Computer Space: The Complex History of Pong'. *IEEE Annals of the History of Computing* 31 (3): 5–19. https://doi.org/10.1109/MAHC.2009.53
-
-#### Other Preservation Initiatives in the Unites States of America
+--> 
+Other Preservation Initiatives in the Unites States of America**
 
 Computer History Museum. *Software Preservation Group*. https://softwarepreservation.computerhistory.org/
 
