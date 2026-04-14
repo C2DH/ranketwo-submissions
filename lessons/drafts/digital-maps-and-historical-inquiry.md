@@ -139,7 +139,13 @@ Please explore these two repositories based on the following:
 
 Now reflect on the following question: would these contributions be possible without the existence of a website? Had this not been the case, could the external users be involved and able to contribute their knowledge? Reflecting on this should help you to understand how digital technologies and the web enable the formation of [communities](https://en.wikipedia.org/wiki/Community_of_practice) around domains and resources of perceived shared interest. Such "zones" can bring historians in contact with citizen science and participatory practices.    
 
-### Reading/ viewing suggestions of: Accessing maps in the digital age and the mediation of the online repositories
+### Reading/ viewing suggestions 
+
+
+Volynskaya, Alina. "Chapter 1 Traditional Archive, Knowledge Repository and the Digital" In *Digital Archives of Science: Revisiting the Vestiges of Knowledge-Making*, 23-37. De Gruyter Oldenbourg, 2026. https://doi.org/10.1515/9783111729664-003
+
+Salimi, Hamid, Somayeh Fadaei Nezhad Bahramjerdi, and Rana Tootoonchi. 2025. “The Role of Geographic Information Systems (GIS) in Participatory Conservation of Heritage Areas”. European Journal of Geography 16 (1):s1-s11. https://doi.org/10.48088/ejg.si.spat.hum.h.sal.1.11
+
  
 
 ## 2 Learning to read the stories maps tell
@@ -569,7 +575,8 @@ Browse the resources available on the website [The Historical GIS Research Netwo
 ### Reading/ viewing suggestions of: Datasets as maps: exploring historical Geographical Information Systems (GIS) 
 
 *On GIS historical criticism*
-**Wilm, Julius (April 13, 2023). Layering in GIS as a Method of Historical Deconstruction and Source Criticism. *TRAFO – Blog for Transregional Research*. DOI: [https://doi.org/10.58079/ut6o](https://doi.org/10.58079/ut6o) Retrieved 28 May 2025** 
+
+Wilm, Julius (April 13, 2023). Layering in GIS as a Method of Historical Deconstruction and Source Criticism. *TRAFO – Blog for Transregional Research*. DOI: [https://doi.org/10.58079/ut6o](https://doi.org/10.58079/ut6o) Retrieved 28 May 2025 
 
 *Historical projects using GIS*
 
@@ -582,6 +589,12 @@ Julius Wilm, Robert K. Nelson, and Justin Madron, “Homesteading,” American P
 Julius Wilm. Land Acquisition and Marginalization in the US West and South, 1863-1934. *History, GIS and US Studies* website https://juliuswilm.com/index.html [https://juliuswilm.com/projects.html](https://juliuswilm.com/projects.html)
 
 Yan Wu, Cameron Blevins, Steven Braun. Gossamer Network. Companion website to Cameron Blevins, Paper Trails: The US Post and the Making of the American West (Oxford University Press, 2021). [https://gossamernetwork.com/](https://gossamernetwork.com/)
+
+*Case studies in historical research using GIS*
+
+Vieira Paulino, Joana. 2025. “Child Abandonment in 19th Century Lisbon: The Provenance and Distribution of Foundlings Through a GIS Lens”. European Journal of Geography 16 (1):s75-s89. https://doi.org/10.48088/ejg.si.spat.hum.j.pau.75.89 
+
+Fretwell, Laura Brannan, and Eliane Schmid. 2025. “S”. European Journal of Geography 16 (1):s30-s44. https://doi.org/10.48088/ejg.si.spat.hum.l.bra.30.44
 
 
 *Watch:*
