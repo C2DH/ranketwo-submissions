@@ -71,6 +71,51 @@ Every app, website, and digital service we use today is built on layers of code 
 
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
+#### What kind of document is this? 
+Please check the image below to define what kind of document this is. You are looking at a piece of paper printed by a computer in 1978. It contains a short text written by computer scientist [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan). Before reading on, take a moment to consider: what do you think this document does? Who was it written for: a human or maybe a machine?
+
+![The famous "Hello, World!" program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/code-as-heritage/Hello_World_Brian_Kernighan_1978.jpg "Hello World program by Brian Kernighan")
+Figure 1 Brian Kernighan, "Hello, World!" program in C, printed on dot-matrix computer paper. Published in *The C Programming Language*, 1978. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
+
+Now try to execute the same piece of code yourself. Click on the link and press `Run`: [W3Schools editor] https://www.w3schools.com/cpp/trycpp.asp?filename=demo_helloworld 
+You just executed the same program, only several decades years later! The two words that appeared on your screen — "Hello, World!" — are the output of one of the most reproduced texts in the history of computing. 
+
+<details>
+<summary><strong>Catch up: </strong></summary>
+If you have ever opened a programming tutorial, textbook, or online course, you have likely encountered "Hello, World!"—a simple program that displays these two words on the screen. This modest example has become a standard convention: when introducing any programming language, authors almost invariably begin with a "Hello, World!" program. The [Rosetta Code repository](https://rosettacode.org/wiki/Hello_world/Text) documents the historical persistence and cultural significance of this convention by collecting implementations of "Hello, World!" in over 300 programming languages, organized chronologically from early mainframe languages through contemporary ones.
+
+But where did this tradition originate? The example traces back to Brian Kernighan, who first documented it in a 1972 Bell Labs memorandum titled *A Tutorial Introduction to the Language B*. It gained widespread adoption through *The C Programming Language* (1978), co-authored by Kernighan and Dennis Ritchie, one of the most influential programming textbooks ever published ([Wikipedia: "Hello, World!" program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)). The persistence of this convention across five decades and hundreds of programming languages illustrates that programming, like any human practice, develops shared traditions. The appearance of "Hello, World!" in contemporary Python tutorials represents direct historical lineage from Kernighan's 1972 memorandum and a form of cultural transmission preserved in code.
+</details>
+
+#### What is source code? 
+
+The above exercice shows a specificity at the heart of source code as a historical source: the text you just ran was written to be read by humans and executed by machines. Before going further, three basic concepts are worth establishing.
+
+> **Key concepts**
+**Program**: A set of instructions that tells a computer what to do, alias the executable files that run on computers.
+**Source code**: The human-readable form in which a programmer writes those instructions, before they are translated into something the machine can process. As computer scientist Darrell Ronald Raymond put it [in 1991](https://dl.acm.org/doi/10.5555/962111.962113)), source code's main role is not as "a compilable entity, but a human-readable statement of intent and mechanism in the program."
+**Programming language**: The shared vocabulary and grammar that makes that writing possible — like C, Python, or FORTRAN. Since the 1950s, hundreds of programming languages have been created, each with its own syntax, design philosophy, and community of practitioners.
+
+The fact that source code is human-readable has direct consequences for historians: it means that code, like any written document, bears traces of the intentions, values, and context of the people who wrote it. As Harold Abelson and Gerald Jay Sussman observed in 1996, "Programs must be written for people to read, and only incidentally for machines to execute." It is both an object and an action and it can be analyzed as such. Thus, source code must be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
+
+#### A source like any other? 
+
+Examine the following document from the *Source Code Exhibition*: [OPTIMIZING THE FUTURE: the Fortran Source Code of the Latin American World Model](https://www.sourcecode-exhibition.softwareheritage.org/optimizing-the-future-the-fortran-source-code-of-the-latin-american-world-model/)
+
+The [Latin American World Model (LAWM)](https://encyclopedia.pub/entry/31189) was developed in the 1970s by a multidisciplinary Argentinian team as an explicit political response to Western-dominated global models of development. Its source code, preserved as a printed sheet, is written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran), one of the earliest programming languages, developed in 1957 for scientific computing.
+
+Approach it as you would any unfamiliar archival document. You do not need to understand the code line by line. Instead, consider:
+
+* What does the layout and formatting of this document tell you about how it was produced and used?
+* What does the choice of FORTRAN — a standardized and widely used language — suggest about the intended audience?
+* What does it mean, in terms of accessibility and preservation, that this code was preserved as a printed sheet rather than as an executable file?
+
+This example helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
+
+
+
+
+<!--
 To define our object of study, consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute" ([Abelson and Sussman 1996](https://sarabander.github.io/sicp/html/index.xhtml)). What does this mean? Source code can be defined as the fundamental set of instructions of a program; human-readable computer commands written in [higher-level programming languages](https://en.wikipedia.org/wiki/High-level_programming_language) that require [compilation](https://en.wikipedia.org/wiki/Compiler) or [interpretation](https://en.wikipedia.org/wiki/Interpreter_(computing)) to become executable ([Krysa & Sedek 2008](https://monoskop.org/images/a/a1/Fuller_Matthew_ed_Software_Studies_A_Lexicon.pdf#%5B%7B%22num%22%3A515%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22Fit%22%7D%5D)).
 
 Since the 1950s, hundreds of [programming languages](https://en.wikipedia.org/wiki/Programming_language) have been created, each with its own syntax, design philosophy, and community of practitioners. Some languages, like [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran) and [COBOL (1959)](https://en.wikipedia.org/wiki/COBOL), emerged in specific institutional contexts—scientific computing and business administration respectively—and continue to run critical systems decades later. Others, like [Python (1991)](https://en.wikipedia.org/wiki/Python_(programming_language)), were designed with readability and accessibility in mind. This diversity means that source code must be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
@@ -93,6 +138,7 @@ The LAWM (Latin America World Model) was developed in the 1970s by a multidiscip
 This example helps us understand an essential tension in computing: while source code is ultimately designed to be executed on a machine, it is also fundamentally a form of human communication that bears witness to its historical context and contains valuable traces of the past.
 
 Not all source code is equally accessible. Code can be [open source](https://opensource.org/osd) or [proprietary](https://en.wikipedia.org/wiki/Proprietary_software), a distinction that fundamentally conditions who can read, analyze, and preserve it.
+-->
 
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
@@ -123,6 +169,7 @@ Among the key threats to source code is the potential for a Digital Dark Age ([S
 * Technological obsolescence: When hardware and software systems become outdated
 * Platform changes: When services hosting code shut down or significantly change
 * The ephemeral nature of digital storage: Digital media degrades over time
+* Accessibility: not all source code is equally accessible. Code can be [open source](https://opensource.org/osd) or [proprietary](https://en.wikipedia.org/wiki/Proprietary_software), a distinction that fundamentally conditions who can read, analyze, and preserve it.
 
 Why should we care about preserving historical code? This question is critical for historians and cultural preservationists to consider. Digital materials require intentional and continuous preservation strategies ([Conway 1996](https://www.clir.org/pubs/reports/conway2/index/)). Source code faces particular vulnerabilities: programming languages evolve, development platforms disappear, and the original context of creation can be lost within years of a program's abandonment.
 
