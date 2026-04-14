@@ -396,39 +396,34 @@ By Tabitha Redepenning
 
 *Learning outcome - manipulate the digital archive and analyze a corpus of digitized photos of historical sources*
 
-Mapping an area has always been particularly important in warfare because of the need to identify weak points and crucial targets between enemies. On maps for public use, information of military interest, such as fortifications, garrisons, armament factories etc. often remain(ed) invisible, at best only outlined in vague shapes or blank spaces. This demonstrates once more the selection process in representations on maps that may deceive. With World War Two, a new and powerful tool for surveying became widespread: aerial photography. Military technology enabled new ways of scouting the surface of the earth. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Japan, Great Britain, the United States of America, and the Soviet Union. Today, archives and libraries in many countries hold aerial photography, such as the National Collection of Aerial Photography (NCAP) in Great Britain (https://ncap.org.uk/), the National Archives in the USA [https://www.archives.gov/research/cartographic/aerial-photography] or the Bundesarchiv in Germany [https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/]. 
+Mapping an area has always been particularly important in warfare because of the need to identify weak points,crucial targets between enemies and to secure one’s own assets On maps for public use, information of military interest, such as fortifications, garrisons, armament factories etc. often remain(ed) invisible, at best only outlined in vague shapes or blank spaces. This demonstrates once more the selection process in representations on maps that may deceive. With World War Two, a new and powerful tool for surveying became widespread: aerial photography. Military technology enabled new ways of scouting the surface of the earth. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Japan, Great Britain, the United States of America, and the Soviet Union. Today, archives and libraries in many countries hold aerial photography, such as the National Collection of Aerial Photography (NCAP) in Great Britain (https://ncap.org.uk/), the National Archives in the USA [https://www.archives.gov/research/cartographic/aerial-photography] or the Bundesarchiv in Germany [https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/].
 
-![Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme No. XXXXXXXXXXXX](LINK-to-image)
-
-Figure 5. Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942.     
+Figure 5. Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942.
 
 The first illustration is a detail of the standard German topographic map 1:25000 showing the surroundings of Markstädt and Fünfteichen in Silesia, about 20 km East of Breslau/ Wrocław, dated 1942. In the following years of war, this map sheet was not updated. However, maps of smaller scales were published, such as Karte des Deutschen Reiches 1:100000, sheet No. 104 in 1944
 
-Figure 6. Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944.    
+Figure 6. Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944.
 
 By the end of the war, when the Soviet Army approached German borders, the Deutsche Luftwaffe (German air force) intensified reconnaissance flights in order to prepare defense. The following aerial image is part of the flight No. 1308 on 18 September 1944.
 
-![Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944.](https://dbs.herder-institut.de/karten/id/K01_1308) 
-Figure 6: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [https://dbs.herder-institut.de/karten/id/K01_1308] 
+Figure 6: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [https://dbs.herder-institut.de/karten/id/K01_1308]
 
 We can compare these different kinds of spatial representations and evaluate the content of the maps and the aerial image. In order to facilitate a comparison, we should rotate the aerial image Northwards and should adjust the maps to a similar scale.
 
-![Montage of aerial image and maps (LINK-to-image)] 
-Figure 7: Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
+![Montage of aerial image and maps (LINK-to-image)] Figure 7: Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
 
 Analysing the picture and comparing it to the topographic maps, the same settlements and the same converging train rails are recognisable. But there is more: The aerial image shows massive buildings (A) as well as a regular structure of small buildings (B).
 
-Comparing the topographic map with the aerial photographs reveals not only the actual situation of the settlement's building and the road and rail infrastructure, but also the state of knowledge of the various actors at a specific moment in time. The comparison above demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
+Comparing the topographic maps with the aerial photograph reveals a couple of differences and – at the same time – a comparison shows the different states of knowledge  of the various actors at a specific moment in time. The comparison above demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
 
 In order to collect more information about the buildings and infrastructure, we can search the Wikipedia for details about the history of Fünfteichen and Markstädt:
+https://de.wikipedia.org/wiki/Mi%C5%82oszyce_(Jelcz-Laskowice)
 
-[https://de.wikipedia.org/wiki/Mi%C5%82oszyce_(Jelcz-Laskowice)](https://en.wikipedia.org/wiki/Mi%C5%82oszyce)
+More information about the armaments factory near Jeltsch/Jelcz and its almost invisible remnants today are available here: https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/ (in Polish).
 
-More information about the armaments factory near Jeltsch/Jelcz are available here: 
-https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/ (in Polish).
+A more prisoner-focused article is available here, highlighting the importance of aerial photography for reconstructing memory today: https://www.holocaustmatters.org/fnfteichen-camp-overview/ (in English).
 
-Now reflect on the following:
-What advantage does the topographic map still hold compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as a standalone photograph will give you more insight. 
+Now reflect on the following: What advantage does the topographic map still hold compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as a standalone photograph will give you more insight. Additionally, consider the conditions under which these photographs were taken during wartime, as well as the different strategies used by each side to hide important information.
 
 
 ### 3.b Reporting War 1914 and 2024
