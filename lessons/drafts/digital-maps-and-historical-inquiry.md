@@ -403,30 +403,26 @@ Figure 6. Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesauf
 By the end of the war, when the Soviet Army approached German borders, the Deutsche Luftwaffe (German air force) intensified reconnaissance flights in order to prepare defense. The following aerial image is part of the flight No. 1308 on 18 September 1944.
 
 ![Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944.](https://dbs.herder-institut.de/karten/id/K01_1308) 
-Figure 6: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [https://dbs.herder-institut.de/karten/id/K01_1308]  
+Figure 6: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [https://dbs.herder-institut.de/karten/id/K01_1308] 
 
-We can compare these different kinds of spatial representations and evaluate the content of the maps and the aerial image.
+We can compare these different kinds of spatial representations and evaluate the content of the maps and the aerial image. In order to facilitate a comparison, we should rotate the aerial image Northwards and should adjust the maps to a similar scale.
 
+![Montage of aerial image and maps (LINK-to-image)] 
+Figure 7: Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
 
-Here, we are working with a photograph of an excursion of the 540 Squadron of the RAF, that took place in November 1943. The photo is part of the NCAP collection: [URL](https://ncap.org.uk/frame/6-1-5-3-254?pos=9) The following information about the image is provided in the file’s metadata: “Location: Pommerensdorf; West Pomeranian Province; Poland; 28th November 1943; Corporate bodies: 540 Squadron (RAF)”. Critically analysing these metadata, we notice as historians: 
-* that the name of the town of Stettin does not appear, thus disregarding the municipal incorporation of “Pommerensdorf [sic!]” into Stettin in 1939
-* that there is an anachronism in the sense that the town's location is “Poland” even though the photograph dates from a time the city was part of Germany. 
-Those research hurdles are a compromise between the city’s troubled history and the needs - sometimes shortcomings - of classifications of the patrimonial collections.  
+Analysing the picture and comparing it to the topographic maps, the same settlements and the same converging train rails are recognisable. But there is more: The aerial image shows massive buildings (A) as well as a regular structure of small buildings (B).
 
-Analysing the picture and comparing it to the topographic map, the same converging train rails, the flow of the river Oder/Odra and the river island — separated from the polder by a breach — are recognisable. But are there objects that are only visible in the photograph? Indeed, while the map shows the train tracks, it does not mark the goods station’s wagon depot (No. 1). The photograph reveals its location at the point where the train tracks converge. In the photograph, the hospital complex (No. 2) can be identified south of the west-east train tracks and a cemetery, recognisable by its greenery. However, the municipal gasworks (No. 3) across the south-north tracks and to the hospital’s East — recognisable by their striking round building structure — remain hidden on the map. Only information from other maps or the knowledge of the building shapes make the identification possible. This specific part of the town was heavily damaged by bomb raids already in April 1943. Therefore, empty fields, buildings without roofs and even some bomb craters are visible in the photograph. 
+Comparing the topographic map with the aerial photographs reveals not only the actual situation of the settlement's building and the road and rail infrastructure, but also the state of knowledge of the various actors at a specific moment in time. The comparison above demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
 
-Comparing the topographic map with the aerial photographs reveals not only the actual city's built environment and infrastructure, but also the state of knowledge of the various actors at a specific moment in time. The comparison above demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
+In order to collect more information about the buildings and infrastructure, we can search the Wikipedia for details about the history of Fünfteichen and Markstädt:
 
-The availability of homogenous series of large numbers of digitized images online, and their metadata, allow to investigate and cross-check sources quickly. Let's play with some data! 
+[https://de.wikipedia.org/wiki/Mi%C5%82oszyce_(Jelcz-Laskowice)](https://en.wikipedia.org/wiki/Mi%C5%82oszyce)
 
-Track [the flights over Stettin/Szczecin on the NCAP archive](https://ncap.org.uk/search?pos=9%20%5B13.03.2024%5D&archive=6-1-5-3) that are all organized in the same series and can be sorted with this filter. Check their metadata and note down: 
-* How many excursions took place? 
-* When were they conducted? 
-
-You can read the Wikipedia articles on the [540 Squadron of the RAF](https://en.wikipedia.org/wiki/No._540_Squadron_RAF) to find complementary information on the flights. After doing this, can you find possible explanations for the route, the timing, and the town areas that were left out?
+More information about the armaments factory near Jeltsch/Jelcz are available here: 
+https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/ (in Polish).
 
 Now reflect on the following:
-What advantage does the topographic map still hold  compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as a standalone photograph will give you more insight. 
+What advantage does the topographic map still hold compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as a standalone photograph will give you more insight. 
 
 
 ### 3.b Reporting War 1914 and 2024
