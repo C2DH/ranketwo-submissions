@@ -414,7 +414,7 @@ We can compare these different kinds of spatial representations and evaluate the
 
 Analysing the picture and comparing it to the topographic maps, the same settlements and the same converging train rails are recognisable. But there is more: The aerial image shows massive buildings (A) as well as a regular structure of small buildings (B).
 
-Comparing the topographic maps with the aerial photograph reveals a couple of differences and – at the same time – a comparison shows the different states of knowledge  of the various actors at a specific moment in time. The comparison above demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
+Comparing the topographic maps with the aerial photograph reveals a couple of differences and – at the same time – a comparison shows the different states of knowledge  of the various actors at a specific moment in time. It demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
 
 In order to collect more information about the buildings and infrastructure, we can search the Wikipedia for details about the history of Fünfteichen and Markstädt:
 https://de.wikipedia.org/wiki/Mi%C5%82oszyce_(Jelcz-Laskowice)
