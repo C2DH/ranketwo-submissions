@@ -425,14 +425,11 @@ Analysing the picture and comparing it to the topographic maps, the same settlem
 
 Comparing the topographic maps with the aerial photograph reveals a couple of differences and – at the same time – a comparison shows the different states of knowledge  of the various actors at a specific moment in time. It demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. Oftentimes, the domain-knowledge of a historian is crucial in integrating and assimilating all these different elements into the visualization and representation of a place in time.
 
-In order to collect more information about the buildings and infrastructure, we can search the Wikipedia for details about the history of Fünfteichen and Markstädt:
-https://de.wikipedia.org/wiki/Mi%C5%82oszyce_(Jelcz-Laskowice)
+In order to collect more information about the buildings and infrastructure, we can use the [Wikipedia article on the history of Fünfteichen and Markstädt](https://en.wikipedia.org/wiki/Mi%C5%82oszyce).
 
-More information about the armaments factory near Jeltsch/Jelcz and its almost invisible remnants today are available here: https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/ (in Polish).
+More information about the armaments factory near Jeltsch/Jelcz and its almost invisible remnants today are available in [this article in Polish](https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/).
 
-A more prisoner-focused article is available here, highlighting the importance of aerial photography for reconstructing memory today: https://www.holocaustmatters.org/fnfteichen-camp-overview/ (in English).
-
-Now reflect on the following: What advantage does the topographic map still hold compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as a standalone photograph will give you more insight. Additionally, consider the conditions under which these photographs were taken during wartime, as well as the different strategies used by each side to hide important information.
+Now reflect on the following: What advantage does the topographic map still hold compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs regarding their quality, the image section and their informative value as a standalone photograph will give you more insight. Additionally, consider the conditions under which these photographs were taken during wartime, as well as the different strategies used by each side to hide important information. You may use further reading suggestions provided below. 
 
 
 ### 3.b Reporting War 1914 and 2024
@@ -476,7 +473,11 @@ There are more online maps about the Russian-Ukrainian war. Analyse differences 
 
 Comparing maps from World War One and the Ukrainian War, what do you notice when applying source criticism (refer to the list provided in assignment 2)? Are you able to identify the context of creation, the intention of the maps and the sources of information? What do you notice about the creators? Is there something that changes and why?
 
-### Reading/ viewing suggestions of: 3 History takes place. Maps as (real-time) data
+### Reading/viewing suggestions
+
+*A prisoner-focused article highlighting the importance of aerial photography for reconstructing memory*
+ 
+"Fünfteichen camp - Overview". *Holocaust Matters*. Resource for Holocaust Education. 18 May 2017. Overview courtesy of The United States Holocaust Memorial Museum ENCYCLOPEDIA OF CAMPS AND GHETTOS, 1933–1945. [https://www.holocaustmatters.org/fnfteichen-camp-overview/](https://www.holocaustmatters.org/fnfteichen-camp-overview/)
 
 ## 4 Datasets as maps: exploring historical Geographical Information Systems (GIS)
 Geographical information systems, hereafter GIS, are not exactly maps. A [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) is a software that allows us to display data on a [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) area which this means we have a digital map encoded with [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system). Therefore, we have a map, created digitally, where the area that it represents is attached to geographic coordinates e.g. its exact geographic positions on earth represented mathematically, for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
