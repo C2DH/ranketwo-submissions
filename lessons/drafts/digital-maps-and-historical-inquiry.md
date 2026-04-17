@@ -457,8 +457,9 @@ Figure 8bis: detail of the previous
 ![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Large scale map, Franco-German front, February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain") 
 
  
-A couple of decades after a war is over, archives in many countries give access to these kinds of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question "what is the content of the map“ may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
-Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or web map services that provide specific data and that change of the course of time. Prominent examples of web map services about the Russian-Ukrainian war are the LiveUAmap, the ACLEDdata [https://acleddata.com/monitor/ukraine-conflict-monitor] map or the web map of the Neue Zürcher Zeitung [https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087].
+A couple of decades after a war is over, archives in many countries give access to these kinds of large scale maps. Usually, such maps were printed by the army map services. Surveying officers at the front line used hand drawn remarks to keep them up to date in order to provide a reliable image of the situation. The question "what is the content of the map" may lead us to a variety of answers: Of course, the topography of the hills and valleys South of Verdun as well as the tight network of trenches are visible on the map. In addition, we can take the map as a representation of static warfare (armies on both sides fight over just a few hundred meters to capture the opposite trench) and as a representation of a huge grave yard with thousands of soldiers who died in these fields.
+
+Today, we also find many small scale maps about ongoing wars in the world printed in newspapers and journals, for example about the Russian-Ukrainian war since 2022. In addition to newspaper maps, there are many more maps online, small scale and large scale. These digital maps are either static images or dynamic web map services that provide specific data and that change of the course of time (the latter are based on use of Geographic information systems that we see more in detail in assignment 4). Prominent examples of web map services about the Russian-Ukrainian war are the [LiveUAmap](https://liveuamap.com/en/), the [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor) map or the web map of the [Neue Zürcher Zeitung](https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087].
 
 ![Screenshot of Ukraine on the service Live Universal Awareness Map on the 7th of June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 Figure 9: Screenshot of Ukraine on LiveUAmap on the 7th of June 2023
@@ -467,17 +468,31 @@ Images reproduced for the purpose of this lesson following [terms of use](https:
 
 These web map services about the Russian-Ukrainian war are multi-scale maps. In a small scale these services allow for an overview, in large scale the user can zoom in to the front line in a particular region. The content of the map is derived from various sources, such as messenger services, military press briefings etc. Although we can zoom in to a large scale map, and although we can find information about the front line in detail, most maps do not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
-Check web map services about conflicts and wars in the world and explore the sources of information that are located on these maps: What kind of messenger services, media, government and non-government institutions provide details about events of war shown on the map? Are there more information about one side of the front than about the other? What are the reasons for differences? **It is not clear if what you want here is to check the sources of geo information, for ex. OpenStreetMap, or the sources in the news feed on the right: this must be clarified - CL-2026-04-13: I extended this passage with guiding questions.** 
+Now work yourself to apply basic principles of source criticism in all three cases below (refer to the list provided in assignment 2).
 
-There are more online maps about the Russian-Ukrainian war. Analyse differences between LiveUAmap and maps provided by the [Institute for the Study of War](https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-11-2024). **For example, you could use [this map](https://www.understandingwar.org/sites/default/files/Luhansk%20Battle%20Map%20Draft%20March%2011%2C2024.png).**
+First, compare maps from World War One and the Ukrainian War. Are you able to identify the context of creation, the intention of the maps and the sources of information? What do you notice about the creators? Is there something that changes and why?  
 
-Comparing maps from World War One and the Ukrainian War, what do you notice when applying source criticism (refer to the list provided in assignment 2)? Are you able to identify the context of creation, the intention of the maps and the sources of information? What do you notice about the creators? Is there something that changes and why?
+Second, focus on the online maps about the Russian-Ukrainian war. Explore and compare maps provided by LiveUAmap and the [Institute for the Study of War](https://understandingwar.org/analysis/map-room/?_map_type=interactive-map). 
+* Apply source criticism (reuse the questions above)
+* Analyse any differences your are able to identify between them.   
+
+Finally, please choose and check at least two web map services about conflicts and wars in the world. You may use some of these mentionned above or do research on the web to find services you are most interested in. If you are short of ideas, we provide some references in the reading suggestions below. Once your choice is made: 
+* Apply source criticism as previously
+* Explore additional sources of information that can be combined to the maps: instant messaging services, (social) media... 
+* Can you identify government and non-government institutions that provide details about events of war shown on the map? 
+* Are there more information about one side of the front than about the other? If so, what are the reasons for differences? 
+
 
 ### Reading/viewing suggestions
 
-*A prisoner-focused article highlighting the importance of aerial photography for reconstructing memory*
- 
+*Aerial photography - A prisoner-focused article highlighting the importance of aerial photography for reconstructing memory*
+
 "Fünfteichen camp - Overview". *Holocaust Matters*. Resource for Holocaust Education. 18 May 2017. Overview courtesy of The United States Holocaust Memorial Museum ENCYCLOPEDIA OF CAMPS AND GHETTOS, 1933–1945. [https://www.holocaustmatters.org/fnfteichen-camp-overview/](https://www.holocaustmatters.org/fnfteichen-camp-overview/)
+
+*Conflict related web map services* 
+
+[War Watch](https://warwatch.ch/)
+[War Mapper](https://www.warmapper.org/)
 
 ## 4 Datasets as maps: exploring historical Geographical Information Systems (GIS)
 Geographical information systems, hereafter GIS, are not exactly maps. A [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) is a software that allows us to display data on a [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) area which this means we have a digital map encoded with [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system). Therefore, we have a map, created digitally, where the area that it represents is attached to geographic coordinates e.g. its exact geographic positions on earth represented mathematically, for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
