@@ -535,19 +535,19 @@ By Christian Lotz
 
 This assignment does not provide an initiation to GIS and mapping software, as such resources are already available online (see reading suggestions below). Instead, it focuses on how historians can critically evaluate available GIS datasets and the maps which were created based on this data. 
 
-**Simply put, GIS data, that we call [geopackages](https://fr.wikipedia.org/wiki/Geopackage), are a combination of folders containing spatial data, attribute data, and metadata. The spatial data are necessary to create the representation of the space the map focuses on, whereas the attribute data serves to describe it with a variety of features, depending the point of view/ intention of the map. This data creates the layers of the map. Finally, the metadata provides descriptive and technical information about the two other types of data. Once imported in a GIS software, this data serves to create the layers of the map - that we previously imagined as sheets of different information attached to a map.** 
+Simply put, GIS data, that we call [geopackages](https://en.wikipedia.org/wiki/GeoPackage), are a combination of folders containing spatial data, attribute data, and metadata. The spatial data are necessary to create the representation of the space the map focuses on, whereas the attribute data serves to describe it with a variety of features, depending the point of view/ intention of the map. This data creates the layers of the map. Finally, the metadata provides descriptive and technical information about the two other types of data. Once imported in a GIS software, this data serves to create the layers of the map - that we previously imagined as sheets of different information attached to a map. 
 
-GIS data is available in various repositories such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library){:target="_blank"} **which is specialized in geospatial data. They can also be available in scientific repositories not necessarily specialized in geospatial data, or centralized repositories where governments enable publishing of open datasets.** Historians, as other users, can download geopackages from these repositories to use them with the software of their choice. **Or they can create and contribute their own datasets.** 
+GIS data is available in various repositories such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library){:target="_blank"} which is specialized in geospatial data. They can also be available in scientific repositories not necessarily specialized in geospatial data, or centralized repositories where governments enable publishing of open datasets. Historians, as other users, can download geopackages from these repositories to use them with the software of their choice. Or they can create and contribute their own datasets. 
 
 Regarding digital source criticism, we should focus on the following questions: 
 
 * What is the origin of the data used to create the dataset? 
-* How did the creators of the dataset transform the original information into data? What kind of categories did the creators of the dataset **privilege** to transform the information into data?
-**What are the technical components and environment that may have had an impact on the creation of the dataset?**  
+* How did the creators of the dataset transform the original information into data? What kind of categories did the creators of the dataset privilege to transform the information into data?
+* What are the technical components and environment that may have had an impact on the creation of the dataset?  
 
-**Good quality metadata, and the existence of detailed documentation, are crucial elements for evaluating the datasets, as some of the information necessary for the above may be available there. Sometimes, information about the dataset is provided in specific scientific publications, the data papers (peer reviewed articles describing a dataset).**
+Good quality metadata, and the existence of detailed documentation, are crucial elements for evaluating the datasets, as some of the information necessary for the above may be available there. Sometimes, information about the dataset is provided in specific scientific publications, the data papers (peer reviewed articles describing a dataset).
 
-**Let's investigate some information on two datasets imported and opened with QGIS software, displayed in the two screenshots below.** 
+Let's investigate some information on two datasets imported and opened with QGIS software, displayed in the two screenshots below. 
 
 The screenshot below (figure 10) shows the dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University. The Imperiia Project created data sets about the administrative borders of the Russian Empire.
 The authors of the dataset describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity, its name in Russian with Cyrillic alphabet and a latin transliteration are given.
@@ -555,14 +555,14 @@ The authors of the dataset describe the preparation of data and the sources from
 Figure 10: Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.
 
 ![Kingdom of Poland as part of the Russian Empire in the 19th c., visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualization of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
-**Dataset reference: O’Neill, Kelly. 2016. “Administrative Boundaries of the Russian Empire (1820s): Provinces (Oblasti).” Harvard Dataverse. https://doi.org/doi:10.7910/DVN/5LUP5S.** 
+Dataset reference: O’Neill, Kelly. 2016. “Administrative Boundaries of the Russian Empire (1820s): Provinces (Oblasti).” Harvard Dataverse. https://doi.org/doi:10.7910/DVN/5LUP5S. 
 
 The following screenshot (figure 11) shows a dataset about the border of the partitions of Poland. The dataset was created by Christopher Winters at Chicago University. Compared to the previous dataset, the amount of additional information to the data set is very different. While the Imperiia Project provides sources for the data set, there are no sources given in Winters‘ data set. The absence of sources does not mean that the data set is wrong or that the depicted line of the border is not correct. However, from a historian‘s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
 
 Figure 11: Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.
 ![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 <!-- should ask if we have the right to display this image -->
-**Dataset reference: Brown, Sam. n.d. “Polish historical boundaries.”  Includes shapefiles showing the boundaries of Poland at the time of the Third Partition; the Duchy of Warsaw in 1807; the Kingdom of Poland under the Czars; and Interwar Poland; also województwa, 1945-1968. Library of the University of Chicago. https://www.lib.uchicago.edu/e/collections/maps/uofcgis.html**
+Dataset reference: Brown, Sam. n.d. “Polish historical boundaries.”  Includes shapefiles showing the boundaries of Poland at the time of the Third Partition; the Duchy of Warsaw in 1807; the Kingdom of Poland under the Czars; and Interwar Poland; also województwa, 1945-1968. Library of the University of Chicago. https://www.lib.uchicago.edu/e/collections/maps/uofcgis.html
 
 Browse the resources available on the website [The Historical GIS Research Network](http://hgis.org.uk/). Explore available datasets and compare them. In particular, look for information about the origin of the data, about the conception and the creation of the data, and the technical environment of the inception of the dataset.
 
