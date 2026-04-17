@@ -396,21 +396,30 @@ By Tabitha Redepenning
 
 *Learning outcome - manipulate the digital archive and analyze a corpus of digitized photos of historical sources*
 
-Mapping an area has always been particularly important in warfare because of the need to identify weak points,crucial targets between enemies and to secure one’s own assets On maps for public use, information of military interest, such as fortifications, garrisons, armament factories etc. often remain(ed) invisible, at best only outlined in vague shapes or blank spaces. This demonstrates once more the selection process in representations on maps that may deceive. With World War Two, a new and powerful tool for surveying became widespread: aerial photography. Military technology enabled new ways of scouting the surface of the earth. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Japan, Great Britain, the United States of America, and the Soviet Union. Today, archives and libraries in many countries hold aerial photography, such as the National Collection of Aerial Photography (NCAP) in Great Britain (https://ncap.org.uk/), the National Archives in the USA [https://www.archives.gov/research/cartographic/aerial-photography] or the Bundesarchiv in Germany [https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/].
+Mapping an area has always been particularly important in warfare because of the need to identify weak points,crucial targets between enemies and to secure one’s own assets. On maps for public use, information of military interest, such as fortifications, garrisons, armament factories etc. often remain(ed) invisible, at best only outlined in vague shapes or blank spaces. This demonstrates once more the selection process in representations on maps that may deceive. With World War Two, a new and powerful tool for surveying became widespread: aerial photography. Military technology enabled new ways of scouting the surface of the earth. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Japan, Great Britain, the United States of America, and the Soviet Union. Today, archives and libraries in many countries hold aerial photography, such as the National Collection of Aerial Photography (NCAP) in Great Britain (https://ncap.org.uk/), the National Archives in the USA [https://www.archives.gov/research/cartographic/aerial-photography] or the Bundesarchiv in Germany [https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/].
 
-Figure 5. Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942.
+![Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942](/assets/images/maps-as-historical-sources/K3IIL58_4969_2893_Naedlingen_1942_01-Detail.jpg "Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942") 
+
+Figure . Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942. Source: Herder Institute
 
 The first illustration is a detail of the standard German topographic map 1:25000 showing the surroundings of Markstädt and Fünfteichen in Silesia, about 20 km East of Breslau/ Wrocław, dated 1942. In the following years of war, this map sheet was not updated. However, maps of smaller scales were published, such as Karte des Deutschen Reiches 1:100000, sheet No. 104 in 1944
 
-Figure 6. Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944.
+![Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944](/assets/images/maps-as-historical-sources/K3IIL63_104_Breslau-Schweidnitz_1944_01-Detail.jpg "Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944")
+
+
+Figure . Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944. Source: Herder Institute
 
 By the end of the war, when the Soviet Army approached German borders, the Deutsche Luftwaffe (German air force) intensified reconnaissance flights in order to prepare defense. The following aerial image is part of the flight No. 1308 on 18 September 1944.
 
-Figure 6: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [https://dbs.herder-institut.de/karten/id/K01_1308]
+![Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944](/assets/images/maps-as-historical-sources/K01_1308_689.jpg "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944")
+
+Figure : Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [Source: Herder Institute](https://dbs.herder-institut.de/karten/id/K01_1308)
 
 We can compare these different kinds of spatial representations and evaluate the content of the maps and the aerial image. In order to facilitate a comparison, we should rotate the aerial image Northwards and should adjust the maps to a similar scale.
 
-![Montage of aerial image and maps (LINK-to-image)] Figure 7: Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
+![Montage of aerial image and maps](/assets/images/maps-as-historical-sources/Montage-Fuenfteichen_05.jpg "Montage of aerial image and maps") 
+
+Figure : Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
 
 Analysing the picture and comparing it to the topographic maps, the same settlements and the same converging train rails are recognisable. But there is more: The aerial image shows massive buildings (A) as well as a regular structure of small buildings (B).
 
