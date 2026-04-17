@@ -470,15 +470,14 @@ Comparing maps from World War One and the Ukrainian War, what do you notice when
 ### Reading/ viewing suggestions of: 3 History takes place. Maps as (real-time) data
 
 ## 4 Datasets as maps: exploring historical Geographical Information Systems (GIS)
+Geographical information systems, hereafter GIS, are not exactly maps. A [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) is a software that allows us to display data on a [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) area which this means we have a digital map encoded with [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system). Therefore, we have a map, created digitally, where the area that it represents is attached to geographic coordinates e.g. its exact geographic positions on earth represented mathematically, for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
+
+GIS allows the layering of information. Imagine transparent sheets laid on top of each other: the first layer shows a base map, the next one may depict roads, another rivers, and yet another marks locations specific historical events. Each layer contains different types of data that you can turn on and off to see patterns and connections. As historians, we can layer different historical sources e.g. census data, trade routes, or national borders and analyze spatial change over time or discover connections that aren't obvious when looking at other types of sources. 
 
 ### 4.a Understanding the concept of layered information
 By Eliane Schmid 
 
-GIS ≠ Maps. A [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) is a software that allows us to display data on a [georeferenced](https://en.wikipedia.org/wiki/Georeferencing) area (this means we have a digital map encoded with [geographic coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system) ==> we have a map, created digitally, where the area that it represents is attached to geographic coordinates e.g. its exact geographic positions on earth represented mathematically) for analytical purposes. By displaying data (for example the number of inhabitants per neighborhood in a city), we can determine any spatial patterns that may exist, or present results of previous analytical work. 
-
-GIS allows the layering of information. **Imagine transparent sheets laid on top of each other: the first layer shows a base map, the next one may depict roads, another rivers, and yet another marks locations specific historical events. Each layer contains different types of data that you can turn on and off to see patterns and connections.** As historians, we can layer different historical sources **e.g. census data, trade routes, or national borders** and analyze spatial change over time **or discover connections that aren't obvious when looking at other types of sources.** 
-
-To understand what this can look like, access the [“Spatio-Temporal Map”](https://ww2.lu/spatiotemporal-map) of the online exhibition World War II Luxembourg. 
+To understand what layered geographic information can look like, access the [“Spatio-Temporal Map”](https://ww2.lu/spatiotemporal-map) of the online exhibition World War II Luxembourg. 
 * First, explore the maps. There are four different maps that you can choose from. 
 * Click on them one by one and notice how the same space is represented differently each time. 
 * Describe briefly what each layer represents. 
