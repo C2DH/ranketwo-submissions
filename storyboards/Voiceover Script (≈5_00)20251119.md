@@ -45,7 +45,7 @@ Check **creator, purpose, scope, and rights**. Good metadata speeds research and
 
  **Principle 9 — GIS is not cartography (4:26–4:50)**
 **GIS** is a toolkit for **building and analyzing layers** on a georeferenced base; **cartography** is the craft of designing a legible, persuasive map.
-Imagine transparent sheets: population density, trade routes, disease outbreaks, battle sites. Turn layers on and off, combine them, and ask spatial questions. (For example, the WWII Luxembourg spatio-temporal layers in the lesson reveal how space shaped events.)
+Imagine transparent sheets: population density, trade routes, disease outbreaks, battle sites. Turn layers on and off, combine them, and ask spatial questions. <!--(For example, the WWII Luxembourg spatio-temporal layers in the lesson reveal how space shaped events.)-->
 
 **Principle 10 — Study maps like any source (4:51–5:00)**
 Ask: Who made the map, when, and for whom? What choices structure it? What does it make visible—and what does it hide? How does it compare with other sources? And don't forget to critically interrogate the digital infrastructures that shape what you can see and analyze.
