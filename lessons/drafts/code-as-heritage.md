@@ -144,7 +144,7 @@ Not all source code is equally accessible. Code can be [open source](https://ope
 
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
-Why should we care about preserving historical code? This question is critical for historians and cultural preservationists to consider. Digital materials require intentional and continuous preservation strategies ([Conway 1996](https://www.clir.org/pubs/reports/conway2/index/)). Source code faces particular vulnerabilities: programming languages evolve, development platforms disappear, and the original context of creation can be lost within years of a program's abandonment.
+Why should we care about preserving historical code? Source code faces particular vulnerabilities, as concrete examples in 1.c show.
 
 The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
 
@@ -246,10 +246,12 @@ Musiani, Francesca, and Valérie Schafer. 2016. 'Digital Heritage and Heritagiza
 <!--
 *These references serve part 1.c*
 
-- Conway, Paul. 1996. *Preservation in the Digital World*. Commission on Preservation and Access. https://www.clir.org/pubs/reports/pub154/
+- 
 
 - Silva, Ana Paula. 2022. 'All of Humankind's Source Code in a Nutshell'. *Software Heritage*. https://www.softwareheritage.org/2022/06/28/all-of-humankinds-source-code-in-a-nutshell/
 -->
+Conway, Paul. 1996. *Preservation in the Digital World*. Commission on Preservation and Access. https://www.clir.org/pubs/reports/pub154/
+
 Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?' *IEEE Annals of the History of Computing* 28 (4): 112–111. https://doi.org/10.1109/MAHC.2006.78
 <!--
 **Case Studies in Code Recovery and Loss:**
