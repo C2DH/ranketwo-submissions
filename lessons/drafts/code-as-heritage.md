@@ -144,6 +144,8 @@ Not all source code is equally accessible. Code can be [open source](https://ope
 
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
+Why should we care about preserving historical code? This question is critical for historians and cultural preservationists to consider. Digital materials require intentional and continuous preservation strategies ([Conway 1996](https://www.clir.org/pubs/reports/conway2/index/)). Source code faces particular vulnerabilities: programming languages evolve, development platforms disappear, and the original context of creation can be lost within years of a program's abandonment.
+
 The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
 
 Why was this recognition important? By officially affirming the historical and cultural value of digital materials, UNESCO effectively placed them on equal footing with traditional heritage forms like monuments and artifacts, highlighting their significance for future generations.
@@ -172,8 +174,6 @@ Among the key threats to source code is the potential for a Digital Dark Age ([S
 * Platform changes: When services hosting code shut down or significantly change
 * The ephemeral nature of digital storage: Digital media degrades over time
 * Accessibility: not all source code is equally accessible. Code can be [open source](https://opensource.org/osd) or [proprietary](https://en.wikipedia.org/wiki/Proprietary_software), a distinction that fundamentally conditions who can read, analyze, and preserve it.
-
-Why should we care about preserving historical code? This question is critical for historians and cultural preservationists to consider. Digital materials require intentional and continuous preservation strategies ([Conway 1996](https://www.clir.org/pubs/reports/conway2/index/)). Source code faces particular vulnerabilities: programming languages evolve, development platforms disappear, and the original context of creation can be lost within years of a program's abandonment.
 
 Let us examine this aspect from the perspective of video games. 
 
