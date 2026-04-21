@@ -189,17 +189,8 @@ Look at the image below. You are looking at a storage medium from 1984. It conta
 
 Jet Set Willy was a platform game originally created by Matthew Smith for the [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) personal computer and then ported to other platforms. 
 In that early home computing era of late 1970s–mid 1980s, software was distributed on audio cassettes: game data was encoded as sound, and users loaded programs by playing the tape into their computer. Crucially, what cassettes preserved was the *executable code*, the machine-readable version of the program, and not the *source code* originally written by the programmer. Source code, with its human-readable logic, comments, and variable names, typically remained with the developer or publisher. When companies went bankrupt, restructured, or simply failed to archive their materials, this source code was often lost. What researchers can recover from surviving cassettes is a [reconstruction of how the program functions](https://en.wikipedia.org/wiki/Reverse_engineering), not the original code as written. Nowadays, the game can be [played in a browser-based emulator (directly from your browser) on the Internet Archive](https://archive.org/details/Jet_Set_Willy_1984_Software_Projects). <!--Sofia question: was this obtained by reverse engineering? --> 
- 
-Take the example of the game *Jet Set Willy* ([Aycock et al. 2017](https://intarch.ac.uk/journal/issue45/2/index.html)). This . 
-  
- 
-Likewise games, early web applications, mobile apps, and desktop software that fundamentally shaped our computer interactions have disappeared, taking with them vital evidence of digital culture's evolution ([Kirschenbaum and Ovenden 2014](https://www.clir.org/pubs/reports/pub149/)). This loss extends far beyond individual programs as it affects entire development ecosystems. As programming languages become obsolete and development tools disappear, the specialized knowledge of working with these particular systems gradually scatters as communities evolve and move on to newer technologies ([Shustek 2006](https://ieeexplore.ieee.org/document/4042496)). The resulting impact is both technical and cultural: we lose valuable access to the creative processes that developers used, the collaborative practices they established, and the innovative solutions they created — all of which defined significant periods in computing history.
 
-Amid these losses, remarkable stories of recovery and reconstruction offer hope. The [Apollo 11](https://www.nasa.gov/mission/apollo-11/) source code, a case we examine in detail in section 2 of the lesson, was once considered lost, but was meticulously reconstructed from printed documentation and surviving fragments. Such recoveries reveal not just technical achievement but the working methods, naming conventions, and even humor embedded by programming teams. These discoveries provide unique insights into computing culture that descriptive historical sources alone could never capture.
-
-**Exercise – Examining some Heritage Needs and Efforts**
-
-For this exercice, you will compare and analyze two perspectives on code preservation. Read both articles carefully to identify their approaches to digital heritage preservation and the challenges they address. *Estimated time of reading: 15-20 minutes*
+Now you will compare and analyze two perspectives on video code preservation. Read both articles carefully to identify their approaches to digital heritage preservation and the challenges they address. *Estimated time of reading: 15-20 minutes*
 
 * [I tried to find a way to preserve code for 69 years (this is not a joke)](https://museumofscreens.wordpress.com/2022/12/09/how-to-preserve-code-for-69-years-this-is-not-a-joke/) 
 * [Vanishing Culture: Recovering Lost Software](https://blog.archive.org/2025/05/07/vanishing-culture-recovering-lost-software/)
@@ -208,7 +199,16 @@ Questions for reflection:
 
 1. Identify common elements: What shared goals, concerns, and types of code do both articles discuss?
 2. Analyze preservation challenges: What specific technical and cultural obstacles do both authors encounter in their preservation efforts?
-3. Compare methodological approaches: How do their different approaches reflect the broader challenge of code preservation?
+3. Compare methodological approaches: How do their different approaches reflect the broader challenge of code preservation?  
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+Likewise games, early web applications, mobile apps, and desktop software that fundamentally shaped our computer interactions have disappeared, taking with them vital evidence of digital culture's evolution ([Kirschenbaum and Ovenden 2014](https://www.clir.org/pubs/reports/pub149/)). This loss extends far beyond individual programs as it affects entire development ecosystems. As programming languages become obsolete and development tools disappear, the specialized knowledge of working with these particular systems gradually scatters as communities evolve and move on to newer technologies ([Shustek 2006](https://ieeexplore.ieee.org/document/4042496)). The resulting impact is both technical and cultural: we lose valuable access to the creative processes that developers used, the collaborative practices they established, the innovative solutions they created, and even humor embedded by programming teams. All these aspects defined significant periods in computing history and provide unique insights into computing culture that descriptive historical sources alone could never capture.
+</details>
+
+
+<!--this is extensively covered in part 3
+Amid these losses, remarkable stories of recovery and reconstruction offer hope. The [Apollo 11](https://www.nasa.gov/mission/apollo-11/) source code, a case we examine in detail in section 2 of the lesson, was once considered lost, but was meticulously reconstructed from printed documentation and surviving fragments. Such recoveries reveal not just technical achievement but the working methods, naming conventions, and even humor embedded by programming teams. These discoveries provide unique insights into computing culture that descriptive historical sources alone could never capture.-->
 
 ### Reading/viewing suggestions
 
@@ -263,16 +263,15 @@ Shustek, Len. 2006. 'What Should We Collect to Preserve the History of Software?
 
 - Video Game History Foundation. 2023. 'Survey of the Video Game Reissue Market in the United States'. https://gamehistory.org/study-explainer/
 
-- Aycock, John, Andrew Reinhard, and Archaeogaming. 2017. 'Copy Protection in Jet Set Willy: Developing Methodology for Retrogame Archaeology'. *Internet Archaeology* 45. https://doi.org/10.11141/ia.45.2
-
 - Kirschenbaum, Matthew G., Richard Ovenden, Gabriela Redwine, and Rachel Donahue. 2010. *Digital Forensics and Born-Digital Content in Cultural Heritage Collections*. CLIR Publication 149. Council on Library and Information Resources. https://www.clir.org/pubs/reports/pub149/
 
-- Lowood, Henry. 2009. 'Videogames in Computer Space: The Complex History of Pong'. *IEEE Annals of the History of Computing* 31 (3): 5–19. https://doi.org/10.1109/MAHC.2009.53
+- Lowood, Henry. 2009. 'Videogames in Computer Space: The Complex History of Pong'. *IEEE Annals of the History of Computing* 31 (3): 5–19. https://doi.org/10.1109/MAHC.2009.53 -->
 
-**Explore Online:**
+**On Jet Set Willy**
+Aycock, John, Andrew Reinhard, and Archaeogaming. 2017. 'Copy Protection in Jet Set Willy: Developing Methodology for Retrogame Archaeology'. *Internet Archaeology* 45. https://doi.org/10.11141/ia.45.2
 
-- Internet Archive. *Jet Set Willy* (Commodore 64, 1984). Playable in browser-based emulator. https://archive.org/details/Jet_Set_Willy_1984_Software_Projects
--->
+Internet Archive. *Jet Set Willy* (Commodore 64, 1984). Playable in browser-based emulator. https://archive.org/details/Jet_Set_Willy_1984_Software_Projects
+
 
 ## 2 Reading Code as Historical Source
 
