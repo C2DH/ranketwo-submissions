@@ -66,17 +66,17 @@ There are multiple ways for historians to use maps for their research. They can 
 
 The technological tools we have at our disposal today have transformed how historians access and utilize cartographic resources. In this lesson we will differentiate between two types of maps: (1) maps which were produced in the analogue age but are now accessible as a digital representation online; and (2) maps which were “born digital” using digital infrastructures and elements. 
 
-## 1 Accessing maps in the digital age: the mediation of the online repository  
+## 1 Accessing maps in the digital age: the role of online repositories 
 
-*Learning outcome 1 - critically analyze a digital repository to evaluate the provenance of a map* 
+*Learning outcome 1 - critically analyse a digital repository to evaluate the provenance of a map* 
 
-*Learning outcome 2 - recognize the variety of digital repositories providing access to maps*
+*Learning outcome 2 - recognise the variety of digital repositories providing access to maps*
 
-*Learning outcome 3 - identify forms of collaborative participation in maps' archival descriptions*
+*Learning outcome 3 - identify forms of collaborative participation in the archival descriptions of maps*
 
 In today’s digital age, it is easier to access maps than ever before. Large-scale digitisation efforts at libraries and archives have made maps far more easily available through online access. Digital libraries and repositories offer multiple cartographic sources, although not all maps are openly accessible and there can be disparities between the quality of digitisation, the technical features and the additional information provided for each map. This may reflect different purposes or conditions in which the archive was created, different means of funding, or different levels of community investment.
 
-### 1.a Interrogating the (digital) map archive
+### 1.a Consulting digital map archives
 Each online library has its advantages and disadvantages, and these vary depending on the intended use of the resources and the research question(s) being studied. For some projects, a simple map giving an overview of a certain region may be sufficient; other projects may necessitate very large-scale maps, including detailed information about the date of production, the publisher, etc. In any case, the information provided by a map repository should allow historians to establish with certainty the provenance of the map and the available resources.
 
 The following list is a selection of online map libraries that may be of interest for historians. There are many more, but we can start exploring here:
