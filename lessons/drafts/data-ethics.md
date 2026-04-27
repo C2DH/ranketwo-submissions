@@ -1,7 +1,7 @@
 ---
 authors: tugce-karatas 
 date: 2026-04-14
-title: Data ethics for historical data
+title: From sources to data. Ethics and responsibility
 learning-objectives: 
  - Conceive the different roles and functions of data, information, and knowledge in managing data for historians
 ---
