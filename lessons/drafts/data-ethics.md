@@ -129,7 +129,7 @@ Editor's note: Sections 1.a and 1.b form the core of this part and are suitable 
 
 Learning objective(s): differentiate the distinct phases of life of data and apply the appropriate metadata scheme to each
 
-![Data lifecycle](/images/data-lifecycle.png "Data lifecycle")
+![Data lifecycle](/assets/images/from-sources-to-data-/data-lifecycle.jpg "Data lifecycle")
 
 Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345) 
 
