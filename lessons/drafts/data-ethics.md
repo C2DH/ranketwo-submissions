@@ -120,6 +120,10 @@ We could define levels as folows: core, going further, advanced. This menas that
 1.d Intentions, expectations and tensions — what the digital amplifies in the archive — Advanced — 40 min
 -->
 
+<!-- 
+Editor's note: Sections 1.a and 1.b form the core of this part and are suitable for all beginners (approximately 60 minutes). Section 1.c is recommended for students with more time or curiosity (20 minutes). Section 1.d is an optional deepening exercise intended for more advanced students or seminar contexts (40 minutes). Teachers are encouraged to adapt the selection to their course format and learning objectives.
+-->
+
 ## 2 
 ### b. Data lifecycle 
 
