@@ -24,44 +24,101 @@ In everyday language, the terms data, information, and knowledge are often used 
 
 Data, in the technical sense, refers to raw material: individual observations, records, measurements, or artefacts considered in isolation. A name, a date, a photograph, a GPS coordinate, or a voice recording are all examples of data. On their own, they do not carry meaning. Information emerges when data is contextualised: a photograph becomes informative once we know who is depicted, when it was taken, and by whom. Knowledge, in turn, is the interpretive outcome produced by connecting and analysing information; it is what historians construct through their engagement with sources. 
 
-Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether the data is accurate <!--here, the third question is certainly a stake, but it does not correspond to the third key priniple presented in the introduction, which is cultural sensitivity-->. At the level of information — when data is combined and contextualised — new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
+Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether the data is accurate <!--here, the third question, data accuracy, is certainly a stake, but it does not correspond to the third key priniple presented in the introduction, which is cultural sensitivity-->. At the level of information — when data is combined and contextualised — new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson -->At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
 
-This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata—descriptive, structural, and administrative—shapes how datasets are discovered, interpreted, and reused. As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
+This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata — descriptive, structural, and administrative — shapes how datasets are discovered, interpreted, and reused. <!--for the descriptive metadata we should introduce a link to Sofia's lesson--> As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
 
-### 1.a 
+### 1.a Who owns the traces of the past? - 40 mins 
 
-Watch the lesson video extract from 00:02:00 to 00:02:07. There, Lea wishes to make digital copies of her grandmother's holdings available through a local history project. To do so, she needs to ensure she has the consent of her aunt, who is the other remaining family member. 
+Watch the lesson video animation in full. 
 
-Ownership 
-Consent
+Based on the video, consider the following:
 
+* The objects in the suitcase — letters, photographs, tapes — were created by different people at different times. Who do you think owns them now that Lea's grandmother has died?
+* Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her?
+* At the end of the video, Lea calls her aunt Maria before making the photographs available online via the local history project. Why do you think she does this? What could happen if she shared them without asking?
 
-### 1.b The oral history archive and the question of consent
-The September 11 Digital Archive (https://911digitalarchive.org/) is a born-digital collection created in the aftermath of the 2001 attacks to preserve personal accounts, photographs, and emails contributed by members of the public. At the time of its creation, online social networks did not yet exist; this was one of the first large-scale experiments in crowdsourced digital archiving. The archive was later transferred to the Library of Congress (Cohen and Rosenzweig 2005; Townsend 2010).
+<!-- The General Data Protection Regulation (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph. -->
 
-Navigate to the archive's collection of personal accounts (https://911digitalarchive.org/items/browse?collection=3). Select any account that interests you and open its individual record page. Read both the content of the account and the information provided about it — its description, rights statement, and any other metadata that accompanies it.
+Explore further the notions of ownership of data and consent. Search for "GDPR personal data photographs" and read the first result that comes from an official EU source. <!--Sofia: the first result I have is this: https://gdpr-info.eu/recitals/no-51/-->
 
-- [ IMAGE: Screenshot of a personal account record from the September 11 Digital Archive ] Personal account record, September 11 Digital Archive. Screenshot, [date].
+> **What is the GDPR?** The General Data Protection Regulation (GDPR) is a European Union legal framework that came into force in 2018. It regulates how personal data — any information relating to an identifiable living person, including photographs — may be collected, stored, and shared. It applies to anyone processing personal data within the EU, and gives individuals the right to control how their information is used.
+
+In your own words, what does the GDPR protect, and who does it protect it for?
+Does it change anything about how you answered the questions above?
+
+<!--simpler alternative for this third part of the exercice: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
+
+<!-- the short exercice aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
+
+### 1.b Consent in a born-digital archive
+
+For this exercice, you will work with the [September 11 Digital Archive](https://911digitalarchive.org/). 
+
+> The September 11 Digital Archive is a born-digital collection created in the aftermath of the 2001 attacks to preserve personal accounts, photographs, and emails contributed by members of the public. At the time of its creation, online social networks did not yet exist; this was one of the first large-scale experiments in crowdsourced digital archiving. The archive was later transferred to the Library of Congress (Cohen and Rosenzweig 2005; Townsend 2010).
+
+Navigate to the archive's collection of [personal testimonies](https://911digitalarchive.org/collections/show/278). Select any testimony that interests you or one randomly and open its individual record page. Read both the content of the testimony and the information provided about it — its description, rights statement, and any other information that accompanies it.
+
+<!--If the screenshot does not have a fucntion, maybe we can omit it. The archive is not under open license, if need, we should ask for rights of use.-->
+<!--
+- [ IMAGE: Screenshot of a personal account record from the September 11 Digital Archive ] Personal account record, September 11 Digital Archive. Screenshot, [date]. -->
+
 Now focus on the ethical dimensions of metadata and answer the following questions:
 
-* Is there any information about how consent was obtained from the person who submitted this account? Look carefully at the rights statement, the submission notes, and any contextual description provided by the archive.
+* Is there any information about how consent was obtained from the person who submitted this account? Look carefully at the **rights statement, the submission notes**,***Note Sofia: these do not exist in the page of the records*** <!--rights statement, submission notes: these are not visible in the pages of the accounts - should either clarify or put links to give orientation as where to look and what to look for--> and any contextual description provided by the archive.
 * The account was submitted voluntarily by a member of the public. Does voluntary submission constitute consent for all future uses — including uses the submitter could not have anticipated in 2001, such as computational text analysis or AI training data? What do you think, and why?
 * Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? What different kinds of ownership — legal, moral, emotional — might be at stake?
 * Now read the archive's own statement about its history and purpose (available at https://911digitalarchive.org/about). Does the archive acknowledge any of the ethical questions you identified above? If so, how? If not, what is missing?
 
-### 1.c Who owns the crowdsourced archive? 
+### 1.c When everyone contributes, who owns the archive? 
 
 <!--Challenging the ownership of the archive--> 
 
-The September 11 Digital Archive is an example of what is called a born-digital archive created from crowdsourced contributions. “Born-digital” indicates that the materials were created in digital form from the outset, rather than being digitised from physical originals. “Crowdsourcing,” meanwhile, refers to the practice of assembling a collection through contributions from a large number of individuals rather than through traditional institutional selection.  
+You have just explored how the September 11 Digital Archive handles — or does not handle — questions of consent and ownership. Now compare it with a more recent crowdsourced archive: HistorEsch Gesinn, a community history project based in Esch-sur-Alzette, Luxembourg, that collects photographs, documents, and testimonies from local residents.
+
+Navigate to the [contribution form](https://historesch.lu/en/contribute/) of the local history project [HistorEsch Gesinn]((https://historesch.lu/en/) and read it carefully.
+
+Now compare the two archives on the following two points and write a short response (150–200 words):
+
+* Consent: How does each archive explain its terms of contribution to potential contributors? Is it clear what contributors are agreeing to when they submit materials? Where do you see differences?
+* Ownership: How does each archive address the question of who owns the submitted materials? Is this stated explicitly, or do you have to infer it?
+
+> Tip: The September 11 Digital Archive no longer has an active contribution form. You can consult an archived version from 2004 on the Internet Archive: [Contribute form of the September 11 Digital Archive](https://web.archive.org/web/20040202174803/http://911digitalarchive.org/stories/add.html). This gives you a sense of what contributors were asked to agree to at the time of submission.
+
+### 1.d Intentions, expectations and tensions: what the digital amplifies in the archive - 40 mins
+
+The September 11 Digital Archive is an example of a born-digital archive — that is, a collection of materials created in digital form from the outset — built from crowdsourced contributions, meaning materials voluntarily submitted by members of the public rather than selected by a traditional institution.  
 
 While both characteristics expand the scope and inclusivity of archival collections, they also introduce ethical complexities that differ significantly from those associated with traditional archives.
 In conventional archival settings, materials are typically deposited by creators or their heirs under formal agreements that define ownership, access conditions, and permitted uses. These frameworks provide a relatively clear structure for consent and control. By contrast, in crowdsourced born-digital archives, the relationship between contributor and institution is often less formalised and more ambiguous. Contributors may submit materials with limited understanding of how they will be preserved, described, or reused, particularly over the long term. Therefore the expectations of contributors may be very different from the uses that the archive subsequently makes of their contributions (Zaagsma 2022).
 
-As scholars of digital memory have noted, contributors to participatory archives may operate with expectations shaped by personal, commemorative, or community-oriented intentions, rather than by an awareness of archival permanence or scholarly reuse (Theimer, 2011). This creates a potential gap between the perceived context of contribution and the actual conditions of access and circulation. Materials submitted in a moment of immediacy—such as responses to traumatic events—may later be encountered in entirely different interpretive frameworks, raising questions about ongoing consent, contextual integrity, and ethical reuse. 
+As scholars of digital memory have noted, contributors to participatory archives may operate with expectations shaped by personal, commemorative, or community-oriented intentions, rather than by an awareness of archival permanence or scholarly reuse (Theimer, 2011). This creates a potential gap between the perceived context of contribution and the actual conditions of access and circulation. Materials submitted in a moment of immediacy — such as responses to traumatic events — may later be encountered in entirely different interpretive frameworks, raising questions about ongoing consent and ethical reuse.
+
+Based on the exercices of 1.c and the readings below:
+Theimer, Kate. “What Is the Meaning of Archives 2.0.” *<i>*American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
+
+Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
+
+
+Write a short reflection (150–200 words) addressing the following:
+
+* Think back to the September 11 Digital Archive and HistorEsch Gesinn. In each case, what do you think motivated contributors to submit their materials? Were they likely thinking about long-term archival preservation, or something else entirely?
+* Based on the contribution forms you consulted in 1.c, do you think either archive adequately prepares contributors for the future uses their materials might serve — including uses they could not anticipate?
+* Formal agreements govern how materials are deposited in traditional archives. What are the advantages and limitations of this approach compared to crowdsourced archives?
 
 ### Reading/viewing suggestions
+ 
+Theimer, Kate. “What Is the Meaning of Archives 2.0.” *<i>*American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
 
+Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
+
+<!-- 
+We could define levels as folows: core, going further, advanced. This menas that the first two are necessary, the third is a plus and the fourth is if need for a more in depth exercice, for example in groups. 
+1.a Who owns the past? — Core — 30 min
+1.b Consent and user-generated sources in a born-digital archive — Core — 30 min
+1.c When everyone contributes, who owns the archive? — Going further — 20 min
+1.d Intentions, expectations and tensions — what the digital amplifies in the archive — Advanced — 40 min
+-->
 
 ## 2 
 ### b. Data lifecycle 
