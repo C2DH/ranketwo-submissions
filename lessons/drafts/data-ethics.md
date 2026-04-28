@@ -95,7 +95,7 @@ In conventional archival settings, materials are typically deposited by creators
 As scholars of digital memory have noted, contributors to participatory archives may operate with expectations shaped by personal, commemorative, or community-oriented intentions, rather than by an awareness of archival permanence or scholarly reuse (Theimer, 2011). This creates a potential gap between the perceived context of contribution and the actual conditions of access and circulation. Materials submitted in a moment of immediacy — such as responses to traumatic events — may later be encountered in entirely different interpretive frameworks, raising questions about ongoing consent and ethical reuse.
 
 Based on the exercices of 1.c and the readings below:
-Theimer, Kate. “What Is the Meaning of Archives 2.0.” *<i>*American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
+Theimer, Kate. “What Is the Meaning of Archives 2.0.” American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
 
 Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
 
