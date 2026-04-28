@@ -124,46 +124,46 @@ We could define levels as folows: core, going further, advanced. This menas that
 Editor's note: Sections 1.a and 1.b form the core of this part and are suitable for all beginners (approximately 60 minutes). Section 1.c is recommended for students with more time or curiosity (20 minutes). Section 1.d is an optional deepening exercise intended for more advanced students or seminar contexts (40 minutes). Teachers are encouraged to adapt the selection to their course format and learning objectives.
 -->
 
-## 2 
-### b. Data lifecycle 
+## 2 The data lifecycle: ethical obligations at every stage
 
-Learning objective(s): differentiate the distinct phases of life of data and apply the appropriate metadata scheme to each
+Data does not have a single moment at which ethics becomes relevant. Ethical obligations arise at every stage of a dataset's life — from the initial decision to collect data to its eventual archiving or deletion. This assignment introduces the concept of the research data lifecycle, shows how it is described in two prominent data management frameworks, and asks you to apply it to the case study that runs through this lesson: a local history project involving oral testimonies and family photographs.
+
+### 2.a What a data lifecycle is and how it matters for ethics - 20 mins
+
+Simply put, data lifecycles illustrate the stages of the life of data and the notions that are tied to them (datasets, databases, see lesson 1). The notion was developed as part of data management practices. 
+
+RDMkit is the research data management toolkit developed by ELIXIR Europe (https://rdmkit.elixir-europe.org/data_life_cycle) - the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
 
 ![Data lifecycle](/assets/images/from-sources-to-data/data-lifecycle.jpg "Data lifecycle")
 
 Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345) 
 
-Exercises:
- - Research lifecycle (Plan,Collect, Process, Analyses, Preserve, Share, Reuse)
-Technical Specification - 
+Go to the [website of the model](https://rdmkit.elixir-europe.org/data_life_cycle) and examine the diagram of the lifecycle it proposes.
 
+The RDMkit model describes a research lifecycle with the following stages: 
+* Plan 
+* Collect 
+* Process
+* Analyse 
+* Preserve
+* Share 
+* Reuse
 
-Exercises: 
-- Data Management plan and provenanace table 
-- Consent form -Privacy -Ownership of the data 
-- Legal perspectives 
-- GDPR 
-- Data lifecycle (Acquisition, collection, analysis, interpretation, modelling, publication, archiving) 
-- Research lifecycle (Plan,Collect, Process, Analyses, Preserve, Share, Reuse) 
-- Technical Specification
+Click on each stage that RDMkit diagram provides and read its description. While reading, pay attention to the following: 
 
-### The data lifecycle: ethical obligations at every stage
-Data does not have a single moment at which ethics becomes relevant. Ethical obligations arise at every stage of a dataset's life — from the initial decision to collect data to its eventual archiving or deletion. This assignment introduces the concept of the research data lifecycle, shows how it is described in two prominent data management frameworks, and asks you to apply it to the case study that runs through this lesson: a local history project involving oral testimonies and family photographs.
-
-Learning outcome: Distinguish the phases of the research data lifecycle and name the ethical and metadata obligations that arise at each.
-
-### Two lifecycle models — and what they have in common
-Open the data life cycle overview published by RDMkit, the research data management toolkit developed by ELIXIR Europe (https://rdmkit.elixir-europe.org/data_life_cycle). RDMkit was originally designed for life sciences research, but its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021). Read the overview page and examine the diagram of the lifecycle it proposes.
-![Data lifecycle](/images/data-lifecycle.png "Data lifecycle")
-
-Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345) 
-
-The RDMkit model describes a research lifecycle with the following stages: Plan — Collect — Process — Analyse — Preserve — Share — Reuse. Read the brief description of each stage that RDMkit provides.
-* At which stage does RDMkit place the question of consent? Is it addressed in the Collection stage only, or does it appear elsewhere?
+* At which stage(s) is the question of consent explicitly present? 
 * Where in this lifecycle do you think the question of ownership most naturally arises? And at which stage might it become most urgent?
-* The RDMkit lifecycle ends with 'Reuse'. What ethical obligations might arise specifically at this stage — that is, when data created for one purpose is reused for another?
+* Consider the final stage of 'Reuse'. What ethical obligations might arise specifically at this stage — that is, when data created for one purpose is reused for another?
 
-A second, complementary model is more commonly used in humanities and cultural heritage contexts. It describes the data lifecycle as: Acquisition/Collection — Analysis — Interpretation/Modelling — Publication — Archiving. This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) (Owens 2018; Corti et al. 2019).
+A second, complementary model is more commonly used in humanities and cultural heritage contexts. It describes the data lifecycle as: 
+* Acquisition/Collection 
+* Analysis 
+* Interpretation/Modelling 
+* Publication 
+* Archiving 
+
+This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) (Owens 2018; Corti et al. 2019).
+
 For the purposes of this lesson, we use a combined model that draws on both:
 * Planning: deciding what data to collect, for what purpose, and under what conditions.
 * Acquisition/Collection: gathering data, whether by creating it (interviews, surveys, photographs) or by locating it in existing sources (archives, databases, digitised collections).
@@ -172,30 +172,40 @@ For the purposes of this lesson, we use a combined model that draws on both:
 * Publication: sharing findings — and, increasingly, the underlying data — with other researchers and the public.
 * Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
 
-### Ethics at every stage: an example
-Return to the case introduced in the lesson video: a local history project in which Lea has collected oral testimonies and family photographs from community members, and now wishes to make this material available through an online archive. We will trace the ethical questions that arise at each stage of the lifecycle for this project.
+### 2.b Ethics at every stage: a hands-on exercice
+Return to the case introduced in the lesson video animation: a local history project in which Lea has collected oral testimonies and family photographs from community members, and now wishes to make this material available through an online archive. We will trace the ethical questions that arise at each stage of the lifecycle for this project.
 For each stage below, we provide a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
-Planning
+
+**Planning**
+
 Before collecting any material, Lea needs to make a series of decisions: Who will she approach? What will she ask for? How will she store what she receives? What will happen to it when the project ends?
 * At the planning stage, what information should Lea provide to potential contributors about how their material will be used? What constitutes 'informed consent' in this context?
-* Should Lea prepare a Data Management Plan (DMP) at this stage? What would such a document contain? (We will return to this in the hands-on exercise below.)
+* Should Lea prepare a Data Management Plan (DMP) at this stage? What would such a document contain? (We will return to this in the hands-on exercise below.) **EDITOR NOTE: This is treated in the last subpart wholly, and the DMP is not introduced at the present stage. This makes it complicated to use it here.**
 * If Lea is working at a university, what institutional processes might she need to go through before beginning data collection? Think about ethics review boards and data protection officers.
-Acquisition/Collection
+
+**Acquisition/Collection**
+
 Lea conducts recorded interviews with twelve community members and receives donations of family photographs. She obtains consent forms from each participant.
 * One participant asks that their interview be kept confidential during their lifetime, but made available after their death. How should Lea record and manage this condition? What happens if she loses the consent form?
 * The photographs were taken by various family members over several decades. Who holds copyright: the person who took the photograph, the person depicted in it, the person who donated it, or the family as a whole? How would you find out?
 * Data minimisation — collecting only what you actually need — is a principle of both the GDPR and good research practice. Are there categories of information Lea should not collect, even if contributors offer them?
-Processing/Analysis
+
+**Processing/Analysis**
+
 Lea transcribes the interviews and creates descriptions (metadata) for the photographs. She uses a spreadsheet to organise the collection.
 * The transcription process involves a human reader interpreting a spoken recording. What ethical obligations arise at this stage — both towards accuracy and towards the privacy of the speaker?
 * In describing the photographs, Lea needs to identify the people depicted. Some of these people are still alive and were not interviewed. Does she need to seek their consent to name them in the metadata?
 * Could the combination of data from different contributors — dates, places, relationships, health information mentioned incidentally in interviews — allow individuals to be identified or harmed in ways that a single record would not? This is called re-identification risk — a well-documented problem in research using linked datasets (Ohm 2010). How would you manage it?
-Publication
+
+**Publication**
+
 Lea is now ready to make the collection available online. This is the moment the video extract shows: she realises she needs to return to one participant to confirm consent before proceeding.
 * Why might the consent given at the collection stage not be sufficient for the publication stage? Think about the difference between consenting to an interview and consenting to your words being permanently and publicly accessible on the internet (Thompson and Bornat 2017).
 * Two participants have died since the interviews were conducted. Their heirs have not been contacted. What are Lea's obligations?
 * What licence should Lea attach to the published materials? What are the implications of choosing a Creative Commons Attribution licence (CC BY) versus a more restrictive licence, or no licence at all?
-Archiving and Reuse
+
+**Archiving and Reuse**
+
 After the project ends, Lea deposits the collection in a regional digital archive for long-term preservation.
 * Should all the materials be deposited, or only those for which there is clear consent for archival access? What happens to the materials that cannot be deposited?
 * A researcher contacts the archive ten years later, wanting to use the oral testimonies for a study on urban change. She proposes to apply computational text analysis to the transcripts. Is this use covered by the original consent? How would you find out, and what would you do if it is not?
@@ -203,7 +213,9 @@ After the project ends, Lea deposits the collection in a regional digital archiv
 
 ### 2.c Hands-on: Drafting a Data Management Plan and provenance table
 A Data Management Plan (DMP) is a document that describes how data will be managed throughout a project. Most research funders in Europe now require one (European Commission 2016). For historians, a DMP serves a second purpose: it is a record of the provenance of the data — where it came from, how it was collected, and what decisions were made along the way.
+
 Using the structure below, draft a short DMP for Lea's local history project. You do not need to write more than two or three sentences per section; the goal is to think through the ethical decisions, not to produce a polished policy document.
+
 Data description: What types of data are in the collection (audio, photographs, transcripts, metadata)? What formats? Approximately what volume?
 Consent and legal basis: How was consent obtained from participants? What is the legal basis for processing personal data (e.g. consent, public task)? How will you manage the case of participants who wish to withdraw consent, or who have died?
 Ownership and intellectual property: Who holds copyright in the photographs and recordings? What agreements have been made with contributors regarding rights?
@@ -212,6 +224,7 @@ Publication and sharing: Which data will be made publicly accessible, and under 
 Retention and archiving: How long will the data be retained? In which repository will it be deposited? What will happen to materials that cannot be archived (e.g. materials for which consent cannot be confirmed)?
 
 Now complete a short provenance table for one type of material in the collection — for example, the oral history recordings. A provenance table records the origin and custody history of a data item. Use the following columns:
+
 Data item | Creator | Date/period | Original purpose | How acquired | Consent status | Rights holder | Transformations applied | Ethical notes
 Fill in one row for one item of your choice. This exercise is designed to help you see how much ethical information is embedded in the apparently simple act of describing a source.
 
