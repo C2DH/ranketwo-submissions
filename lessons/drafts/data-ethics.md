@@ -76,7 +76,7 @@ Now focus on the ethical dimensions of metadata and answer the following questio
 
 You have just explored how the September 11 Digital Archive handles — or does not handle — questions of consent and ownership. Now compare it with a more recent crowdsourced archive: HistorEsch Gesinn, a community history project based in Esch-sur-Alzette, Luxembourg, that collects photographs, documents, and testimonies from local residents.
 
-Navigate to the [contribution form](https://historesch.lu/en/contribute/) of the local history project [HistorEsch Gesinn]((https://historesch.lu/en/) and read it carefully.
+Navigate to the [contribution form](https://historesch.lu/en/contribute/) of the local history project [HistorEsch Gesinn](https://historesch.lu/en/) and read it carefully.
 
 Now compare the two archives on the following two points and write a short response (150–200 words):
 
