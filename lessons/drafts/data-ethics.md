@@ -172,60 +172,109 @@ For the purposes of this lesson, we use a combined model that draws on both:
 * Publication: sharing findings — and, increasingly, the underlying data — with other researchers and the public.
 * Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
 
-### 2.b Ethics at every stage: a hands-on exercice
-Return to the case introduced in the lesson video animation: a local history project in which Lea has collected oral testimonies and family photographs from community members, and now wishes to make this material available through an online archive. We will trace the ethical questions that arise at each stage of the lifecycle for this project.
+### 2.b Ethics at every stage — tracing the data lifecycle
+
+Return to the video animation: we know that Lea has her family's oral testimonies and photographs from community members, and that she digitised them. Now she wishes to make this material available through the online archive of a local history project. 
+
+By digitising these materials, Lea turned them into digital data. Following the data lifecycle stages, we will trace the main ethical questions that arise at each stage for this project.
+
 For each stage below, we provide a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
 
 **Planning**
 
-Before collecting any material, Lea needs to make a series of decisions: Who will she approach? What will she ask for? How will she store what she receives? What will happen to it when the project ends?
-* At the planning stage, what information should Lea provide to potential contributors about how their material will be used? What constitutes 'informed consent' in this context?
-* Should Lea prepare a Data Management Plan (DMP) at this stage? What would such a document contain? (We will return to this in the hands-on exercise below.) **EDITOR NOTE: This is treated in the last subpart wholly, and the DMP is not introduced at the present stage. This makes it complicated to use it here.**
-* If Lea is working at a university, what institutional processes might she need to go through before beginning data collection? Think about ethics review boards and data protection officers.
+As Lea turns the materials she inherited into a collection of digitised data, with the intention to share them, she needs to make a series of decisions. Lea is not a researcher, but the situation she is in can be compared to the beginnings of a research project: at this stage, a reflection is necessary for planning the big lines of what to collect, how to handle it, what the intention is to do with it and how to preserve it to avoid risks of the data being unusable or lost. 
+
+Remember, Lea's collection includes oral histories, audio and video recordings, photos... involving several members of her family and local community, some of whom are still living. 
+* Who should she approach based on her materials and what is she likely to ask for? 
+* People who will respond to Lea are potential contributors to the project: what information should Lea provide to potential contributors about how their material will be used? What constitutes *informed consent* in this context? 
+* How will she store what she receives? 
+* What will happen to her project's data once Lea starts to work on other things? Remember, a project has a beginning, a life and an end!
+
+> In research projects that take place in the context of universities, there are institutional processes that are necessary to go through before beginning data collection, for example consultation with ethics review boards and data protection officers. 
+A Data Management Plan (DMP), is often asked at this stage (please see 2.c.
+
+<!--
+What would such a document contain? (We will return to this in the hands-on exercise below.) **EDITOR NOTE: This is treated in the last subpart wholly, and the DMP is not introduced at the present stage. This makes it complicated to use it here.**
+--> 
 
 **Acquisition/Collection**
 
-Lea conducts recorded interviews with twelve community members and receives donations of family photographs. She obtains consent forms from each participant.
+Imagine that Lea conducts recorded interviews with twelve community members; she also receives donations of more family photographs. She obtains consent forms from each participant.
 * One participant asks that their interview be kept confidential during their lifetime, but made available after their death. How should Lea record and manage this condition? What happens if she loses the consent form?
 * The photographs were taken by various family members over several decades. Who holds copyright: the person who took the photograph, the person depicted in it, the person who donated it, or the family as a whole? How would you find out?
-* Data minimisation — collecting only what you actually need — is a principle of both the GDPR and good research practice. Are there categories of information Lea should not collect, even if contributors offer them?
+ 
+> Data minimisation is the principle of collecting only the information actually needed following the objectives of a project. This means that even if you can, and even if contributors offer it, you do not collect more information than necessary. It is both a principle of regulations on personal data, such as the GDPR, and a good research practice. 
+
+Going further: Are there categories of information Lea should not collect, even if contributors offer them? <!--this is too open a question and with not a lot of help provided to answer it-->
 
 **Processing/Analysis**
 
 Lea transcribes the interviews and creates descriptions (metadata) for the photographs. She uses a spreadsheet to organise the collection.
-* The transcription process involves a human reader interpreting a spoken recording. What ethical obligations arise at this stage — both towards accuracy and towards the privacy of the speaker?
-* In describing the photographs, Lea needs to identify the people depicted. Some of these people are still alive and were not interviewed. Does she need to seek their consent to name them in the metadata?
-* Could the combination of data from different contributors — dates, places, relationships, health information mentioned incidentally in interviews — allow individuals to be identified or harmed in ways that a single record would not? This is called re-identification risk — a well-documented problem in research using linked datasets (Ohm 2010). How would you manage it?
+* The transcription process involves a human reader interpreting a spoken recording. What ethical obligations arise at this stage
+	* towards the accuracy of the content 
+	* towards the privacy of the speaker
+* In describing the photographs, Lea needs to identify the people depicted. Some of these people are still alive and were not interviewed. Does she need to seek their consent to name them if these photos go online?
+
+> When data from different sources—such as dates, locations, relationships, or even incidental health details mentioned in interviews—are combined, they can reveal someone’s identity or expose them to harm in ways that a single piece of data would not. This is known as re-identification risk, a well-documented issue in research that uses linked datasets (Ohm 2010).
+
+Going further: Can you think what Lea could do to manage re-identification risks? <!--this is quite advanced as exercice. If maintained, is it possible to give some tips? Or we could turn this question to an advanced exercice and provide a reading with examples, or not propose it as exercice at all and and give one reading or two, not too complicated, to go further if someone wants-->
 
 **Publication**
 
-Lea is now ready to make the collection available online. This is the moment the video extract shows: she realises she needs to return to one participant to confirm consent before proceeding.
-* Why might the consent given at the collection stage not be sufficient for the publication stage? Think about the difference between consenting to an interview and consenting to your words being permanently and publicly accessible on the internet (Thompson and Bornat 2017).
-* Two participants have died since the interviews were conducted. Their heirs have not been contacted. What are Lea's obligations?
-* What licence should Lea attach to the published materials? What are the implications of choosing a Creative Commons Attribution licence (CC BY) versus a more restrictive licence, or no licence at all?
+Lea is now ready to make the collection available online. <!--This is the moment the video extract shows: she realises she needs to return to one participant to confirm consent before proceeding. <!--not sure this corresponds to the video story, need to confirm and if necessary readjust the text --> 
+
+* Two interviewees have died since the interviews were conducted. What are Lea's obligations — should she contact their heirs, and if so, what for? <!--How/where can we find help to answer these questions? This one seems to be a bit difficult --> 
+
+<details>
+<summary><strong>What happens to consent when a contributor dies?</strong></summary>
+In most legal frameworks, privacy rights do not survive death — meaning that the personal data of a deceased individual is generally no longer protected under regulations such as the GDPR. However, legal frameworks vary by country, and some national laws do extend certain protections beyond death. Beyond the legal question, there is also an ethical one: even if the law does not require it, many archivists and researchers consider it good practice to notify next of kin before publishing materials involving deceased individuals, particularly when those materials are of a sensitive or personal nature. Oral history associations have developed specific guidelines on this matter.
+For guidance: <a href="https://oralhistory.org/archives-principles-and-best-practices-complete-manual/">Oral History Association. Archiving Oral History — Ownership and Rights Management</a>
+</details>
+
+* What licence should Lea attach to the published materials? What are the implications of choosing a Creative Commons Attribution licence (CC BY) versus a more restrictive licence, or no licence at all? <!--this is the first time the lesson evokes CC licences and has not explained sufficiently definitions and stakes or provided any other information for learners to do this exercice here. We should adress this-->
+
+<details>
+<summary><strong>What is a licence?</strong></summary>
+When you make a document, a photograph, or any other creation publicly available, a licence tells others what they are and are not allowed to do with it. Without a licence, the default position in most countries is that all rights are reserved — meaning no one can legally reuse the material without asking permission.
+Creative Commons (CC) licences offer a flexible middle ground. They allow creators to share their work while specifying the conditions of reuse. The most common conditions are:
+
+BY (Attribution) — anyone can reuse the material, provided they credit the creator
+NC (Non-Commercial) — reuse is permitted for non-commercial purposes only
+ND (No Derivatives) — the material may not be modified or transformed
+SA (Share Alike) — adaptations must be shared under the same licence
+
+These conditions can be combined. For example, CC BY-NC allows reuse with attribution but not for commercial purposes. The most open licence, CC BY, requires only attribution. The most restrictive, CC BY-NC-ND, limits reuse to non-commercial contexts and prohibits any modification.
+For more information: [Creative Commons](https://creativecommons.org/)
+</details>
+
+> Sometimes, the consent given at the collection stage may not be sufficient for the publication stage. Think about the difference between consenting to an interview and consenting to your words being permanently and publicly accessible on the internet (Thompson and Bornat 2017).
 
 **Archiving and Reuse**
 
-After the project ends, Lea deposits the collection in a regional digital archive for long-term preservation.
-* Should all the materials be deposited, or only those for which there is clear consent for archival access? What happens to the materials that cannot be deposited?
-* A researcher contacts the archive ten years later, wanting to use the oral testimonies for a study on urban change. She proposes to apply computational text analysis to the transcripts. Is this use covered by the original consent? How would you find out, and what would you do if it is not?
-* The archive proposes to assign the collection a persistent identifier (a DOI) so it can be cited in academic publications. Does this constitute a new use of the data, and does it raise any new consent or ownership questions?
+In the end of the video animation, we see that Lea has the intention to contribute the digital data of her collection to a local history project that will then publish them on the project's website. Lea essentially delegates the responsibility of long-term preservation to a regional digital archive. Also, by making them available online, she also offers the possibility for these materials to be downloaded or shared by anyone and reused in new contexts.  
+* Should Lea deposit all the materials of her collection or only those for which there is clear consent for archival access? What happens to the materials that might not be deposited?
+* Let's suppose that a researcher contacts the archive ten years later, wanting to use the oral testimonies for a study on urban change. She proposes to apply computational text analysis to the transcripts. Is this use covered by the original consent? How would you find out, and what would you do if it is not?
+<!--* The archive proposes to assign the collection a persistent identifier (a DOI) so it can be cited in academic publications. Does this constitute a new use of the data, and does it raise any new consent or ownership questions? => the lesson has not entered in details explaining what a DOI really is and how it is used. We cannot ask learners to do this exercice. Perhaps we can limit the exercices of this stage to the two above, as they cover both archiving and reuse contexts -->
 
 ### 2.c Hands-on: Drafting a Data Management Plan and provenance table
 A Data Management Plan (DMP) is a document that describes how data will be managed throughout a project. Most research funders in Europe now require one (European Commission 2016). For historians, a DMP serves a second purpose: it is a record of the provenance of the data — where it came from, how it was collected, and what decisions were made along the way.
 
 Using the structure below, draft a short DMP for Lea's local history project. You do not need to write more than two or three sentences per section; the goal is to think through the ethical decisions, not to produce a polished policy document.
 
-Data description: What types of data are in the collection (audio, photographs, transcripts, metadata)? What formats? Approximately what volume?
-Consent and legal basis: How was consent obtained from participants? What is the legal basis for processing personal data (e.g. consent, public task)? How will you manage the case of participants who wish to withdraw consent, or who have died?
-Ownership and intellectual property: Who holds copyright in the photographs and recordings? What agreements have been made with contributors regarding rights?
-Storage and security: Where will the data be stored during the project? Who will have access? How will sensitive data be protected against unauthorised access?
-Publication and sharing: Which data will be made publicly accessible, and under what licence? Which data will be restricted, and why? What level of access will be provided for restricted materials (e.g. researchers only, community members only, embargoed until a specified date)?
-Retention and archiving: How long will the data be retained? In which repository will it be deposited? What will happen to materials that cannot be archived (e.g. materials for which consent cannot be confirmed)?
+- Data description: What types of data are in the collection (audio, photographs, transcripts, metadata)? What formats? Approximately what volume?
+- Consent and legal basis: How was consent obtained from participants? What is the legal basis for processing personal data (e.g. consent, public task)? How will you manage the case of participants who wish to withdraw consent, or who have died?
+- Ownership and intellectual property: Who holds copyright in the photographs and recordings? What agreements have been made with contributors regarding rights?
+- Storage and security: Where will the data be stored during the project? Who will have access? How will sensitive data be protected against unauthorised access?
+- Publication and sharing: Which data will be made publicly accessible, and under what licence? Which data will be restricted, and why? What level of access will be provided for restricted materials (e.g. researchers only, community members only, embargoed until a specified date)?
+- Retention and archiving: How long will the data be retained? In which repository will it be deposited? What will happen to materials that cannot be archived (e.g. materials for which consent cannot be confirmed)?
 
 Now complete a short provenance table for one type of material in the collection — for example, the oral history recordings. A provenance table records the origin and custody history of a data item. Use the following columns:
 
-Data item | Creator | Date/period | Original purpose | How acquired | Consent status | Rights holder | Transformations applied | Ethical notes
+| Data item | Creator | Date/period | Original purpose | How acquired | Consent status | Rights holder | Transformations applied | Ethical notes | 
+| -------- | ------ | ----- | ------ | ------ | ------ | ----- | ----- | ------ | 
+| Aunt Maria's recording | Grandmother | 1982 | New Year's Wish | Donation | Consent given | Aunt Maria | No transformations | Mentions names of now deceased people |  
+
+
 Fill in one row for one item of your choice. This exercise is designed to help you see how much ethical information is embedded in the apparently simple act of describing a source.
 
 ### Reading/viewing suggestions for assignment 2
