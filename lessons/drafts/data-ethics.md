@@ -4,7 +4,7 @@ date: 2026-04-14
 title: From sources to data. Ethics and responsibility
 learning-objectives: 
  - Identify key ethical principles — consent, ownership, and cultural sensitivity — in real archival situations
- - Name the ethical obligations that arise at each phase of the research data lifecycle
+ - Identify the ethical obligations that arise at each phase of the research data lifecycle
  - Apply the FAIR and CARE principles to evaluate how historical datasets are shared
 
 ---
@@ -290,26 +290,90 @@ Oral History Society. 'Ethical and Legal Matters.' https://www.ohs.org.uk/ethics
 UK Data Service. 'Consent for Data Sharing.' https://ukdataservice.ac.uk/learning-hub/research-data-management/ethical-issues/consent-for-data-sharing/
 
 
-## 3 Handling with care, sharing if possible
+## 3 Handling data with care, sharing if possible
 
-### c. Handle data with care and, if possible, share: how to do this  
+<!--
+Need for a short introductive text that familiarises learners with the topic: when and why FAIR and CARE principles
+
+Short introductive phrase to present principles of ethical data management: FAIR, CARE
+
+One small paragraph for: 
+Context of inception of the FAIR principles: policies of open data and open science, practices, technical infrastructures, stakes of data sharing and reuse
+Specific problem to address: handle the data efficiently in the context of the web infrastructures (machine-readability=> FAIR principles)
+
+One small paragraph for: 
+Context of inception of the CARE principles: policies of open data and open science, rise of initiatives on biases and who controls the data (in this case, indigenous data) 
+
+Then in parts 3a and 3b present specifically which are the FAIR and CARE principles, and go to the exercices. 
+
+Exercices need to be simplified, they are too technical. 
+Problem: these details are not sufficiently explained (for example what is DOI and all the rest of this stuff), so it is not pedagogically efficient to build exercices without introducing these notions before. But this is a huge subject and also it is not necessarily pertinenet for historians (in the sense that too many details go beyond the scope of the lesson which is much more oriented on the "why" question than the "how" question.   
+--> 
+
+Sharing research data responsibly requires both technical rigour and ethical awareness. Two complementary frameworks guide this practice: the FAIR principles, which define the conditions for efficient and sustainable data sharing, and the CARE principles, which ask who benefits from that sharing and whose interests must be protected.
+
+The FAIR principles emerged from the open science movement of the 2010s, which pushed for research data to be shared and reused rather than locked in incompatible systems. Sharing data effectively on the web requires that it be structured and described in ways that machines as well as humans can read and process — this is the specific challenge the FAIR principles were designed to address (Wilkinson et al. 2016).
+
+As open data initiatives expanded, marginalised voices pointed out that frameworks designed for scientific efficiency often replicated patterns of unequal relations of power — collecting data about communities without their meaningful participation or benefit. The CARE principles were developed by the Global Indigenous Data Alliance in direct response to this problem (Carroll et al. 2020).
+
+
+### 3.a The FAIR principles
+
+Handle data with care and, if possible, share: how to do this  
 > Learning objective: Apply the FAIR (Findable, Accessible, Interoperable, and Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles to ethical data management and sharing
 The FAIR principles were published in 2016 by a consortium of researchers, librarians, and data managers. They have since become a standard reference point in open science, required by major research funders in Europe and elsewhere (Wilkinson et al. 2016). Navigate to the original paper in Scientific Data (https://doi.org/10.1038/sdata.2016.18) and read the abstract and the brief description of each principle (pp. 1–3). Then explore the go-FAIR website (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation.
-[ IMAGE: Screenshot of the go-FAIR website FAIR principles overview] FAIR Principles overview, go-FAIR.org. Screenshot, [date]. https://www.go-fair.org/fair-principles/
-### FAIR stands for:
-* Findable: Data and metadata should be easy to discover, using persistent, globally unique identifiers (such as DOIs) and rich, standardised metadata registered in searchable catalogues.
-* Accessible: Data should be retrievable under clearly specified conditions, using open and universal protocols. 'Accessible' does not mean 'free for all': some data may legitimately be restricted. What FAIR requires is that the conditions of access be clearly stated.
+<!-- Sofia: the learning objective is too vast for the lesson; instead of apply, it ought to be understand or familiarise with the FAIR principles. The article should be used from the author to gove some hints in the introduction of part 3 about context of inception of the FAIR principles; the other link with the FAIR principles can be used to do the exrcice by the learners-->
+<!---->
+[ IMAGE: Screenshot of the go-FAIR website FAIR principles overview] FAIR Principles overview, go-FAIR.org. Screenshot, [date]. https://www.go-fair.org/fair-principles/*
+
+<!-- Sofia: I propose in the following list of principles, in each case to keep the initial word (for ex. Findable) and then only the first phrase that gives an elementary explanation. Work some important ones through the exercice by making in hands-on in order for learners to understand by problem. If technical details persist, then add links with explanations of the concept, for ex. to Wikipedia-->
+FAIR stands for:
+* Findable: Data and metadata should be easy to discover<!--, using persistent, globally unique identifiers (such as DOIs) and rich, standardised metadata registered in searchable catalogues.-->
+* Accessible: The conditions of access to data should be clearly stated - based on the understanding that accessibility also means that some data may legitimately be restricted. <!--Data should be retrievable under clearly specified conditions, using open and universal protocols. 'Accessible' does not mean 'free for all': some data may legitimately be restricted. What FAIR requires is that the conditions of access be clearly stated.-->
 * Interoperable: Data should use standardised formats, vocabularies, and ontologies so that it can be integrated with other datasets and used by different tools. For historians, this means using recognised metadata schemas (Dublin Core, Europeana Data Model) and controlled vocabularies for names, places, and dates.
-* Reusable: Data should be accompanied by a clear licence and sufficient documentation — a README file, a data dictionary, a description of the methodology — so that another researcher can understand and build on it.
-Now navigate to Zenodo (https://zenodo.org), an open repository hosted by CERN and supported by the European Commission. Search for a dataset related to oral history or cultural heritage. Select one result that interests you and examine its record page carefully.
-* Does the dataset have a persistent identifier (DOI or similar)? Is it cited in a way that would allow another researcher to find it reliably in ten years?
-* Is the dataset fully downloadable, or are there access restrictions? If restrictions exist, are they clearly explained?
-* What format are the data files in? Are these open, non-proprietary formats (such as CSV, plain text, or open XML standards), or are they proprietary formats that may not be readable without specific software?
-* Is there a README file or data dictionary that explains what the data contains and how it was collected? Is this documentation sufficient for you to understand the data without contacting the depositor?
-* What licence is attached? Does the licence allow you to use the data for your research purposes? Does it place any conditions on reuse (attribution, non-commercial use, share-alike)?
-### CARE: collective benefit, authority to control, responsibility, and ethics
-The FAIR principles are technically and administratively powerful, but they say nothing about whether data should be shared, or whose interests should be considered in making that decision. This gap is addressed by the CARE principles, developed by the Global Indigenous Data Alliance (GIDA) in response to growing recognition that open data frameworks designed for scientific efficiency often replicate colonial patterns of extraction from Indigenous communities (Carroll et al. 2020; Tuhiwai Smith 2012).
-Navigate to the GIDA website (https://www.gida-global.org/care) and read the brief descriptions of each CARE principle. Then read the executive summary of the original paper (https://doi.org/10.5334/dsj-2020-043 — the abstract and the 'Background' section, pp. 1–3).
+* Reusable: Data should be accompanied by a clear statement on the rights if use, usually a licence, and sufficient documentation — a README file, a data dictionary, a description of the methodology — so that another researcher can understand and build on it.
+
+<!--You can explore the [go-FAIR website] (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation. You will use this website in the exercices below-->
+
+Now navigate to [Zenodo](https://zenodo.org), a data repository hosted by CERN, the European Organization for Nuclear Research, and [an open infrastructure of the European Community](https://about.zenodo.org/). Search for a dataset related to oral history or cultural heritage. Select one result that interests you and examine its record page carefully.
+
+We suggest that you work with the following dataset: 
+Crymble, Adam, and Emma Azid. “Black Lives, British Justice: Black People in London Criminal Justice Records 1720-1841”. Zenodo, August 28, 2021. https://doi.org/10.5281/zenodo.5304501.
+-->
+
+* 1. Does the dataset have a unique persistent identifier such as a DOI (Digital Object Identifier) or similar? 
+
+<details>
+<summary><strong>What is a DOI?</strong></summary>
+A DOI (Digital Object Identifier) is <a href='https://ask.library.uic.edu/faq/345899'>a string of numbers, letters and symbols used to uniquely identify a digital object</a> - an article, a dataset, a report - and to provide it with a permanent web address so that it can be reliably found and cited. A DOI looks like this: <a href='https://doi.org/10.5281/zenodo.5304501'>https://doi.org/10.5281/zenodo.5304501</a>. Think of it as a digital identity card: it stays with the object permanently and always points to the same resource. DOIs are a key component of the FAIR principles, because findability depends on stable, globally recognised identifiers.
+</details>
+
+In the record page, look for the DOI. 
+
+Then read [what a unique identifier is in the FAIR principles context](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/) (estimated time of reading: 3 minutes). 
+
+Then go back to the dataset's record page and check the suggested citation: do you think that it would allow another researcher to find the dataset reliably in ten years?   
+
+* 2. Is the dataset fully downloadable, or are there access restrictions? Where do you find this kind of information in the page? 
+
+In comparison, check a dataset with restricted access: Pepe, Antonio Gerardo, Roberta Alilla, Barbara Parisse, and Flora De Natale. “Historical Dataset from the Italian National Agrometeorological Network (RAN)”. Zenodo, January 21, 2025. https://doi.org/10.5281/zenodo.14710779. In this case, are existing restrictions clearly explained? 
+
+
+* 3. In what format are the data files available? Are these open, non-proprietary formats (such as CSV, plain text, or open XML standards), or are they proprietary formats that may not be readable without specific software?
+
+<details>
+<summary><strong>What is an open file format</strong></summary>
+An open file format is a type of file that anyone can open and use, because its structure is public. You don’t need special or expensive software to access it. By contrast, proprietary formats are controlled by companies and often require specific programs. Open formats matter because they help make sure your files will still be usable in the future—even if software changes or disappears. Some common open formats are <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> (data), <a href="https://en.wikipedia.org/wiki/Text_file">TXT</a> (text), <a href="https://en.wikipedia.org/wiki/PNG">PNG</a> (images), <a href="https://en.wikipedia.org/wiki/Office_Open_XML">Open XML</a> and <a href="https://en.wikipedia.org/wiki/MP3">MP3</a> (audio). Proprietary formats include .xlsx, .docx, and .psd. The FAIR principles recommend open formats because they make it easier to share, access, and reuse data.
+</details>
+
+
+* 4. Is there a [README](https://ubc-library-rc.github.io/rdm/) file or [data dictionary](https://ubc-library-rc.github.io/rdm/content/07_data_dictionary.html) that explains what the data contains and how it was collected? Is this documentation sufficient for you to understand the data without contacting the depositor?
+* 5. How are the rights of use specified? Is it possible to reuse the data and under what conditions? (Tip: here you should look for a licence, as we explain in 2.b) 
+
+### 3.b CARE: collective benefit, authority to control, responsibility, and ethics
+
+The FAIR principles focus on the technical aspects of making data accessible and reusable, but they do not address whether data should be shared or whose interests are considered. The CARE principles were developed by the [Global Indigenous Data Alliance](https://www.gida-global.org/care) (GIDA) to address this gap. They respond to concerns that open data practices, while efficient for science, can reinforce unequal power dynamics and extract knowledge from Indigenous communities (Carroll et al., 2020; Tuhiwai Smith, 2012). More broadly, CARE highlights ethical issues that arise in contexts where power is uneven and some voices are marginalized. Their underlying concerns — about consent, power, benefit, and community authority — apply to any situation in which researchers use data about communities that have historically been marginalised, exploited, or excluded from the research process. Historians working with data about enslaved people, colonial subjects, asylum seekers, or victims of state violence should ask the same fundamental questions (Risam 2019; D'Ignazio and Klein 2020).
+
 
 CARE stands for:
 * Collective Benefit: Data ecosystems should be designed so that the communities whose data is used derive genuine benefit from it. Research that extracts value from communities without returning anything to them fails this standard, however technically FAIR it may be.
@@ -317,34 +381,91 @@ CARE stands for:
 * Responsibility: Those who work with Indigenous data have a responsibility to explain how the data is used and to demonstrate that this use supports the community's self-determination and collective benefit. This is ongoing, not a one-time compliance exercise.
 * Ethics: Indigenous peoples' rights and wellbeing should be the primary concern at all stages of the data lifecycle. This requires engagement with Indigenous ethical frameworks, not merely the application of institutional review board processes.
 
-While the CARE principles were developed specifically in the context of Indigenous data governance, their underlying concerns — about consent, power, benefit, and community authority — apply to any situation in which researchers use data about communities that have historically been marginalised, exploited, or excluded from the research process. Historians working with data about enslaved people, colonial subjects, asylum seekers, or victims of state violence should ask the same fundamental questions (Risam 2019; D'Ignazio and Klein 2020).
-Now return to the same Zenodo dataset you examined in assignment 3.a, or choose a different one from a cultural heritage or historical context. Apply the CARE framework:
+More on the [GIDA website](https://www.gida-global.org/care).
+
+Now return to the same Zenodo dataset you examined in assignment 3.a. Apply the CARE framework.
+
 * Who does the data describe? Are there living communities — or communities of descendants — whose interests are implicated in this data?
 *	Is there any evidence that these communities were involved in designing the data collection, or that they were consulted about how the data would be used and shared?
 *	Who benefits from this data being open: researchers, the institution that deposited it, or the communities the data concerns? Try to be specific.
 *	Are there uses of this data that would be ethically problematic, even if they are technically permitted by the licence? Can you think of an example?
-### Traditional Knowledge Labels: a practical tool
-One concrete tool for applying CARE principles to digital cultural heritage is the system of Traditional Knowledge (TK) Labels developed by Local Contexts (https://localcontexts.org/labels/traditional-knowledge-labels/). TK Labels are digital notices that communities can attach to cultural heritage materials held in archives and museums, communicating their terms for access and use.
-Navigate to the Local Contexts website and explore the gallery of TK Labels. Each label has a specific meaning — for example, TK Community Use Only indicates that a resource should only be used within the community of origin; TK Sacred indicates that it contains sacred content and should not be reproduced or shared publicly.
+
+
+### 3.c Going further: Traditional Knowledge Labels
+
+> **Optional — estimated time: 20 minutes**
+
+One concrete tool for applying CARE principles to digital cultural heritage is the system of [Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) developed by the non-profit organisation Local Contexts. TK Labels are digital notices that communities can attach to cultural heritage materials held in archives and museums, specifying their terms for access and use. Unlike licences, they do not define legal rights of use — rather, they add a layer of community-specific information about the cultural context and sensitivity of materials.
+
+Navigate to the [full set of TK Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) and read the descriptions of two or three labels that interest you.
+
+* Choose one label that you think could apply to a collection of oral testimonies or ceremonial photographs.  <!-- this needs to be really specific and limited say to one concrete example.  --> What does it communicate to a researcher browsing the collection? How does it change what you would do with the material?
+* Now consider Lea's collection. Could a label of this kind — or something inspired by it — be useful for any of her materials? Which ones, and why? <!-- this is perhaps too much? if it remains, it should be more defined: pick a type of things in her collection, pick a label that could adpat or that is completely inadapted, and give food for thought  --> 
+
+**Further reading:** Carroll, S.R. et al. "The CARE Principles for Indigenous Data Governance." *Data Science Journal* 19, no. 1 (2020). [https://doi.org/10.5334/dsj-2020-043](https://doi.org/10.5334/dsj-2020-043)
+
+
 [ IMAGE: Screenshot of the Traditional Knowledge Labels gallery, Local Contexts ] Traditional Knowledge Labels gallery, Local Contexts. Screenshot, [date]. https://localcontexts.org/labels/traditional-knowledge-labels/
 
-*	Look at the full set of TK Labels. Which ones would be most relevant to a collection of oral testimonies? Which would apply to photographs of ceremonial events?
-*	Now search for a collection on Mukurtu (https://mukurtu.org/), a content management system designed specifically for Indigenous cultural heritage that incorporates TK Labels. How does the presence of TK Labels change the experience of browsing a collection, compared to a standard repository like Zenodo or a library catalogue?
-*	Could TK Labels — or something like them — be useful for collections that are not Indigenous in origin but concern other historically marginalised communities? Think about the September 11 Digital Archive or the Schomburg Center collection from assignment 1. What would a community label for those collections look like?
 
- ### Bringing it all together: evaluating Lea's choices
+**Exploring TK Labels in practice: Mukurtu**
+
+[Mukurtu](https://mukurtu.org/) is a content management system designed specifically for Indigenous cultural heritage. Unlike standard repositories such as Zenodo, Mukurtu integrates TK Labels directly into the browsing experience, allowing communities to communicate the cultural protocols that govern access to and use of their materials.
+
+Navigate to the [Mukurtu showcase](https://mukurtu.org/showcase/) and select one collection that interests you. Browse a few records and pay attention to any TK Labels attached to the materials.
+
+* What TK Labels can you identify in the collection? What do they communicate to a researcher about the conditions of access and use?
+* How does the presence of TK Labels change the experience of browsing this collection compared to a standard repository like Zenodo or a library catalogue? What information do you have here that you would not have elsewhere?
+* The FAIR principles aim to make data as open and reusable as possible. Do the TK Labels you encountered sit comfortably within a FAIR framework, or do they tension with it? What does this tell you about the limits of FAIR as a universal standard?
+* Could a system like Mukurtu — or an adaptation of it — be useful for collections that are not Indigenous in origin but concern other historically marginalised communities, such as the September 11 Digital Archive or oral history collections from communities affected by conflict or displacement? What would need to change?
+
+
+### 3.d Bringing it all together: evaluating Lea's choices
+
+<!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
+
+<!-- Sofia: I deactivate the initial version that follows to add a revised version
+
 Lea is ready to deposit her collection. She has three categories of material, each raising different ethical questions:
 Oral history recordings and transcripts. Nine of the twelve participants have given explicit consent for public access. Two have asked for their contributions to be restricted to researchers at recognised institutions for twenty years. One — the participant mentioned in the video — has consented to sharing within the local history community, but not with the general public or with researchers outside the region.
 Digitised family photographs. All were donated by community members, who signed a deposit agreement allowing publication under a Creative Commons Attribution licence (CC BY). However, several photographs depict individuals whose living relatives have not been contacted.
+
 Transcribed letters and diaries. The original authors died before 1854 and the texts are out of copyright. However, the letters contain detailed information about family conflicts, financial difficulties, and health conditions that living descendants might find distressing if published without contextual framing.
 For each category, assess:
-*	What FAIR steps should Lea take? Propose a metadata schema, licence, and type of repository appropriate to this material.
+*	What FAIR steps should Lea take? Propose a metadata schema, licence, and type of repository appropriate to this material <!-- Sofia: the metadata scheme goes beyond this lesson; there is a small part in the lesson on metadata; repositories are beyond the scope of what we developed in each of the 3 lessons. We cannot ask them to do this unless we add such a part in one of the 3 lessons (Moritz part?) --> <!--
 *	What CARE considerations apply? Whose interests and authority must be considered beyond the legal minimum?
 *	Is there any material that should not be made publicly available — even if it is legally permissible to do so? What alternative levels of access (restricted, embargoed, community-only, unlisted) would be appropriate?
 
 After completing the evaluation, reflect:
 *	Is it possible to be both FAIR and CARE compliant at the same time? Do the two frameworks ever pull in different directions? Can you identify a specific case — from Lea's collection or from the repositories you explored — where maximising openness (FAIR) conflicts with protecting community interests (CARE)?
 *	The principle 'handle data with care and, if possible, share' is sometimes described as the practical spirit behind FAIR and CARE together. Do you agree that 'if possible' is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
+--> 
+
+*revised version*
+
+
+> This exercise can be completed individually or discussed in small groups.
+
+Lea is ready to deposit her collection. She has three categories of material, each raising different ethical questions:
+
+**Oral history recordings and transcripts.** Nine of the twelve participants have given explicit consent for public access. Two have asked for their contributions to be restricted to researchers at recognised institutions for twenty years. One has consented to sharing within the local history community only, not with the general public or with researchers outside the region.
+
+**Digitised family photographs.** All were donated by community members who signed a deposit agreement allowing publication under a Creative Commons Attribution licence (CC BY). However, several photographs depict individuals whose living relatives have not been contacted.
+
+**Transcribed letters and diaries.** The original authors died before 1854 and the texts are out of copyright. However, the letters contain detailed information about family conflicts, financial difficulties, and health conditions that living descendants might find distressing if published without contextual framing.
+
+For each category, consider the following questions:
+
+* Is there any material that should not be made publicly available — even if it is legally permissible to do so? What would you do with it instead: restrict access, embargo it for a period, make it available to specific communities only, or leave it undeposited?
+* What CARE considerations apply? Whose interests and authority must be considered beyond the legal minimum?
+* What licence would you attach to the materials that can be shared? Refer back to the Creative Commons callout box in 2.b if needed.
+
+Then reflect on the two frameworks together:
+
+* Is it possible to be both FAIR and CARE compliant at the same time? Can you identify a specific case — from Lea's collection or from the repositories you explored in 3.a and 3.b — where maximising openness conflicts with protecting community interests?
+* The phrase *handle data with care and, if possible, share* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
+
+<!-- in the above version, the questions about metadata schemas and repository types have been removed. The exercise now stays within what students have learned, connects back to earlier parts of the lesson, and ends with two reflection questions.-->
 
 
 ### Conclusion
@@ -352,16 +473,19 @@ The moment in the video when Lea pauses before publishing her archive — realis
 This lesson has moved through three scales of ethical attention. The first assignment asked you to read existing archival records for the ethical traces they carry: questions of consent, ownership, and cultural sensitivity embedded in the metadata of a born-digital archive and a cultural heritage collection. The second asked you to think systematically about the whole life of a dataset, identifying the ethical obligations that arise at each stage from planning to archiving. The third offered two practical frameworks — FAIR and CARE — and asked you to apply them to real repositories and to the specific dilemma of deciding what to share, how, and on whose terms.
 None of these frameworks provides automatic answers. The GDPR sets a minimum legal standard; ethics goes further. FAIR describes what technically responsible sharing looks like (Wilkinson et al. 2016); CARE asks whether sharing serves the interests of those whose lives the data concerns (Carroll et al. 2020). The answer to that question can only come from knowing your sources, knowing the communities behind them, and exercising the kind of informed, reflective judgement that is, in the end, what historical scholarship is for.
 
-### Reading/viewing suggestions for assignment 3
-Wilkinson, Mark D. et al. 'The FAIR Guiding Principles for Scientific Data Management and Stewardship.' Scientific Data 3 (2016): 160018. https://doi.org/10.1038/sdata.2016.18
+### Reading/viewing suggestions
+go-FAIR. FAIR Principles. https://www.go-fair.org/fair-principles/
 
-Carroll, Stephanie Russo et al. 'The CARE Principles for Indigenous Data Governance.' Data Science Journal 19 (2020): 43. https://doi.org/10.5334/dsj-2020-043
+Wilkinson, Mark D. et al. 'The FAIR Guiding Principles for Scientific Data Management and Stewardship.' Scientific Data 3 (2016): 160018. https://doi.org/10.1038/sdata.2016.18
 
 Global Indigenous Data Alliance. CARE Principles. https://www.gida-global.org/care
 
-Local Contexts. Traditional Knowledge Labels. https://localcontexts.org/labels/traditional-knowledge-labels/
+Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, et al. 2020. “The CARE Principles for Indigenous Data Governance”. *Data Science Journal* 19 (1): 43. https://doi.org/10.5334/dsj-2020-043.
 
-go-FAIR. FAIR Principles. https://www.go-fair.org/fair-principles/
+D'Ignazio, Catherine, and Lauren F. Klein. Data Feminism. MIT Press, 2020. Open access: https://data-feminism.mitpress.mit.edu/ — especially Chapter 4: 'What Gets Counted Counts.'
+
+<!--
+Local Contexts. Traditional Knowledge Labels. https://localcontexts.org/labels/traditional-knowledge-labels/
 
 Culture Digital Skills. 'Data Ethics in Cultural Heritage: FAIR and CARE Principles.' https://culturedigitalskills.github.io/2024-ethics-data/fair-and-care-principles.html
 
