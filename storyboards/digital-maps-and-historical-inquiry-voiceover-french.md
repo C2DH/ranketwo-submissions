@@ -2,7 +2,7 @@
 title: Cartes numériques et recherche historique 'Voiceover Script' - French
 ---
 
-
+<!--version deepl-->
 > **Introduction (0:00–0:20)**
 > Une carte ne se contente pas de représenter l'espace; elle l'**interprète**. Chaque carte s'appuie sur les connaissances et les technologies de son époque. Et si les cartes que nous utilisons n'étaient pas des fenêtres neutres sur le monde, mais des déclarations mûrement réfléchies à son sujet ?
 > Dans cette leçon, nous considérerons les cartes comme des **abstractions de la réalité** et comme des **produits de leurs auteurs, de leur contexte et de leur époque** — utiles, puissantes et susceptibles d’être remises en question.
@@ -74,10 +74,105 @@ Imaginez des calques transparents : densité de population, routes commerciales,
 Demandez-vous : qui a réalisé la carte, quand et pour qui ? Quels choix la structurent ? Que rend-elle visible — et que cache-t-elle ? Comment se compare-t-elle à d'autres sources ? Et n'oubliez pas d'interroger de manière critique les infrastructures numériques qui façonnent ce que vous pouvez voir et analyser.
 
 
+<!--version vzrifiée par ChatGPT-->
 
+# Cartes numériques et recherche historique — Voiceover (FR)
 
+## Introduction (0:00–0:20)
 
-Traduit avec DeepL.com (version gratuite)
+Une carte ne se contente pas de représenter l’espace : elle l’**interprète**. Chaque carte s’appuie sur les savoirs et les technologies de son époque. Et si les cartes que nous utilisons n’étaient pas des fenêtres neutres sur le monde, mais des constructions qui expriment un point de vue ?
+
+Dans cette leçon, nous considérerons les cartes comme des **abstractions de la réalité**, mais aussi comme des **produits de leurs auteurs, de leur contexte et de leur époque** — utiles, puissantes, et toujours susceptibles d’être questionnées.
+
+---
+
+## Principe 1 — Les cartes sont le produit de leurs créateurs (0:21–0:55)
+
+Aucune carte n’existe hors de son contexte. Elle porte les outils, les objectifs et les contraintes de son auteur : les informations disponibles, le public visé, la situation politique, ou encore les limites techniques de l’impression ou de la plateforme.
+
+Étudier une carte, c’est donc aussi étudier les personnes et les institutions qui l’ont produite : qui elles étaient, ce qu’elles valorisaient, et ce qu’elles attendaient de la carte.
+
+---
+
+## Principe 2 — Les cartes sont des réductions de la réalité (0:56–1:25)
+
+Une carte n’est jamais le territoire qu’elle représente : une copie parfaite du monde est impossible. Pour être lisible, elle doit simplifier — généraliser les formes, omettre des détails, lisser les lignes, et fixer un monde en mouvement sur une surface plane.
+
+Cette réduction n’est pas un défaut, mais une nécessité — toutefois, les **omissions comptent**.
+
+---
+
+## Principe 3 — Toute carte est le fruit de choix (1:26–2:05)
+
+On part d’une réalité infinie — on ne peut pas tout montrer — alors on **choisit**.
+
+Toutes les cartes reposent sur des décisions : quelles **données** retenir, quelles **catégories** utiliser, quelles **couleurs** attribuer, quels **symboles**, **étiquettes** et **projections** adopter, et ce que l’on met en avant — ou en arrière-plan.
+
+Ces choix orientent l’interprétation : ils peuvent révéler des structures — ou en produire. Les historiens les identifient et analysent la manière dont ils façonnent le récit de la carte.
+
+---
+
+## Principe 4 — Cartographier est un acte puissant (2:06–2:40)
+
+Cartographier, c’est **argumenter**. Une carte affirme où vivent les populations, qui est inclus — ou exclu —, où se trouvent les ressources et quels itinéraires comptent.
+
+Le choix des couleurs ou le tracé des lignes influence notre perception de l’espace, peut orienter des décisions politiques et guider l’allocation de ressources.
+
+Tout le monde peut produire une carte. Mais celles qui sont lues ont le pouvoir d’influencer les points de vue — la cartographie implique donc une responsabilité.
+
+---
+
+## Principe 5 — Les cartes sont toujours politiques (2:41–3:10)
+
+Ici, « politique » signifie que les cartes participent aux enjeux de **pouvoir, d’inclusion et de visibilité**. Frontières, toponymes, sources de données et légendes traduisent des points de vue.
+
+Prendre en compte cette dimension permet de comprendre ce qu’une carte rend visible, ce qu’elle invisibilise, et **dans quel but**.
+
+Qui peut cartographier ? Qui en a les moyens ? Quelles connaissances sont reconnues ? Quelles histoires ont été effacées ?
+
+---
+
+## Principe 6 — Les cartes peuvent et doivent être questionnées (3:11–3:40)
+
+Comme toute source, les cartes demandent une **analyse critique**. On compare les versions, on lit titres et métadonnées, on vérifie les sources, et on les met en regard d’autres matériaux — photographies, textes, témoignages.
+
+On peut aussi les confronter à des **contre-cartes**, qui mettent en avant d’autres perspectives.
+
+Par exemple : une carte du monde avec le sud en haut. Rien n’impose que le nord soit en haut — c’est une convention que l’on interroge rarement.
+
+---
+
+## Principe 7 — Outils numériques : expansion et concentration du pouvoir (3:41–4:05)
+
+La numérisation a profondément transformé la cartographie, de manière parfois contradictoire.
+
+D’un côté, elle a favorisé l’émergence de grandes plateformes privées qui structurent la production et l’usage des cartes à l’échelle mondiale. De l’autre, elle a ouvert de nouvelles formes de participation, permettant à des individus et à des communautés de créer et partager leurs propres cartes.
+
+---
+
+## Principe 8 — Les plateformes régulent l’accès (4:06–4:25)
+
+Les archives numériques et cartothèques facilitent l’accès aux cartes historiques — mais chaque plateforme filtre ce que vous voyez.
+
+La qualité des numérisations varie. Les métadonnées peuvent être riches — ou limitées. Les licences peuvent encourager la réutilisation — ou la restreindre.
+
+Vérifiez toujours **l’auteur, l’objectif, la portée et les droits**. De bonnes métadonnées facilitent la recherche ; de mauvaises peuvent la ralentir — ou induire en erreur.
+
+---
+
+## Principe 9 — Le SIG n’est pas la cartographie (4:26–4:50)
+
+Le **SIG** est un ensemble d’outils pour **créer et analyser des couches géoréférencées** ; la **cartographie** est l’art de concevoir une carte lisible et persuasive.
+
+Imaginez des calques transparents : densité de population, routes commerciales, épidémies, lieux de bataille. On peut activer, combiner ces couches et poser des questions spatiales.
+
+---
+
+## Principe 10 — Étudier les cartes comme toute source (4:51–5:00)
+
+Posez-vous les bonnes questions : qui a produit la carte, quand et pour qui ? Quels choix la structurent ? Que montre-t-elle — et que laisse-t-elle de côté ? Comment se compare-t-elle à d’autres sources ?
+
+Et n’oubliez pas d’interroger les infrastructures numériques qui conditionnent ce que vous pouvez voir et analyser.
 
 
 
