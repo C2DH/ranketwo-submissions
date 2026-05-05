@@ -149,6 +149,8 @@ Now reflect on the following question: would these contributions be possible wit
 
 Volynskaya, Alina. “Chapter 1: Traditional Archive, Knowledge Repository and the Digital”. In *Digital Archives of Science: Revisiting the Vestiges of Knowledge-Making*, 23-37. De Gruyter Oldenbourg, 2026. [DOI](https://doi.org/10.1515/9783111729664-003)
 
+Jagessar, Philip. 2025. “Digital Materiality and Doing Map History.” Imago Mundi 77 (2): 217–20. [DOI](https://doi.org/10.1080/03085694.2025.2567130) 
+
 Salimi, Hamid, Somayeh Fadaei Nezhad Bahramjerdi, and Rana Tootoonchi. 2025. “The Role of Geographic Information Systems (GIS) in Participatory Conservation of Heritage Areas”. *European Journal of Geography* 16 (1):s1-s11. [DOI](https://doi.org/10.48088/ejg.si.spat.hum.h.sal.1.11)
 
 
