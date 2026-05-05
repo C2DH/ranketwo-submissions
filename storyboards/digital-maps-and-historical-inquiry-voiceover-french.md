@@ -102,7 +102,9 @@ Posez-vous les bonnes questions : qui a produit la carte, quand et pour qui ? Qu
 
 Et n’oubliez pas d’interroger les infrastructures numériques qui conditionnent ce que vous pouvez voir et analyser.
 
-<!--version de la traduction deepl vérifiée par ChatGPT-->
+<!--
+
+version de la traduction deepl vérifiée par ChatGPT
 
 # Cartes numériques et recherche historique — Voiceover (FR)
 
@@ -202,7 +204,8 @@ Posez-vous les bonnes questions : qui a produit la carte, quand et pour qui ? Qu
 
 Et n’oubliez pas d’interroger les infrastructures numériques qui conditionnent ce que vous pouvez voir et analyser.
 
-<!--version deepl-->
+version deepl
+
 > **Introduction (0:00–0:20)**
 > Une carte ne se contente pas de représenter l'espace; elle l'**interprète**. Chaque carte s'appuie sur les connaissances et les technologies de son époque. Et si les cartes que nous utilisons n'étaient pas des fenêtres neutres sur le monde, mais des déclarations mûrement réfléchies à son sujet ?
 > Dans cette leçon, nous considérerons les cartes comme des **abstractions de la réalité** et comme des **produits de leurs auteurs, de leur contexte et de leur époque** — utiles, puissantes et susceptibles d’être remises en question.
@@ -268,13 +271,11 @@ Vérifiez **l'auteur, l'objectif, la portée et les droits**. De bonnes métadon
 
 **Principe 9 — Le SIG n'est pas de la cartographie (4:26–4:50)**
 **Le SIG** est une boîte à outils permettant de **créer et d'analyser des couches** sur une base géoréférencée ; **la cartographie** est l'art de concevoir une carte lisible et convaincante.
-Imaginez des calques transparents : densité de population, routes commerciales, épidémies, lieux de bataille. Activez et désactivez les couches, combinez-les et posez des questions spatiales. <!--(Par exemple, les couches spatio-temporelles sur le Luxembourg pendant la Seconde Guerre mondiale présentées dans la leçon révèlent comment l’espace a façonné les événements.)-->
+Imaginez des calques transparents : densité de population, routes commerciales, épidémies, lieux de bataille. Activez et désactivez les couches, combinez-les et posez des questions spatiales. (Par exemple, les couches spatio-temporelles sur le Luxembourg pendant la Seconde Guerre mondiale présentées dans la leçon révèlent comment l’espace a façonné les événements.)
 
 **Principe 10 — Étudiez les cartes comme n'importe quelle source (4:51–5:00)**
 Demandez-vous : qui a réalisé la carte, quand et pour qui ? Quels choix la structurent ? Que rend-elle visible — et que cache-t-elle ? Comment se compare-t-elle à d'autres sources ? Et n'oubliez pas d'interroger de manière critique les infrastructures numériques qui façonnent ce que vous pouvez voir et analyser.
 
 
-
-
-
+-->
 
