@@ -397,57 +397,11 @@ Now return to the same Zenodo dataset you examined in assignment 3.a. Apply the 
 *	Who benefits from this data being open: researchers, the institution that deposited it, or the communities the data concerns? Try to be specific.
 *	Are there uses of this data that would be ethically problematic, even if they are technically permitted by the licence? Can you think of an example?
 
-<!--
-### 3.c Going further: Traditional Knowledge Labels as practical application of CARE principles
-
-> **Optional — estimated time: 20 minutes**
-
-One concrete tool for applying CARE principles to digital cultural heritage is the system of [Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) developed by the non-profit organisation Local Contexts. TK Labels are digital notices that communities can attach to cultural heritage materials held in archives and museums, specifying their terms for access and use. Unlike licences, they do not define legal rights of use — rather, they add a layer of community-specific information about the cultural context and sensitivity of materials.
-
-Navigate to the [full set of TK Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) and read the descriptions of two or three labels that interest you.
-
-**Further reading:** Carroll, S.R. et al. "The CARE Principles for Indigenous Data Governance." *Data Science Journal* 19, no. 1 (2020). [https://doi.org/10.5334/dsj-2020-043](https://doi.org/10.5334/dsj-2020-043)
-
-
-[ IMAGE: Screenshot of the Traditional Knowledge Labels gallery, Local Contexts ] Traditional Knowledge Labels gallery, Local Contexts. Screenshot, [date]. https://localcontexts.org/labels/traditional-knowledge-labels/
-
-
-**Exploring TK Labels in practice: Mukurtu**
-
-[Mukurtu](https://mukurtu.org/) is a content management system designed specifically for Indigenous cultural heritage. Unlike standard repositories such as Zenodo, Mukurtu integrates TK Labels directly into the browsing experience, allowing communities to communicate the cultural protocols that govern access to and use of their materials.
-
-Navigate to the [Mukurtu showcase](https://mukurtu.org/showcase/) and select one collection that interests you. Browse a few records and pay attention to any TK Labels attached to the materials.
-
-* What TK Labels can you identify in the collection? What do they communicate to a researcher about the conditions of access and use?
-* How does the presence of TK Labels change the experience of browsing this collection compared to a standard repository like Zenodo or a library catalogue? What information do you have here that you would not have elsewhere?
-* Could a system like Mukurtu — or an adaptation of it — be useful for collections that are not Indigenous in origin but concern other historically marginalised communities, such as the September 11 Digital Archive or oral history collections from communities affected by conflict or displacement? What would need to change?
--->
-
 ### 3.c Bringing it all together: evaluating Lea's choices
 
 <!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
 
-<!-- Sofia: I deactivate the initial version that follows to add a revised version
-
-Lea is ready to deposit her collection. She has three categories of material, each raising different ethical questions:
-Oral history recordings and transcripts. Nine of the twelve participants have given explicit consent for public access. Two have asked for their contributions to be restricted to researchers at recognised institutions for twenty years. One — the participant mentioned in the video — has consented to sharing within the local history community, but not with the general public or with researchers outside the region.
-Digitised family photographs. All were donated by community members, who signed a deposit agreement allowing publication under a Creative Commons Attribution licence (CC BY). However, several photographs depict individuals whose living relatives have not been contacted.
-
-Transcribed letters and diaries. The original authors died before 1854 and the texts are out of copyright. However, the letters contain detailed information about family conflicts, financial difficulties, and health conditions that living descendants might find distressing if published without contextual framing.
-For each category, assess:
-*	What FAIR steps should Lea take? Propose a metadata schema, licence, and type of repository appropriate to this material <!-- Sofia: the metadata scheme goes beyond this lesson; there is a small part in the lesson on metadata; repositories are beyond the scope of what we developed in each of the 3 lessons. We cannot ask them to do this unless we add such a part in one of the 3 lessons (Moritz part?) --> <!--
-*	What CARE considerations apply? Whose interests and authority must be considered beyond the legal minimum?
-*	Is there any material that should not be made publicly available — even if it is legally permissible to do so? What alternative levels of access (restricted, embargoed, community-only, unlisted) would be appropriate?
-
-After completing the evaluation, reflect:
-*	Is it possible to be both FAIR and CARE compliant at the same time? Do the two frameworks ever pull in different directions? Can you identify a specific case — from Lea's collection or from the repositories you explored — where maximising openness (FAIR) conflicts with protecting community interests (CARE)?
-*	The principle 'handle data with care and, if possible, share' is sometimes described as the practical spirit behind FAIR and CARE together. Do you agree that 'if possible' is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
---> 
-
-*revised version*
-
-
-> This exercise can be completed individually or discussed in small groups.
+This exercise can be completed individually or in small groups.
 
 Lea is ready to deposit her collection. She has three categories of material, each raising different ethical questions:
 
