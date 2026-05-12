@@ -120,7 +120,7 @@ Theimer, Kate. “What Is the Meaning of Archives 2.0.” *American Archivist* 7
 Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
 
 <!-- 
-We could define levels as folows: core, going further, advanced. This menas that the first two are necessary, the third is a plus and the fourth is if need for a more in depth exercice, for example in groups. 
+We could define levels as follows: core, going further, advanced. This menas that the first two are necessary, the third is a plus and the fourth is if need for a more in depth exercice, for example in groups. 
 1.a Who owns the past? — Core — 30 min
 1.b Consent and user-generated sources in a born-digital archive — Core — 30 min
 1.c When everyone contributes, who owns the archive? — Going further — 20 min
@@ -326,8 +326,7 @@ As open data initiatives expanded, marginalised voices pointed out that framewor
 
 ### 3.a The FAIR principles
 
-Handle data with care and, if possible, share: how to do this  
-> Learning objective: Apply the FAIR (Findable, Accessible, Interoperable, and Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles to ethical data management and sharing
+Handle data with care and, if possible, share: how to do this? 
 The FAIR principles were published in 2016 by a consortium of researchers, librarians, and data managers. They have since become a standard reference point in open science, required by major research funders in Europe and elsewhere (Wilkinson et al. 2016). Navigate to the original paper in Scientific Data (https://doi.org/10.1038/sdata.2016.18) and read the abstract and the brief description of each principle (pp. 1–3). Then explore the go-FAIR website (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation.
 <!-- Sofia: the learning objective is too vast for the lesson; instead of apply, it ought to be understand or familiarise with the FAIR principles. The article should be used from the author to gove some hints in the introduction of part 3 about context of inception of the FAIR principles; the other link with the FAIR principles can be used to do the exrcice by the learners-->
 <!---->
