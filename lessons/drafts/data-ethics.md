@@ -15,10 +15,10 @@ Historians have long engaged with questions of provenance, reliability, and the 
 
 What distinguishes the digital age is not the existence of these issues but their amplification. Digital technologies enable data to circulate at unprecedented scale and speed, to be recombined across contexts, and to reach audiences far beyond those originally envisaged — raising new ethical stakes around control, context, and consent.
 
-This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and cultural sensitivity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
+This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and integrity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
 
 
-## 1 From data to information to knowledge: ethical stakes at every level
+## 1 From data to information to knowledge: ethics in practice
 
 In everyday language, the terms data, information, and knowledge are often used interchangeably. In the context of data management, however, they refer to distinct categories with different ethical implications (Floridi 2013). Clarifying these distinctions is essential for understanding how ethical responsibility operates at different stages of historical research.
 
@@ -35,7 +35,7 @@ Watch the lesson video animation in full.
 Based on the video, consider the following:
 
 * The objects in the suitcase — letters, photographs, tapes — were created by different people at different times. Who do you think owns them now that Lea's grandmother has died?
-* Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her?
+* Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her? <!--here is a link to make with Sofia lesson, exercice on postcard from WW1 Europeana-->
 * At the end of the video, Lea calls her aunt Maria before making the photographs available online via the local history project. Why do you think she does this? What could happen if she shared them without asking?
 
 <!-- The General Data Protection Regulation (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph. -->
@@ -44,7 +44,7 @@ Explore further the notions of ownership of data and consent. Search for "GDPR p
 
 > **What is the GDPR?** The General Data Protection Regulation (GDPR) is a European Union legal framework that came into force in 2018. It regulates how personal data — any information relating to an identifiable living person, including photographs — may be collected, stored, and shared. It applies to anyone processing personal data within the EU, and gives individuals the right to control how their information is used.
 
-In your own words, what does the GDPR protect, and who does it protect it for?
+In your own words, what does the GDPR framework protect, and who does it protect it for?
 Does it change anything about how you answered the questions above?
 
 <!--simpler alternative for this third part of the exercice: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
@@ -65,10 +65,17 @@ Navigate to the archive's collection of [personal testimonies](https://911digita
 
 Now focus on the ethical dimensions of metadata and answer the following questions:
 
-* Is there any information about how consent was obtained from the person who submitted this account? Look carefully at the **rights statement, the submission notes**,***Note Sofia: these do not exist in the page of the records*** <!--rights statement, submission notes: these are not visible in the pages of the accounts - should either clarify or put links to give orientation as where to look and what to look for--> and any contextual description provided by the archive.
-* The account was submitted voluntarily by a member of the public. Does voluntary submission constitute consent for all future uses — including uses the submitter could not have anticipated in 2001, such as computational text analysis or AI training data? What do you think, and why?
-* Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? What different kinds of ownership — legal, moral, emotional — might be at stake?
+* Can you trace any explicit information about how consent was obtained from the person who submitted this account? Can you find a **rights statement, or submission notes** or any other contextual information? 
+* The account was submitted voluntarily by a member of the public. Does voluntary submission constitute consent for all future uses? 
+
 * Now read the archive's own statement about its history and purpose (available at https://911digitalarchive.org/about). Does the archive acknowledge any of the ethical questions you identified above? If so, how? If not, what is missing?
+
+> Tip: The September 11 Digital Archive no longer has an active contribution form. You can consult an archived version from 2004 on the Internet Archive: [Contribute form of the September 11 Digital Archive](https://web.archive.org/web/20040202174803/http://911digitalarchive.org/stories/add.html). This gives you a sense of what contributors were asked to agree to at the time of submission.
+
+Now reflect on the following: 
+
+Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? <!--What different kinds of ownership — legal, moral, emotional — might be at stake?--> You can also check the next exercice to get inspiration. 
+
 
 ### 1.c When everyone contributes, who owns the archive? 
 
@@ -92,7 +99,7 @@ The September 11 Digital Archive is an example of a born-digital archive — tha
 While both characteristics expand the scope and inclusivity of archival collections, they also introduce ethical complexities that differ significantly from those associated with traditional archives.
 In conventional archival settings, materials are typically deposited by creators or their heirs under formal agreements that define ownership, access conditions, and permitted uses. These frameworks provide a relatively clear structure for consent and control. By contrast, in crowdsourced born-digital archives, the relationship between contributor and institution is often less formalised and more ambiguous. Contributors may submit materials with limited understanding of how they will be preserved, described, or reused, particularly over the long term. Therefore the expectations of contributors may be very different from the uses that the archive subsequently makes of their contributions (Zaagsma 2022).
 
-As scholars of digital memory have noted, contributors to participatory archives may operate with expectations shaped by personal, commemorative, or community-oriented intentions, rather than by an awareness of archival permanence or scholarly reuse (Theimer, 2011). This creates a potential gap between the perceived context of contribution and the actual conditions of access and circulation. Materials submitted in a moment of immediacy — such as responses to traumatic events — may later be encountered in entirely different interpretive frameworks, raising questions about ongoing consent and ethical reuse.
+As digital scholars have noted, contributors to participatory archives may operate with expectations shaped by personal, commemorative, or community-oriented intentions, rather than by an awareness of archival permanence or scholarly reuse (Theimer, 2011). Materials submitted in a moment of immediacy — such as responses to traumatic events — may later be encountered in entirely different interpretive frameworks, raising questions about ongoing consent and ethical reuse.
 
 Based on the exercices of 1.c and the readings below:
 Theimer, Kate. “What Is the Meaning of Archives 2.0.” American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
@@ -102,9 +109,9 @@ Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digita
 
 Write a short reflection (150–200 words) addressing the following:
 
-* Think back to the September 11 Digital Archive and HistorEsch Gesinn. In each case, what do you think motivated contributors to submit their materials? Were they likely thinking about long-term archival preservation, or something else entirely?
-* Based on the contribution forms you consulted in 1.c, do you think either archive adequately prepares contributors for the future uses their materials might serve — including uses they could not anticipate?
-* Formal agreements govern how materials are deposited in traditional archives. What are the advantages and limitations of this approach compared to crowdsourced archives?
+* Think back to the September 11 Digital Archive and HistorEsch Gesinn. In each case, what do you think motivated contributors to submit their materials? Were they likely thinking about long-term archival preservation, or something else entirely? Do you think Lea has such considerations? 
+* Based on the contribution forms you consulted in 1.c, do you think either collection adequately prepares contributors for the future uses their materials might serve — including uses they could not anticipate?
+<!--* Formal agreements govern how materials are deposited in traditional archives. What are the advantages and limitations of this approach compared to crowdsourced archives?-->
 
 ### Reading/viewing suggestions
  
@@ -154,7 +161,7 @@ Click on each stage that RDMkit diagram provides and read its description. While
 * At which stage(s) is the question of consent explicitly present? 
 * Where in this lifecycle do you think the question of ownership most naturally arises? And at which stage might it become most urgent?
 * Consider the final stage of 'Reuse'. What ethical obligations might arise specifically at this stage — that is, when data created for one purpose is reused for another?
-
+<!--
 A second, complementary model is more commonly used in humanities and cultural heritage contexts. It describes the data lifecycle as: 
 * Acquisition/Collection 
 * Analysis 
@@ -162,9 +169,9 @@ A second, complementary model is more commonly used in humanities and cultural h
 * Publication 
 * Archiving 
 
-This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) (Owens 2018; Corti et al. 2019).
+This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) .-->
 
-For the purposes of this lesson, we use a combined model that draws on both:
+For the purposes of this lesson, we use a combined model that draws on RDMkit and (Owens 2018; Corti et al. 2019):
 * Planning: deciding what data to collect, for what purpose, and under what conditions.
 * Acquisition/Collection: gathering data, whether by creating it (interviews, surveys, photographs) or by locating it in existing sources (archives, databases, digitised collections).
 * Processing/Analysis: cleaning, transforming, and analysing data to produce findings.
