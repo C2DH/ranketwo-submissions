@@ -3,7 +3,7 @@ authors:
  - sofia-papastamkou
  
 date: 2025-05-08
-title: From sources to data. Metadata for finding and contextualising
+title: Data criticism. Metadata for finding and contextualising
 learning-objectives: 
  - Understand how availability of descriptive information on historical records allows discoverability and contextualization of sources 
  - understand what metadata are and different forms they can take
