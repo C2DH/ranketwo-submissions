@@ -440,6 +440,11 @@ Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Ho
 
 D'Ignazio, Catherine, and Lauren F. Klein. Data Feminism. MIT Press, 2020. Open access: https://data-feminism.mitpress.mit.edu/ — especially Chapter 4: 'What Gets Counted Counts.'
 
+[Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) 
+*A concrete tool for applying CARE principles to digital cultural heritage developed by the non-profit organisation Local Contexts. TK Labels are digital notices that communities can attach to cultural heritage materials held in archives and museums, specifying their terms for access and use. Unlike licences, they do not define legal rights of use — rather, they add a layer of community-specific information about the cultural context and sensitivity of materials.*
+
+[Mukurtu](https://mukurtu.org/) 
+*A content management system designed specifically for Indigenous cultural heritage. Mukurtu integrates TK Labels directly into the browsing experience, allowing communities to communicate the cultural protocols that govern access to and use of their materials.Navigate to the [Mukurtu showcase](https://mukurtu.org/showcase/) and select one collection that interests you. Browse a few records and pay attention to any TK Labels attached to the materials.
 <!--
 Local Contexts. Traditional Knowledge Labels. https://localcontexts.org/labels/traditional-knowledge-labels/
 
