@@ -185,8 +185,8 @@ Return to the video animation: we know that Lea has her family's oral testimonie
 
 By digitising these materials, Lea turned them into digital data. Following the data lifecycle stages, we will trace the main ethical questions that arise at each stage for this project.
 
-For each stage below, we provide a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
-
+For the sake of the exercice, focus on the stages of: acquisition/collection, publication, archiving/reuse. In each stage below, we provide a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
+<!--
 **Planning**
 
 As Lea turns the materials she inherited into a collection of digitised data, with the intention to share them, she needs to make a series of decisions. Lea is not a researcher, but the situation she is in can be compared to the beginnings of a research project: at this stage, a reflection is necessary for planning the big lines of what to collect, how to handle it, what the intention is to do with it and how to preserve it to avoid risks of the data being unusable or lost. 
@@ -213,7 +213,7 @@ Imagine that Lea conducts recorded interviews with twelve community members; she
 > Data minimisation is the principle of collecting only the information actually needed following the objectives of a project. This means that even if you can, and even if contributors offer it, you do not collect more information than necessary. It is both a principle of regulations on personal data, such as the GDPR, and a good research practice. 
 
 Going further: Are there categories of information Lea should not collect, even if contributors offer them? <!--this is too open a question and with not a lot of help provided to answer it-->
-
+<!--
 **Processing/Analysis**
 
 Lea transcribes the interviews and creates descriptions (metadata) for the photographs. She uses a spreadsheet to organise the collection.
@@ -266,7 +266,7 @@ In the end of the video animation, we see that Lea has the intention to contribu
 ### 2.c Hands-on: Drafting a Data Management Plan and provenance table
 A Data Management Plan (DMP) is a document that describes how data will be managed throughout a project. Most research funders in Europe now require one (European Commission 2016). For historians, a DMP serves a second purpose: it is a record of the provenance of the data — where it came from, how it was collected, and what decisions were made along the way.
 
-Using the structure below, draft a short DMP for Lea's local history project. You do not need to write more than two or three sentences per section; the goal is to think through the ethical decisions, not to produce a polished policy document.
+Using the structure below, draft a short DMP for Lea's local history project. You do not need to write more than two or three sentences per section; the goal is to think through the ethical decisions, not to produce a polished policy document. In this occasion, can you recognize the stages of the data lifecycle? 
 
 - Data description: What types of data are in the collection (audio, photographs, transcripts, metadata)? What formats? Approximately what volume?
 - Consent and legal basis: How was consent obtained from participants? What is the legal basis for processing personal data (e.g. consent, public task)? How will you manage the case of participants who wish to withdraw consent, or who have died?
@@ -397,17 +397,14 @@ Now return to the same Zenodo dataset you examined in assignment 3.a. Apply the 
 *	Who benefits from this data being open: researchers, the institution that deposited it, or the communities the data concerns? Try to be specific.
 *	Are there uses of this data that would be ethically problematic, even if they are technically permitted by the licence? Can you think of an example?
 
-
-### 3.c Going further: Traditional Knowledge Labels
+<!--
+### 3.c Going further: Traditional Knowledge Labels as practical application of CARE principles
 
 > **Optional — estimated time: 20 minutes**
 
 One concrete tool for applying CARE principles to digital cultural heritage is the system of [Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) developed by the non-profit organisation Local Contexts. TK Labels are digital notices that communities can attach to cultural heritage materials held in archives and museums, specifying their terms for access and use. Unlike licences, they do not define legal rights of use — rather, they add a layer of community-specific information about the cultural context and sensitivity of materials.
 
 Navigate to the [full set of TK Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) and read the descriptions of two or three labels that interest you.
-
-* Choose one label that you think could apply to a collection of oral testimonies or ceremonial photographs.  <!-- this needs to be really specific and limited say to one concrete example.  --> What does it communicate to a researcher browsing the collection? How does it change what you would do with the material?
-* Now consider Lea's collection. Could a label of this kind — or something inspired by it — be useful for any of her materials? Which ones, and why? <!-- this is perhaps too much? if it remains, it should be more defined: pick a type of things in her collection, pick a label that could adpat or that is completely inadapted, and give food for thought  --> 
 
 **Further reading:** Carroll, S.R. et al. "The CARE Principles for Indigenous Data Governance." *Data Science Journal* 19, no. 1 (2020). [https://doi.org/10.5334/dsj-2020-043](https://doi.org/10.5334/dsj-2020-043)
 
@@ -423,11 +420,10 @@ Navigate to the [Mukurtu showcase](https://mukurtu.org/showcase/) and select one
 
 * What TK Labels can you identify in the collection? What do they communicate to a researcher about the conditions of access and use?
 * How does the presence of TK Labels change the experience of browsing this collection compared to a standard repository like Zenodo or a library catalogue? What information do you have here that you would not have elsewhere?
-* The FAIR principles aim to make data as open and reusable as possible. Do the TK Labels you encountered sit comfortably within a FAIR framework, or do they tension with it? What does this tell you about the limits of FAIR as a universal standard?
 * Could a system like Mukurtu — or an adaptation of it — be useful for collections that are not Indigenous in origin but concern other historically marginalised communities, such as the September 11 Digital Archive or oral history collections from communities affected by conflict or displacement? What would need to change?
+-->
 
-
-### 3.d Bringing it all together: evaluating Lea's choices
+### 3.c Bringing it all together: evaluating Lea's choices
 
 <!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
 
