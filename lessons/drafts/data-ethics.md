@@ -459,13 +459,12 @@ Lea is ready to deposit her collection. She has three categories of material, ea
 
 For each category, consider the following questions:
 
-* Is there any material that should not be made publicly available — even if it is legally permissible to do so? What would you do with it instead: restrict access, embargo it for a period, make it available to specific communities only, or leave it undeposited?
+* Is there any material that should not be made publicly available — even if it is legally permissible to do so? 
 * What CARE considerations apply? Whose interests and authority must be considered beyond the legal minimum?
 * What licence would you attach to the materials that can be shared? Refer back to the Creative Commons callout box in 2.b if needed.
 
 Then reflect on the two frameworks together:
 
-* Is it possible to be both FAIR and CARE compliant at the same time? Can you identify a specific case — from Lea's collection or from the repositories you explored in 3.a and 3.b — where maximising openness conflicts with protecting community interests?
 * The phrase *handle data with care and, if possible, share* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
 
 <!-- in the above version, the questions about metadata schemas and repository types have been removed. The exercise now stays within what students have learned, connects back to earlier parts of the lesson, and ends with two reflection questions.-->
