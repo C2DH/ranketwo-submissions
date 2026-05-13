@@ -3,72 +3,127 @@ title: Léa FR
 date: 2026-05-12
 ---
 
-Scène 1 : Découverte dans le grenier (Après le décès de sa grand-mère, Lea découvre dans le grenier de la maison de la défunte une valise recouverte de poussière. Lea pénètre dans le grenier poussiéreux, à la fois curieuse et émue)
+---
+title: Léa FR (version corrigée)
+date: 2026-05-12
+---
 
-Lea : (à voix basse, pour elle-même) Grand-mère, quels secrets as-tu laissés derrière toi ?
+## Scène 1 : Découverte dans le grenier
 
-(Elle trouve une valise poussiéreuse et l'ouvre, révélant des livres, des lettres, des cartes postales, des cassettes audio, des cassettes vidéo, des disquettes et un Walkman vintage.)
+(Après le décès de sa grand-mère, Lea découvre dans le grenier de la maison une valise couverte de poussière. Elle entre, à la fois curieuse et émue.)
 
-Lea : (émerveillée) Oh, c'est… incroyable.
+Lea : (à voix basse)
+Grand-mère… quels secrets as-tu laissés derrière toi ?
 
+(Elle ouvre la valise : livres, lettres, cartes postales, cassettes audio et vidéo, disquettes, Walkman.)
 
+Lea : (émerveillée)
+Oh… c’est incroyable.
 
-Scène 2 : Premier inventaire
+---
 
-Lea (voix off) : Je n'ai pas le temps de tout explorer maintenant, je n'ai pas de voiture pour ramener tout ça chez moi, et je n'ai pas de place dans mon petit studio… mais ces souvenirs méritent d'être préservés. Bon, prenons quelques photos et dressons la liste de ce qu'il y a là-dedans.
+## Scène 2 : Premier inventaire
 
+Lea (voix off) :
+Pas le temps de tout explorer maintenant.
+Pas de voiture pour tout ramener…
+et aucun espace dans mon petit studio…
+Mais ces souvenirs méritent d’être préservés.
+Bon… je prends des photos et je fais une liste.
 
+(Elle photographie les objets et note sur son smartphone.)
 
- (Lea prend soigneusement des photos de chaque objet, les répertoriant sur son smartphone.)
+---
 
-(Images : photos prises avec un smartphone, notes apparaissant à l'écran : livres, cassettes, disquettes, cassettes vidéo.)
+## Scène 3 : Difficultés techniques
 
+Lea :
+Salut Ada, j’ai trouvé de vieilles cassettes et des disquettes.
+Tu peux m’aider ?
 
+Ada :
+Bien sûr !
+J’aurais besoin des spécifications techniques
+pour voir si je peux m’en occuper.
 
-Scène 3 : Difficultés techniques 
+Lea :
+Je t’envoie ça tout de suite !
 
-Lea (au téléphone avec Ada, son amie féru de technologie) : Salut Ada, j’ai trouvé de vieilles cassettes et des disquettes. Tu peux m’aider ?
+Ada :
+Je ne peux rien faire pour les cassettes vidéo…
+mais apporte-moi des cassettes audio et des disquettes.
 
-Ada : Bien sûr ! J’aurais besoin des spécifications techniques de tes objets pour vérifier que je peux m’en occuper.
+---
 
+## Scène 4 : Cataloguer les découvertes
 
+Lea :
+Auteur, titre…
+(exp. : livre)
+Expéditeur, destinataire…
+(carte postale)
+Date, lieu…
+(photo)
+Chaque détail compte !
 
-(Lea mesure les objets, prend des notes et envoie par SMS les spécifications techniques détaillées à son amie Ada.)
+Lea :
+Les autocollants indiquent…
+« Réunion de famille, Noël 83 ».
+À faire : trouver un lecteur, écouter,
+décrire, numériser…
 
+---
 
+## Scène 5 : Analyse des disquettes
 
-Lea (au téléphone avec Ada) : Je t'envoie les spécifications tout de suite !
+Ada :
+Mauvaise nouvelle : le format est obsolète.
+Bonne nouvelle : on peut encore lire les métadonnées.
 
-Ada (toujours au téléphone, en haut-parleur, mais en lisant le SMS qu'elle vient de recevoir) : Je n'ai pas l'équipement nécessaire pour les cassettes vidéo, mais apporte-moi des échantillons de cassettes et de disquettes quand tu reviendras !
+Lea :
+Les métadonnées ?
 
-Scène 4 : Répertorier les découvertes (Lea enregistre sa voix avec son smartphone, décrivant soigneusement chaque objet à voix haute.)
+Ada :
+Oui !
+Taille du fichier, date de création, type…
+Ça donne déjà des indices.
 
-Lea : Auteur, titre (en décrivant un livre)…. expéditeur, destinataire (en décrivant une carte postale)… date, lieu (en décrivant une photo)... chaque détail compte !
+---
 
-(Lea prend des cassettes et examine les autocollants.)
+## Scène 6 : Un an plus tard
 
-Lea : Les autocollants sur ces cassettes indiquent… « Réunion de famille, Noël 83 ». À faire : trouver un lecteur de cassettes, écouter, décrire le contenu, numériser…
+Lea (voix off) :
+Grand-mère ne parlait pas beaucoup…
+mais ses photos en disent long.
 
+Avec les dates, les lieux et les noms,
+j’ai pu reconstituer une histoire plus complète.
 
+Pas seulement celle de notre famille,
+mais aussi celle de la ville,
+et de son évolution.
 
-Scène 5 : Analyse des disquettes (avec Ada) (Lea et Ada travaillent ensemble chez Ada. Ada examine une disquette.)
+J’aimerais partager ces photos
+dans un projet d’histoire locale…
+les rendre accessibles à tous.
 
-Ada : Mauvaise nouvelle : le format du fichier est obsolète. Bonne nouvelle : on peut encore lire ses métadonnées.
+Mais avant…
+j’ai besoin du consentement de tante Maria.
+Elle apparaît sur beaucoup d’images…
+et nous sommes les seules restantes de la famille.
 
-Lea : Les métadonnées ?
+Lea :
+Allô ? Tante Maria ?
+Est-ce que tu serais d’accord pour partager ces photos en ligne ?
 
-Ada : Oui ! Taille du fichier, date de création, type de fichier… ce sont toujours des indices précieux !
+---
 
-Scène 6 : Un an plus tard (Lea, penchée sur son ordinateur, étudie attentivement un tableau contenant des métadonnées)
-Narrateur (voix off) : Le temps a passé et Lea a dressé l’inventaire de tous les objets ; elle les a répertoriés et a complété les informations manquantes en discutant avec les membres de sa famille, les amis et les voisins de sa grand-mère. 
-Lea (voix off) : Grand-mère était une femme discrète, mais ses photos et ses enregistrements en disent long. Grâce aux dates, aux lieux et aux noms que j’ai pu retracer, elles racontent désormais une histoire plus complète, non seulement de notre famille, mais aussi de la façon dont notre ville vivait autrefois et de son évolution. J’aimerais beaucoup contribuer au projet d’histoire locale avec les photos de grand-mère : je dois les préserver et les rendre accessibles à toute personne intéressée. Mais avant cela, j’ai besoin du consentement de tante Maria : elle apparaît sur beaucoup d’entre elles, et nous sommes les seuls membres de la famille encore en vie.
-(Lea appelle un membre plus âgé de la famille.)
-Lea : Allô ? Tante Maria ? Accepterais-tu que ces photos soient partagées en ligne ?
-(Image : formulaire de consentement rempli, accord du membre de la famille.)
+## Scène de clôture
 
-Scène de clôture : (L'écran passe au site web du projet affichant les photos de grand-mère.)
-Lea (voix off) : Préserver les souvenirs, ce n'est pas seulement garder le passé vivant. C'est partager dans un but précis, respecter la vie privée et veiller à ce que notre patrimoine numérique soit utilisé de manière éthique.
+Lea (voix off) :
+Préserver les souvenirs,
+ce n’est pas juste garder le passé vivant.
 
-
-
-Traduit avec DeepL.com (version gratuite)
+C’est aussi partager avec intention,
+respecter la vie privée,
+et utiliser les données de façon éthique.
