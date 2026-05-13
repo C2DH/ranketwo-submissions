@@ -51,7 +51,7 @@ Je t’envoie ça tout de suite !
 
 Ada :
 Je ne peux rien faire pour les cassettes vidéo…
-mais apporte-moi des cassettes audio et des disquettes.
+mais apporte-moi quelques-unes des cassettes audio et des disquettes.
 
 ---
 
@@ -69,7 +69,7 @@ Chaque détail compte !
 Lea :
 Les autocollants indiquent…
 « Réunion de famille, Noël 83 ».
-À faire : trouver un lecteur, écouter,
+À faire : trouver un lecteur de cassettes audio, écouter,
 décrire, numériser…
 
 ---
@@ -92,6 +92,11 @@ Taille du fichier, date de création, type…
 
 ## Scène 6 : Un an plus tard
 
+Le temps a passé…
+Lea a fait l’inventaire de tous les objets.
+Elle les a documentés et a complété les informations manquantes
+en échangeant avec sa famille, ses amis et les voisins de sa grand-mère.
+
 Lea (voix off) :
 Grand-mère ne parlait pas beaucoup…
 mais ses photos en disent long.
@@ -103,9 +108,10 @@ Pas seulement celle de notre famille,
 mais aussi celle de la ville,
 et de son évolution.
 
-J’aimerais partager ces photos
-dans un projet d’histoire locale…
-les rendre accessibles à tous.
+J’aimerais contribuer au projet d’histoire locale
+avec les photos de grand-mère.
+Pour les garder vivantes
+et les rendre accessibles à tous.
 
 Mais avant…
 j’ai besoin du consentement de tante Maria.
