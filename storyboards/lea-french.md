@@ -99,7 +99,7 @@ en échangeant avec sa famille, ses amis et les voisins de sa grand-mère.
 
 Lea (voix off) :
 Grand-mère ne parlait pas beaucoup…
-mais ses photos en disent long.
+mais ses photos et enregistrements en disent long.
 
 Avec les dates, les lieux et les noms,
 j’ai pu reconstituer une histoire plus complète.
