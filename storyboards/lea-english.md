@@ -43,8 +43,8 @@ Ada: Yep! File size, creation date, file type—still valuable clues!
 ________________
 
 
-Scene 6: One Year Later (Lea, thoughtfully studying a spreadsheet with metadata on her computer)
-Lea (voice-over): Grandma was quiet, but her photos[a] speak volumes. With the dates, places, and names I was able to trace, they now tell a fuller story, not just of our family, but of how our town once lived, and how it evolved. I'd love to contribute Grandma's photos to the local histories project and make these photos accessible to anyone interested. But before that, I need Aunt Maria’s consent : she appears in many of them, and we're the only family members left.
+Scene 6: Time passed by and Lea has made an inventory of all the objects, she documented them and found missing information by talking to family members and friends and neighbours of her grandmother (Lea, thoughtfully studying a spreadsheet with metadata on her computer)
+Lea (voice-over): Grandma was quiet, but her photos and recordings speak volumes. With the dates, places, and names I was able to trace, they now tell a fuller story, not just of our family, but of how our town once lived, and how it evolved. I'd love to contribute Grandma's photos to the local histories project. I need to keep them alive and make them accessible to anyone interested. But before that, I need Aunt Maria’s consent : she appears in many of them, and we're the only family members left.
 (Lea calls an older family member.)
 Lea: Hello? Aunt Maria? Would you agree to share these pictures online?
 (Visual: consent form filled, family member's approval.)
