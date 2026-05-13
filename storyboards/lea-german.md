@@ -55,8 +55,8 @@ Ada: Ja! Dateigröße, Erstellungsdatum, Dateityp – immer noch wertvolle Hinwe
 
 ________________
 
-Szene 6: Ein Jahr später (Lea studiert nachdenklich eine Tabelle mit Metadaten auf ihrem Computer)
-Lea (Stimme aus dem Off): Oma war schweigsam, aber ihre Fotos[a] sprechen Bände. Mit den Daten, Orten und Namen, die ich zurückverfolgen konnte, erzählen sie nun eine umfassendere Geschichte – nicht nur von unserer Familie, sondern auch davon, wie unser Ort einst lebte und wie er sich entwickelt hat. Ich würde Omas Fotos gerne dem lokalen Geschichtsprojekt zur Verfügung stellen und sie allen Interessierten zugänglich machen. Doch zuvor brauche ich Tante Marias Einverständnis: Sie ist auf vielen der Fotos zu sehen, und wir sind die einzigen verbliebenen Familienmitglieder.
+Szene 6: Die Zeit verging, und Lea hat eine Bestandsaufnahme aller Gegenstände gemacht, sie dokumentiert und fehlende Informationen durch Gespräche mit Familienmitgliedern, Freunden und Nachbarn ihrer Großmutter ergänzt (Lea studiert nachdenklich eine Tabelle mit Metadaten auf ihrem Computer)
+Lea (Stimme aus dem Off): Oma war schweigsam, aber ihre Fotos und Aufnahmen sagen mehr als tausend Worte. Mit den Daten, Orten und Namen, die ich zurückverfolgen konnte, erzählen sie nun eine umfassendere Geschichte – nicht nur von unserer Familie, sondern auch davon, wie unser Ort einst lebte und wie er sich entwickelt hat. Ich würde gerne Omas Fotos für das Projekt zur Lokalgeschichte zur Verfügung stellen. Ich möchte sie bewahren und allen Interessierten zugänglich machen. Doch zuvor brauche ich Tante Marias Einverständnis: Sie ist auf vielen der Fotos zu sehen, und wir sind die einzigen verbliebenen Familienmitglieder.
 (Lea ruft ein älteres Familienmitglied an.)
 Lea: Hallo? Tante Maria? Würdest du zustimmen, diese Bilder online zu teilen?
 (Bild: ausgefülltes Einverständnisformular, Zustimmung des Familienmitglieds.)
