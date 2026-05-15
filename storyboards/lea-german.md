@@ -3,7 +3,7 @@ title: Lea DE
 date: 2026-05-12
 ---
 
-Szene 1: Entdeckung auf dem Dachboden (Nach dem Tod ihrer Großmutter entdeckt Lea auf dem Dachboden des Hauses der Verstorbenen einen staubbedeckten Koffer. Lea betritt den staubigen Dachboden, neugierig und bewegt)
+Szene 1: Entdeckung auf dem Dachboden (Nach dem Tod ihrer Großmutter entdeckt Lea auf dem Dachboden des Hauses der Verstorbenen einen  Koffer. Lea betritt den staubigen Dachboden, neugierig und bewegt)
 Lea: (leise, zu sich selbst) Oma, welche Geheimnisse hast du hinterlassen?
 (Sie findet einen staubigen Koffer und öffnet ihn. Darin liegen Bücher, Briefe, Postkarten, Kassetten, Videokassetten, Disketten und ein alter Walkman.)
 Lea: (erstaunt) Oh, das ist … unglaublich.
@@ -11,7 +11,7 @@ ________________
 
 
 Szene 2: Erste Bestandsaufnahme
-Lea (Stimme aus dem Off): Ich habe jetzt keine Zeit, alles zu erkunden, kein Auto, um das nach Hause zu transportieren, und keinen Platz in meinem winzigen Studio … aber diese Erinnerungen verdienen es, bewahrt zu werden. Okay, lass uns ein paar Fotos machen und auflisten, was hier drin ist.
+Lea (Stimme aus dem Off): Ich habe jetzt keine Zeit, alles zu erkunden, kein Auto, um das nach Hause zu transportieren, und keinen Platz in meinem winzigen Studio … aber diese Erinnerungen verdienen es, bewahrt zu werden. Okay, ich werde ein paar Fotos machen und auflisten, was hier drin ist.
 
 (Lea fotografiert sorgfältig jeden Gegenstand und listet sie auf ihrem Smartphone auf.)
 (Bilder: Smartphone-Fotos, Notizen erscheinen auf dem Bildschirm: Bücher, Kassetten, Disketten, Videokassetten.)
@@ -22,10 +22,10 @@ Szene 3: Technische Herausforderungen
 Lea (ruft ihre technisch versierte Freundin Ada an): Hey Ada, ich habe ein paar alte Kassetten und Disketten gefunden. Kannst du mir helfen?
 Ada: Klar! Ich bräuchte die technischen Daten deiner Gegenstände, um zu prüfen, ob ich damit arbeiten kann.
 
-(Lea misst die Gegenstände, macht sich Notizen und schickt detaillierte technische Spezifikationen per SMS an ihre technisch versierte Freundin Ada.)
+(Lea misst die Gegenstände, macht sich Notizen und schickt detaillierte technische Spezifikationen per SMS an ihre Freundin Ada.)
 
 Lea (ruft Ada an): Ich schicke dir die Spezifikationen jetzt!
-Ada (noch am Telefon, auf Lautsprecher, liest aber die gerade erhaltene SMS): Für die Videokassetten bin ich nicht ausgerüstet, aber bring mir Proben der Kassetten und Disketten mit, wenn du zurückkommst
+Ada (noch am Telefon, auf Lautsprecher, liest aber die gerade erhaltene SMS): Für die Videokassetten bin ich nicht ausgerüstet, aber bring mir ein paar von den Kassetten und Disketten mit, wenn du zurückkommst
 
 ________________
 
@@ -55,7 +55,7 @@ Ada: Ja! Dateigröße, Erstellungsdatum, Dateityp – immer noch wertvolle Hinwe
 
 ________________
 
-Szene 6: Die Zeit verging, und Lea hat eine Bestandsaufnahme aller Gegenstände gemacht, sie dokumentiert und fehlende Informationen durch Gespräche mit Familienmitgliedern, Freunden und Nachbarn ihrer Großmutter ergänzt (Lea studiert nachdenklich eine Tabelle mit Metadaten auf ihrem Computer)
+Szene 6: Die Zeit verging, und Lea hat eine Bestandsaufnahme aller Gegenstände gemacht, sie dokumentiert und hat fehlende Informationen durch Gespräche mit Familienmitgliedern, Freunden und Nachbarn ihrer Großmutter ergänzt (Lea studiert nachdenklich eine Tabelle mit Metadaten auf ihrem Computer)
 Lea (Stimme aus dem Off): Oma war schweigsam, aber ihre Fotos und Aufnahmen sagen mehr als tausend Worte. Mit den Daten, Orten und Namen, die ich zurückverfolgen konnte, erzählen sie nun eine umfassendere Geschichte – nicht nur von unserer Familie, sondern auch davon, wie unser Ort einst lebte und wie er sich entwickelt hat. Ich würde gerne Omas Fotos für das Projekt zur Lokalgeschichte zur Verfügung stellen. Ich möchte sie bewahren und allen Interessierten zugänglich machen. Doch zuvor brauche ich Tante Marias Einverständnis: Sie ist auf vielen der Fotos zu sehen, und wir sind die einzigen verbliebenen Familienmitglieder.
 (Lea ruft ein älteres Familienmitglied an.)
 Lea: Hallo? Tante Maria? Würdest du zustimmen, diese Bilder online zu teilen?
