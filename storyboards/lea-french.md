@@ -127,7 +127,7 @@ Est-ce que tu serais d’accord pour partager ces photos en ligne ?
 ## Scène de clôture
 
 Lea (voix off) :
-Préserver les souvenirs,
+Préserver la mémoire,
 ce n’est pas juste garder le passé vivant.
 
 C’est aussi partager avec intention,
