@@ -87,10 +87,11 @@ Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driv
 https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf => the link does not work and it is impossible to identify the publication <!--initial text snippet: [^0]: On the history and philosophy of the concept of "raw data," see: https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf This means that data can be both digital and non-digital. Just as there are non-digital calendars, there are also non-digital data. Let's start by understanding what "data" means and what its characteristics are. Then, we'll explore the specifics of digital data.-->
 
 ## 2 Encoding and digital representation
-The simplest form of data entry we could think of is some kind of mark on a carrier medium, like a cut on a stick or a hole or the absence of a hole on a piece of paper or cardboard (representing "yes" or "no"). A further very simple form of data storage would be numerical, i.e., the number of holes representing a number, or a hole being punched in the field of a preprinted number (or other value). We can find lots of examples of this simple data storage method in everyday life. It is used on many different types of cards, such as travel and admission tickets, gift cards and more. 
+How is reality translated into data? Encoding, the process of converting information from one format into another, lies at the heart of data recording. One of the simplest forms of encoding is a physical mark on a surface, such as a notch in wood or a punched hole in paper, used to represent a simple distinction like “yes” or “no”. Similar principles still appear today in tickets, gift cards, and punched cards.
 
-The term "digital" in "digital data" originally just means numerical, meaning the data is printed in digits [^3]. Digital does not have to mean electronic. Historically, electronic communication technologies such as the telegraph, telephone and radio were not digital. Telegraphy, the earliest form of electronic communication, however, used only two types of signal to represent letters and the words and sentences made up of them: [short signal or long signal](https://morsecode.world/international/translator.html).
-At the dawn of the computer age, letters were also represented by just two symbols: a hole or no hole on a punch card, or at a specific position on the card. Text could be displayed by combining holes in different positions. IBM's punch card, the most widely used worldwide, had twelve rows and 80 columns and has been used to process information since the 1930s. IBM's own EBCDIC 8-bit encoding format could display 64 of the most common textual characters on the punch card (as well as some special characters, control commands and special expressions). 
+The term “digital” originally meant numerical: data expressed through digits (Haigh 2023). Yet, digital does not necessarily mean electronic. Early telegraphy, for example, encoded letters and words through just two types of signal: short and long impulses in [Morse code]((https://morsecode.world/international/translator.html).
+
+Early computers followed similar principles. Punch cards stored information through the presence or absence of holes in specific positions. IBM punch cards, widely used from the 1930s onward, encoded text, numbers, and commands using standardized hole patterns. These systems already relied on a central principle of digital data: complex information can be represented through combinations of a limited set of distinct symbols.
 
 ### 2.a
 
@@ -104,7 +105,7 @@ As you see, the punchcard can't hold much information, something around 60 bytes
 The Austrian artist and web-designer Norbert Landsteiner has built a [beautiful emulator](https://masswerk.at/keypunch/) to further explore this medium. Give it a try, punch a short data-set describing yourself or a person you know well.
 
 ---
-
+Encoding as the process of [transforming human-readable to machine-readable information](https://en.wikipedia.org/wiki/Character_encoding). 
 But how would a computer interpret the holes then? Computers can only digest numbers, more precisely: binary numbers. In the binary system, natural numbers ("integers") are represented only in `1`s and `0`s. You should have learned to convert decimal numbers into binary in school, but in case you've forgotten all of that, there are luckily many converters and explanations on the web, for example [here](https://www.rapidtables.com/convert/number/decimal-to-binary.html).
 To get a digital (= numerical and binary) representation of characters and text, we need to agree on a scheme (=encoding) that specifies which number represents which character, very much as the Morse code did. EBCDIC was one such scheme. It assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value.[^4]
 
@@ -118,7 +119,7 @@ Another very old way to represent text is the ASCII encoding. ASCII uses only 7 
 
 Nowadays, most texts are represented in UTF-8 and similar encoding schemes, because ASCII worked only for Latin-based, western languages. UTF-8 and similar unicode systems are also 8-bit encoding schemes, but capable of expressing non-western languages and also mathematical symbols and even emojis! 😃 
 
-[^3]: Haigh, T. (2023). _Defining Digitalities I: What’s Digital about Digits?_  <https://doi.org/10.25819/ubsi/10259>
+
 [^5]: Many web-based converters allow you to switch from ASCII to binary and back, for example this one: https://www.rapidtables.com/convert/number/ascii-to-binary.html
 
 We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid below:
@@ -136,6 +137,11 @@ We have seen that even an 8-bit encoding scheme can represent a wide variety of 
 The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols (ASCII Imperialism). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of.  
 
 What have we learned? Digital data can be used to create representations of text, image, sound, and so on. The specifics of their technical implementation ­- what resolution, 8-bit, 16-bit, 32-bit encoding, the schemes and code tables - are conventions that have emerged historically. If you (or your computer) know the encoding and have appropriate software to interpret any sequence of `0`s and `1`s, you can display and manipulate it. 
+
+### Reading/viewing suggestions 
+
+Haigh, Thomas. *Defining Digitalities I.* 2023. https://doi.org/10.25819/ubsi/10259.
+
 
 ## 3 Creating models and datasets
 Having understood how computers store and represent information at the most basic level, we can now look at how data is used to _describe_ the world around us.
