@@ -76,7 +76,7 @@ Having understood how computers store and represent information at the most basi
 
 In addition to directly representing a certain information object digitally in a bitstream, like a digital version of a given text or an image, data are also used to describe objects (because most phenomena in our world cannot be directly digitized). For example, next to the text itself, we could annotate it with further information such as the language of the text, the name of its author, and so on. Or think of entities like animals, people or historic events: there is no way to represent them in a bitstream, but we can describe them in a text or take a picture of them (or both) and digitize these descriptions. To illustrate descriptive data, think of a wanted poster as you might know from western movies or comics, which is basically just a simple table listing a number of attributes to identify a given person:
 
-![Wanted Poster](/assets/images/data-criticism/Wanted_poster_new.jpg)
+![Wanted Poster](/assets/images/data-criticism/wanted-poster.jpg)
 
 Person:
 |Attributes|Value|
