@@ -29,7 +29,7 @@ At the dawn of the computer age, letters were also represented by just two symbo
 
 Here is an IBM punchcard with the respective holes for all the characters printed on the top according to the EBCDIC encoding. Would you know how to punch your name?
 
-![IBM-EBCDIC punchcard](/assets/images/data-criticism/punchcard.png)
+![IBM-EBCDIC punchcard](/assets/images/data-criticism/punchcard.jpg)
 
 As you see, the punchcard can't hold much information, something around 60 bytes (one byte is 8 bits long, one bit being either a `0` or a `1`). You can play around with punchcards and see for yourself what information you can fit onto one of them. 
 
@@ -57,7 +57,7 @@ Nowadays, most texts are represented in UTF-8 and similar encoding schemes, beca
 
 We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid below:
 
-![Circle in 16 x 16 grid](/images/16x16Circle_table.jpg)
+![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16Circle_table.jpg)
 
 This principle of representing single pixels with numeric values is also how 8-bit grayscale works. In this scheme, there are 256 shades of grey between white and black. To implement this, just imagine that each field in our 16x16 grid has now the numerical code for a specific shade of gray assigned to it. Colors can also be represented in this way, using the 8-bit [RGB scheme](https://www.rapidtables.com/web/color/RGB_Color.html), which assigns 256 different intensity levels to each of the three primary colors red, green, and blue — resulting in over 16 million possible color combinations. Of course, the bigger our grid gets, the higher the resolution of our image will be!
 
@@ -76,7 +76,7 @@ Having understood how computers store and represent information at the most basi
 
 In addition to directly representing a certain information object digitally in a bitstream, like a digital version of a given text or an image, data are also used to describe objects (because most phenomena in our world cannot be directly digitized). For example, next to the text itself, we could annotate it with further information such as the language of the text, the name of its author, and so on. Or think of entities like animals, people or historic events: there is no way to represent them in a bitstream, but we can describe them in a text or take a picture of them (or both) and digitize these descriptions. To illustrate descriptive data, think of a wanted poster as you might know from western movies or comics, which is basically just a simple table listing a number of attributes to identify a given person:
 
-![Wanted Poster](/images/Wanted_poster_new.jpg)
+![Wanted Poster](/assets/images/data-criticism/Wanted_poster_new.jpg)
 
 Person:
 |Attributes|Value|
@@ -175,14 +175,14 @@ We have seen that we can store all kinds of information in tables. For a compreh
 To gather our research data, we will first have to extract it from the primary sources. 
 Let's look at the following source as an example, an article written by Karl Marx for the New York Daily Tribune, published in 1857. You can find it on the web [here](https://www.marxists.org/archive/marx/works/1857/04/10.htm) or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm). 
 
-![Source: "Whose Atrocities?"](/images/source_full.jpg)
+![Source: "Whose Atrocities?"](/assets/images/data-criticism/source_full.jpg)
 
 First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in Zotero[^6]:
 
-![zotero entries](/images/zotero_entries.jpg)
+![zotero entries](/assets/images/data-criticism/zotero_entries.jpg)
 
 The same source would look like this if captured in Tropy[^7]:
-![tropy_screen](/images/tropy_scree.jpg)
+![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
 [^6]: Zotero is a very useful and popular software for managing bibliographic information, basically a database. It can import and export all of the most common data formats for bibliographic data. (If you do not yet use Zotero, head to its [webpage](https://www.zotero.org/) and download the appropriate version for your system.) You can see that Zotero lets you enter additional information on your source, depending on how you want to treat (and further analyse) it: website, chapter in an edited volume, or newspaper article. You can also attach keywords ("tags") that will make it easier to create collections of sources on similar subjects.
 
@@ -190,7 +190,7 @@ The same source would look like this if captured in Tropy[^7]:
 
 Our job here is to capture all names of people, places, dates, and events in this source. This process can be automated to a certain extent and is called "Named Entity Recognition" (NER). We do it by hand. Of course we could store the entities in the paragraph just in one spreadsheet, but let's imagine we will extract information from many different sources or an entire corpus (for example all of Marx's writings, or all English newspaper articles on China concerning the Opium Wars). If we just have a look at the first few sentences, we encounter already a lot of information.
 
-![first paragraphs](/images/source_zoom.jpg)
+![first paragraphs](/assets/images/data-criticism/source_zoom.jpg)
 
 We find several names, each with an office or title, the respective institutions, as well as references to historical events yet to be clarified. In addition, we could look up all these entities and acquire additional information on dates and times and various places. This is a lot of information already. If we wanted to cram all that information into a single table, it would become huge and difficult to work with. That's why we want a relational database.
 
@@ -270,11 +270,11 @@ Because one person can participate in many events and one event can involve many
 _You can now query: "Who was present at the Lord Mayor's banquet?" → select all rows where `event_id = E002` → returns P002 and P003._
 
 Now we have a database containing several different types of entities and tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible):
-![Scheme and connections](/images/database_scheme.jpg)
+![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
 
 Of course, there are rules to follow when creating a database. Primary keys cannot be empty (null), for a start. Also, as we've already seen for other data sets, the entries (for each column) have to be of the same type. If you use a software to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)), you will have to specify the types. Also, the software will ask you whether a column can hold foreign keys or not (you usually recognize them, because they are IDs, i.e. by their suffix `_id`).
 
-![Types](/images/odb.jpg) 
+![Types](/assets/images/data-criticism/odb.jpg) 
 
 #### Assignment
 You see that Karl mentions an incident that happened on a ship, the Arrow. Head over to the respective [Wikipedia entry](https://en.wikipedia.org/wiki/Second_Opium_War) to get details. Now update the tables, specifically the "events" table. Do we need more tables for this?
