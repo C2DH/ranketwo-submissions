@@ -29,7 +29,7 @@ At the dawn of the computer age, letters were also represented by just two symbo
 
 Here is an IBM punchcard with the respective holes for all the characters printed on the top according to the EBCDIC encoding. Would you know how to punch your name?
 
-![IBM-EBCDIC punchcard](/images/punchcard.png)
+![IBM-EBCDIC punchcard](/assets/images/data-criticism/punchcard.png)
 
 As you see, the punchcard can't hold much information, something around 60 bytes (one byte is 8 bits long, one bit being either a `0` or a `1`). You can play around with punchcards and see for yourself what information you can fit onto one of them. 
 
