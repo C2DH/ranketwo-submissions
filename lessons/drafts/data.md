@@ -57,7 +57,7 @@ Nowadays, most texts are represented in UTF-8 and similar encoding schemes, beca
 
 We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid below:
 
-![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16Circle_table.jpg)
+![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16-circle-table.jpg)
 
 This principle of representing single pixels with numeric values is also how 8-bit grayscale works. In this scheme, there are 256 shades of grey between white and black. To implement this, just imagine that each field in our 16x16 grid has now the numerical code for a specific shade of gray assigned to it. Colors can also be represented in this way, using the 8-bit [RGB scheme](https://www.rapidtables.com/web/color/RGB_Color.html), which assigns 256 different intensity levels to each of the three primary colors red, green, and blue — resulting in over 16 million possible color combinations. Of course, the bigger our grid gets, the higher the resolution of our image will be!
 
@@ -175,11 +175,11 @@ We have seen that we can store all kinds of information in tables. For a compreh
 To gather our research data, we will first have to extract it from the primary sources. 
 Let's look at the following source as an example, an article written by Karl Marx for the New York Daily Tribune, published in 1857. You can find it on the web [here](https://www.marxists.org/archive/marx/works/1857/04/10.htm) or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm). 
 
-![Source: "Whose Atrocities?"](/assets/images/data-criticism/source_full.jpg)
+![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
 
 First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in Zotero[^6]:
 
-![zotero entries](/assets/images/data-criticism/zotero_entries.jpg)
+![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
 
 The same source would look like this if captured in Tropy[^7]:
 ![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
@@ -190,7 +190,7 @@ The same source would look like this if captured in Tropy[^7]:
 
 Our job here is to capture all names of people, places, dates, and events in this source. This process can be automated to a certain extent and is called "Named Entity Recognition" (NER). We do it by hand. Of course we could store the entities in the paragraph just in one spreadsheet, but let's imagine we will extract information from many different sources or an entire corpus (for example all of Marx's writings, or all English newspaper articles on China concerning the Opium Wars). If we just have a look at the first few sentences, we encounter already a lot of information.
 
-![first paragraphs](/assets/images/data-criticism/source_zoom.jpg)
+![first paragraphs](/assets/images/data-criticism/source-zoom.jpg)
 
 We find several names, each with an office or title, the respective institutions, as well as references to historical events yet to be clarified. In addition, we could look up all these entities and acquire additional information on dates and times and various places. This is a lot of information already. If we wanted to cram all that information into a single table, it would become huge and difficult to work with. That's why we want a relational database.
 
