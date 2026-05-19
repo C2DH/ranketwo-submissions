@@ -5,27 +5,94 @@ authors:
 date: 2025-05-08
 title: Defining data
 learning-objectives: 
- - Understand the basic concept of "data" as an abstract representation
- - Understand that choices of attributes is motivated by purpose of data 
+ - Understand how digital data represent historical information through encoding systems and formats
+ - Critically analyse how data models, schemas, and categories shape the representation of historical sources
+ - Understand how relational databases structure and connect historical information 
 ---
 
-### What are data?
-The word "data" comes from Latin. The verb "dare" means "to give," so "datum" means "that which is given" as in the French term "données."[^0] Apart from the meaning of data in the digital realm, we still use the term to refer to specific days, months, and years.
+This lesson is based on the assumption that data are not neutral givens, but structured representations shaped by cultural conventions, technical research choices, and purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
 
-[^0]: On the history and philosophy of the concept of "raw data," see: https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf This means that data can be both digital and non-digital. Just as there are non-digital calendars, there are also non-digital data. Let's start by understanding what "data" means and what its characteristics are. Then, we'll explore the specifics of digital data.
+## 1 What is data?
+*Learning outcomes* 
 
-The date used to mark a specific day already has the characteristics of data: It consists of unique (distinct) symbols from a limited (finite) number of such symbols. 
-"Distinct" means that each symbol has exactly one meaning: a six is a six, not a five or a seven. "Finite" means that there are a limited number of possible characters. We know this from the alphabet, which also has only a limited number of characters. But this limitation also leads to a much larger number of combinations and rearrangements of these characters. This is what makes distinct symbols so versatile and powerful.
+* *Understand that data are structured representations with specific characteristics* 
+* *Recognise the role of formats, conventions and standards in data representation*
+* *Reflect on the historical and cultural dimensions of data formats.*
 
-If we look at a date like June 28, 1914 (`28-06-1914`), we can see another important general feature of data: they are subject to established and shared conventions or standards. We need to agree on which digits represent the day and which represent the month. In US English, the form `MM-DD-YYYY` (month-day-year) is often used, whereas in Europe, the order `DD-MM-YYYY` (day-month-year) is more common. We also need to agree on which symbol system to use. After all, the date June 28, 1914 could also be written using Roman numerals:  `XXVIII.VI.MCMXIV`. Similarly, the date could be designated as the `4th of Sha'ban in the year 1332` according to the Islamic calendar, or as the `twentieth day of the tenth month in the Year of the Snake (4723)` according to the Chinese calendar. Although we tend to think of data as being natural and universally "given," this isn't really the case. In fact, **data are based on certain assumptions and include cultural, historical, political and social conventions in their structure and format**.[^2]
+The word “data” comes from Latin and means that which is given as in the French term *données*. Although we tend to think of data as being natural and universally “given”, this isn't really the case. In fact, **data are based on certain assumptions and include cultural, historical, political and social conventions in their structure and format** (Loukissas 2019). Let's explore what "data" means and what its main caracteristics are. <!--Sofia: not sure if you would like to add smth here about raw data, up to you--> 
 
-What have we learned so far? Data only makes sense if the symbols are _distinct_ and _finite_, and if they adhere/correspond to a specific _schema_ or _data format_. 
+### 1.a Objects becoming data  
+Watch the video animation following Lea as she discovers and documents the objects left by her grandmother: books, postcards, tapes, floppy disks, videotapes, and photographs. 
 
-### Digital data and encoding
+1. Are all these objects “data”? 
+2. What kinds of information do these objects contain? 
+3. Which of the objects are directly readable by humans, and which ones require technical mediation?
+
+When Lea makes photos of each object using her phone, can you identify what transformation(s) take place? Do you think that Lea constructs data at this stage? In what ways?  
+
+<!--The learning objective is to understand a) that data represent reality and make them concrete; b) media as careers of data; c) human/machine readability. The question on transformation is no doubt too open, can we give instructions towards specific directions? -->
+
+### 1.b Understanding the finite and distinct nature of data  
+Let's work with dates. Dates are one of the simplest and most familiar forms of data. We use them to identify specific moments in time by combining a limited set of symbols. 
+
+Dates are important data for historians because they allow to contextualise a source - by the way, dating the objects is one of the tasks Lea gives to herself in the video to document her grandmother's holdings.  
+
+A date such as `28-06-1914` already illustrates two essential characteristics of data: data are finite and distinct.
+
+“Finite” means that data are built from a limited number of possible symbols. In the decimal system, for example, we use only ten digits (0–9). Likewise, the alphabet consists of a finite number of letters. Although the number of symbols is limited, they can be combined and rearranged in countless ways. This is what makes data versatile and powerful.
+
+“Distinct” means that each symbol must remain clearly distinguishable from the others. A 6 must always be recognizable as a 6, and not confused with a 5 or an 8. If symbols were not distinct, data could not be interpreted consistently by humans or machines.
+
+Inspect these two dates: 
+
+* `28-06-1914`
+* `08-06-1914`
+
+
+1. Which symbols are finite in each example?
+2. Could these formats create confusion? In what situations?
+
+<!--
+What have we learned so far? Data makes sense if the symbols are _distinct_ and _finite_, and if they adhere/correspond to a specific _schema_ or _data format_. -->
+
+### 1.c Understanding data as cultural constructions
+
+Dates also remind us that data depend on cultural and technical norms of representation which can be loose [conventions](https://en.wikipedia.org/wiki/Convention_(norm)), e.g. socially agreed, or [normative](https://en.wikipedia.org/wiki/ISO_8601). The same day can be written differently depending on cultural or historical context. 
+
+These expressions below all refer to the same day June 28, 1914 (`28-06-1914`):
+
+28-06-1914
+06-28-1914
+XXVIII.VI.MCMXIV
+4th of Sha'ban 1332
+
+Inspect the above dates and answher the following questions - if necessary, you can do a little research on the web: 
+
+1. Which date format is easiest for you to read? Why?
+2. Which date format requires previous knowledge? What kind of knowledge?
+3. What conventions can you decrypt to interpret each version?
+4. What does this tell us about data? Tip: think in terms of given vs cultural embedded. 
+
+
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+If we look at a date like June 28, 1914 (`28-06-1914`), we can see another important general feature of data: they are subject to established and shared conventions or standards. We need to agree on which digits represent the day and which represent the month. In US English, the form `MM-DD-YYYY` (month-day-year) is often used, whereas in Europe, the order `DD-MM-YYYY` (day-month-year) is more common. We also need to agree on which symbol system to use. After all, the date June 28, 1914 could also be written using Roman numerals:  `XXVIII.VI.MCMXIV`. Similarly, the date could be designated as the `4th of Sha'ban in the year 1332` according to the Islamic calendar, or as the `twentieth day of the tenth month in the Year of the Snake (4723)` according to the Chinese calendar. 
+</details>
+
+### Reading/viewing suggestions
+
+Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driven society_. The MIT Press
+
+https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf => the link does not work and it is impossible to identify the publication <!--initial text snippet: [^0]: On the history and philosophy of the concept of "raw data," see: https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf This means that data can be both digital and non-digital. Just as there are non-digital calendars, there are also non-digital data. Let's start by understanding what "data" means and what its characteristics are. Then, we'll explore the specifics of digital data.-->
+
+## 2 Encoding and digital representation
 The simplest form of data entry we could think of is some kind of mark on a carrier medium, like a cut on a stick or a hole or the absence of a hole on a piece of paper or cardboard (representing "yes" or "no"). A further very simple form of data storage would be numerical, i.e., the number of holes representing a number, or a hole being punched in the field of a preprinted number (or other value). We can find lots of examples of this simple data storage method in everyday life. It is used on many different types of cards, such as travel and admission tickets, gift cards and more. 
 
 The term "digital" in "digital data" originally just means numerical, meaning the data is printed in digits [^3]. Digital does not have to mean electronic. Historically, electronic communication technologies such as the telegraph, telephone and radio were not digital. Telegraphy, the earliest form of electronic communication, however, used only two types of signal to represent letters and the words and sentences made up of them: [short signal or long signal](https://morsecode.world/international/translator.html).
 At the dawn of the computer age, letters were also represented by just two symbols: a hole or no hole on a punch card, or at a specific position on the card. Text could be displayed by combining holes in different positions. IBM's punch card, the most widely used worldwide, had twelve rows and 80 columns and has been used to process information since the 1930s. IBM's own EBCDIC 8-bit encoding format could display 64 of the most common textual characters on the punch card (as well as some special characters, control commands and special expressions). 
+
+### 2.a
 
 Here is an IBM punchcard with the respective holes for all the characters printed on the top according to the EBCDIC encoding. Would you know how to punch your name?
 
@@ -41,7 +108,6 @@ The Austrian artist and web-designer Norbert Landsteiner has built a [beautiful 
 But how would a computer interpret the holes then? Computers can only digest numbers, more precisely: binary numbers. In the binary system, natural numbers ("integers") are represented only in `1`s and `0`s. You should have learned to convert decimal numbers into binary in school, but in case you've forgotten all of that, there are luckily many converters and explanations on the web, for example [here](https://www.rapidtables.com/convert/number/decimal-to-binary.html).
 To get a digital (= numerical and binary) representation of characters and text, we need to agree on a scheme (=encoding) that specifies which number represents which character, very much as the Morse code did. EBCDIC was one such scheme. It assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value.[^4]
 
-[^2]: Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driven society_. The MIT Press.
 [^4]: If you want to see how exactly the EBCDIC character codes were mapped on the IBM punchcards, check out the insightful resources on punchcard history assembled by Douglas W. Jones: https://homepage.cs.uiowa.edu/~dwjones/ 
 
 [^1b]: For example, the decimal number 188 can be written as `BC` in hexadecimal, and 123 as `7B`. You can convert between decimal, binary, and hexadecimal using any online converter.
@@ -71,7 +137,7 @@ The choice of encoding scheme is not something we usually think much about when 
 
 What have we learned? Digital data can be used to create representations of text, image, sound, and so on. The specifics of their technical implementation ­- what resolution, 8-bit, 16-bit, 32-bit encoding, the schemes and code tables - are conventions that have emerged historically. If you (or your computer) know the encoding and have appropriate software to interpret any sequence of `0`s and `1`s, you can display and manipulate it. 
 
-### Data-sets
+## 3 Creating models and datasets
 Having understood how computers store and represent information at the most basic level, we can now look at how data is used to _describe_ the world around us.
 
 In addition to directly representing a certain information object digitally in a bitstream, like a digital version of a given text or an image, data are also used to describe objects (because most phenomena in our world cannot be directly digitized). For example, next to the text itself, we could annotate it with further information such as the language of the text, the name of its author, and so on. Or think of entities like animals, people or historic events: there is no way to represent them in a bitstream, but we can describe them in a text or take a picture of them (or both) and digitize these descriptions. To illustrate descriptive data, think of a wanted poster as you might know from western movies or comics, which is basically just a simple table listing a number of attributes to identify a given person:
@@ -168,10 +234,10 @@ You've seen that JSON goes way beyond just the encoding (which usually is UTF-8)
 
 What have we learned? Data can be used to describe all kinds of objects and phenomena. To do so effectively, we need to select the right _descriptive categories_ (=attributes), choose appropriate _data types_ for each, and make sure everything conforms to a _data schema_ and file format — like JSON.
 
-### Databases
+## 4 From sources to databases
 We have seen that we can store all kinds of information in tables. For a comprehensive and critical analysis, we want to capture and study our sources from many different angles, collecting a great variety of information. However, coherence and clarity would get lost if we stuffed everything into one single table. But if we create many tables, how can we discover relations then? Because, after all, we're interested in discovering connections, patterns, and correlations. Relational databases allow us to do precisely that! They are capable of storing a great variety of different data and their respective database management systems (DBMS) enable us to perform the basic sorting, filtering and searching operations that build the foundation of research and analysis.
 
-#### From sources to databases
+### From sources to databases
 To gather our research data, we will first have to extract it from the primary sources. 
 Let's look at the following source as an example, an article written by Karl Marx for the New York Daily Tribune, published in 1857. You can find it on the web [here](https://www.marxists.org/archive/marx/works/1857/04/10.htm) or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm). 
 
