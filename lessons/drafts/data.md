@@ -87,41 +87,157 @@ Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driv
 https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf => the link does not work and it is impossible to identify the publication <!--initial text snippet: [^0]: On the history and philosophy of the concept of "raw data," see: https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf This means that data can be both digital and non-digital. Just as there are non-digital calendars, there are also non-digital data. Let's start by understanding what "data" means and what its characteristics are. Then, we'll explore the specifics of digital data.-->
 
 ## 2 Encoding and digital representation
-How is reality translated into data? Encoding, the process of converting information from one format into another, lies at the heart of data recording. One of the simplest forms of encoding is a physical mark on a surface, such as a notch in wood or a punched hole in paper, used to represent a simple distinction like “yes” or “no”. Similar principles still appear today in tickets<!--Punched train tickets are a manual system for recording travel information using small holes made in a paper ticket. A hole isn’t random—it registers something specific. Here’s a clear, elegant explanation.-->, gift cards, and punched cards.
+How is reality translated into data? Encoding, the process of converting information from one format into another, lies at the heart of data recording. One of the simplest forms of encoding is a physical mark on a surface, such as a notch in wood or a punched hole in paper, used to represent a simple distinction like “yes” or “no”. Similar principles still appear today in tickets, gift cards, and punched cards.
 
-The term “digital” originally meant numerical: data expressed through digits (Haigh 2023). Yet, digital does not necessarily mean electronic. Early telegraphy, for example, encoded letters and words through just two types of signal: short and long impulses in [Morse code]((https://morsecode.world/international/translator.html).
+<details>
+<summary><strong>Punched train tickets as a form of encoding (click to expand)</strong></summary> 
+Punched train tickets are a manual system for recording travel information using small holes made in a paper ticket. A hole isn’t random, as it registers something specific, for example validation of a ticket to prevent reuse by its holder.
+</details>
 
-Early computers followed similar principles. Punch cards stored information through the presence or absence of holes in specific positions. IBM punch cards, widely used from the 1930s onward, encoded text, numbers, and commands using standardized hole patterns. These systems already relied on a central principle of digital data: complex information can be represented through combinations of a limited set of distinct symbols.
+The term “digital” originally meant numerical: data expressed through digits (Haigh 2023). Yet, digital does not necessarily mean electronic. Early telegraphy, for example, encoded letters and words through just two types of signal: short and long impulses in [Morse code](https://morsecode.world/international/translator.html).
 
-### 2.a
+Early computers followed similar principles. [Punch cards](https://www.si.edu/spotlight/punch-cards/punch-cards-data-processing) stored information through the presence or absence of holes in specific positions. IBM punch cards, widely used from the 1930s onward, encoded text, numbers, and commands using standardized hole patterns. These systems already relied on a central principle of digital data: complex information can be represented through combinations of a limited set of distinct symbols.
 
-Here is an IBM punchcard with the respective holes for all the characters printed on the top according to the EBCDIC encoding. Would you know how to punch your name?
+### 2.a Making sense of encoding with punch cards - 15 minutes 
+Encoding serves to [transform human-readable to machine-readable information](https://en.wikipedia.org/wiki/Character_encoding). Computers can only digest numbers, and more precisely [binary numbers](https://en.wikipedia.org/wiki/Binary_number). In the binary system, [natural numbers](https://en.wikipedia.org/wiki/Natural_number) ([integers](https://en.wikipedia.org/wiki/Integer)) are represented only in `1`s and `0`s. You should have learned to convert decimal numbers into binary in school, but in case you've forgotten all of that, there are luckily many converters and explanations on the web, for example [this converter](https://www.rapidtables.com/convert/number/decimal-to-binary.html).
+
+Let's see together how a computer would interpret the holes of punch cards. 
+
+STEP 1
+Please inspect carefully the image below: it represents an [IBM](https://fr.wikipedia.org/wiki/IBM) punch card. The respective holes represent characters (letters, numbers, special characters). Can you distinguish a zone in the card that is readable by humans? 
+Tip: look on the top of the card! 
+
+Now, think briefly: if you wanted to write your name and make it machine-readable, what knowledge would it take to be able to punch it using this card? (We will come back to this question but for the moment please follow the next step below). 
 
 ![IBM-EBCDIC punchcard](/assets/images/data-criticism/punchcard.jpg)
 
-As you see, the punchcard can't hold much information, something around 60 bytes (one byte is 8 bits long, one bit being either a `0` or a `1`). You can play around with punchcards and see for yourself what information you can fit onto one of them. 
+Caption:  An IBM 5081-style punched card showing the encoding of the 1964 EBCDIC Latin character set, including numerals 0-9, upper-case letters A-Z, and special characters. The contrast of the human-readable strip at the top of the card has been artificially enhanced.
+Source: Wikimedia Commons contributors, "File:Blue-punch-card-front-horiz top-char-contrast-stretched.png," Wikimedia Commons, https://commons.wikimedia.org/w/index.php?title=File:Blue-punch-card-front-horiz_top-char-contrast-stretched.png&oldid=865403764
 
-#### Assignment
-The Austrian artist and web-designer Norbert Landsteiner has built a [beautiful emulator](https://masswerk.at/keypunch/) to further explore this medium. Give it a try, punch a short data-set describing yourself or a person you know well.
+STEP 2
+Now try this [beautiful emulator](https://masswerk.at/keypunch/) built by Austrian artist and web-designer Norbert Landsteiner. You can use the SYMBOLIC <!--because it uses EBCD--> configuration to type your name with help from a virtual [typewriter](https://en.wikipedia.org/wiki/Typewriter) and the emulator will punch the card for you. 
 
----
-Encoding as the process of [transforming human-readable to machine-readable information](https://en.wikipedia.org/wiki/Character_encoding). 
-But how would a computer interpret the holes then? Computers can only digest numbers, more precisely: binary numbers. In the binary system, natural numbers ("integers") are represented only in `1`s and `0`s. You should have learned to convert decimal numbers into binary in school, but in case you've forgotten all of that, there are luckily many converters and explanations on the web, for example [here](https://www.rapidtables.com/convert/number/decimal-to-binary.html).
-To get a digital (= numerical and binary) representation of characters and text, we need to agree on a scheme (=encoding) that specifies which number represents which character, very much as the Morse code did. EBCDIC was one such scheme. It assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value.[^4]
+What is going on here? The emulator has integrated the knowledge that you (very probably) lacked in the previous exercice: an encoding scheme, i.e. the rules to follow to translate characters (or other data) as binary numbers or symbols. A scheme specifies which number represents which character, very much as the Morse code did, to get a digital, i.e. a both numerical and binary, representation of characters and text. 
 
-[^4]: If you want to see how exactly the EBCDIC character codes were mapped on the IBM punchcards, check out the insightful resources on punchcard history assembled by Douglas W. Jones: https://homepage.cs.uiowa.edu/~dwjones/ 
+The punch card of the above image, as well as the card you created using the emulator, use a scheme created by IBM in 1964: EBCDIC (for Extended Binary Coded Decimal Interchange Code), a [8-bit scheme](https://en.wikipedia.org/wiki/8-bit_computing) <!--explain: an architecture for representing information using chunks of 8 binary digits --> that assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value. <!--If you want to see how exactly the EBCDIC character codes were mapped on the IBM punchcards, check out the insightful resources on punchcard history assembled by Douglas W. Jones: https://homepage.cs.uiowa.edu/~dwjones/ Two comments on this: 1) this resource is likely to not be accessible in 2 years time, however I made a copy on the internet archive, which guarantees a sustaineble URL 2) The page about punch cards is here: https://homepage.cs.uiowa.edu/~dwjones/cards/ and it would be important to suggest specific contents for the readers to check, first because otherwise they may be lost and second to give a concrete level to dig deeper in relation with what is presented above. However, all this may give more details than necessary-->  
 
-[^1b]: For example, the decimal number 188 can be written as `BC` in hexadecimal, and 123 as `7B`. You can convert between decimal, binary, and hexadecimal using any online converter.
+STEP 3
+Now, use once more the emulator to enter a longer description of yourself or a person you know well. <!--1 minute-->
 
-Early in the history of information technology, programmers came up with the hexadecimal representation of binary numbers, because it's much more easy for humans to read. As a 16-base system, you basically count normally from 0 to 9, but continue with the letters A to F to represent the numbers from 10 to 15. For example, `A` = 10, `B` = 11, `C` = 12, and so on. The trick with hexadecimal numbers is that you need just two symbols to represent one byte (i.e. any number between 0 and 255).[^1b]
+This should allow you to see that the punch cards could hold small datasets: technically, this would translate to a size of around 60 [bytes](https://en.wikipedia.org/wiki/Byte) (one byte is 8 bits long, one bit being either a `0` or a `1`). You can play around with punchcards and see for yourself what information you can fit onto one of them.  
 
-Another very old way to represent text is the ASCII encoding. ASCII uses only 7 bits and can therefore represent 128 different characters, 95 of which are used for the most common letters and special characters. Here, too, numbers are assigned to the letters, just as in the EBCDIC. Each letter or character is assigned a number between 0 and 127. For example, the letter **A** (capital) is assigned the number `65`. As you already know, we don't use the decimal system (0 to 9) to express numbers in bit encoding, but instead use the binary system, using just the two digits `0` and `1`. So the numerical value `65` of our letter **A** is expressed as the binary value `01000001` (or `41` in hexadecimal, if you prefer). Therefore, a longer text in ASCII encoding is ultimately a long chain of ones and zeros. The sentence "What are data?" is represented as a sequence of 1s and 0s in ASCII: `01010111 01101000 01100001 01110100 00100000 01100001 01110010 01100101 00100000 01100100 01100001 01110100 01100001 00111111`.[^5]
+STEP 4
+Try to register text in a non-Latin alphabet (Cyrillic, Arabic, Greek, Chinese...). What do you observe? 
 
-Nowadays, most texts are represented in UTF-8 and similar encoding schemes, because ASCII worked only for Latin-based, western languages. UTF-8 and similar unicode systems are also 8-bit encoding schemes, but capable of expressing non-western languages and also mathematical symbols and even emojis! 😃 
+Finally, please write a small essay (up to 500 words) reflecting on: 
+* What kind of historical information can/cannot fit in punch cards?
+* What constraints does the medium impose? 
+
+### 2.b Exploring text encoding
+
+In 2.a you explored how punch cards translated characters into machine-readable information through an encoding scheme. As digital technologies evolved, new encoding systems were developed to represent increasingly complex forms of information such as texts, images, colours, and sounds.
+
+Because long sequences of binary numbers are difficult for humans to read, programmers introduced more compact notations. One of these is the [hexadecimal system](https://en.wikipedia.org/wiki/Hexadecimal), which uses sixteen symbols (`0–9` and `A–F`) instead of only ten digits. Historians do not need to master hexadecimal calculations, but hexadecimal notation still appears regularly in digital environments, for example in colour codes, metadata, file signatures, and web design.
+
+<details>
+<summary><strong>HEX (click to expand)</strong></summary> 
+Early in the history of information technology, programmers came up with the hexadecimal representation of binary numbers, because it's much more easy for humans to read. As a 16-base system, you basically count normally from 0 to 9, but continue with the letters A to F to represent the numbers from 10 to 15. For example, `A` = 10, `B` = 11, `C` = 12, and so on. The trick with hexadecimal numbers is that you need just two symbols to represent one byte (i.e. any number between 0 and 255).
+</details>
+
+Different encoding systems were also developed for text. [ASCII](https://fr.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange), one of the earliest standards, assigned numerical values to letters, numbers, and punctuation marks. However, ASCII mainly supported English and western alphabets. As computing became increasingly global, broader standards such as [UTF-8](https://en.wikipedia.org/wiki/UTF-8) emerged to represent non-Latin scripts, mathematical symbols, and emojis 😃.
+
+<details>
+<summary><strong>ASCII (click to expand)</strong></summary> 
+ASCII uses only 7 bits and can therefore represent 128 different characters, 95 of which are used for the most common letters and special characters. Here, too, numbers are assigned to the letters, just as in the EBCDIC. Each letter or character is assigned a number between 0 and 127. For example, the letter **A** (capital) is assigned the number `65`. As you already know, we don't use the decimal system (0 to 9) to express numbers in bit encoding, but instead use the binary system, using just the two digits `0` and `1`. So the numerical value `65` of our letter **A** is expressed as the binary value `01000001` (or `41` in hexadecimal, if you prefer). Therefore, a longer text in ASCII encoding is ultimately a long chain of ones and zeros. The sentence "What are data?" is represented as a sequence of 1s and 0s in ASCII: `01010111 01101000 01100001 01110100 00100000 01100001 01110010 01100101 00100000 01100100 01100001 01110100 01100001 00111111`.
+</details>
 
 
-[^5]: Many web-based converters allow you to switch from ASCII to binary and back, for example this one: https://www.rapidtables.com/convert/number/ascii-to-binary.html
+Use an online ASCII or Unicode converter. You can use [RapidTables](https://www.rapidtables.com/convert/number/ascii-to-binary.html), if you wish.  
 
+1. Convert your first name into ASCII or Unicode.
+2. Explore how the decimal number `188` 
+3. Enter accented characters or non-Latin scripts. Explore their representations in different encoding schemes, for example ASCII, ASCII/UTF-8, Unicode. 
+
+Even if you do not understand exactly what you see, such codes can be source of technical problems, for example for collecting or publishing source in web environments, or inversely solutions in the same configurations. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). On other words, encoding has a role in what is visible and what is not.  
+
+
+### 2.c Images as encoded data
+
+Encoding does not only apply to text. Digital images are also encoded numerically. Images are composed of tiny units called pixels arranged in a grid. Each pixel receives numerical values corresponding to brightness or colour. In colour images, systems such as [RGB)(https://www.rapidtables.com/web/color/RGB_Color.html) combine values for red, green, and blue to create millions of colour combinations. The same principle applies to digital sound, which is represented through numerical samples recorded at regular intervals (Give it a try and explore [more here!](https://8bitcomposer.com/).
+
+Now let's try to understand how images can also be encoded numerically. Imagine an image as a grid made of many tiny units called *[pixels](https://en.wikipedia.org/wiki/Pixel)*. Each pixel receives a numerical value corresponding to a colour or brightness.
+
+The image below represents a simple circle on a 16 × 16 grid:
+
+![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16-circle-table.jpg)
+
+Caption ???????????????? Mention of source (author?)
+
+Each position in the grid can be identified numerically and assigned a RGB scheme colour value. Together, these encoded positions create the visual impression of a circle.
+
+STEP 1 — Observing the grid
+
+Inspect the image carefully and answer the following questions:
+
+1. Can you recognize a circle in the image even though it is composed of individual squares?
+2. What happens to the shape at the edges of the circle?
+3. Why does the image appear simplified or “blocky”?
+
+This is why this is happening. 
+We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid. 
+
+
+STEP 2 - Imagine increasing the grid from:
+
+* 16 × 16 pixels
+  to
+* 100 × 100 pixels
+  or even
+* 1000 × 1000 pixels.
+
+1. How would the image change?
+2. What kinds of details could become visible?
+3. What would be the advantages and disadvantages of higher resolution?
+
+
+STEP 3 — Reflecting as a historian
+
+Digital images are never exact copies of reality. They are encoded representations produced through technical choices such as resolution, colour depth, and compression.
+
+Reflect on the following questions:
+
+1. What problems could low-resolution digitisation create for historians working with:
+
+   * manuscripts
+   * maps
+   * photographs
+   * paintings
+   * archival documents
+
+2. Could important historical details disappear during digitisation?
+
+3. Why might historians sometimes still need access to the original physical object?
+
+
+### 2.d Why encoding schemes matter for historians
+
+The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols (ASCII Imperialism). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of.
+
+Digital representations, whether text or images (or sound) are therefore never exact copies of reality. They depend on technical standards, resolutions, formats, and encoding choices. These choices shape what can be preserved, displayed, searched, analysed, or shared.
+
+For historians, encoding matters because digital sources are always mediated by technical systems. Some older formats become unreadable over time, some encoding systems exclude certain languages or symbols, and some digitisation processes may reduce or alter visual and sonic details. Understanding encoding therefore helps historians critically evaluate how digital sources are produced, transformed, and preserved.
+
+
+Return to Lea’s digital collection of her grandmother's holdings from the introductory animation. Note the scene 5 where Lea discusses with Ada about the floppy disk.  
+
+1. Which technical problems could affect the preservation of her grandmother’s floppy disks, tapes, or digital photographs?
+2. What kinds of information could be lost during digitisation?
+3. Why is metadata important when recovering or interpreting digital sources?
+4. Can digital reproductions ever fully replace original objects?
+
+
+
+<!--
 We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid below:
 
 ![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16-circle-table.jpg)
@@ -134,13 +250,15 @@ We humans might find the binary system difficult to understand, but for computer
 
 We have seen that even an 8-bit encoding scheme can represent a wide variety of content and information as digital data. Modern computers can store more and more information and can process things more quickly, which, along with the rapid increase of communication speeds and bandwidth, makes our present digital world possible. But it all works on the same basic principles.
 
-The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols (ASCII Imperialism). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of.  
+The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols (ASCII Imperialism). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of. 
 
-What have we learned? Digital data can be used to create representations of text, image, sound, and so on. The specifics of their technical implementation ­- what resolution, 8-bit, 16-bit, 32-bit encoding, the schemes and code tables - are conventions that have emerged historically. If you (or your computer) know the encoding and have appropriate software to interpret any sequence of `0`s and `1`s, you can display and manipulate it. 
+What have we learned? Digital data can be used to create representations of text, image, sound, and so on. The specifics of their technical implementation ­- what resolution, 8-bit, 16-bit, 32-bit encoding, the schemes and code tables - are conventions that have emerged historically. If you (or your computer) know the encoding and have appropriate software to interpret any sequence of `0`s and `1`s, you can display and manipulate it. -->
 
 ### Reading/viewing suggestions 
 
 Haigh, Thomas. *Defining Digitalities I.* 2023. https://doi.org/10.25819/ubsi/10259.
+
+http://www.injosoft.se, Injosoft AB. The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
 
 ## 3 Creating models and datasets
