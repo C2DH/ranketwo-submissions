@@ -230,6 +230,8 @@ Digital representations, whether text or images (or sound) are therefore never e
 
 For historians, encoding matters because digital sources are always mediated by technical systems. Some older formats become unreadable over time, some encoding systems exclude certain languages or symbols, and some digitisation processes may reduce or alter visual and sonic details. Understanding encoding therefore helps historians critically evaluate how digital sources are produced, transformed, and preserved.
 
+> Although humans may find binary difficult to read, computers use it to represent and process all kinds of information. As we have seen, combinations of `0`and `1`s can encode texts, images, sounds, and many other forms of data. They can also represent instructions and logical operations <!--such as “AND”, “OR”, and “NOT”. This -->which means that binary digits are not only used to store information, but also to run algorithms and computer programs.
+
 
 Return to Lea’s digital collection of her grandmother's holdings from the introductory animation. Note the scene 5 where Lea discusses with Ada about the floppy disk.  
 
@@ -261,15 +263,22 @@ What have we learned? Digital data can be used to create representations of text
 
 Haigh, Thomas. *Defining Digitalities I.* 2023. https://doi.org/10.25819/ubsi/10259.
 
+The Punched Card | IBM. https://www.ibm.com/history/punched-card.
+
+
 http://www.injosoft.se, Injosoft AB. The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
 
 ## 3 Creating models and datasets
-Having understood how computers store and represent information at the most basic level, we can now look at how data is used to _describe_ the world around us.
+Let us now explore how data are produced to describe and study the world around us. Texts, people, animals, places, or historical events can all be transformed into descriptive data. By creating such data, historians turn sources into structured representations that can be organised, searched, and analysed. This process is both conceptual — involving research choices and categories — and technical, relying on tools such as spreadsheets and databases, which also introduce their own constraints.
 
-In addition to directly representing a certain information object digitally in a bitstream, like a digital version of a given text or an image, data are also used to describe objects (because most phenomena in our world cannot be directly digitized). For example, next to the text itself, we could annotate it with further information such as the language of the text, the name of its author, and so on. Or think of entities like animals, people or historic events: there is no way to represent them in a bitstream, but we can describe them in a text or take a picture of them (or both) and digitize these descriptions. To illustrate descriptive data, think of a wanted poster as you might know from western movies or comics, which is basically just a simple table listing a number of attributes to identify a given person:
+### 3.a Designing descriptive categories
+
+Let's take a simple example: a wanted poster as you might know from western movies or comics (see figure below). Please observe carefully the poster and the information it provides. 
 
 ![Wanted Poster](/assets/images/data-criticism/wanted-poster.jpg)
+
+Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics, or attributes, with the purpose to identify this person. 
 
 Person:
 |Attributes|Value|
@@ -279,7 +288,20 @@ Person:
 |Attribute 3|"..."|
 |Attribute 4|"..."|
 
-This table now describes a person, listing some of the attributes and the corresponding values we might consider useful for identifying it. Obviously, our choice of attributes would be different if we wanted to describe something else, like a place, or a piece of art, or an animal, or a book. This selection is often called _descriptive categories_, because, for identifying a fugitive criminal, for example, her or his favorite dessert might not be the most significant identifier, especially if we can list only a limited number of them on our wanted poster. 
+In the above scaffold, attribute 1 would be the first name of the person, attribute 2 would be the person's last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, listing some of the attributes and the corresponding values we might consider useful for identifying it.
+
+By selecting specific attributs, we create *descriptive categories* that are subject to a finality: in the case of a wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying a person's favorite dessert might not be the most significant attribute, especially if we can only list a limited number of them on our wanted poster. 
+
+Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. To resume, selection of descriptive categorie is subject to a finality.    
+
+<!--
+In addition to directly representing a certain information object digitally in a bitstream, like a digital version of a given text or an image, data are also used to describe objects (because most phenomena in our world cannot be directly digitized). For example, next to the text itself, we could annotate it with further information such as the language of the text, the name of its author, and so on. Or think of entities like animals, people or historic events: there is no way to represent them in a bitstream, but we can describe them in a text or take a picture of them (or both) and digitize these descriptions. To illustrate descriptive data, think of a wanted poster as you might know from western movies or comics, which is basically just a simple table listing a number of attributes to identify a given person: --> 
+
+
+
+
+
+Obviously, our choice of attributes would be different if we wanted to describe something else, like a place, or a piece of art, or an animal, or a book. This selection is often called _descriptive categories_, and is subject to a finality.  because, for identifying a fugitive criminal, for example, her or his favorite dessert might not be the most significant identifier, especially if we can list only a limited number of them on our wanted poster. <!-- I edit this because it needs clarification - for ex. the small table aboce is a scaffold but does not propose a selection of descr. catagories, which is why I adapt the paragraph -->
 
 But what would we do, if we wanted to collect information on several historic persons? If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
 
@@ -360,6 +382,9 @@ But how do you know if you produced valid and pretty JSON? Just copy it and past
 You've seen that JSON goes way beyond just the encoding (which usually is UTF-8). In addition, it consists of very concise and strict rules on the structure and form of all data contents. Finally, if you store your JSON data, you will append `.json` to the name of your file. JSON is a format. Other than encoding, formats specify also things such as the visual depiction of data, which software can do what with it, how it will be stored on your computer, and so on. As with encoding, the format of a given data file is something that we can think of critically: some file formats are proprietary, they can only be read and manipulated with a certain software. Some formats are more easily convertible, or allow interchange more easily than others. If you want your data to be _interoperable_, that is, if you want to enable others to work with them, you need to format them in open formats. So for tables and spreadsheets, for example, use the _comma-separated values format_ (`.csv`), for text use _markdown_ (`.md`), and so on. You can find a list of open and interoperable file formats [here.](https://en.wikipedia.org/wiki/List_of_open_file_formats)
 
 What have we learned? Data can be used to describe all kinds of objects and phenomena. To do so effectively, we need to select the right _descriptive categories_ (=attributes), choose appropriate _data types_ for each, and make sure everything conforms to a _data schema_ and file format — like JSON.
+
+### Reading/viewing suggestions
+
 
 ## 4 From sources to databases
 We have seen that we can store all kinds of information in tables. For a comprehensive and critical analysis, we want to capture and study our sources from many different angles, collecting a great variety of information. However, coherence and clarity would get lost if we stuffed everything into one single table. But if we create many tables, how can we discover relations then? Because, after all, we're interested in discovering connections, patterns, and correlations. Relational databases allow us to do precisely that! They are capable of storing a great variety of different data and their respective database management systems (DBMS) enable us to perform the basic sorting, filtering and searching operations that build the foundation of research and analysis.
