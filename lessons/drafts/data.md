@@ -288,6 +288,7 @@ Person:
 |Attribute 3|"..."|
 |Attribute 4|"..."|
 
+[Link to editable table](/assets/docs/data-criticism/person-table.docx)
 In the above scaffold, attribute 1 would be the first name of the person, attribute 2 would be the person's last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, listing some of the attributes and the corresponding values we might consider useful for identifying it.
 
 By selecting specific attributs, we create *descriptive categories* that are subject to a finality: in the case of a wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying a person's favorite dessert might not be the most significant attribute, especially if we can only list a limited number of them on our wanted poster. 
@@ -306,7 +307,7 @@ Obviously, our choice of attributes would be different if we wanted to describe 
 But what would we do, if we wanted to collect information on several historic persons? If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
 
 |first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
-|:---|:---|:---|:---|:---|:---|:---|:---|
+|:---------|:--------|:-------|:--------|:-------|:--------|:-----|:---|
 |Karl|Value 2|Value 3| Value 4|Value 5|Value 6|Value 7|Value 8| 
 |...|...|...|...|...|...|...|...|
 |...|...|...|...|...|...|...|...|
