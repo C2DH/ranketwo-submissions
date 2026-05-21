@@ -288,22 +288,26 @@ Person:
 |Attribute 3|"..."|
 |Attribute 4|"..."|
 
-[Link to editable table](/assets/docs/data-criticism/person-table.docx)
-In the above scaffold, attribute 1 would be the first name of the person, attribute 2 would be the person's last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, listing some of the attributes and the corresponding values we might consider useful for identifying it.
+[Link to editable table: Person](/assets/docs/data-criticism/person-table.docx)
 
-By selecting specific attributs, we create *descriptive categories* that are subject to a finality: in the case of a wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying a person's favorite dessert might not be the most significant attribute, especially if we can only list a limited number of them on our wanted poster. 
+STEP 1
 
-Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. To resume, selection of descriptive categorie is subject to a finality.    
+Please fill the table: for the attributes, refer to the poster. For the values, use your critical skills and get help from the visual in the poster and from research on the web. 
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+In the above scaffold table, attribute 1 would be the first name of the person, attribute 2 would be the person's last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, Karl Marx.
+</details> 
+
+STEP 2
+
+By selecting specific attributs, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. In other words, the selection of descriptive categories is subject to a finality. In the case of the wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying, say, a person's favorite dessert might not be the most significant attribute, especially if we can only list a limited number of them on our wanted poster. 
+
+Can you think of attributes that would matter in this case but are not included in the poster? 
+
+### 3.b Creating descriptive data and using spreadsheets
 
 <!--
-In addition to directly representing a certain information object digitally in a bitstream, like a digital version of a given text or an image, data are also used to describe objects (because most phenomena in our world cannot be directly digitized). For example, next to the text itself, we could annotate it with further information such as the language of the text, the name of its author, and so on. Or think of entities like animals, people or historic events: there is no way to represent them in a bitstream, but we can describe them in a text or take a picture of them (or both) and digitize these descriptions. To illustrate descriptive data, think of a wanted poster as you might know from western movies or comics, which is basically just a simple table listing a number of attributes to identify a given person: --> 
-
-
-
-
-
-Obviously, our choice of attributes would be different if we wanted to describe something else, like a place, or a piece of art, or an animal, or a book. This selection is often called _descriptive categories_, and is subject to a finality.  because, for identifying a fugitive criminal, for example, her or his favorite dessert might not be the most significant identifier, especially if we can list only a limited number of them on our wanted poster. <!-- I edit this because it needs clarification - for ex. the small table aboce is a scaffold but does not propose a selection of descr. catagories, which is why I adapt the paragraph -->
-
 But what would we do, if we wanted to collect information on several historic persons? If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
 
 |first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
@@ -312,16 +316,71 @@ But what would we do, if we wanted to collect information on several historic pe
 |...|...|...|...|...|...|...|...|
 |...|...|...|...|...|...|...|...|
 
+[Link to editable table: Person](/assets/docs/data-criticism/historical-persons-table.docx)
+
 All kinds of properties can be recorded as data and can be used to describe any phenomena or objects. To put it simply, we can picture data collections of any kind as tables and spreadsheets. The features that we want to record form the attributes or categories in the header and the respective values are entered below row by row for each individual object. The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate.
-We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_. 
+We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_. --> 
 
-#### Assignment
-You've certainly recognized the person on our wanted poster! Now fill in all the information in his row and do the same thing for two more historic persons of your choice.
+When we want to describe and compare several historic personnalities, objects, or events, we can organise information in tables, like above, or [spreadsheets](https://en.wikipedia.org/wiki/Spreadsheet]. Each column represents a category or attribute — such as a name, date, or place — while each row contains the information describing one individual entry (the value).
 
----
+The selection of these categories is called a [data model](https://en.wikipedia.org/wiki/Data_model). It reflects the research questions and determines what kinds of information can later be searched, compared, or analysed. The individual values stored in the table are called *data points*, while each complete row forms a *data record*. Together, multiple records create a dataset.
 
-You might have observed that for the various attributes in our table of historic persons, there are different types of values: While the values for the first two columns are clearly textual (often called a "string" like a string of characters), the third column could also be a number ("an integer"). As we only asked for the year, it cannot contain more detailed information like day and month. The fourth column could be a string again, but it could also be a geo-coordinate, like a GPS location. In addition, it is unclear if this column refers to countries, cities, regions, villages, or even specific buildings. In column 5, authorship, you might also have run into trouble, because our first historic person, Karl, was rather productive and was the author of many more than just one text. Column 6 could be a matter of debate: what values would you accept? Just two, or more? While column 7 again takes an integer, column 8 can only hold "yes" or "no" as an answer (in most computational contexts, this is expressed in "Boolean" values: `true` or `false`). What you've encountered here is called _"data types"_. Like the _descriptive categories_ that you should have selected before you begin collecting data, you also need to think of the appropriate data types for each of them.
+Creating such structured descriptions is an important step in transforming historical sources into data that can be organised, processed, and analysed digitally.
 
+If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
+
+|first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
+|:---------|:--------|:-------|:--------|:-------|:--------|:-----|:---|
+|Karl|Value 2|Value 3| Value 4|Value 5|Value 6|Value 7|Value 8| 
+|...|...|...|...|...|...|...|...|
+|...|...|...|...|...|...|...|...|
+
+[Link to editable table: Person](/assets/docs/data-criticism/historical-persons-table.docx)
+
+Now fill the table to describe the following historic personnalities (or at least two of them): 
+* Karl Marx
+* Wilhelm Marx
+* Eleanor Marx 
+* Groucho Marx
+
+Now that you entered data, let's observe the different types of values and the issues they may raise. 
+* Compare the first and the third rows: what types of values do you have in each?
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+While the values for the first two columns are clearly textual (often called a "string" like a string of characters), the third column could also be a number ("an integer").
+</details> 
+
+* Observe the attribute in the third column: what additional values you should add if the attribute was "date" rather than "year"? How would you express these values based on what you learned in 1.c?
+
+* What type of values you could enter in the fourth column? 
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+The fourth column could be a string again, but it could also be a geo-coordinate, like a GPS location. In addition, it is unclear if this column refers to countries, cities, regions, villages, or even specific buildings.
+</details> 
+
+* What kind of issues could you encounter with the fifth column? 
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+Our first historic person, Karl, was rather productive and was the author of many more than just one text. How could all this information fit in one row? Is the column fit to the other personnalities? If not, this would mean that the data model wan not conceived according to the finality - which would be a mistake you would rather avoid in a real research.   
+</details> 
+
+* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you thibk you could express these values (text, other)?
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+In this column, the values could be pre-defined: would you define two or more types of values? Whatever you decide, would these values be textual or integers? Think in terms of [coding data](https://en.wikipedia.org/wiki/Coding_(social_sciences)).
+</details>
+
+* What values can you enter in the eighth column? 
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+The eigth column 8 can only hold "yes" or "no" as an answer (in most computational contexts, this is expressed in "Boolean" values: `true` or `false`).
+</details>
+
+What you've encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type). Like the descriptive categories, that you should have selected before you begin collecting data, you also need to think of the appropriate data types for each of them.
+
+### 3.c Converting data: the example of JSON format
 For different purposes, you might want to employ different attributes in your data sets: if you need to transport or store your items, it makes sense to have information on weight and size. If you create an inventory, capture only the most basic information that allows you to quickly search and find what you're looking for. If you want to detect common elements and relations between different items, gather as much information as possible and carefully select attributes that are applicable to all of the objects you want to describe. 
 
 If you want to share your data with others, you have to make sure that your attributes and categories adhere to common types. However, if you want to sort your data and search for comparable features and connections, you will need to make sure that your data entries also follow pre-defined rules in terms of capitalization, spelling, and so on. These rules are commonly called the **data schema**. There are quite a lot of different schemas out there, each one tailored for the description of specific objects and phenomena and for specific purposes. What they do have in common, however, is that their schema has to be specified in what is called an "ontology" or "vocabulary". These basically list all the attributes you can use. 
