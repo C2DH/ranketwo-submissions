@@ -161,7 +161,7 @@ Use an online ASCII or Unicode converter. You can use [RapidTables](https://www.
 2. Explore how the decimal number `188` 
 3. Enter accented characters or non-Latin scripts. Explore their representations in different encoding schemes, for example ASCII, ASCII/UTF-8, Unicode. 
 
-Even if you do not understand exactly what you see, such codes can be source of technical problems, for example for collecting or publishing source in web environments, or inversely solutions in the same configurations. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). On other words, encoding has a role in what is visible and what is not.  
+Even if you do not understand exactly what you see, such codes can be source of technical problems, for example for collecting or publishing source in web environments, or inversely solutions in the same configurations. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). In other words, encoding has a role in what is visible and what is not. It is important to know this, even if you are not the one who would the technical work to fix such issues.   
 
 
 ### 2.c Images as encoded data
@@ -301,31 +301,16 @@ In the above scaffold table, attribute 1 would be the first name of the person, 
 
 STEP 2
 
-By selecting specific attributs, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. In other words, the selection of descriptive categories is subject to a finality. In the case of the wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying, say, a person's favorite dessert might not be the most significant attribute, especially if we can only list a limited number of them on our wanted poster. 
+By selecting specific attributs, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. In other words, the selection of descriptive categories is subject to a finality. In the case of the wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying, say, a person's favorite dessert might not be the most significant property, especially if we can only list a limited number of them on our wanted poster. 
 
-Can you think of attributes that would matter in this case but are not included in the poster? 
+Can you think of significant properties that would matter in this case but are not included in the poster? 
 
-### 3.b Creating descriptive data and using spreadsheets
+### 3.b Creating descriptive data
 
-<!--
-But what would we do, if we wanted to collect information on several historic persons? If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
+When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, and analysed with the help of digital tools such as spreadsheets or databases.
 
-|first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
-|:---------|:--------|:-------|:--------|:-------|:--------|:-----|:---|
-|Karl|Value 2|Value 3| Value 4|Value 5|Value 6|Value 7|Value 8| 
-|...|...|...|...|...|...|...|...|
-|...|...|...|...|...|...|...|...|
 
-[Link to editable table: Person](/assets/docs/data-criticism/historical-persons-table.docx)
-
-All kinds of properties can be recorded as data and can be used to describe any phenomena or objects. To put it simply, we can picture data collections of any kind as tables and spreadsheets. The features that we want to record form the attributes or categories in the header and the respective values are entered below row by row for each individual object. The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate.
-We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_. --> 
-
-When we want to describe and compare several historic personnalities, objects, or events, we can organise information in tables, like above, or [spreadsheets](https://en.wikipedia.org/wiki/Spreadsheet]. Each column represents a category or attribute — such as a name, date, or place — while each row contains the information describing one individual entry (the value).
-
-The selection of these categories is called a [data model](https://en.wikipedia.org/wiki/Data_model). It reflects the research questions and determines what kinds of information can later be searched, compared, or analysed. The individual values stored in the table are called *data points*, while each complete row forms a *data record*. Together, multiple records create a dataset.
-
-Creating such structured descriptions is an important step in transforming historical sources into data that can be organised, processed, and analysed digitally.
+*The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate. We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_.* 
 
 If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
 
@@ -566,6 +551,6 @@ To make all of this possible, relational databases rely on a few key principles.
 
 ### Reading/viewing suggestions
 - Octave Julien. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, Apr 2024, Porto, Portugal. ￿halshs-04550456￿
-- Stephen Robertson. "The properties of digital history".     [https://doi.org/10.1111/hith.12286]( https://doi.org/10.1111/hith.12286)
+- Stephen Robertson. "The properties of digital history". [https://doi.org/10.1111/hith.12286](https://doi.org/10.1111/hith.12286)
 - Mattia Viale. "From the historical source to a database: a short story". 21 November 2018. [https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/](https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/)
 - [Agustín Cosovschi, From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat](https://programminghistorian.org/en/lessons/designing-database-nodegoat)
