@@ -61,10 +61,10 @@ Dates also remind us that data depend on cultural and technical norms of represe
 
 These expressions below all refer to the same day June 28, 1914 (`28-06-1914`):
 
-28-06-1914
-06-28-1914
-XXVIII.VI.MCMXIV
-4th of Sha'ban 1332
+* 28-06-1914
+* 06-28-1914
+* XXVIII.VI.MCMXIV
+* 4th of Sha'ban 1332
 
 Inspect the above dates and answher the following questions - if necessary, you can do a little research on the web: 
 
@@ -434,11 +434,11 @@ JSON is widely used for annotation and transfer in the humanities because it is 
 ```
 You see that it is in some way the same as our table above, only that it presents our data in sequential form (because, as you know now, computers store all data that way) and it allows "nested" structures for the entries. You also see that it uses quite a lot of different containers (or "drawers" or "boxes") to store data points: quotes `" "`, curly brackets `{  }` and square brackets `[  ]`. In addition, the entries are separated by commas `,` and the lines are indented so that the data sets are nested into each other. The formatting rules of JSON are quite strict; if you mess up a comma or indentation of a line, it cannot be processed. JSON is used for a wide range of different data, each having a specified data schema. For historians and humanists it is wise to use a schema that is established by many others. However, you can of course write your own schema. For a comprehensive tutorial, see [here](https://json-schema.org/learn). If you're lazy, you might as well use one of the many online schema generators, like [this one](https://www.jsonforge.com/tools/schema-generator) or [this one](https://jsonswiss.com/). 
 
-#### Assignment
+
 Above, you've created a small table describing a historic person. Let's see if you can do this in well-formed JSON!
 But how do you know if you produced valid and pretty JSON? Just copy it and paste it into one of the many online checkers, like [this one](https://jsonchecker.com/). There are many others out there that help you correct your errors, but before you use [one of them](https://jsonformatter.curiousconcept.com/), try to spot your error yourself!
 
----
+
 You've seen that JSON goes way beyond just the encoding (which usually is UTF-8). In addition, it consists of very concise and strict rules on the structure and form of all data contents. Finally, if you store your JSON data, you will append `.json` to the name of your file. JSON is a format. Other than encoding, formats specify also things such as the visual depiction of data, which software can do what with it, how it will be stored on your computer, and so on. As with encoding, the format of a given data file is something that we can think of critically: some file formats are proprietary, they can only be read and manipulated with a certain software. Some formats are more easily convertible, or allow interchange more easily than others. If you want your data to be _interoperable_, that is, if you want to enable others to work with them, you need to format them in open formats. So for tables and spreadsheets, for example, use the _comma-separated values format_ (`.csv`), for text use _markdown_ (`.md`), and so on. You can find a list of open and interoperable file formats [here.](https://en.wikipedia.org/wiki/List_of_open_file_formats)
 
 What have we learned? Data can be used to describe all kinds of objects and phenomena. To do so effectively, we need to select the right _descriptive categories_ (=attributes), choose appropriate _data types_ for each, and make sure everything conforms to a _data schema_ and file format — like JSON.
