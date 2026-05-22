@@ -59,7 +59,7 @@ What have we learned so far? Data makes sense if the symbols are _distinct_ and 
 
 Dates also remind us that data depend on cultural and technical norms of representation which can be loose [conventions](https://en.wikipedia.org/wiki/Convention_(norm)), e.g. socially agreed, or [normative](https://en.wikipedia.org/wiki/ISO_8601). The same day can be written differently depending on cultural or historical context. 
 
-These expressions below all refer to the same day June 28, 1914 (`28-06-1914`):
+These expressions below all refer to the twenty-eighth day of June in the year 1914:
 
 * 28-06-1914
 * 06-28-1914
