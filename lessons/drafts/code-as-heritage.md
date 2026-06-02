@@ -61,8 +61,6 @@ Each section includes practical exercises designed to develop your critical thin
 
 ## 1 Understanding Recognition of Source Code as Digital Heritage
 
-TEST
-
 > [!NOTE]  
 > **Learning Objectives for Section 1:**
 > By completing this section, you will be able to:
