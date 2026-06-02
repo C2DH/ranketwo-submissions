@@ -371,14 +371,12 @@ What you've encountered here is called [data types](https://en.wikipedia.org/wik
 
 <!--idea for an exercice: Watch the video and note down the objects Lea finds in her grandmother's house. Maybe we can use what Tugce proposes in her lesson here: https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices and ask the learners to think: what attributes they would create for each of the 3 types of objects proposed 1) if they were to create an inventory like Lea fdoes and 2) if they were to document the respective objects. We can prepare simple tables to provide in a Need help? section like above; -->
 
-<!--Is sharing evoked here as an introduction to JSON? If yes, should be adapted>. It seems to me there is a lot of complexity below and an overlap between sharing and interoperability? I integrate part of this paragraph in the part for JSON and adapt freely-->
-*If you want to share your data with others, you have to make sure that your attributes and categories adhere to common types.<!--you can share any data as long as they are structured, in open format, and documented--> However, if you want to sort your data and search for comparable features and connections, you will need to make sure that your data entries also follow pre-defined rules in terms of capitalization, spelling, and so on. These rules are commonly called the **data schema**. There are quite a lot of different schemas out there, each one tailored for the description of specific objects and phenomena and for specific purposes. What they do have in common, however, is that their schema has to be specified in what is called an "ontology" or "vocabulary". These basically list all the attributes you can use.* 
 
 ### 3.c Creating datasets - 30 minutes
 
 Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be empoyed in data sets.
 
-Rememebr, in the video animation Lea finds several objects in her grandmother's house. Let's imagine that she ends up having a collection like the one described in [this lesson](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices). Note down the objects and put yourself into Lea's shoes: her purpose is to create an inventory: 
+Remember, in the video animation Lea finds several objects in her grandmother's house. Let's imagine that she ends up having a collection like the one described in [this lesson](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices). Note down the objects and put yourself into Lea's shoes: her purpose is to create an inventory. 
 
 1. Imagine that each of the objects enumerated represents a separate table
 2. Which attributes you would create for each of the objects enumerated? 
@@ -387,8 +385,19 @@ Rememebr, in the video animation Lea finds several objects in her grandmother's 
 
 > There are ethical considerations to take into account when we create data: this lesson will introduce you to [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md) 
 
-## Converting data: the example of JSON format
+### Reading/viewing suggestions
 
+Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction.* . Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
+
+Roberts, Spencer W.. Spreadsheets for Historians – Spencer W. Roberts. 12 août 2014. https://swroberts.ca/scholarship/spreadsheets-for-historians/.
+
+Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consulté le 2 juin 2026. https://libguides.law.ucla.edu/data/home.
+
+
+## 5 Converting data: the example of JSON format
+
+<!--Is sharing evoked here as an introduction to JSON? If yes, should be adapted>. It seems to me there is a lot of complexity below and an overlap between sharing and interoperability? I integrate part of this paragraph in the part for JSON and adapt freely-->
+*If you want to share your data with others, you have to make sure that your attributes and categories adhere to common types.<!--you can share any data as long as they are structured, in open format, and documented--> However, if you want to sort your data and search for comparable features and connections, you will need to make sure that your data entries also follow pre-defined rules in terms of capitalization, spelling, and so on. These rules are commonly called the **data schema**. There are quite a lot of different schemas out there, each one tailored for the description of specific objects and phenomena and for specific purposes. What they do have in common, however, is that their schema has to be specified in what is called an "ontology" or "vocabulary". These basically list all the attributes you can use.* 
 
 A very common data format is JSON (Java Script Object Notation). Below you see a listing of the data types it can store:
 | **Type**    | **What it means**                                          | **Example in JSON**                                            | **Formatting notes**                                                                                |
@@ -447,8 +456,6 @@ But how do you know if you produced valid and pretty JSON? Just copy it and past
 You've seen that JSON goes way beyond just the encoding (which usually is UTF-8). In addition, it consists of very concise and strict rules on the structure and form of all data contents. Finally, if you store your JSON data, you will append `.json` to the name of your file. JSON is a format. Other than encoding, formats specify also things such as the visual depiction of data, which software can do what with it, how it will be stored on your computer, and so on. As with encoding, the format of a given data file is something that we can think of critically: some file formats are proprietary, they can only be read and manipulated with a certain software. Some formats are more easily convertible, or allow interchange more easily than others. If you want your data to be _interoperable_, that is, if you want to enable others to work with them, you need to format them in open formats. So for tables and spreadsheets, for example, use the _comma-separated values format_ (`.csv`), for text use _markdown_ (`.md`), and so on. You can find a list of open and interoperable file formats [here.](https://en.wikipedia.org/wiki/List_of_open_file_formats)
 
 What have we learned? Data can be used to describe all kinds of objects and phenomena. To do so effectively, we need to select the right _descriptive categories_ (=attributes), choose appropriate _data types_ for each, and make sure everything conforms to a _data schema_ and file format — like JSON.
-
-### Reading/viewing suggestions
 
 
 ## 4 From sources to databases
