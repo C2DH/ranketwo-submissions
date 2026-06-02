@@ -309,7 +309,7 @@ Can you think of significant properties that would matter in this case but are n
 
 When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, and analysed with the help of digital tools such as spreadsheets or databases.
 
-
+<!--Sofia: I think that the definition of data model below corresponds more to coding or categorizing data; the data model is mostly used to define relations, which is not the focus in this part of the lesson. Thus, I would suggest to not present it hastily here in a reductive way. Same for dataset, it is perhaps preferable to not assimilate the notion with the small tables above. We do not need to cover everything, and further exploration can be made by recommended lectures in the Reading suggestions section-->
 *The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate. We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_.* 
 
 If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
@@ -322,6 +322,7 @@ If you imagine tilting our two-column table to the right, the attributes become 
 
 [Link to editable table: Person](/assets/docs/data-criticism/historical-persons-table.docx)
 
+The individual entries in the table are called *data points*, such as the string that is the value for the attribute `first_name` (Karl). 
 Now fill the table to describe the following historic personnalities (or at least two of them): 
 * Karl Marx
 * Wilhelm Marx
@@ -365,9 +366,12 @@ The eigth column 8 can only hold "yes" or "no" as an answer (in most computation
 
 What you've encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type). Like the descriptive categories, that you should have selected before you begin collecting data, you also need to think of the appropriate data types for each of them.
 
-<!--I recommend to remove this part: it is partly redundant with parts above; or introduces new complex elements that are not sufficiently develope to be understood or supported by exercises. Some stuff can be externalized in the sense that external bibliography can be recommended, for example on vocabularies and ontologies-->
+<!--The paragraphs below present redundancies with parts above and/or introduce new complex elements such as ontologies. They are parhaps a bit too abstract and not supported by exercises. Some stuff can be externalized in the sense that external bibliography can be recommended, for example on vocabularies and ontologies. The second phrase "If you create an inventory, capture only the most basic information that allows you to quickly search and find what you're looking for." can be the basis for building an exercice using the video and Lea's findings. Here? Create a 3.c (in which case the JSON exercice would be 3.d)? -->
 *For different purposes, you might want to employ different attributes in your data sets: if you need to transport or store your items, it makes sense to have information on weight and size. If you create an inventory, capture only the most basic information that allows you to quickly search and find what you're looking for. If you want to detect common elements and relations between different items, gather as much information as possible and carefully select attributes that are applicable to all of the objects you want to describe.* 
 
+<!--idea for an exercice: Watch the video and note down the objects Lea finds in her grandmother's house. Maybe we can use what Tugce proposes in her lesson here: https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices and ask the learners to think: what attributes they would create for each of the 3 types of objects proposed 1) if they were to create an inventory like Lea fdoes and 2) if they were to document the respective objects. We can prepare simple tables to provide in a Need help? section like above; -->
+
+<!--Is sharing evoked here as an introduction to JSON? If yes, should be adapted>. It seems to me there is a lot of complexity below and an overlap between sharing and interoperability? There is contradiction with above when we say that  -->
 *If you want to share your data with others, you have to make sure that your attributes and categories adhere to common types. However, if you want to sort your data and search for comparable features and connections, you will need to make sure that your data entries also follow pre-defined rules in terms of capitalization, spelling, and so on. These rules are commonly called the **data schema**. There are quite a lot of different schemas out there, each one tailored for the description of specific objects and phenomena and for specific purposes. What they do have in common, however, is that their schema has to be specified in what is called an "ontology" or "vocabulary". These basically list all the attributes you can use.* 
 
 ### 3.c Converting data: the example of JSON format
@@ -443,16 +447,13 @@ Let's look at the following source as an example, an article written by Karl Mar
 
 ![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
 
-First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in Zotero[^6]:
+First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
 
 ![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
 
-The same source would look like this if captured in Tropy[^7]:
+The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
 ![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
-[^6]: Zotero is a very useful and popular software for managing bibliographic information, basically a database. It can import and export all of the most common data formats for bibliographic data. (If you do not yet use Zotero, head to its [webpage](https://www.zotero.org/) and download the appropriate version for your system.) You can see that Zotero lets you enter additional information on your source, depending on how you want to treat (and further analyse) it: website, chapter in an edited volume, or newspaper article. You can also attach keywords ("tags") that will make it easier to create collections of sources on similar subjects.
-
-[^7]: [Tropy](https://www.tropy.org/) is a similarly useful software, designed to help you organize your research findings, particularly photos. It is enormously helpful if you work in an archive and take pictures of historical records and documents that you want to analyze and sort later on.
 
 Our job here is to capture all names of people, places, dates, and events in this source. This process can be automated to a certain extent and is called "Named Entity Recognition" (NER). We do it by hand. Of course we could store the entities in the paragraph just in one spreadsheet, but let's imagine we will extract information from many different sources or an entire corpus (for example all of Marx's writings, or all English newspaper articles on China concerning the Opium Wars). If we just have a look at the first few sentences, we encounter already a lot of information.
 
