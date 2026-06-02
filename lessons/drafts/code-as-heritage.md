@@ -67,7 +67,7 @@ Each section includes practical exercises designed to develop your critical thin
 > - Define source code as technical artifact and cultural expression
 > - Identify the main stakes and the history of source code preservation as digital heritage
 
-Every app, website, and digital service we use today is built on layers of code that capture decisions, assumptions, and values — traces historians need to learn how to read. The intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding contemporary technological development. At its most elementary level, source code consists of human-readable computer instructions, but it is much more than mere technical documentation. Code is increasingly being recognized as cultural heritage, raising questions about how it should be preserved and what transformations occur as working software becomes historical artifact.  
+Every app, website, and digital service we use today is built on layers of source code that capture decisions, assumptions, and values — traces historians need to learn how to read. The intellectual, cultural, and social contexts of code's creation matter, making it a valuable historical resource for understanding contemporary technological development. At its most elementary level, source code consists of human-readable computer instructions, but it is much more than mere technical documentation. Source code is increasingly being recognized as cultural heritage, raising questions about how it should be preserved and what transformations occur as working software becomes historical artifact.  
 
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
@@ -97,11 +97,16 @@ The exercise above points to a specificity at the heart of source code as a hist
 * **Program**: A set of instructions that tells a computer what to do, alias the executable files that run on computers.
 * **Source code**: The human-readable form in which a programmer writes those instructions, before they are translated into something the machine can process.
 * **Programming language**: The shared vocabulary and grammar that makes that writing possible — like C, Python, or FORTRAN. Since the 1950s, hundreds of programming languages have been created, each with its own syntax, design philosophy, and community of practitioners.
-* * **Open source and proprietary code**: Not all source code is equally accessible. Code can be [open source](https://opensource.org/osd) or [proprietary](https://en.wikipedia.org/wiki/Proprietary_software), a distinction that fundamentally conditions who can read, analyze, and preserve it.
+* **Open source and proprietary code**: Not all source code is equally accessible. Code can be [open source](https://opensource.org/osd) or [proprietary](https://en.wikipedia.org/wiki/Proprietary_software), a distinction that fundamentally conditions who can read, analyze, and preserve it.
+* **Levels of abstraction:**: Not all source code sits at the same distance from the hardware. Programming languages range from high-level languages like Python or C, designed to be readable without knowledge of the underlying machine, down through assembly language, to machine code executed directly by the processor.
 
-Since the 1950s, hundreds of [programming languages](https://en.wikipedia.org/wiki/Programming_language) have been created, each with its own syntax, design philosophy, and community of practitioners. Some languages, like [FORTRAN (1957)](https://en.wikipedia.org/wiki/Fortran) and [COBOL (1959)](https://en.wikipedia.org/wiki/COBOL), emerged in specific institutional contexts, scientific computing and business administration respectively, and continue to run critical systems decades later. Others, like [Python (1991)](https://en.wikipedia.org/wiki/Python_(programming_language)), were designed with readability and accessibility in mind. Source code must therefore be understood within its specific historical context: it is written in a particular programming language, at a particular historical moment, and shaped by the practices and priorities of particular technical communities.
+Programming languages did not appear all at once. They developed historically as successive solutions to the same problem: how to give instructions to a machine without having to think like one. The earliest programmers worked directly in machine code — pure binary instructions understood only by a specific processor. Assembly language emerged as a first step toward human readability, replacing binary sequences with abbreviated names for operations, but remaining tightly bound to a specific hardware architecture. High-level languages like FORTRAN (1957) or COBOL (1959) went further, allowing programmers to write instructions closer to human reasoning, leaving it to a compiler to translate them into something the machine could execute. Each step up the hierarchy increased abstraction from the hardware — and with it, portability, readability, and the possibility of writing code without intimate knowledge of the machine underneath (Petzold 1999; Tanenbaum 2012). The video introduction to this lesson illustrates this hierarchy visually. 
 
-Consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute" ([Abelson and Sussman 1996](https://sarabander.github.io/sicp/html/index.xhtml)). This implies that code is more than written words. It is both an object and an action. Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance, becoming part of programming culture itself.
+This historical development has a direct consequence for historians. Source code does not run on its own — it depends on a specific execution context: a compiler, an interpreter, a hardware architecture. When that context no longer exists, the code becomes inert as software, even if it survives as a document. Understanding what a piece of code required in order to run is part of understanding the technological moment in which it was produced.
+
+The level of abstraction also shapes, but does not determine, what a historian can read from the artifact. Higher-level languages tend to preserve more immediately legible traces of authorial choices, naming conventions, and cultural references — they were designed to be read by humans across different machines. Assembly language sits closer to the hardware and is less transparent on first encounter. But as the BURN_BABY_BURN routine in section 3 will show, even assembly-level code can yield significant historical meaning to a non-specialist: a routine name, a comment, a structural choice can all become readable when brought into dialogue with the right historical sources and methods. The abstraction level sets the conditions of reading — it does not foreclose it.
+
+Consider Harold Abelson and Gerald Jay Sussman's insightful 1996 observation that remains highly relevant in today's programming best practices: "Programs must be written for people to read, and only incidentally for machines to execute" ([Abelson and Sussman 1996](https://sarabander.github.io/sicp/html/index.xhtml)). Donald Knuth made a related argument in 1984, proposing that programs should be understood as works of literature addressed to human readers, with the computer as a secondary audience (Knuth 1984). This implies that code is more than written words. It is both an object and an action. Because code is read, taught, and imitated within communities, certain conventions can acquire historical significance, becoming part of programming culture itself.
 
 #### A source like any other? 
 
@@ -109,7 +114,7 @@ Examine the following document from the *Source Code Exhibition*: [OPTIMIZING TH
 
 The [Latin American World Model (LAWM)](https://encyclopedia.pub/entry/31189) was developed in the 1970s by a multidisciplinary Argentinian team as an explicit political response to Western-dominated global models of development. Its source code, preserved as a printed sheet, is written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran), one of the earliest programming languages, developed in 1957 for scientific computing.
 
-Approach it as you would any unfamiliar archival document. You do not need to understand the code line by line. Instead, consider:
+Approach it as you would any unfamiliar archival document. You do not need to understand the source code line by line. Instead, consider:
 
 * What does the layout and formatting of this document tell you about how it was produced and used?
 * What does the choice of FORTRAN — a standardized and widely used language — suggest about the intended audience?
@@ -218,6 +223,12 @@ Amid these losses, remarkable stories of recovery and reconstruction offer hope.
 de Mol, Liesbeth, Maarten Bullynck. What's in a name? Origins, transpositions and transformations of the triptych Algorithm -Code -Program. J. Abbate and S. Dick. Abstractions and embodiments. New histories of computing and society, Johns Hopkins, 2022. ⟨hal-03081203v3⟩ https://hal.science/hal-03081203 
 
 Abelson, Harold, and Gerald Jay Sussman. 1996. *Structure and Interpretation of Computer Programs*. 2nd ed. Cambridge, MA: MIT Press. https://sarabander.github.io/sicp/html/index.xhtml
+
+Tanenbaum, Andrew S. 2012. Structured Computer Organization. 6th ed. Upper Saddle River, NJ: Pearson. 
+
+Petzold, Charles. 1999. Code: The Hidden Language of Computer Hardware and Software. Redmond, WA: Microsoft Press. 
+
+Knuth, Donald. 1984. 'Literate Programming'. The Computer Journal 27 (2): 97–111. https://www.cs.tufts.edu/~nr/cs257/archive/literate-programming/01-knuth-lp.pdf 
 <!--
 Krysa, Joasia, and Grzesiek Sedek. 2008. 'Source Code'. In *Software Studies: A Lexicon*, edited by Matthew Fuller, 236–43. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262062749.003.0034
 
@@ -296,9 +307,9 @@ This lesson focuses primarily on the first level while acknowledging that deeper
 
 Source code has emerged as a valuable resource for humanities research, particularly in critical code studies, digital history, and science and technology studies since the early 2000s (see relevant references below). The focus is currently on "the extra-functional significance of computer source code" (Marino 2020): what code means beyond what it does. Current researches treat programming languages as forms of creative writing, examine the cultural assumptions embedded in algorithms, and investigate how software development practices reflect broader social and political contexts. These works reveal how seemingly neutral technical decisions actually reflect cultural biases, political assumptions, and aesthetic preferences. By examining code as a form of cultural expression, scholars can explore questions about power, identity, and creativity in digital environments.
 
-Every type of historical source requires adapted methods of analysis suited to its specific material and communicative properties. Code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies. 
+Every type of historical source requires adapted methods of analysis suited to its specific material and communicative properties. Source code is no different: it demands approaches attentive to its particular characteristics. The historian's fundamental questions endure: Who created this? When? For what purpose? Has it been altered? Can we trust it? How did it reach us? These questions remain essential when working with code, just as they are for manuscripts, photographs, or oral testimonies. 
 
-What changes is where we find answers and what new questions the source itself raises. Understanding source code as a specific kind of born-digital source helps us approach it with appropriate analytical tools. 
+What changes is where we find answers and what new questions the source itself raises. One such question concerns the abstraction level of the code being examined. As introduced in section 1, source code closer to the hardware — like assembly language — is less immediately legible than high-level languages: certain authorial choices and cultural markers become harder to read directly from the artifact. But this is not unlike other historical sources that require contextual mediation to yield their meaning. The historian's response is to bring the full range of historical methods to bear — crossing the code artifact with whatever external sources are available to recover dimensions the artifact itself cannot supply. 
 
 #### Key Analytical Questions for Source Code as Historical Evidence
 
@@ -374,7 +385,7 @@ The image above is a photograph of the original source code for Microsoft BASIC,
 
 #### Artifact 2: The Snippet
 
-Now examine this second artifact. This is a short excerpt — a snippet — from the source code of [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), a version of [Microsoft BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC) developed for IBM PC compatibles, dating from 1983.
+Now examine this second artifact. This is a short excerpt — a snippet — from the source code of [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), a version of [Microsoft BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC), written in assembly language, developed for IBM PC compatibles, and dating from 1983.
 
 Though written eight years after the first artifact, this code is a direct descendant of the 1975 program—and, as you will see, it carries the memory of its origins in its comments.
 
@@ -522,7 +533,7 @@ In section 2, we introduced analytical questions for approaching code as histori
 
 ### 3.a The Original Artifact: Reading the Paper Listing
 
-The preservation of Apollo's source code represents a rare exception in software history. Software from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription. Yet even when code survives, it doesn't carry everything with it — the paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project.
+The preservation of Apollo's source code represents a rare exception in software history. Source code from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription. Yet even when source code survives, it doesn't carry everything with it — the paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project.
 
 ![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
 
@@ -536,6 +547,8 @@ This is a page from the printed source code listing for the Apollo 11 Lunar Modu
 - Monospace typeface produced by a line printer
 - Page numbers printed on the document itself (Page 731)
 - Assembly language notation as it appeared when the code was compiled on 14 July 1969
+
+The columns of abbreviated instructions may look opaque at first — this is assembly language, the level of the hierarchy introduced in section 1 that sits directly above machine code. But as you will see, much of what matters historically on this page requires no assembly knowledge to read.
 
 **What is visible without technical expertise:**
 
@@ -703,7 +716,7 @@ The Apollo code's journey from creation to online accessibility can be mapped as
 | Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars call a "reborn digital" object: a artifact that originateda in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digitl existence ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must triangulate across multiple source types: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
+Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars call a "reborn digital" object: a artifact that originateda in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digitl existence ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
 
 ### Reading/viewing suggestions
 
