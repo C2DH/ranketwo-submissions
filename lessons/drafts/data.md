@@ -396,21 +396,30 @@ Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consu
 
 ## 5 Converting data: the example of JSON format
 
-<!--Is sharing evoked here as an introduction to JSON? If yes, should be adapted>. It seems to me there is a lot of complexity below and an overlap between sharing and interoperability? I integrate part of this paragraph in the part for JSON and adapt freely-->
-*If you want to share your data with others, you have to make sure that your attributes and categories adhere to common types.<!--you can share any data as long as they are structured, in open format, and documented--> However, if you want to sort your data and search for comparable features and connections, you will need to make sure that your data entries also follow pre-defined rules in terms of capitalization, spelling, and so on. These rules are commonly called the **data schema**. There are quite a lot of different schemas out there, each one tailored for the description of specific objects and phenomena and for specific purposes. What they do have in common, however, is that their schema has to be specified in what is called an "ontology" or "vocabulary". These basically list all the attributes you can use.* 
+Historians increasingly work with digital tools that require data in specific formats. A format represents the way data are encoded, stored, and displayed; it can be important for how data can be used, exchanged and shared. The format is reflected in the extension of the data file (for example, `.csv`).     
 
-A very common data format is JSON (Java Script Object Notation). Below you see a listing of the data types it can store:
-| **Type**    | **What it means**                                          | **Example in JSON**                                            | **Formatting notes**                                                                                |
-| ----------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **string**  | A piece of text, always in double quotes.                  | `"firstName": "Karl"`                                          | Always use **double quotes `"..."`** for text (not single quotes).                                  |
-| **integer** | A whole number (no quotes).                                | `"year": 1867`                                                 | No quotes around numbers.                                                                           |
-| **number**  | A number that can have decimals.                           | `"rating": 4.5`                                                | Same rule: no quotes.                                                                               |
-| **boolean** | A truth value: `true` or `false`.                          | `"isAlive": false`                                             | Must be lowercase (`true`, not `True`).                                                             |
-| **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lowercase `null`.                                                                           |
-| **object**  | A collection of key–value pairs inside curly braces `{ }`. | `"birth": { "date": "1818-05-05", "place": "Trier" }`          | Keys and values are separated by a colon `:`. Multiple entries are separated by commas.             |
-| **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects, or even other arrays. |
+When working with digital tools, structured formats make it easier to exchange data between information systems. Structured formats use standardized rules on the architecture and form of the data they contain, commonly called the data schema.  
 
-JSON is widely used for annotation and transfer in the humanities because it is easily readable and customizable. It can be used to describe all sorts of objects/entities, including historic persons. Below is a short dataset describing our old friend Karl in JSON:
+For example, in assignment 3, we worked with data in the form of a table. Tabular data are best stored, displayed, used and shared in [CSV (Comma-separated Values) format](https://en.wikipedia.org/wiki/Comma-separated_values). Tables are extremely useful, however, data often needs to be converted from one format to another.
+
+Why is this useful?
+
+- Different tools require different formats (for example, web applications)
+- Some formats are more fit for storing and exchanging large volumes of data
+- Some formats allow more complex structures than tables
+
+One widely used format for this purpose is [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html).
+
+JSON is designed to:
+- represent structured data in a way that computers can easily process  
+- allow more flexible organisation of information (for example, nested data)
+
+In this assignment, you will learn how to convert your tabular data into JSON and explore what this format makes possible.
+
+### 5.a Recognising structure in JSON 
+
+Look at the following dataset describing Karl Marx:
+
 ```json
 {
    "firstName":"Karl Heinrich",
@@ -446,16 +455,154 @@ JSON is widely used for annotation and transfer in the humanities because it is 
    ]
 }
 ```
-You see that it is in some way the same as our table above, only that it presents our data in sequential form (because, as you know now, computers store all data that way) and it allows "nested" structures for the entries. You also see that it uses quite a lot of different containers (or "drawers" or "boxes") to store data points: quotes `" "`, curly brackets `{  }` and square brackets `[  ]`. In addition, the entries are separated by commas `,` and the lines are indented so that the data sets are nested into each other. The formatting rules of JSON are quite strict; if you mess up a comma or indentation of a line, it cannot be processed. JSON is used for a wide range of different data, each having a specified data schema. For historians and humanists it is wise to use a schema that is established by many others. However, you can of course write your own schema. For a comprehensive tutorial, see [here](https://json-schema.org/learn). If you're lazy, you might as well use one of the many online schema generators, like [this one](https://www.jsonforge.com/tools/schema-generator) or [this one](https://jsonswiss.com/). 
+
+Now work with the following questions:
+
+1. Identify different kinds of elements in the data:
+
+* Where do you see text values?
+* Where do you see numbers?
+* Where do you see lists?
+
+2. Compare this JSON data with your table:
+
+* What information is the same?
+* What is organised differently?
+
+3. Look at the structure:
+
+* Where do you see groups of information inside other groups?
+* Why might this be useful for describing historical data?
+
+Write down your observations before moving on.
+
+If you need help, check below. 
 
 
-Above, you've created a small table describing a historic person. Let's see if you can do this in well-formed JSON!
-But how do you know if you produced valid and pretty JSON? Just copy it and paste it into one of the many online checkers, like [this one](https://jsonchecker.com/). There are many others out there that help you correct your errors, but before you use [one of them](https://jsonformatter.curiousconcept.com/), try to spot your error yourself!
+| **Type**    | **What it means**                                          | **Example in JSON**                                            | **Formatting notes**                                                                                |
+| ----------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **string**  | A piece of text, always in double quotes.                  | `"firstName": "Karl"`                                          | Always use **double quotes `"..."`** for text (not single quotes).                                  |
+| **integer** | A whole number (no quotes).                                | `"year": 1867`                                                 | No quotes around numbers.                                                                           |
+| **number**  | A number that can have decimals.                           | `"rating": 4.5`                                                | Same rule: no quotes.                                                                               |
+| **boolean** | A truth value: `true` or `false`.                          | `"isAlive": false`                                             | Must be lowercase (`true`, not `True`).                                                             |
+| **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lowercase `null`.                                                                           |
+| **object**  | A collection of key–value pairs inside curly braces `{ }`. | `"birth": { "date": "1818-05-05", "place": "Trier" }`          | Keys and values are separated by a colon `:`. Multiple entries are separated by commas.             |
+| **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects, or even other arrays. |
 
 
-You've seen that JSON goes way beyond just the encoding (which usually is UTF-8). In addition, it consists of very concise and strict rules on the structure and form of all data contents. Finally, if you store your JSON data, you will append `.json` to the name of your file. JSON is a format. Other than encoding, formats specify also things such as the visual depiction of data, which software can do what with it, how it will be stored on your computer, and so on. As with encoding, the format of a given data file is something that we can think of critically: some file formats are proprietary, they can only be read and manipulated with a certain software. Some formats are more easily convertible, or allow interchange more easily than others. If you want your data to be _interoperable_, that is, if you want to enable others to work with them, you need to format them in open formats. So for tables and spreadsheets, for example, use the _comma-separated values format_ (`.csv`), for text use _markdown_ (`.md`), and so on. You can find a list of open and interoperable file formats [here.](https://en.wikipedia.org/wiki/List_of_open_file_formats)
+You see that it is in some way the same as our table above, only that it presents our data in sequential form (because, as you know now, computers store all data that way) and it allows "nested" structures for the entries. 
 
-What have we learned? Data can be used to describe all kinds of objects and phenomena. To do so effectively, we need to select the right _descriptive categories_ (=attributes), choose appropriate _data types_ for each, and make sure everything conforms to a _data schema_ and file format — like JSON.
+### 5.b Understanding how JSON organises data
+
+Based on what you observed, here are some key principles of JSON:
+
+**Basic structure**
+
+* Data is organised in key–value pairs
+  * "firstName": "Karl Heinrich"
+
+* Different containers (or "drawers" or "boxes") are used to structure data:
+  * `{  }` (curly brackets) → objects (group related information)
+  * `[  ]` (square brackets) → arrays (lists of values)
+  * `" "` (quotes) → text values
+
+**Syntax**
+
+* Entries are separated by commas `,`
+* Keys and text values must use double quotes
+* Information can be organised hierarchically because, unlike tables, JSON allows nested structures
+* Indentation is used to make nested structures easier to read by humans
+* Commas must be placed correctly
+
+
+### 5.c Creating your own JSON
+
+Now convert your own table into JSON.
+
+Use the table you created earlier in assignment 3.b. 
+
+Rewrite this table in JSON using:
+* key–value pairs
+* at least one list (`[ ]``)
+* at least one nested object (`{ }`)
+
+If you need help, you can check the [JSON user documentation](https://json-schema.org/learn/getting-started-step-by-step).
+
+Validate your JSON to check if your work is correctly formatted:
+
+Paste your JSON into a validator: https://jsonchecker.com/
+
+Try to identify and fix errors yourself before using automatic correction tools. 
+
+
+Reflect on the following aspects: 
+
+* What was difficult when converting your table into JSON?
+* What kinds of errors did you make?
+* In what situations might JSON be more useful than a table?
+* What are the limits of JSON for historical data?
+
+
+### 5.d Exploring JSON rules - 20 minutes
+*This sub-assignment is of advanced difficulty for beginners*. 
+
+Some JSON datasets follow more formal rules called a data schema, which define:
+* What fields exist
+* What kind of values they contain
+
+Explore:
+
+https://json-schema.org/learn
+
+
+After reading [what is a schema](https://json-schema.org/understanding-json-schema/about), try to imagine in which case you might need to write your own schema and in which case you should better rely on the official JSON schema (or another schema used by a large community. 
+
+For historians and humanists it is wise to use a schema that is established by many others. However, you can of course write your own schema. For a comprehensive tutorial, see [here](https://json-schema.org/learn). If you're lazy, you might as well use one of the many 
+
+
+### 5.e Critiquing data formats
+
+In the previous exercises, you worked with different ways of structuring and representing data. This final step invites you to reflect more critically on the formats you use.
+
+
+Consider the formats you have used in this assignment (JSON, CSV table).
+
+1. Can this format be opened and edited with different software tools?
+2. Would someone else easily be able to reuse your data?
+3. What problems might arise if the software you used becomes unavailable?
+
+
+As with encoding, the format of a data file is something we can think about critically.
+
+- Some file formats are proprietary: they can only be opened or edited with specific software.
+- Other formats are open: their structure is publicly documented and they can be used by many different tools.
+
+Some formats are also easier to convert or exchange than others.
+
+If you want your data to be easier to reuse and share, it is often advisable to use open formats.
+
+Examples:
+- Tables → comma-separated values (`.csv`)
+- Text → Markdown (`.md`)
+- Structured data → JSON (`.json`)
+
+Reflect on the following:
+
+- Why might historians prefer open formats?
+- Are there situations where proprietary formats might still be useful?
+
+
+You can find a list of open formats here:
+https://en.wikipedia.org/wiki/List_of_open_file_formats
+
+
+### Reading/viewing suggestions
+
+*Online JSON schema generators*
+
+JSON Forge. JSON Schema Generator https://www.jsonforge.com/tools/schema-generator
+JSON Swiss https://jsonswiss.com/
+Introducing JSON https://www.json.org/json-en.html 
 
 
 ## 4 From sources to databases
