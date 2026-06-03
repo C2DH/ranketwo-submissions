@@ -383,7 +383,7 @@ Remember, in the video animation Lea finds several objects in her grandmother's 
 
 <!--We can prepare simple tables to provide in a Need help? section like above-->
 
-> There are ethical considerations to take into account when we create data: this lesson will introduce you to [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md) 
+> There are ethical considerations to take into account when we create data: to know more, check this lesson that will introduce you to [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md) 
 
 ### Reading/viewing suggestions
 
@@ -488,9 +488,7 @@ If you need help, check below.
 | **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lowercase `null`.                                                                           |
 | **object**  | A collection of key–value pairs inside curly braces `{ }`. | `"birth": { "date": "1818-05-05", "place": "Trier" }`          | Keys and values are separated by a colon `:`. Multiple entries are separated by commas.             |
 | **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects, or even other arrays. |
-
-
-You see that it is in some way the same as our table above, only that it presents our data in sequential form (because, as you know now, computers store all data that way) and it allows "nested" structures for the entries. 
+ 
 
 ### 5.b Understanding how JSON organises data
 
@@ -601,7 +599,9 @@ https://en.wikipedia.org/wiki/List_of_open_file_formats
 *Online JSON schema generators*
 
 JSON Forge. JSON Schema Generator https://www.jsonforge.com/tools/schema-generator
+
 JSON Swiss https://jsonswiss.com/
+
 Introducing JSON https://www.json.org/json-en.html 
 
 
