@@ -1,9 +1,11 @@
 ---
 authors: 
  - moritz-feichtinger
- 
+editors: 
+ - sofia-papastamkou
+ - aida-horaniet-ibanez 
 date: 2025-05-08
-title: Defining data
+title: Data criticism. Defining data
 learning-objectives: 
  - Understand how digital data represent historical information through encoding systems and formats
  - Critically analyse how data models, schemas, and categories shape the representation of historical sources
