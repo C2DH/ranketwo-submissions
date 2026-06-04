@@ -742,7 +742,7 @@ Nodegoat. What Is a Relational Database?. Accessed 4 June 2026. https://nodegoat
 
 Cosovschi, Agustín. « From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat ». Programming Historian, 29 février 2024. https://programminghistorian.org/en/lessons/designing-database-nodegoat.
 
-Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿halshs-04550456￿
+Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿[halshs-04550456￿](https://shs.hal.science/halshs-04550456v1)
 
 Robertson, Stephen. « THE PROPERTIES OF DIGITAL HISTORY ». *History and Theory* 61 (4) (2022): 86‑106. https://doi.org/10.1111/hith.12286.
 
