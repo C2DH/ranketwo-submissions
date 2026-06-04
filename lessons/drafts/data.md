@@ -415,18 +415,35 @@ This selection of categories is called a data model.
 
 A data model defines:
 
-* which attributes will be recorded,
-* which objects will be described,
-* how different types of information relate to each other
+* Which types of information will be described
+* Which attributes will be recorded for each type of information
+* How the information is split and how the different parts relate to each other
 
 Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households.
 
-Exercice on data model here. 
+Consider the source above.
+
+Imagine you work on British political actors involved in the UK's policy in China in the 19th century. 
+
+1. Which types of information you would record? Define relevant descriptive categories.  
+2. What would be the essential information to extract for these categories? Define the attributes for each category.
+3. Think ways in which the categories you defined relate to each other. Imagine arrows connecting them and try to find a verb for each arrow.
+4. Think which information that is present in the article you can ignore.  
+
+Use paper and pencil to draw your ideas. 
+
+Now check the following image. Make abstraction of technical details and focus on what you can understand.  
+
+![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+
+1. Can you recognise types of information that constitute descriptive categories following the article you read?
+2. Can you recognise what kind of information is considered important to retain based on the attrobutes of each category? 
+3. Can you understand how the categories are related? How would you interprete the arrows connecting them?   
 
 
 ### 4.b Extracting information from sources
 
-Before building a database, historians must identify the information they want to record. Following our data model, we need to extract names, places, organisations, and events from our historical sources.
+Before building a database, historians must identify the information they want to record. In this exercice, we are going to extract names, places, organisations, and events from our historical sources. We are actually goig to perform a simplified form of [Named Entity Recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition).
 
 Look at the source excerpt above.
 
@@ -437,37 +454,52 @@ Look at the source excerpt above.
 
 Which entities were easiest to identify? Which were more ambiguous?
 
-You have just performed a simplified form of Named Entity Recognition (NER).
+![first paragraphs](/assets/images/data-criticism/source-zoom.jpg)
 
-### 4.c Understand the limits of spreadsheets
 
-Imagine that you repeat the previous exercise for 500 newspaper articles. The same people, places, and organisations will appear again and again. If you store everything in a single spreadsheet, information becomes repetitive and difficult to maintain.
+### 4.c Understanding the limits of spreadsheets
+
+Imagine that you repeat the previous exercise for 500 newspaper articles. The same people, places, and organisations will appear again and again. If you store everything in a single spreadsheet, the information quickly becomes difficult to organise and maintain.
 
 Suppose Lord Palmerston appears in fifty different newspaper articles.
 
-* How many times would you have to write his name?
-* What problems might arise if his name is spelled differently in some entries?
-* What would happen if you later discover that one of his titles is incorrect?
+* How would you record the different political roles he held during the period covered by Marx's articles?
+* How would you handle the different titles used to refer to him?
+* How would you group references such as "the Premier", "his Lordship", and "Lord Palmerston" so that they are all recognised as referring to the same person without ambiguity?
 
-Discuss why a spreadsheet can become difficult to manage when information is repeated.
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary>
 
-> Relational databases solve this problem by storing each entity only once and linking information through identifiers.
+Every time Palmerston appears in a source, you may need to enter information about the same person again. As the number of sources grows, this can lead to hundreds of repeated entries, inconsistencies in spelling or naming, and difficulties updating information across the dataset.
+
+</details>
+
+Discuss why a spreadsheet can become difficult to manage when information is repeated, ambiguous, uncertain, or complex.
+
+> Relational databases solve this problem by storing each entity only once and linking information through identifiers. In the relational database model introduced in 4.a, Palmerston exists only once, as record `P002`. Every event, office, or source that refers to him simply stores the identifier `P002`. This makes it possible to search, update, and analyse information across many sources without duplication.
 
 ### 4.d Building a relational database
 
 *learning objective: Understand how relationships between tables are implemented with primary keys and foreign keys*
 
-A relational database organises information into separate but connected tables. To avoid repeating information, each person, place, organisation, or event receives a unique identifier.
+Relational databases rely on a few key principles. 
 
-For example:
+A relational database model organizes information into separate tables. Each table contains only unique rows, representing a specific object, place, or person... To guarantee this uniqueness, each row (record) requires a unique identifier ([primary key](https://www.w3schools.com/sql/sql_primarykey.asp)). 
 
-| org_id | name | type | source_id |
-|---|---|---|---|
-| O001 | East India Company | Trading company | S001 |
-| O002 | British Government | State authority | S001 |
-| O003 | British Parliament | Legislative body | S001 |
+Imagine two people are both named "John Smith" in your sources. A primary key (PK) solves this: it is a short code (in our example `P001`, `P002` …) that belongs to one and only one row, permanently. You invent it yourself when building the database, or the software you use assigns it automatically to each row/record.
 
-Thus, the identifier `O001`can be reused everywhere the organisation "East India Company" reappears. 
+
+For example: Table Person
+
+| person_id | name | source_id |
+|---|---|---|
+| P001 | Sir James Hogg | S001 |
+| P002 | Lord Palmerston | S001 |
+| P003 | Earl of Clarendon | S001 |
+
+The separate tables of a database are connected by relationships defined in the data model. To materialize these links without repeating all the attributes again, we use a [foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp), which is a unique identifier (primary key) of one table inserted into another. 
+
+Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
 
 STEP 1 CREATE IDENTIFIERS
 
@@ -486,8 +518,18 @@ Examine the sample database tables below.
 * How can you identify all events involving Lord Palmerston? 
 * Why is the Person–Event table necessary?
 
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary>
+The separate tables of a database are connected by relationships defined in the data model. To materialize these links without repeating all the attributes again, we use a [foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp), which is a unique identifier (primary key) of one table inserted into another. 
 
-STEP 3 EXTENDING THE DATABASE
+Instead of writing "Lord Palmerston, Premier of England" into every event he is connected to, you write `P002` — and the database follows that pointer to the full Persons record instantly.
+
+Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
+</details>
+
+### 4.e Extending the database
+
+This exercice builds on what we did in 4.d. 
 
 Karl Marx refers to the Arrow Incident.
 
@@ -496,6 +538,89 @@ Consult the [Wikipedia article on the Second Opium War](https://en.wikipedia.org
 Add the event to the Events table.
 Identify any additional persons, organisations, or places that should be included.
 Do you need new tables? Why?
+
+### 4.f Example database Sources
+
+If we create tables for all the different types of information or entities, we could have four tables (five, if the source itself also gets one, here table 1): persons (table 2), functions (table 3), places (table 4), organisations (table 5). We would want to have another one for historic events, that contains all of the entries above. Now the magic happens in the junction tables which we need to store the relations (or connectors). Here, persons and organisations are related (as in our table 3) or persons and events (our table 7).
+
+#### Table 1 — Source
+
+| source_id | author | publication | date | url |
+|---|---|---|---|---|
+| S001 | Karl Marx | New York Daily Tribune | 1857-04-10 | https://www.marxists.org/archive/marx/works/1857/04/10.htm |
+
+#### Table 2 — Person
+
+| person_id | name | source_id |
+|---|---|---|
+| P001 | Sir James Hogg | S001 |
+| P002 | Lord Palmerston | S001 |
+| P003 | Earl of Clarendon | S001 |
+
+In a relational database, Palmerston exists **exactly once** as row `P002`. Every event, every office, every source that mentions him simply stores `P002`. You can then ask questions that cut across all your sources at once: _"List every event involving persons who held office in the British Government, sorted by date."_ A spreadsheet cannot answer that. A relational database answers it in a single query, however many sources you have gathered.
+
+_Note that we only see the first three entities here; further persons in the excerpt to be included in this table are: Harry Parkes (the Consul), Sir John Bowring, Admiral Seymour …_
+
+#### Table 3 — Office
+
+This table records **which role a person held in which organisation, and when**. It is itself a junction table — it links Persons to Organisations and adds the historical detail of the relationship.
+
+| office_id | person_id | org_id | title | date_from | date_to |
+|---|---|---|---|---|---|
+| OF001 | P001 | O001 | Director | _unknown_ | _unknown_ |
+| OF002 | P002 | O002 | Premier of England | _before 1857_ | _after 1857_ |
+| OF003 | P003 | O002 | Minister of Foreign Affairs | _before 1857_ | _after 1857_ |
+
+#### Table 4 — Place
+
+| place_id | name | type | source_id |
+|---|---|---|---|
+| L001 | India | Region / Country | S001 |
+| L002 | England | Country | S001 |
+| L003 | Canton | City | S001 |
+
+#### Table 5 — Organisation
+
+| org_id | name | type | source_id |
+|---|---|---|---|
+| O001 | East India Company | Trading company | S001 |
+| O002 | British Government | State authority | S001 |
+| O003 | British Parliament | Legislative body | S001 |
+
+#### Table 6 — Event
+
+ The table Event is the connecting hub.
+
+| event_id | name | date | place_id | org_id | source_id |
+|---|---|---|---|---|---|
+| E001 | Exposure of torture system in India before Parliament | ca. 1853 | L001 | O003 | S001 |
+| E002 | Lord Mayor's banquet — Palmerston's speech | early 1857 | L002 | O002 | S001 |
+| E003 | Arrest of sailors aboard the _Arrow_ | 1856-10-08 | L003 | O001 | S001 |
+
+#### Table 7 — Person–Event 
+
+The table Person-Event is the junction table.
+
+|compos_pers_ev_id | person_id | event_id | role_in_event                             |
+|---|-----------|----------|-------------------------------------------|
+| PE001  | P002      | E002     | Speaker (as Premier)                      |
+| PE002  | P001      | E001     | Director (respondent)           |
+| PE003  | P003      | E002     | Attendee (as Minister of Foreign Affairs) |
+
+
+Because one person can participate in many events and one event can involve many persons, this relationship is **many-to-many** — it cannot be stored in either the Persons or Events table alone. The junction table holds one row per person–event pairing. Both `person_id` and `event_id` are foreign keys; **together** they form the primary key of this table (a _composite_ primary key), because what is unique here is the _combination_ — the same person can appear in multiple events, and the same event can appear across multiple persons, but a specific person can only be linked to a specific event once.
+
+<!-- Not sure where the reader can make a query. Furthemore, what a query in a db is has not been explained and perhaps the fact that it comes from sql-->
+_You can now query: "Who was present at the Lord Mayor's banquet?" → select all rows where `event_id = E002` → returns P002 and P003._
+
+Now we have - a very basic - architecture of a database containing several different types of tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible). 
+![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+
+Of course, there are rules to follow when creating a database. Primary keys cannot be empty (null), for a start. Also, as we've already seen for other data sets, the entries (for each column) have to be of the same type. If you use a software to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)), you will have to specify the types. Also, the software <!-- which software? none was mentioned but anyway, I think that this level of details is perhaps too much without having before given specific explanation which however are not the aim of the lesson--> will ask you whether a column can hold foreign keys or not (you usually recognize them, because they are IDs, i.e. by their suffix `_id`).
+
+But this lesson's aim is to raise awareness on what is behind a database; please consult the references in the reading suggestions to learn more (Julien 2024); and (Cosovschi 2024).   
+
+![Types](/assets/images/data-criticism/odb.jpg) 
 
 <!--
 #### Keys and identifiers
@@ -597,10 +722,17 @@ The same source would look like this if captured in [Tropy](https://www.tropy.or
 
 
 ### Reading/viewing suggestions
-- Octave Julien. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, Apr 2024, Porto, Portugal. ￿halshs-04550456￿
-- Stephen Robertson. "The properties of digital history". [https://doi.org/10.1111/hith.12286](https://doi.org/10.1111/hith.12286)
-- Mattia Viale. "From the historical source to a database: a short story". 21 November 2018. [https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/](https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/)
-- [Agustín Cosovschi, From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat](https://programminghistorian.org/en/lessons/designing-database-nodegoat)
+
+Nodegoat. What Is a Relational Database?. Accessed 4 June 2026. https://nodegoat.net/blog.s/20/what-is-a-relational-database.
+
+Cosovschi, Agustín. « From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat ». Programming Historian, 29 février 2024. https://programminghistorian.org/en/lessons/designing-database-nodegoat.
+
+Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿halshs-04550456￿
+
+Robertson, Stephen. « THE PROPERTIES OF DIGITAL HISTORY ». *History and Theory* 61 (4) (2022): 86‑106. https://doi.org/10.1111/hith.12286.
+
+Viale, Mattia. « From the Historical Source to a Database: A Short Story ». *Refashioning the Renaissance*, 21 November 2018. https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/.
+
 
 
 ## 5 Converting data: the example of JSON format
