@@ -10,7 +10,9 @@ learning-objectives:
  - Understand how relational databases structure and connect historical information 
 ---
 
-This lesson is based on the assumption that data are not neutral givens, but structured representations shaped by cultural conventions, technical research choices, and purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
+This lesson is based on the assumption that data are not neutral givens, but structured representations shaped by cultural conventions, technical choices, and research purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
+
+Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
 ## 1 What is data?
 *Learning outcomes* 
