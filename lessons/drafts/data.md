@@ -321,7 +321,7 @@ Can you think of significant properties that would matter in this case but are n
 
 ### 3.b Creating descriptive data
 
-When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, and analysed with the help of digital tools such as spreadsheets or databases.
+When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
 
 <!--Sofia: I think that the definition of data model below corresponds more to coding or categorizing data; the data model is mostly used to define relations, which is not the focus in this part of the lesson. Thus, I would suggest to not present it hastily here in a reductive way. Same for dataset, it is perhaps preferable to not assimilate the notion with the small tables above. We do not need to cover everything, and further exploration can be made by recommended lectures in the Reading suggestions section-->
 *The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate. We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_.* 
@@ -334,7 +334,7 @@ If you imagine tilting our two-column table to the right, the attributes become 
 |...|...|...|...|...|...|...|...|
 |...|...|...|...|...|...|...|...|
 
-[Link to editable table: Person](/assets/docs/data-criticism/historical-persons-table.docx)
+[Link to editable table: Historical Persons](/assets/docs/data-criticism/historical-persons-table.docx)
 
 The individual entries in the table are called *data points*, such as the string that is the value for the attribute `first_name` (Karl). 
 Now fill the table to describe the following historic personnalities (or at least two of them): 
@@ -364,7 +364,7 @@ The fourth column could be a string again, but it could also be a geo-coordinate
 Our first historic person, Karl, was rather productive and was the author of many more than just one text. How could all this information fit in one row? Is the column fit to the other personnalities? If not, this would mean that the data model wan not conceived according to the finality - which would be a mistake you would rather avoid in a real research.   
 </details> 
 
-* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you thibk you could express these values (text, other)?
+* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you think you could express these values (text, other)?
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
@@ -388,12 +388,12 @@ What you've encountered here is called [data types](https://en.wikipedia.org/wik
 
 ### 3.c Creating datasets - 30 minutes
 
-Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be empoyed in data sets.
+Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be employed in data sets.
 
 Remember, in the video animation Lea finds several objects in her grandmother's house. Let's imagine that she ends up having a collection like the one described in [this lesson](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices). Note down the objects and put yourself into Lea's shoes: her purpose is to create an inventory. 
 
-1. Imagine that each of the objects enumerated represents a separate table
-2. Which attributes you would create for each of the objects enumerated? 
+1. Imagine a table Object to describe each of the objects enumerated in the video (one object per row)
+2. Which attributes you would create for each of the objects enumerated? (one attribute per column) 
 
 <!--We can prepare simple tables to provide in a Need help? section like above-->
 
