@@ -21,7 +21,7 @@ Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 * *Recognise the role of formats, conventions and standards in data representation*
 * *Reflect on the historical and cultural dimensions of data formats.*
 
-The word “data” comes from Latin and means that which is given as in the French term *données*. Although we tend to think of data as being natural and universally “given”, this isn't really the case. In fact, **data are based on certain assumptions and include cultural, historical, political and social conventions in their structure and format** (Loukissas 2019). Let's explore what "data" means and what its main caracteristics are. <!--Sofia: not sure if you would like to add smth here about raw data, up to you--> 
+The word “data” comes from Latin and means that which is given as in the French term *données*. Although we tend to think of data as being natural and universally “given”, this isn't really the case. In fact, data are based on certain assumptions and include cultural, historical, political and social conventions in their structure and format (Drucker 2011, Loukissas 2019). Let's explore what "data" means and what its main caracteristics are.
 
 ### 1.a Objects becoming data  
 Watch the video animation following Lea as she discovers and documents the objects left by her grandmother: books, postcards, tapes, floppy disks, videotapes, and photographs. 
@@ -416,10 +416,11 @@ When historians work with a few sources, a spreadsheet is often sufficient. But 
 
 ### Instructions 
 
-
 Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribune*, April 10, 1857. [URL](https://www.marxists.org/archive/marx/works/1857/04/10.htm) <!--or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm).--> 
 
 ![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
+
+The exercices in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of.  
 
 ### 4.a Conceiving a data model
 
