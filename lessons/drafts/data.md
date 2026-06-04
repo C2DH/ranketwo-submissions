@@ -281,8 +281,9 @@ Let's take a simple example: a wanted poster as you might know from western movi
 
 ![Wanted Poster](/assets/images/data-criticism/wanted-poster.jpg)
 
-Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics, or attributes, with the purpose to identify this person. 
+Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics in diffeent columns with the purpose to identify this person.
 
+<!--
 Person:
 |Attributes|Value|
 |:-:|:-:|
@@ -290,6 +291,16 @@ Person:
 |Attribute 2|"..."|
 |Attribute 3|"..."|
 |Attribute 4|"..."|
+-->
+
+Table Person
+
+|Attribute 1|Attribute 2|Attribute 3|Attribute 4|
+|:---------|:--------|:-------|:--------|
+|"..."|"..."|"..."|"..."|
+|"..."|"..."|"..."|"..."|
+|"..."|"..."|"..."|"..."|
+
 
 [Link to editable table: Person](/assets/docs/data-criticism/person-table.docx)
 
