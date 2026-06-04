@@ -28,7 +28,7 @@ Watch the video animation following Lea as she discovers and documents the objec
 
 1. Are all these objects “data”? 
 2. What kinds of information do these objects contain? 
-3. Which of the objects are directly readable by humans, and which ones require technical mediation?
+3. Which of the objects are directly readable by humans, and which ones require technical mediation, i.e. specific machines, software, etc.?
 
 When Lea makes photos of each object using her phone, can you identify what transformation(s) take place? Do you think that Lea constructs data at this stage? In what ways?  
 
@@ -76,13 +76,14 @@ Inspect the above dates and answher the following questions - if necessary, you 
 4. What does this tell us about data? Tip: think in terms of given vs cultural embedded. 
 
 
-
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
 If we look at a date like June 28, 1914 (`28-06-1914`), we can see another important general feature of data: they are subject to established and shared conventions or standards. We need to agree on which digits represent the day and which represent the month. In US English, the form `MM-DD-YYYY` (month-day-year) is often used, whereas in Europe, the order `DD-MM-YYYY` (day-month-year) is more common. We also need to agree on which symbol system to use. After all, the date June 28, 1914 could also be written using Roman numerals:  `XXVIII.VI.MCMXIV`. Similarly, the date could be designated as the `4th of Sha'ban in the year 1332` according to the Islamic calendar, or as the `twentieth day of the tenth month in the Year of the Snake (4723)` according to the Chinese calendar. 
 </details>
 
 ### Reading/viewing suggestions
+
+Drucker, Johanna. Humanities Approaches to Graphical Display. *Digital Humanities Quarterly* 5 (1), 2011. https://doi.org/10.63744/r4ysrh7ae534.
 
 Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driven society_. The MIT Press
 
