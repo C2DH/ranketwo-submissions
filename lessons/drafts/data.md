@@ -36,12 +36,12 @@ When Lea makes photos of each object using her phone, can you identify what tran
 
 <!--The learning objective is to understand a) that data represent reality and make them concrete; b) media as careers of data; c) human/machine readability. The question on transformation is no doubt too open, can we give instructions towards specific directions? -->
 
-### 1.b Understanding the finite and distinct nature of data  
+### 1.b Understanding the building blocks of data  
 Let's work with dates. Dates are one of the simplest and most familiar forms of data. We use them to identify specific moments in time by combining a limited set of symbols. 
 
 Dates are important data for historians because they allow to contextualise a source - by the way, dating the objects is one of the tasks Lea gives to herself in the video to document her grandmother's holdings.  
 
-A date such as `28-06-1914` already illustrates two essential characteristics of data: data are finite and distinct.
+A date such as `28-06-1914` already illustrates two essential characteristics of data: the symbols that represent data have to be finite and distinct.
 
 “Finite” means that data are built from a limited number of possible symbols. In the decimal system, for example, we use only ten digits (0–9). Likewise, the alphabet consists of a finite number of letters. Although the number of symbols is limited, they can be combined and rearranged in countless ways. This is what makes data versatile and powerful.
 
@@ -50,10 +50,10 @@ A date such as `28-06-1914` already illustrates two essential characteristics of
 Inspect these two dates: 
 
 * `28-06-1914`
-* `08-06-1914`
+* `8.6.1914`
 
 
-1. Which symbols are finite in each example?
+1. Which are the differences?
 2. Could these formats create confusion? In what situations?
 
 <!--
@@ -123,11 +123,11 @@ Caption:  An IBM 5081-style punched card showing the encoding of the 1964 EBCDIC
 Source: Wikimedia Commons contributors, "File:Blue-punch-card-front-horiz top-char-contrast-stretched.png," Wikimedia Commons, https://commons.wikimedia.org/w/index.php?title=File:Blue-punch-card-front-horiz_top-char-contrast-stretched.png&oldid=865403764
 
 STEP 2
-Now try this [beautiful emulator](https://masswerk.at/keypunch/) built by Austrian artist and web-designer Norbert Landsteiner. You can use the SYMBOLIC <!--because it uses EBCD--> configuration to type your name with help from a virtual [typewriter](https://en.wikipedia.org/wiki/Typewriter) and the emulator will punch the card for you. 
+Now try this [beautiful emulator](https://masswerk.at/keypunch/) built by Austrian artist and web-designer Norbert Landsteiner. You can use the SYMBOLIC <!--because it uses EBCDIC--> configuration to type your name with help from a virtual [typewriter](https://en.wikipedia.org/wiki/Typewriter) and the emulator will punch the card for you. 
 
 What is going on here? The emulator has integrated the knowledge that you (very probably) lacked in the previous exercice: an encoding scheme, i.e. the rules to follow to translate characters (or other data) as binary numbers or symbols. A scheme specifies which number represents which character, very much as the Morse code did, to get a digital, i.e. a both numerical and binary, representation of characters and text. 
 
-The punch card of the above image, as well as the card you created using the emulator, use a scheme created by IBM in 1964: EBCDIC (for Extended Binary Coded Decimal Interchange Code), a [8-bit scheme](https://en.wikipedia.org/wiki/8-bit_computing) <!--explain: an architecture for representing information using chunks of 8 binary digits --> that assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value. <!--If you want to see how exactly the EBCDIC character codes were mapped on the IBM punchcards, check out the insightful resources on punchcard history assembled by Douglas W. Jones: https://homepage.cs.uiowa.edu/~dwjones/ Two comments on this: 1) this resource is likely to not be accessible in 2 years time, however I made a copy on the internet archive, which guarantees a sustaineble URL 2) The page about punch cards is here: https://homepage.cs.uiowa.edu/~dwjones/cards/ and it would be important to suggest specific contents for the readers to check, first because otherwise they may be lost and second to give a concrete level to dig deeper in relation with what is presented above. However, all this may give more details than necessary-->  
+The punch card of the above image, as well as the card you created using the emulator, use a scheme created by IBM in 1964: EBCDIC (for Extended Binary Coded Decimal Interchange Code), a [8-bit scheme](https://en.wikipedia.org/wiki/8-bit_computing) <!--explain: an architecture for representing information using chunks of 8 binary digits --> that assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value.
 
 STEP 3
 Now, use once more the emulator to enter a longer description of yourself or a person you know well. <!--1 minute-->
@@ -163,10 +163,11 @@ ASCII uses only 7 bits and can therefore represent 128 different characters, 95 
 Use an online ASCII or Unicode converter. You can use [RapidTables](https://www.rapidtables.com/convert/number/ascii-to-binary.html), if you wish.  
 
 1. Convert your first name into ASCII or Unicode.
-2. Explore how the decimal number `188` 
+2. Explore what  `188` 
 3. Enter accented characters or non-Latin scripts. Explore their representations in different encoding schemes, for example ASCII, ASCII/UTF-8, Unicode. 
 
 Even if you do not understand exactly what you see, such codes can be source of technical problems, for example for collecting or publishing source in web environments, or inversely solutions in the same configurations. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). In other words, encoding has a role in what is visible and what is not. It is important to know this, even if you are not the one who would the technical work to fix such issues.   
+ <!-- can we add a reading suggestion here: Pargman, D., & Palme, J. (2009). ASCII imperialism. In S. Leigh Star & M. Lampland (Eds.), Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life (pp. 177–299). Cornell University Press.-->
 
 
 ### 2.c Images as encoded data
@@ -179,7 +180,7 @@ The image below represents a simple circle on a 16 × 16 grid:
 
 ![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16-circle-table.jpg)
 
-Caption ???????????????? Mention of source (author?)
+Caption: simple representation of a circle in a 16x16 grid, author: M. Feichtinger
 
 Each position in the grid can be identified numerically and assigned a RGB scheme colour value. Together, these encoded positions create the visual impression of a circle.
 
@@ -325,7 +326,7 @@ Can you think of significant properties that would matter in this case but are n
 
 When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
 
-<!--Sofia: I think that the definition of data model below corresponds more to coding or categorizing data; the data model is mostly used to define relations, which is not the focus in this part of the lesson. Thus, I would suggest to not present it hastily here in a reductive way. Same for dataset, it is perhaps preferable to not assimilate the notion with the small tables above. We do not need to cover everything, and further exploration can be made by recommended lectures in the Reading suggestions section-->
+<!--Sofia: I think that the definition of data model below corresponds more to coding or categorizing data; the data model is mostly used to define relations, which is not the focus in this part of the lesson. Thus, I would suggest to not present it hastily here in a reductive way. Same for dataset, it is perhaps preferable to not assimilate the notion with the small tables above. We do not need to cover everything, and further exploration can be made by recommended lectures in the Reading suggestions section. Moritz: Okay for me-->
 *The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate. We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_.* 
 
 If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
@@ -385,7 +386,7 @@ What you've encountered here is called [data types](https://en.wikipedia.org/wik
 <!--The paragraphs below present redundancies with parts above and/or introduce new complex elements such as ontologies. They are parhaps a bit too abstract and not supported by exercises. Some stuff can be externalized in the sense that external bibliography can be recommended, for example on vocabularies and ontologies. The second phrase "If you create an inventory, capture only the most basic information that allows you to quickly search and find what you're looking for." can be the basis for building an exercice using the video and Lea's findings. Here? Create a 3.c (in which case the JSON exercice would be 3.d)? -->
 <!--*For different purposes, you might want to employ different attributes in your data sets: if you need to transport or store your items, it makes sense to have information on weight and size. If you create an inventory, capture only the most basic information that allows you to quickly search and find what you're looking for. If you want to detect common elements and relations between different items, gather as much information as possible and carefully select attributes that are applicable to all of the objects you want to describe.* -->
 
-<!--idea for an exercice: Watch the video and note down the objects Lea finds in her grandmother's house. Maybe we can use what Tugce proposes in her lesson here: https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices and ask the learners to think: what attributes they would create for each of the 3 types of objects proposed 1) if they were to create an inventory like Lea fdoes and 2) if they were to document the respective objects. We can prepare simple tables to provide in a Need help? section like above; -->
+<!--idea for an exercice: Watch the video and note down the objects Lea finds in her grandmother's house. Maybe we can use what Tugce proposes in her lesson here: https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices and ask the learners to think: what attributes they would create for each of the 3 types of objects proposed 1) if they were to create an inventory like Lea fdoes and 2) if they were to document the respective objects. We can prepare simple tables to provide in a Need help? section like above; Moritz: yes, that woudl be nice -->
 
 
 ### 3.c Creating datasets - 30 minutes
