@@ -30,7 +30,7 @@ Watch the video animation following Lea as she discovers and documents the objec
 
 1. Are all these objects “data”? 
 2. What kinds of information do these objects contain? 
-3. 3. Which of the objects are directly readable by humans, and which ones require technical mediation — that is, a device or piece of software that translates the object's content into something a human can directly perceive (for example, a tape recorder for an audio cassette, or a floppy disk drive connected to a computer)?
+3. Which of the objects are directly readable by humans, and which ones require technical mediation — that is, a device or piece of software that translates the object's content into something a human can directly perceive (for example, a tape recorder for an audio cassette, or a floppy disk drive connected to a computer)?
 
 When Lea makes photos of each object using her phone, several transformations take place. Consider: Does the photo capture everything about the object, or only some aspects of it? Could a future reader interpret the photo without ever having seen the original object? Could you tell from the photo alone whether the floppy disk still holds readable data? Do you think Lea constructs data at this stage? In what ways?
 
