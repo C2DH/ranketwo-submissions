@@ -15,7 +15,11 @@ editors:
   - valerie-schafer
   - sofia-papastamkou
 reviewers:
-- tbd
+  - Brandon Walsh
+  - Pawel Kaminsky
+  - Emilien Schultz
+  - Thomas Soubiran
+  - Liesbeth de Mol
 lang: en
 unit_id: code-as-heritage
 link: /u/code-as-heritage/
