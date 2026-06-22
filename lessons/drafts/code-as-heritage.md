@@ -355,7 +355,7 @@ Examine the following digitized document carefully. Before reading further, spen
 
 ![A historical code artifact](/assets/images/code-as-heritage/Original-Microsoft-Source-Code.jpg "A historical code artifact")
 
-**Figure 4:** A historical code artifact. Before reading further, spend five minutes examining this image. What can you learn about this code from the artifact itself? *Source: Gates Notes, 2025.*
+**Figure 4:** Original source code for Microsoft BASIC, written in 1975 by Bill Gates and Paul Allen with contributions from Monte Davidoff. *Source: Gates Notes, 2025.*
 
 #### Exercise Part 1: Analyzing the document
 
