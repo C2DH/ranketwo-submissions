@@ -149,6 +149,7 @@ Do you think that all the preattentive attributes are equally strong?
   <summary>Do you need help?</summary>
 
 There are degrees of popout, but in general, the strongest effects are based on color, orientation, size and contrast.
+</details>
 <!-- Add an example image, it can be a generic one or if we find an example especifically for metro maps -->
 
 To explore this topic further: read Ware Chapter five: Visual Saliency and Finding Information <!-- Fix references -->
