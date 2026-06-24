@@ -1,16 +1,20 @@
 ---
 authors: 
  - moritz-feichtinger
- 
+editors: 
+ - sofia-papastamkou
+ - aida-horaniet-ibanez 
 date: 2025-05-08
-title: Defining data
+title: Data criticism. Defining data
 learning-objectives: 
  - Understand how digital data represent historical information through encoding systems and formats
  - Critically analyse how data models, schemas, and categories shape the representation of historical sources
  - Understand how relational databases structure and connect historical information 
 ---
 
-This lesson is based on the assumption that data are not neutral givens, but structured representations shaped by cultural conventions, technical research choices, and purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
+This lesson is based on the assumption that data are not neutral givens, but structured representations shaped by cultural conventions, technical choices, and research purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
+
+Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
 ## 1 What is data?
 *Learning outcomes* 
@@ -19,25 +23,24 @@ This lesson is based on the assumption that data are not neutral givens, but str
 * *Recognise the role of formats, conventions and standards in data representation*
 * *Reflect on the historical and cultural dimensions of data formats.*
 
-The word “data” comes from Latin and means that which is given as in the French term *données*. Although we tend to think of data as being natural and universally “given”, this isn't really the case. In fact, **data are based on certain assumptions and include cultural, historical, political and social conventions in their structure and format** (Loukissas 2019). Let's explore what "data" means and what its main caracteristics are. <!--Sofia: not sure if you would like to add smth here about raw data, up to you--> 
+The word “data” comes from Latin and means that which is given as in the French term *données*. In fact, what we call "data" – literally, "that which is given" – might be more accurately described as capta: "that which is taken," as Johanna Drucker (2011) argues. Data are not simply found in the world; they are actively constructed through assumptions and choices that are cultural, historical, political, and social (Drucker 2011, Loukissas 2019). Let's explore what "data" means and what its main characteristics are.
 
-### 1.a Objects becoming data  
+### 1.a Objects becoming data
 Watch the video animation following Lea as she discovers and documents the objects left by her grandmother: books, postcards, tapes, floppy disks, videotapes, and photographs. 
 
 1. Are all these objects “data”? 
 2. What kinds of information do these objects contain? 
-3. Which of the objects are directly readable by humans, and which ones require technical mediation?
+3. Which of the objects are directly readable by humans, and which ones require technical mediation — that is, a device or piece of software that translates the object's content into something a human can directly perceive (for example, a tape recorder for an audio cassette, or a floppy disk drive connected to a computer)?
 
-When Lea makes photos of each object using her phone, can you identify what transformation(s) take place? Do you think that Lea constructs data at this stage? In what ways?  
+When Lea makes photos of each object using her phone, several transformations take place. Consider: Does the photo capture everything about the object, or only some aspects of it? Could a future reader interpret the photo without ever having seen the original object? Could you tell from the photo alone whether the floppy disk still holds readable data? Do you think Lea constructs data at this stage? In what ways?
 
-<!--The learning objective is to understand a) that data represent reality and make them concrete; b) media as careers of data; c) human/machine readability. The question on transformation is no doubt too open, can we give instructions towards specific directions? -->
 
-### 1.b Understanding the finite and distinct nature of data  
+### 1.b Understanding the building blocks of data
 Let's work with dates. Dates are one of the simplest and most familiar forms of data. We use them to identify specific moments in time by combining a limited set of symbols. 
 
 Dates are important data for historians because they allow to contextualise a source - by the way, dating the objects is one of the tasks Lea gives to herself in the video to document her grandmother's holdings.  
 
-A date such as `28-06-1914` already illustrates two essential characteristics of data: data are finite and distinct.
+A date such as `28-06-1914` already illustrates two essential characteristics of data: the symbols that represent data have to be finite and distinct.
 
 “Finite” means that data are built from a limited number of possible symbols. In the decimal system, for example, we use only ten digits (0–9). Likewise, the alphabet consists of a finite number of letters. Although the number of symbols is limited, they can be combined and rearranged in countless ways. This is what makes data versatile and powerful.
 
@@ -46,14 +49,13 @@ A date such as `28-06-1914` already illustrates two essential characteristics of
 Inspect these two dates: 
 
 * `28-06-1914`
-* `08-06-1914`
+* `8.6.1914`
 
 
-1. Which symbols are finite in each example?
+1. Which are the differences?
 2. Could these formats create confusion? In what situations?
 
-<!--
-What have we learned so far? Data makes sense if the symbols are _distinct_ and _finite_, and if they adhere/correspond to a specific _schema_ or _data format_. -->
+What have we learned so far? Data only makes sense if the symbols representing it are _distinct_ and _finite_.
 
 ### 1.c Understanding data as cultural constructions
 
@@ -66,13 +68,12 @@ These expressions below all refer to the twenty-eighth day of June in the year 1
 * XXVIII.VI.MCMXIV
 * 4th of Sha'ban 1332
 
-Inspect the above dates and answher the following questions - if necessary, you can do a little research on the web: 
+Inspect the above dates and answer the following questions - if necessary, you can do a little research on the web: 
 
 1. Which date format is easiest for you to read? Why?
 2. Which date format requires previous knowledge? What kind of knowledge?
 3. What conventions can you decrypt to interpret each version?
 4. What does this tell us about data? Tip: think in terms of given vs cultural embedded. 
-
 
 
 <details>
@@ -82,9 +83,11 @@ If we look at a date like June 28, 1914 (`28-06-1914`), we can see another impor
 
 ### Reading/viewing suggestions
 
+Drucker, Johanna. Humanities Approaches to Graphical Display. *Digital Humanities Quarterly* 5 (1), 2011. https://doi.org/10.63744/r4ysrh7ae534.
+
 Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driven society_. The MIT Press
 
-https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf => the link does not work and it is impossible to identify the publication <!--initial text snippet: [^0]: On the history and philosophy of the concept of "raw data," see: https://projects.iq.harvard.edu/files/eswg/files/rosenburg_-_rawdata.pdf This means that data can be both digital and non-digital. Just as there are non-digital calendars, there are also non-digital data. Let's start by understanding what "data" means and what its characteristics are. Then, we'll explore the specifics of digital data.-->
+Rosenberg, D. (2013). Data before the Fact. In L. Gitelman (Ed.), “Raw Data” Is an Oxymoron (pp. 15–40). The MIT Press. https://doi.org/10.7551/mitpress/9302.003.0003 to be found [here](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
 
 ## 2 Encoding and digital representation
 
@@ -118,11 +121,11 @@ Caption:  An IBM 5081-style punched card showing the encoding of the 1964 EBCDIC
 Source: Wikimedia Commons contributors, "File:Blue-punch-card-front-horiz top-char-contrast-stretched.png," Wikimedia Commons, https://commons.wikimedia.org/w/index.php?title=File:Blue-punch-card-front-horiz_top-char-contrast-stretched.png&oldid=865403764
 
 STEP 2
-Now try this [beautiful emulator](https://masswerk.at/keypunch/) built by Austrian artist and web-designer Norbert Landsteiner. You can use the SYMBOLIC <!--because it uses EBCD--> configuration to type your name with help from a virtual [typewriter](https://en.wikipedia.org/wiki/Typewriter) and the emulator will punch the card for you. 
+Now try this [beautiful emulator](https://masswerk.at/keypunch/) built by Austrian artist and web-designer Norbert Landsteiner. You can use the SYMBOLIC <!--because it uses EBCDIC--> configuration to type your name with help from a virtual [typewriter](https://en.wikipedia.org/wiki/Typewriter) and the emulator will punch the card for you. 
 
-What is going on here? The emulator has integrated the knowledge that you (very probably) lacked in the previous exercice: an encoding scheme, i.e. the rules to follow to translate characters (or other data) as binary numbers or symbols. A scheme specifies which number represents which character, very much as the Morse code did, to get a digital, i.e. a both numerical and binary, representation of characters and text. 
+What is going on here? The emulator has integrated the knowledge that you (very probably) lacked in the previous exercise: an encoding scheme, i.e. the rules to follow to translate characters (or other data) as binary numbers or symbols. A scheme specifies which number represents which character, very much as the Morse code did, to get a digital, i.e. a both numerical and binary, representation of characters and text. 
 
-The punch card of the above image, as well as the card you created using the emulator, use a scheme created by IBM in 1964: EBCDIC (for Extended Binary Coded Decimal Interchange Code), a [8-bit scheme](https://en.wikipedia.org/wiki/8-bit_computing) <!--explain: an architecture for representing information using chunks of 8 binary digits --> that assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value. <!--If you want to see how exactly the EBCDIC character codes were mapped on the IBM punchcards, check out the insightful resources on punchcard history assembled by Douglas W. Jones: https://homepage.cs.uiowa.edu/~dwjones/ Two comments on this: 1) this resource is likely to not be accessible in 2 years time, however I made a copy on the internet archive, which guarantees a sustaineble URL 2) The page about punch cards is here: https://homepage.cs.uiowa.edu/~dwjones/cards/ and it would be important to suggest specific contents for the readers to check, first because otherwise they may be lost and second to give a concrete level to dig deeper in relation with what is presented above. However, all this may give more details than necessary-->  
+The punch card of the above image, as well as the card you created using the emulator, use a scheme created by IBM in 1964: EBCDIC (for Extended Binary Coded Decimal Interchange Code), an [8-bit scheme](https://en.wikipedia.org/wiki/8-bit_computing) — meaning it represents information in chunks of 8 binary digits — that assigned numbers from 0 to 255 (the largest number you can represent in 8 bits) to some common characters and symbols. We can imagine this as a 16 x 16 grid, where each symbol or character is represented by a specific position on the coordinate grid, respectively its numerical value.
 
 STEP 3
 Now, use once more the emulator to enter a longer description of yourself or a person you know well. <!--1 minute-->
@@ -158,23 +161,20 @@ ASCII uses only 7 bits and can therefore represent 128 different characters, 95 
 Use an online ASCII or Unicode converter. You can use [RapidTables](https://www.rapidtables.com/convert/number/ascii-to-binary.html), if you wish.  
 
 1. Convert your first name into ASCII or Unicode.
-2. Explore how the decimal number `188` 
+2. Convert a short sentence — including at least one space and one punctuation mark — into ASCII. Which codes represent the space and the punctuation mark?
 3. Enter accented characters or non-Latin scripts. Explore their representations in different encoding schemes, for example ASCII, ASCII/UTF-8, Unicode. 
 
-Even if you do not understand exactly what you see, such codes can be source of technical problems, for example for collecting or publishing source in web environments, or inversely solutions in the same configurations. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). In other words, encoding has a role in what is visible and what is not. It is important to know this, even if you are not the one who would the technical work to fix such issues.   
-
+Even if you do not fully understand what you see, such codes can be a source of technical problems — for example when collecting or publishing sources in web environments — but the same technical knowledge can also provide solutions to these problems. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). In other words, encoding has a role in what is visible and what is not. It is important to know this, even if you are not the one who would the technical work to fix such issues.   
 
 ### 2.c Images as encoded data
 
-Encoding does not only apply to text. Digital images are also encoded numerically. Images are composed of tiny units called pixels arranged in a grid. Each pixel receives numerical values corresponding to brightness or colour. In colour images, systems such as [RGB)(https://www.rapidtables.com/web/color/RGB_Color.html) combine values for red, green, and blue to create millions of colour combinations. The same principle applies to digital sound, which is represented through numerical samples recorded at regular intervals (Give it a try and explore [more here!](https://8bitcomposer.com/).
-
-Now let's try to understand how images can also be encoded numerically. Imagine an image as a grid made of many tiny units called *[pixels](https://en.wikipedia.org/wiki/Pixel)*. Each pixel receives a numerical value corresponding to a colour or brightness.
+Encoding does not only apply to text: digital images are also encoded numerically. Imagine an image as a grid made of many tiny units called [pixels](https://en.wikipedia.org/wiki/Pixel). Each pixel receives a numerical value corresponding to its colour or brightness. In colour images, systems such as [RGB](https://www.rapidtables.com/web/color/RGB_Color.html) combine separate values for red, green, and blue to create millions of possible colour combinations; the same logic produces 8-bit grayscale, where each pixel simply holds one of 256 shades between black and white. The same grid-like principle extends to digital sound: a piece of music can be mapped onto a grid where one axis marks time and the other marks pitch, with each marked cell indicating which note sounds at which moment — [give it a try here!](https://8bitcomposer.com/)
 
 The image below represents a simple circle on a 16 × 16 grid:
 
 ![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16-circle-table.jpg)
 
-Caption ???????????????? Mention of source (author?)
+Caption: simple representation of a circle in a 16x16 grid, author: M. Feichtinger
 
 Each position in the grid can be identified numerically and assigned a RGB scheme colour value. Together, these encoded positions create the visual impression of a circle.
 
@@ -186,8 +186,10 @@ Inspect the image carefully and answer the following questions:
 2. What happens to the shape at the edges of the circle?
 3. Why does the image appear simplified or “blocky”?
 
-This is why this is happening. 
-We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid. 
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid.
+</details>
 
 
 STEP 2 - Imagine increasing the grid from:
@@ -230,7 +232,7 @@ Digital representations, whether text or images (or sound) are therefore never e
 
 For historians, encoding matters because digital sources are always mediated by technical systems. Some older formats become unreadable over time, some encoding systems exclude certain languages or symbols, and some digitisation processes may reduce or alter visual and sonic details. Understanding encoding therefore helps historians critically evaluate how digital sources are produced, transformed, and preserved.
 
-> Although humans may find binary difficult to read, computers use it to represent and process all kinds of information. As we have seen, combinations of `0`and `1`s can encode texts, images, sounds, and many other forms of data. They can also represent instructions and logical operations <!--such as “AND”, “OR”, and “NOT”. This -->which means that binary digits are not only used to store information, but also to run algorithms and computer programs.
+> Although humans may find binary difficult to read, computers use it to represent and process all kinds of information. As we have seen, combinations of `0`and `1`s can encode texts, images, sounds, and many other forms of data. They can also represent instructions and logical operations such as “AND,” “OR,” and “NOT” — which means that binary digits are not only used to store information, but also to run algorithms and computer programs.
 
 
 Return to Lea’s digital collection of her grandmother's holdings from the introductory animation. Note the scene 5 where Lea discusses with Ada about the floppy disk.  
@@ -241,32 +243,15 @@ Return to Lea’s digital collection of her grandmother's holdings from the intr
 4. Can digital reproductions ever fully replace original objects?
 
 
-
-<!--
-We have seen that in a simple 16 x 16 coordinate system, all 256 positions can be represented by a number. This number can be expressed as a binary value of 8 bits (one byte) in length. Using this idea, we can also map simple shapes. Imagine that we just specify each position that carries some colour. Now we can represent simple geometric shapes, like a circle. Again, we would specify the positions (or their numerical values, respectively) of the fields that are coloured, represented by red dots in the grid below:
-
-![Circle in 16 x 16 grid](/assets/images/data-criticism/16x16-circle-table.jpg)
-
-This principle of representing single pixels with numeric values is also how 8-bit grayscale works. In this scheme, there are 256 shades of grey between white and black. To implement this, just imagine that each field in our 16x16 grid has now the numerical code for a specific shade of gray assigned to it. Colors can also be represented in this way, using the 8-bit [RGB scheme](https://www.rapidtables.com/web/color/RGB_Color.html), which assigns 256 different intensity levels to each of the three primary colors red, green, and blue — resulting in over 16 million possible color combinations. Of course, the bigger our grid gets, the higher the resolution of our image will be!
-
-But it's not just images that can be stored as digital data using bits (zeros and ones); music and sound recordings can too. Let's look at our 16x16 matrix again. This time, imagine that the x-axis divides a piece of music into 16 parts (i.e. time units, like seconds, for example), and the y-axis represents the sound frequency (0 for lowest, 16 for highest tone). The time period we apply to the x-axis (the sampling rate) and the subdivision of the frequency heights determine how many different sounds and tone sequences we can represent. Give it a [try!](https://8bitcomposer.com/) 
-
-We humans might find the binary system difficult to understand, but for computers it is the perfect language because it lets them understand and express everything you can think of. As we have seen, zeros and ones can represent texts, images, sound, and any combination of these. They can be stored on punch cards, hard drives, CD-ROMs, USB drives, or any other storage available (but you can only interpret your data as long as you know the encoding). Binary digits can also represent the logical operators "AND," "NOT," "OR," and their combinations. In consequence, our chains of 0s and 1s can not only represent data of any kind, but also sequences of instructions and procedures, which can be used to represent logical circuits and combined to build complex switching systems. In other words: `0`s and `1`s can also represent [algorithms](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/) and [programs](https://www.geeksforgeeks.org/computer-organization-architecture/what-is-a-computer-program/)! 
-
-We have seen that even an 8-bit encoding scheme can represent a wide variety of content and information as digital data. Modern computers can store more and more information and can process things more quickly, which, along with the rapid increase of communication speeds and bandwidth, makes our present digital world possible. But it all works on the same basic principles.
-
-The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols (ASCII Imperialism). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of. 
-
-What have we learned? Digital data can be used to create representations of text, image, sound, and so on. The specifics of their technical implementation ­- what resolution, 8-bit, 16-bit, 32-bit encoding, the schemes and code tables - are conventions that have emerged historically. If you (or your computer) know the encoding and have appropriate software to interpret any sequence of `0`s and `1`s, you can display and manipulate it. -->
-
 ### Reading/viewing suggestions 
 
 Haigh, Thomas. *Defining Digitalities I.* 2023. https://doi.org/10.25819/ubsi/10259.
 
 The Punched Card | IBM. https://www.ibm.com/history/punched-card.
 
-
 http://www.injosoft.se, Injosoft AB. The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
+
+Pargman, Daniel, and Jacob Palme. "ASCII Imperialism." In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
 
 
 ## 3 Creating models and datasets
@@ -278,8 +263,9 @@ Let's take a simple example: a wanted poster as you might know from western movi
 
 ![Wanted Poster](/assets/images/data-criticism/wanted-poster.jpg)
 
-Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics, or attributes, with the purpose to identify this person. 
+Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics in different columns with the purpose to identify this person.
 
+<!--
 Person:
 |Attributes|Value|
 |:-:|:-:|
@@ -287,6 +273,16 @@ Person:
 |Attribute 2|"..."|
 |Attribute 3|"..."|
 |Attribute 4|"..."|
+-->
+
+Table Person
+
+|Attribute 1|Attribute 2|Attribute 3|Attribute 4|
+|:---------|:--------|:-------|:--------|
+|"..."|"..."|"..."|"..."|
+|"..."|"..."|"..."|"..."|
+|"..."|"..."|"..."|"..."|
+
 
 [Link to editable table: Person](/assets/docs/data-criticism/person-table.docx)
 
@@ -301,16 +297,15 @@ In the above scaffold table, attribute 1 would be the first name of the person, 
 
 STEP 2
 
-By selecting specific attributs, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. In other words, the selection of descriptive categories is subject to a finality. In the case of the wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying, say, a person's favorite dessert might not be the most significant property, especially if we can only list a limited number of them on our wanted poster. 
+By selecting specific attributes, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. In other words, the selection of descriptive categories is subject to a finality. In the case of the wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying, say, a person's favorite dessert might not be the most significant property, especially if we can only list a limited number of them on our wanted poster. 
 
 Can you think of significant properties that would matter in this case but are not included in the poster? 
 
 ### 3.b Creating descriptive data
 
-When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, and analysed with the help of digital tools such as spreadsheets or databases.
+When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
 
-
-*The pre-defined list of properties you want to capture on a given group of objects or phenomena is called the _data model_. The quality of any data model is determined by its usability for a given purpose: you want your data to be searchable, accessible, findable, and easy to process, present and communicate. We rarely, if ever, encounter data in the singular. Most of the time, we talk about a data set, like in the tables we have seen above. The individual entries in it are called data points, such as the numerical value that represents the letter "A" or the string that is the value for the attribute `first_name`. The individual rows of longer tables, for example the historic persons in your table, are commonly called _data records_ or _entries_. Several of them make a _data set_.* 
+The pre-defined list of properties you want to capture is commonly called a *data model*, and a collection of data following such a model is called a *data set*. The individual rows — for example, the historic persons in your table — are called *data records* or *entries*. We will not go further into data models here; if you want to explore how they are used to define relationships between different types of information, see the reading suggestions below.
 
 If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
 
@@ -320,9 +315,10 @@ If you imagine tilting our two-column table to the right, the attributes become 
 |...|...|...|...|...|...|...|...|
 |...|...|...|...|...|...|...|...|
 
-[Link to editable table: Person](/assets/docs/data-criticism/historical-persons-table.docx)
+[Link to editable table: Historical Persons](/assets/docs/data-criticism/historical-persons-table.docx)
 
-Now fill the table to describe the following historic personnalities (or at least two of them): 
+The individual entries in the table are called *data points*, such as the string that is the value for the attribute `first_name` (Karl). 
+Now fill the table to describe the following historic personalities (or at least two of them): 
 * Karl Marx
 * Wilhelm Marx
 * Eleanor Marx 
@@ -346,10 +342,10 @@ The fourth column could be a string again, but it could also be a geo-coordinate
 * What kind of issues could you encounter with the fifth column? 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-Our first historic person, Karl, was rather productive and was the author of many more than just one text. How could all this information fit in one row? Is the column fit to the other personnalities? If not, this would mean that the data model wan not conceived according to the finality - which would be a mistake you would rather avoid in a real research.   
+Our first historic person, Karl, was rather productive and was the author of many more than just one text. This is not a question of finality, but a structural problem: one person can be linked to many works — a *one-to-many relationship*. Squeezing several titles into a single cell (for example, separated by commas) might look like a solution, but it makes the data hard to search, sort, or count reliably. The proper solution is to give authored works their own table and link it back to the person — we will see exactly how to do this in Section 4.
 </details> 
 
-* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you thibk you could express these values (text, other)?
+* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you think you could express these values (text, other)?
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
@@ -360,31 +356,335 @@ In this column, the values could be pre-defined: would you define two or more ty
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-The eigth column 8 can only hold "yes" or "no" as an answer (in most computational contexts, this is expressed in "Boolean" values: `true` or `false`).
+The eighth column can only hold "yes" or "no" as an answer (in most computational contexts, this is expressed in "Boolean" values: `true` or `false`).
 </details>
 
 What you've encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type). Like the descriptive categories, that you should have selected before you begin collecting data, you also need to think of the appropriate data types for each of them.
 
-<!--I recommend to remove this part: it is partly redundant with parts above; or introduces new complex elements that are not sufficiently develope to be understood or supported by exercises. Some stuff can be externalized in the sense that external bibliography can be recommended, for example on vocabularies and ontologies-->
-*For different purposes, you might want to employ different attributes in your data sets: if you need to transport or store your items, it makes sense to have information on weight and size. If you create an inventory, capture only the most basic information that allows you to quickly search and find what you're looking for. If you want to detect common elements and relations between different items, gather as much information as possible and carefully select attributes that are applicable to all of the objects you want to describe.* 
 
-*If you want to share your data with others, you have to make sure that your attributes and categories adhere to common types. However, if you want to sort your data and search for comparable features and connections, you will need to make sure that your data entries also follow pre-defined rules in terms of capitalization, spelling, and so on. These rules are commonly called the **data schema**. There are quite a lot of different schemas out there, each one tailored for the description of specific objects and phenomena and for specific purposes. What they do have in common, however, is that their schema has to be specified in what is called an "ontology" or "vocabulary". These basically list all the attributes you can use.* 
+### 3.c Creating datasets - 30 minutes
 
-### 3.c Converting data: the example of JSON format
+Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be employed in data sets.
+
+Remember, in the video animation Lea finds several objects in her grandmother's house. Let's imagine that she ends up having a collection like the one described in [this lesson](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices). Note down the objects and put yourself into Lea's shoes: her purpose is to create an inventory. 
+
+1. Imagine a table Object to describe each of the objects enumerated in the video (one object per row)
+2. Which attributes you would create for each of the objects enumerated? (one attribute per column) 
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary> 
+
+If your purpose is to create an *inventory* — quickly knowing what exists and where — a few basic attributes are enough:
+
+| object_id | object_type | location_found | condition |
+|---|---|---|---|
+| 1 | floppy disk | grandmother's desk drawer | unreadable, rusted casing |
+
+If your purpose is instead to *document* the object in detail — for example, to preserve or analyse it later — you need more attributes:
+
+| object_id | object_type | material | dimensions | label_text | condition_notes | digitised |
+|---|---|---|---|---|---|---|
+| 1 | floppy disk | plastic, magnetic film | 3.5 inch | "Photos 1998" (handwritten) | rusted casing, label partially faded | no |
+
+Notice how the same object requires a different data model depending on your purpose.
+</details>
+
+> Deciding what to record about Lea's grandmother's belongings — and what to leave out — is itself an ethical choice. To explore this further, check this lesson on [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md).
+
+### Reading/viewing suggestions
+
+Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction.* . Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
+
+Roberts, Spencer W.. Spreadsheets for Historians – Spencer W. Roberts. 12 août 2014. https://swroberts.ca/scholarship/spreadsheets-for-historians/.
+
+Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consulté le 2 juin 2026. https://libguides.law.ucla.edu/data/home.
 
 
-A very common data format is JSON (Java Script Object Notation). Below you see a listing of the data types it can store:
-| **Type**    | **What it means**                                          | **Example in JSON**                                            | **Formatting notes**                                                                                |
-| ----------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **string**  | A piece of text, always in double quotes.                  | `"firstName": "Karl"`                                          | Always use **double quotes `"..."`** for text (not single quotes).                                  |
-| **integer** | A whole number (no quotes).                                | `"year": 1867`                                                 | No quotes around numbers.                                                                           |
-| **number**  | A number that can have decimals.                           | `"rating": 4.5`                                                | Same rule: no quotes.                                                                               |
-| **boolean** | A truth value: `true` or `false`.                          | `"isAlive": false`                                             | Must be lowercase (`true`, not `True`).                                                             |
-| **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lowercase `null`.                                                                           |
-| **object**  | A collection of key–value pairs inside curly braces `{ }`. | `"birth": { "date": "1818-05-05", "place": "Trier" }`          | Keys and values are separated by a colon `:`. Multiple entries are separated by commas.             |
-| **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects, or even other arrays. |
+## 4 From sources to data: understanding the relational database
 
-JSON is widely used for annotation and transfer in the humanities because it is easily readable and customizable. It can be used to describe all sorts of objects/entities, including historic persons. Below is a short dataset describing our old friend Karl in JSON:
+In 3.c, we created a single table to describe one type of object. But historical sources usually involve many different kinds of things at once — people, places, organisations, events — and we need a way to keep them connected without losing the bigger picture.
+
+When historians work with a few sources, a spreadsheet is often sufficient. But when we need to analyse hundreds or thousands of documents, information quickly becomes repetitive and difficult to manage. Relational databases, based on [specific software](https://en.wikipedia.org/wiki/Database#Database_management_system), were designed to organise large amounts of information while preserving the connections between the described objects.   
+
+### Instructions 
+
+Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribune*, April 10, 1857. [URL](https://www.marxists.org/archive/marx/works/1857/04/10.htm) <!--or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm).--> 
+
+![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
+
+The exercises in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of.  
+
+### 4.a Conceiving a data model
+
+Before information can be entered into a spreadsheet or a database, historians must decide what they want to record. A historical source contains far more information than can reasonably be captured as data. Researchers therefore select a limited number of categories that correspond to their research questions.
+
+This selection of categories is called a data model.
+
+A data model defines:
+
+* Which types of information will be described
+* Which attributes will be recorded for each type of information
+* How the information is split and how the different parts relate to each other
+
+Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households.
+
+Consider the source above.
+
+Imagine you work on British political actors involved in the UK's policy in China in the 19th century. 
+
+1. Which types of information you would record? Define relevant descriptive categories.  
+2. What would be the essential information to extract for these categories? Define the attributes for each category.
+3. Think ways in which the categories you defined relate to each other. Imagine arrows connecting them and try to find a verb for each arrow.
+4. Think which information that is present in the article you can ignore.  
+
+Use paper and pencil to draw your ideas. 
+
+Now check the following image — this is what a data model for this source could look like. Make abstraction of technical details and focus on what you can understand.  
+
+![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+
+1. Can you recognise types of information that constitute descriptive categories following the article you read?
+2. Can you recognise what kind of information is considered important to retain based on the attributes of each category? 
+3. Can you understand how the categories are related? How would you interpret the arrows connecting them?
+
+Building a data model in practice raises further questions, such as how to handle a person known by several different names or titles (as with Palmerston in 4.c), or how to record that one person can be linked to several different works or roles (as with Karl's many publications in Section 3) — these are not flaws in your model, but design decisions every historian working with data has to make.
+
+
+### 4.b Extracting information from sources
+
+Before building a database, historians must identify the information they want to record. In this exercise, we are going to extract names, places, organisations, and events from our historical sources. We are actually going to perform a simplified form of [Named Entity Recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition).
+
+Look at the source excerpt above.
+
+* List all persons mentioned.
+* List all places mentioned.
+* List all organisations mentioned.
+* List all events mentioned.
+
+Which entities were easiest to identify? Which were more ambiguous?
+
+![first paragraphs](/assets/images/data-criticism/source-zoom.jpg)
+
+
+### 4.c Understanding the limits of spreadsheets
+
+Imagine that you repeat the previous exercise for 500 newspaper articles. The same people, places, and organisations will appear again and again. If you store everything in a single spreadsheet, the information quickly becomes difficult to organise and maintain.
+
+Suppose Lord Palmerston appears in fifty different newspaper articles.
+
+* How would you record the different political roles he held during the period covered by Marx's articles?
+* How would you handle the different titles used to refer to him?
+* How would you group references such as "the Premier", "his Lordship", and "Lord Palmerston" so that they are all recognised as referring to the same person without ambiguity?
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary>
+
+Every time Palmerston appears in a source, you may need to enter information about the same person again. As the number of sources grows, this can lead to hundreds of repeated entries, inconsistencies in spelling or naming, and difficulties updating information across the dataset.
+
+These problems are not unique to spreadsheets — a carelessly built database can suffer from exactly the same duplication and inconsistency. The difference is that a relational database gives you a structural tool to prevent it: each entity gets recorded once, with a unique identifier other tables can refer back to.
+
+</details>
+
+Discuss why a spreadsheet can become difficult to manage when information is repeated, ambiguous, uncertain, or complex.
+
+> Relational databases solve this problem by storing each entity only once and linking information through identifiers. In the relational database model introduced in 4.a, Palmerston exists only once, as record `P002`. Every event, office, or source that refers to him simply stores the identifier `P002`. This makes it possible to search, update, and analyse information across many sources without duplication.
+
+### 4.d Building a relational database
+
+*learning objective: Understand how relationships between tables are implemented with primary keys and foreign keys*
+
+Relational databases rely on a few key principles. 
+
+A relational database model organizes information into separate tables. Each table contains only unique rows, representing a specific object, place, or person... To guarantee this uniqueness, each row (record) requires a unique identifier ([primary key](https://www.w3schools.com/sql/sql_primarykey.asp)). 
+
+Imagine two people are both named "John Smith" in your sources. A primary key (PK) solves this: it is a short code (in our example `P001`, `P002` …) that belongs to one and only one row, permanently. You invent it yourself when building the database, or the software you use assigns it automatically to each row/record.
+
+
+For example: Table Person
+
+| person_id | name | source_id |
+|---|---|---|
+| P001 | Sir James Hogg | S001 |
+| P002 | Lord Palmerston | S001 |
+| P003 | Earl of Clarendon | S001 |
+
+The separate tables of a database are connected by relationships defined in the data model. To materialize these links without repeating all the attributes again, we use a [foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp), which is a unique identifier (primary key) of one table inserted into another. 
+
+Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
+
+STEP 1 CREATE IDENTIFIERS
+
+Using your list of entities:
+
+* Assign a unique identifier to each person.
+* Assign a unique identifier to each place.
+* Assign a unique identifier to each event. 
+
+STEP 2 CONNECTING INFORMATION
+
+Examine the sample database tables below.
+
+* Which table stores information about persons? Find and inspect this table. 
+* Which table stores information about events? Find and inspect this table. 
+* How can you identify all events involving Lord Palmerston? 
+* Why is the Person–Event table necessary?
+
+<details>
+<summary><strong>Need help? (click to expand)</strong></summary>
+The separate tables of a database are connected by relationships defined in the data model. To materialize these links without repeating all the attributes again, we use a [foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp), which is a unique identifier (primary key) of one table inserted into another. 
+
+Instead of writing "Lord Palmerston, Premier of England" into every event he is connected to, you write `P002` — and the database follows that pointer to the full Persons record instantly.
+
+Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
+</details>
+
+### 4.e Extending the database
+
+This exercise builds on what we did in 4.d. 
+
+Karl Marx refers to the Arrow Incident.
+
+Consult the [Wikipedia article on the Second Opium War](https://en.wikipedia.org/wiki/Second_Opium_War).
+
+Add the event to the Events table.
+Identify any additional persons, organisations, or places that should be included.
+Do you need new tables? Why?
+
+### 4.f Example database Sources
+
+If we create tables for all the different types of information or entities, we could have four tables (five, if the source itself also gets one, here table 1): persons (table 2), functions (table 3), places (table 4), organisations (table 5). We would want to have another one for historic events, that contains all of the entries above. Now the magic happens in the junction tables which we need to store the relations (or connectors). Here, persons and organisations are related (as in our table 3) or persons and events (our table 7).
+
+#### Table 1 — Source
+
+| source_id | author | publication | date | url |
+|---|---|---|---|---|
+| S001 | Karl Marx | New York Daily Tribune | 1857-04-10 | https://www.marxists.org/archive/marx/works/1857/04/10.htm |
+
+#### Table 2 — Person
+
+| person_id | name | source_id |
+|---|---|---|
+| P001 | Sir James Hogg | S001 |
+| P002 | Lord Palmerston | S001 |
+| P003 | Earl of Clarendon | S001 |
+
+In a relational database, Palmerston exists **exactly once** as row `P002`. Every event, every office, every source that mentions him simply stores `P002`. You can then ask questions that cut across all your sources at once: _"List every event involving persons who held office in the British Government, sorted by date."_ A spreadsheet cannot answer that. A relational database answers it in a single query, however many sources you have gathered.
+
+_Note that we only see the first three entities here; further persons in the excerpt to be included in this table are: Harry Parkes (the Consul), Sir John Bowring, Admiral Seymour …_
+
+#### Table 3 — Office
+
+This table records **which role a person held in which organisation, and when**. It is itself a junction table — it links Persons to Organisations and adds the historical detail of the relationship.
+
+| office_id | person_id | org_id | title | date_from | date_to |
+|---|---|---|---|---|---|
+| OF001 | P001 | O001 | Director | _unknown_ | _unknown_ |
+| OF002 | P002 | O002 | Premier of England | _before 1857_ | _after 1857_ |
+| OF003 | P003 | O002 | Minister of Foreign Affairs | _before 1857_ | _after 1857_ |
+
+#### Table 4 — Place
+
+| place_id | name | type | source_id |
+|---|---|---|---|
+| L001 | India | Region / Country | S001 |
+| L002 | England | Country | S001 |
+| L003 | Canton | City | S001 |
+
+#### Table 5 — Organisation
+
+| org_id | name | type | source_id |
+|---|---|---|---|
+| O001 | East India Company | Trading company | S001 |
+| O002 | British Government | State authority | S001 |
+| O003 | British Parliament | Legislative body | S001 |
+
+#### Table 6 — Event
+
+ The table Event is the connecting hub.
+
+| event_id | name | date | place_id | org_id | source_id |
+|---|---|---|---|---|---|
+| E001 | Exposure of torture system in India before Parliament | ca. 1853 | L001 | O003 | S001 |
+| E002 | Lord Mayor's banquet — Palmerston's speech | early 1857 | L002 | O002 | S001 |
+| E003 | Arrest of sailors aboard the _Arrow_ | 1856-10-08 | L003 | O001 | S001 |
+
+#### Table 7 — Person–Event 
+
+The table Person-Event is the junction table.
+
+|compos_pers_ev_id | person_id | event_id | role_in_event                             |
+|---|-----------|----------|-------------------------------------------|
+| PE001  | P002      | E002     | Speaker (as Premier)                      |
+| PE002  | P001      | E001     | Director (respondent)           |
+| PE003  | P003      | E002     | Attendee (as Minister of Foreign Affairs) |
+
+
+Because one person can participate in many events and one event can involve many persons, this relationship is **many-to-many** — it cannot be stored in either the Persons or Events table alone. The junction table holds one row per person–event pairing. Both `person_id` and `event_id` are foreign keys; **together** they form the primary key of this table (a _composite_ primary key), because what is unique here is the _combination_ — the same person can appear in multiple events, and the same event can appear across multiple persons, but a specific person can only be linked to a specific event once.
+
+A *query* is simply a question you ask the database in its own language — usually SQL, though the concept matters more here than the exact syntax. For example, you could ask: "Who was present at the Lord Mayor's banquet?" → the database would select all rows where `event_id = E002` → returning P002 and P003.
+
+Now we have - a very basic - architecture of a database containing several different types of tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible). 
+![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+
+Of course, there are rules to follow when creating a database. Primary keys cannot be empty (null), for a start. Also, as we've already seen for other data sets, the entries (for each column) have to be of the same type. If you use a software to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)), you will have to specify the types. Also, the software <!-- which software? none was mentioned but anyway, I think that this level of details is perhaps too much without having before given specific explanation which however are not the aim of the lesson--> will ask you whether a column can hold foreign keys or not (you usually recognize them, because they are IDs, i.e. by their suffix `_id`).
+
+But this lesson's aim is to raise awareness on what is behind a database; please consult the references in the reading suggestions to learn more (Julien 2024); and (Cosovschi 2024).   
+
+![Types](/assets/images/data-criticism/odb.jpg) 
+
+### What have we learned?
+Databases are the main carrier for digital data. They can store a great variety of different types of data. But their true value comes from their ability to run queries over all of their content. This way, we can get very specific information, evaluate the magnitude or duration of phenomena and detect patterns in the data.
+
+To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal.
+
+First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
+
+![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
+
+The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
+![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
+
+
+### Reading/viewing suggestions
+
+Nodegoat. What Is a Relational Database?. Accessed 4 June 2026. https://nodegoat.net/blog.s/20/what-is-a-relational-database.
+
+Cosovschi, Agustín. « From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat ». Programming Historian, 29 février 2024. https://programminghistorian.org/en/lessons/designing-database-nodegoat.
+
+Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿[halshs-04550456￿](https://shs.hal.science/halshs-04550456v1)
+
+Robertson, Stephen. « THE PROPERTIES OF DIGITAL HISTORY ». *History and Theory* 61 (4) (2022): 86‑106. https://doi.org/10.1111/hith.12286.
+
+Viale, Mattia. « From the Historical Source to a Database: A Short Story ». *Refashioning the Renaissance*, 21 November 2018. https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/.
+
+
+
+## 5 Converting data: the example of JSON format
+
+Historians increasingly work with digital tools that require data in specific formats. A format represents the way data are encoded, stored, and displayed; it can be important for how data can be used, exchanged and shared. The format is reflected in the extension of the data file (for example, `.csv`).
+
+When working with digital tools, structured formats make it easier to exchange data between information systems. Structured formats use standardized rules on the architecture and form of the data they contain, commonly called the data schema.
+
+For example, in assignment 3, we worked with data in the form of a table. Tabular data are best stored, displayed, used and shared in [CSV (Comma-separated Values) format](https://en.wikipedia.org/wiki/Comma-separated_values). Tables are extremely useful, however, data often needs to be converted from one format to another.
+
+Why is this useful?
+
+- Different tools require different formats (for example, web applications)
+- Some formats are more fit for storing and exchanging large volumes of data
+- Some formats allow more complex structures than tables
+
+One widely used format for this purpose is [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html).
+
+JSON is designed to:
+- represent structured data in a way that computers can easily process  
+- allow more flexible organisation of information (for example, nested data)
+
+In this assignment, you will learn how to convert your tabular data into JSON and explore what this format makes possible.
+
+### 5.a Recognising structure in JSON 
+
+Look at the following dataset describing Karl Marx:
+
 ```json
 {
    "firstName":"Karl Heinrich",
@@ -420,140 +720,158 @@ JSON is widely used for annotation and transfer in the humanities because it is 
    ]
 }
 ```
-You see that it is in some way the same as our table above, only that it presents our data in sequential form (because, as you know now, computers store all data that way) and it allows "nested" structures for the entries. You also see that it uses quite a lot of different containers (or "drawers" or "boxes") to store data points: quotes `" "`, curly brackets `{  }` and square brackets `[  ]`. In addition, the entries are separated by commas `,` and the lines are indented so that the data sets are nested into each other. The formatting rules of JSON are quite strict; if you mess up a comma or indentation of a line, it cannot be processed. JSON is used for a wide range of different data, each having a specified data schema. For historians and humanists it is wise to use a schema that is established by many others. However, you can of course write your own schema. For a comprehensive tutorial, see [here](https://json-schema.org/learn). If you're lazy, you might as well use one of the many online schema generators, like [this one](https://www.jsonforge.com/tools/schema-generator) or [this one](https://jsonswiss.com/). 
+
+Now work with the following questions:
+
+1. Identify different kinds of elements in the data:
+
+* Where do you see text values?
+* Where do you see numbers?
+* Where do you see lists?
+
+2. Compare this JSON data with your table:
+
+* What information is the same?
+* What is organised differently?
+
+3. Look at the structure:
+
+* Where do you see groups of information inside other groups?
+* Why might this be useful for describing historical data?
+
+Write down your observations before moving on.
+
+If you need help, check below. 
 
 
-Above, you've created a small table describing a historic person. Let's see if you can do this in well-formed JSON!
-But how do you know if you produced valid and pretty JSON? Just copy it and paste it into one of the many online checkers, like [this one](https://jsonchecker.com/). There are many others out there that help you correct your errors, but before you use [one of them](https://jsonformatter.curiousconcept.com/), try to spot your error yourself!
+| **Type**    | **What it means**                                          | **Example in JSON**                                            | **Formatting notes**                                                                                |
+| ----------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **string**  | A piece of text, always in double quotes.                  | `"firstName": "Karl"`                                          | Always use **double quotes `"..."`** for text (not single quotes).                                  |
+| **integer** | A whole number (no quotes).                                | `"year": 1867`                                                 | No quotes around numbers.                                                                           |
+| **number**  | A number that can have decimals.                           | `"rating": 4.5`                                                | Same rule: no quotes.                                                                               |
+| **boolean** | A truth value: `true` or `false`.                          | `"isAlive": false`                                             | Must be lowercase (`true`, not `True`).                                                             |
+| **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lowercase `null`.                                                                           |
+| **object**  | A collection of key–value pairs inside curly braces `{ }`. | `"birth": { "date": "1818-05-05", "place": "Trier" }`          | Keys and values are separated by a colon `:`. Multiple entries are separated by commas.             |
+| **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects, or even other arrays. |
+ 
+
+### 5.b Understanding how JSON organises data
+
+Based on what you observed, here are some key principles of JSON:
+
+**Basic structure**
+
+* Data is organised in key–value pairs
+  * "firstName": "Karl Heinrich"
+
+* Different containers (or "drawers" or "boxes") are used to structure data:
+  * `{  }` (curly brackets) → objects (group related information)
+  * `[  ]` (square brackets) → arrays (lists of values)
+  * `" "` (quotes) → text values
+
+**Syntax**
+
+* Entries are separated by commas `,`
+* Keys and text values must use double quotes
+* Information can be organised hierarchically because, unlike tables, JSON allows nested structures
+* Indentation is used to make nested structures easier to read by humans
+* Commas must be placed correctly
 
 
-You've seen that JSON goes way beyond just the encoding (which usually is UTF-8). In addition, it consists of very concise and strict rules on the structure and form of all data contents. Finally, if you store your JSON data, you will append `.json` to the name of your file. JSON is a format. Other than encoding, formats specify also things such as the visual depiction of data, which software can do what with it, how it will be stored on your computer, and so on. As with encoding, the format of a given data file is something that we can think of critically: some file formats are proprietary, they can only be read and manipulated with a certain software. Some formats are more easily convertible, or allow interchange more easily than others. If you want your data to be _interoperable_, that is, if you want to enable others to work with them, you need to format them in open formats. So for tables and spreadsheets, for example, use the _comma-separated values format_ (`.csv`), for text use _markdown_ (`.md`), and so on. You can find a list of open and interoperable file formats [here.](https://en.wikipedia.org/wiki/List_of_open_file_formats)
+### 5.c Creating your own JSON
 
-What have we learned? Data can be used to describe all kinds of objects and phenomena. To do so effectively, we need to select the right _descriptive categories_ (=attributes), choose appropriate _data types_ for each, and make sure everything conforms to a _data schema_ and file format — like JSON.
+Now convert your own table into JSON.
 
-### Reading/viewing suggestions
+Use the table you created earlier in assignment 3.b. 
 
+Rewrite this table in JSON using:
+* key–value pairs
+* at least one list (`[ ]`)
+* at least one nested object (`{ }`)
 
-## 4 From sources to databases
-We have seen that we can store all kinds of information in tables. For a comprehensive and critical analysis, we want to capture and study our sources from many different angles, collecting a great variety of information. However, coherence and clarity would get lost if we stuffed everything into one single table. But if we create many tables, how can we discover relations then? Because, after all, we're interested in discovering connections, patterns, and correlations. Relational databases allow us to do precisely that! They are capable of storing a great variety of different data and their respective database management systems (DBMS) enable us to perform the basic sorting, filtering and searching operations that build the foundation of research and analysis.
+If you need help, you can check the [JSON user documentation](https://json-schema.org/learn/getting-started-step-by-step).
 
-### From sources to databases
-To gather our research data, we will first have to extract it from the primary sources. 
-Let's look at the following source as an example, an article written by Karl Marx for the New York Daily Tribune, published in 1857. You can find it on the web [here](https://www.marxists.org/archive/marx/works/1857/04/10.htm) or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm). 
+Validate your JSON to check if your work is correctly formatted:
 
-![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
+Paste your JSON into a validator: https://jsonchecker.com/
 
-First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in Zotero[^6]:
-
-![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
-
-The same source would look like this if captured in Tropy[^7]:
-![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
-
-[^6]: Zotero is a very useful and popular software for managing bibliographic information, basically a database. It can import and export all of the most common data formats for bibliographic data. (If you do not yet use Zotero, head to its [webpage](https://www.zotero.org/) and download the appropriate version for your system.) You can see that Zotero lets you enter additional information on your source, depending on how you want to treat (and further analyse) it: website, chapter in an edited volume, or newspaper article. You can also attach keywords ("tags") that will make it easier to create collections of sources on similar subjects.
-
-[^7]: [Tropy](https://www.tropy.org/) is a similarly useful software, designed to help you organize your research findings, particularly photos. It is enormously helpful if you work in an archive and take pictures of historical records and documents that you want to analyze and sort later on.
-
-Our job here is to capture all names of people, places, dates, and events in this source. This process can be automated to a certain extent and is called "Named Entity Recognition" (NER). We do it by hand. Of course we could store the entities in the paragraph just in one spreadsheet, but let's imagine we will extract information from many different sources or an entire corpus (for example all of Marx's writings, or all English newspaper articles on China concerning the Opium Wars). If we just have a look at the first few sentences, we encounter already a lot of information.
-
-![first paragraphs](/assets/images/data-criticism/source-zoom.jpg)
-
-We find several names, each with an office or title, the respective institutions, as well as references to historical events yet to be clarified. In addition, we could look up all these entities and acquire additional information on dates and times and various places. This is a lot of information already. If we wanted to cram all that information into a single table, it would become huge and difficult to work with. That's why we want a relational database.
-
-A single, well-kept spreadsheet is perfectly fine for one source. But the moment you start working across multiple sources — ten newspaper articles, a set of parliamentary reports, diplomatic correspondence — a spreadsheet becomes a liability. Every time Palmerston appears in a new row, you retype his name, role, and dates. One inconsistent spelling ("Palmerstoon") makes him invisible to a search. Correcting his title means hunting through hundreds of rows manually.
-
-#### Keys and identifiers
-
-For a relational database to work, it is indispensable that every row has a **unique identifier** - usually the first column - so the database can tell records (the rows) apart without ambiguity. Imagine two people are both named "John Smith" in your sources — or that Lord Palmerston is referred to as "the Premier", "his Lordship", and "Lord Palmerston" in three different paragraphs. A **primary key** (PK) solves this: it is a short code (`P001`, `P002` …) that belongs to one and only one row, permanently. You invent it yourself when building the database, or the software you use assigns it automatically to each row/record.
-
-A **foreign key** (FK) is how one table points to another. Instead of writing "Lord Palmerston, Premier of England" into every event he is connected to, you write `P002` — and the database follows that pointer to the full Persons record instantly. Think of it like a footnote number: the number in the text is the foreign key; the full citation at the bottom is the primary key row in another table. By having several tables for different entities, you can refer to each of their entries via their identifier. 
-
-If we create tables for all the different types of information or entities, we could have four tables (five, if the source itself also gets one, here table 1): persons (table 2), functions (table 3), places (table 4), organisations (table 5). We would want to have another one for historic events, that contains all of the entries above. Now the magic happens in the junction tables which we need to store the relations (or connectors). Here, persons and organisations are related (as in our table 3) or persons and events (our table 7).
-
-#### Table 1 — Sources
-
-| source_id | author | publication | date | url |
-|---|---|---|---|---|
-| S001 | Karl Marx | New York Daily Tribune | 1857-04-10 | https://www.marxists.org/archive/marx/works/1857/04/10.htm |
-
-#### Table 2 — Persons
-
-| person_id | name | source_id |
-|---|---|---|
-| P001 | Sir James Hogg | S001 |
-| P002 | Lord Palmerston | S001 |
-| P003 | Earl of Clarendon | S001 |
-
-In a relational database, Palmerston exists **exactly once** as row `P002`. Every event, every office, every source that mentions him simply stores `P002`. You can then ask questions that cut across all your sources at once: _"List every event involving persons who held office in the British Government, sorted by date."_ A spreadsheet cannot answer that. A relational database answers it in a single query, however many sources you have gathered.
-
-_Note that we only see the first three entities here; further persons in the excerpt to be included in this table are: Harry Parkes (the Consul), Sir John Bowring, Admiral Seymour …_
-
-#### Table 3 — Offices / Functions
-
-This table records **which role a person held in which organisation, and when**. It is itself a junction table — it links Persons to Organisations and adds the historical detail of the relationship.
-
-| office_id | person_id | org_id | title | date_from | date_to |
-|---|---|---|---|---|---|
-| OF001 | P001 | O001 | Director | _unknown_ | _unknown_ |
-| OF002 | P002 | O002 | Premier of England | _before 1857_ | _after 1857_ |
-| OF003 | P003 | O002 | Minister of Foreign Affairs | _before 1857_ | _after 1857_ |
-
-#### Table 4 — Places
-
-| place_id | name | type | source_id |
-|---|---|---|---|
-| L001 | India | Region / Country | S001 |
-| L002 | England | Country | S001 |
-| L003 | Canton | City | S001 |
-
-#### Table 5 — Organisations
-
-| org_id | name | type | source_id |
-|---|---|---|---|
-| O001 | East India Company | Trading company | S001 |
-| O002 | British Government | State authority | S001 |
-| O003 | British Parliament | Legislative body | S001 |
-
-#### Table 6 — Events _(the connecting hub)_
-
-| event_id | name | date | place_id | org_id | source_id |
-|---|---|---|---|---|---|
-| E001 | Exposure of torture system in India before Parliament | ca. 1853 | L001 | O003 | S001 |
-| E002 | Lord Mayor's banquet — Palmerston's speech | early 1857 | L002 | O002 | S001 |
-| E003 | Arrest of sailors aboard the _Arrow_ | 1856-10-08 | L003 | O001 | S001 |
-
-#### Table 7 — Person–Event _(the junction table)_
-
-|compos_pers_ev_id | person_id | event_id | role_in_event                             |
-|---|-----------|----------|-------------------------------------------|
-| PE001  | P002      | E002     | Speaker (as Premier)                      |
-| PE002  | P001      | E001     | Director (respondent)           |
-| PE003  | P003      | E002     | Attendee (as Minister of Foreign Affairs) |
+Try to identify and fix errors yourself before using automatic correction tools. 
 
 
-Because one person can participate in many events and one event can involve many persons, this relationship is **many-to-many** — it cannot be stored in either the Persons or Events table alone. The junction table holds one row per person–event pairing. Both `person_id` and `event_id` are foreign keys; **together** they form the primary key of this table (a _composite_ primary key), because what is unique here is the _combination_ — the same person can appear in multiple events, and the same event can appear across multiple persons, but a specific person can only be linked to a specific event once.
+Reflect on the following aspects: 
 
-_You can now query: "Who was present at the Lord Mayor's banquet?" → select all rows where `event_id = E002` → returns P002 and P003._
+* What was difficult when converting your table into JSON?
+* What kinds of errors did you make?
+* In what situations might JSON be more useful than a table?
+* What are the limits of JSON for historical data?
 
-Now we have a database containing several different types of entities and tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible):
-![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
 
-Of course, there are rules to follow when creating a database. Primary keys cannot be empty (null), for a start. Also, as we've already seen for other data sets, the entries (for each column) have to be of the same type. If you use a software to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)), you will have to specify the types. Also, the software will ask you whether a column can hold foreign keys or not (you usually recognize them, because they are IDs, i.e. by their suffix `_id`).
+### 5.d Exploring JSON rules - 20 minutes
+*This sub-assignment is of advanced difficulty for beginners*. 
 
-![Types](/assets/images/data-criticism/odb.jpg) 
+Some JSON datasets follow more formal rules called a data schema, which define:
+* What fields exist
+* What kind of values they contain
 
-#### Assignment
-You see that Karl mentions an incident that happened on a ship, the Arrow. Head over to the respective [Wikipedia entry](https://en.wikipedia.org/wiki/Second_Opium_War) to get details. Now update the tables, specifically the "events" table. Do we need more tables for this?
+Explore:
 
----
+https://json-schema.org/learn
+
+
+After reading [what is a schema](https://json-schema.org/understanding-json-schema/about), try to imagine in which case you might need to write your own schema and in which case you should better rely on the official JSON schema (or another schema used by a large community).
+
+For historians and humanists it is wise to use a schema that is established by many others. However, you can of course write your own schema. For a comprehensive tutorial, see [here](https://json-schema.org/learn). If you're lazy, you might as well use one of the many online schema generators listed in the reading suggestions below.
+
+
+### 5.e Critiquing data formats
+
+In the previous exercises, you worked with different ways of structuring and representing data. This final step invites you to reflect more critically on the formats you use.
+
+
+Consider the formats you have used in this assignment (JSON, CSV table).
+
+1. Can this format be opened and edited with different software tools?
+2. Would someone else easily be able to reuse your data?
+3. What problems might arise if the software you used becomes unavailable?
+
+
+As with encoding, the format of a data file is something we can think about critically.
+
+- Some file formats are proprietary: they can only be opened or edited with specific software.
+- Other formats are open: their structure is publicly documented and they can be used by many different tools.
+
+Some formats are also easier to convert or exchange than others.
+
+If you want your data to be easier to reuse and share, it is often advisable to use open formats.
+
+Examples:
+- Tables → comma-separated values (`.csv`)
+- Text → Markdown (`.md`)
+- Structured data → JSON (`.json`)
+
+Reflect on the following:
+
+- Why might historians prefer open formats?
+- Are there situations where proprietary formats might still be useful?
+
+
+You can find a list of open formats here:
+https://en.wikipedia.org/wiki/List_of_open_file_formats
+
 
 ### What have we learned?
-Databases are the main carrier for digital data. They can store a great variety of different types of data. But their true value comes from their ability to run queries over all of their content. This way, we can get very specific information, evaluate the magnitude or duration of phenomena and detect patterns in the data.
 
-To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal.
+Across this lesson, we have seen that data are never simply "given": they are shaped by the symbols, conventions, and technical choices used to represent them (Section 1), and translated into machine-readable form through encoding systems whose scope and limitations — from punch cards to ASCII to RGB — determine what can and cannot be represented (Section 2). Turning historical sources into data requires deliberate choices about which descriptive categories and attributes to capture, choices that depend on the purpose of the research and are never neutral (Section 3). When the same entities recur across many sources, relational databases let us record each one only once and connect them through primary and foreign keys, making it possible to ask questions that a flat spreadsheet could not answer (Section 4). Finally, formats such as JSON show that even a finished dataset can be reorganised, nested, and exchanged in different ways — and that the choice of format, like the choice of encoding or data model, has consequences for who can reuse historical data and how (Section 5).
+
+Together, these five steps trace the path from a historical source to structured, queryable data: from recognising what counts as data, through encoding and modelling it, to storing, connecting, and finally sharing it.
+
 
 ### Reading/viewing suggestions
-- Octave Julien. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, Apr 2024, Porto, Portugal. ￿halshs-04550456￿
-- Stephen Robertson. "The properties of digital history". [https://doi.org/10.1111/hith.12286](https://doi.org/10.1111/hith.12286)
-- Mattia Viale. "From the historical source to a database: a short story". 21 November 2018. [https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/](https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/)
-- [Agustín Cosovschi, From Sources to Data: Designing a Database for the Humanities and Social Sciences with nodegoat](https://programminghistorian.org/en/lessons/designing-database-nodegoat)
+
+*Online JSON schema generators*
+
+JSON Forge. JSON Schema Generator https://www.jsonforge.com/tools/schema-generator
+
+JSON Swiss https://jsonswiss.com/
+
+Introducing JSON https://www.json.org/json-en.html

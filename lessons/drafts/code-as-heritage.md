@@ -15,7 +15,11 @@ editors:
   - valerie-schafer
   - sofia-papastamkou
 reviewers:
-- tbd
+  - Brandon Walsh
+  - Pawel Kaminsky
+  - Emilien Schultz
+  - Thomas Soubiran
+  - Liesbeth de Mol
 lang: en
 unit_id: code-as-heritage
 link: /u/code-as-heritage/
@@ -54,7 +58,7 @@ This lesson introduces you to applying source criticism methods to code, teachin
 In this lesson, you will explore three key dimensions of understanding code as heritage:
 
 1. **Heritage Recognition:** The first part examines what qualities make source code a distinctive type of born-digital heritage. This includes understanding how UNESCO recognizes it and exploring the unique preservation challenges it presents.
-2. **Interpretive Methods:** In the second part,, we develop strategies for reading and interpreting code that go beyond its technical functionality. We approach code as a cultural artifact that reveals important insights about its creators' assumptions, values, and practices. Through detailed case studies, we explore how the traditional tools of source criticism must be adapted for born-digital materials, connecting our analysis to broader questions in digital history and critical code studies.
+2. **Interpretive Methods:** In the second part, we develop strategies for reading and interpreting code that go beyond its technical functionality. We approach code as a cultural artifact that reveals important insights about its creators' assumptions, values, and practices. Through detailed case studies, we explore how the traditional tools of source criticism must be adapted for born-digital materials, connecting our analysis to broader questions in digital history and critical code studies.
 3. **Preservation Initiatives:** Finally, we will examine how source code is being preserved through major international initiatives, with special focus on Software Heritage. We will also explore complementary approaches like the GitHub Archive Program and the Internet Archive's Software Collection, understanding how different preservation strategies address different aspects of code as heritage.
 
 Each section includes practical exercises designed to develop your critical thinking about digital sources rather than technical programming skills. By the end of this lesson, you should be familiar with how to approach source code as a historian, recognizing its value as historical evidence.
@@ -184,7 +188,7 @@ Let us examine this aspect from the perspective of video games.
 
 > A 2023 study by the Video Game History Foundation and the Software Preservation Network measured the scale of this loss. The study found that 87 percent of classic video games released in the United States before 2010 are no longer commercially available. The situation is even more severe for early games: less than 3 percent of titles released before 1985 remain in print. The period from roughly 1977 to 1985 marked the emergence of home computing and the first generation of commercial video games—yet these availability rates are comparable to the survival rates of American silent films (14 percent) and pre-World War II audio recordings (10 percent) ([Video Game History Foundation 2023](https://gamehistory.org/study-explainer/)).
 
-Many classic video games survive only as reverse-engineered approximations after their original code was lost through corporate restructuring, technological changes, or simple neglect. [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering)) is the process of analyzing a finished product to understand how it works without access to its original design documentation. It allows programmers to recreate software functionality, but the resulting code is an approximation rather than the historical original. 
+Many classic video games survive only as reverse-engineered approximations after their original code was lost through corporate restructuring, technological changes, or simple neglect. [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering) is the process of analyzing a finished product to understand how it works without access to its original design documentation. It allows programmers to recreate software functionality, but the resulting code is an approximation rather than the historical original. 
 
 Look at the image below. You are looking at a storage medium from 1984. It contains a complete software program — a video game called Jet Set Willy, popular in the early home computing era. Before reading on, consider: what do you think is stored on this cassette? And what do you think might be missing from it?
 
@@ -321,7 +325,7 @@ When approaching any code artifact, the following questions can guide your analy
 
 **Dependencies and networks:** What external code does a program rely on? Like citations in academic papers, dependencies reveal how programmers built upon existing work and participated in broader development communities. In 2016, a single developer removing 11 lines of code temporarily disrupted much of the Internet, revealing hidden dependencies in the software ecosystem ([Collins 2016](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)).
 
-**Linguistic and cultural markers:** Source code carries cultural fingerprints that reveal much about its creators and their context, though these markers are not neutral — they reflect broader power structures. Most programming languages use English-based syntax, even when created by non-English speakers: [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) was developed in the Netherlands, [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) in Japan. Programming language choices are fundamentally social decisions, shaped by personal networks and team familiarity rather than purely technical considerations ([Meyerovich and Rabkin 2013](https://dl.acm.org/doi/10.1145/2509136.2509515)). To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hierarchies in Programming"](https://www.youtube.com/watch?v=kCZRauYfqvg) (approximately 20 minutes), which draws on feminist and post-colonial theory to analyze how biases about human languages appear in discussions of programming languages.
+**Linguistic and cultural markers:** Source code carries cultural fingerprints that reveal much about its creators and their context, though these markers are not neutral — they reflect broader power structures. Most programming languages use English-based syntax, even when created by non-English speakers: [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) was initially developed in the Netherlands, [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)) in Japan. Programming language choices are fundamentally social decisions, shaped by personal networks and team familiarity rather than purely technical considerations ([Meyerovich and Rabkin 2013](https://dl.acm.org/doi/10.1145/2509136.2509515)). To explore these dynamics further, watch Gabrielle Hayden's talk ["Language Hierarchies in Programming"](https://www.youtube.com/watch?v=kCZRauYfqvg) (approximately 20 minutes), which draws on feminist and post-colonial theory to analyze how biases about human languages appear in discussions of programming languages.
 
 **Code structure and style:** Code has its own "writing style." Well-structured, consistently formatted code often indicates professional settings with established coding standards; code that appears hastily written might reveal academic prototypes, emergency fixes, or situations where speed was prioritized over elegance. The programmer's background and training also leave traces — see the [MIT Coding and Comment Style guide](https://mitcommlab.mit.edu/broad/commkit/coding-and-comment-style/) for an example of professional conventions.
 
@@ -362,7 +366,7 @@ Examine the following digitized document carefully. Before reading further, spen
 
 ![A historical code artifact](/assets/images/code-as-heritage/Original-Microsoft-Source-Code.jpg "A historical code artifact")
 
-**Figure 4:** A historical code artifact. Before reading further, spend five minutes examining this image. What can you learn about this code from the artifact itself? *Source: Gates Notes, 2025.*
+**Figure 4:** Original source code for Microsoft BASIC, written in 1975 by Bill Gates and Paul Allen with contributions from Monte Davidoff. *Source: Gates Notes, 2025.*
 
 #### Exercise Part 1: Analyzing the document
 
