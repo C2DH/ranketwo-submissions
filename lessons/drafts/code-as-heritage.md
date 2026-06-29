@@ -83,7 +83,7 @@ Figure 1 Brian Kernighan, "Hello, World!" program in C, printed on dot-matrix co
 
 Now try to execute the same piece of code yourself. Click on the link and press `Run`: [W3Schools editor]() https://www.w3schools.com/cpp/trycpp.asp?filename=demo_helloworld) 
 
-You have just executed the same program, several decades later. The two words that appeared on your screen, "Hello, World!", are the output of one of the most reproduced texts in the history of computing.
+You’ve just executed a program that has been reproduced by generations of programmers. The phrase “Hello, World!” has become a classic first output, symbolizing the beginning of learning any new programming language.
 
 <details>
 <summary><strong>Background: the 'Hello, World!' convention</strong></summary>
