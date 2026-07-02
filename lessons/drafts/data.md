@@ -261,7 +261,7 @@ Let us now explore how data are produced to describe and study the world around 
 
 Let's take a simple example: a wanted poster as you might know from western movies or comics (see figure below). Please observe carefully the poster and the information it provides. 
 
-![Wanted Poster](/assets/images/data-criticism/wanted-poster.jpg)
+![Wanted Poster](/assets/images/data-criticism/Wanted_Poster_marx_new.jpg)
 
 Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics in different columns with the purpose to identify this person.
 
@@ -449,7 +449,7 @@ Use paper and pencil to draw your ideas.
 
 Now check the following image — this is what a data model for this source could look like. Make abstraction of technical details and focus on what you can understand.  
 
-![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+![Scheme and connections](/assets/images/data-criticism/database_scheme_simple.jpg)
 
 1. Can you recognise types of information that constitute descriptive categories following the article you read?
 2. Can you recognise what kind of information is considered important to retain based on the attributes of each category? 
@@ -657,7 +657,7 @@ Now we have - a very basic - architecture of a database containing several diffe
 
 > **Reading the diagram: cardinality and optionality.** Every relationship line carries two pieces of information at each end: *cardinality* (how many — a single bar means "one", a crow's foot means "many") and *optionality* (whether it's required — a bar means "must exist", an open circle means "zero is allowed"). Take Source–Person: the bar next to Source means every Person must belong to exactly one source (mandatory); the crow's foot next to Person means one source may be linked to many people — or, in principle, to none at all if a source names no individuals (optional). [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation) uses the same three symbols: ring = zero, dash = one, crow's foot = many.
 
-![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+![Scheme and connections](/assets/images/data-criticism/database_scheme_detail.jpg)
 
 
 | Symbol | Meaning |
