@@ -543,7 +543,7 @@ Some relationships can't be stored with a simple foreign key. Take the Lord Mayo
 Junction tables solve this by giving the relationship itself its own table, with one row per pairing rather than per person or per event. A row like P002 – E002 simply states "Palmerston took part in the banquet"; a second row, P003 – E002, states "Clarendon took part in the banquet too" — both can exist side by side, without forcing either the Person or the Event table to hold more than one value per field. This is exactly what the Person–Event table does: every row links exactly one person to exactly one event, and as many rows as needed can share the same person_id or the same event_id.
 Together with primary and foreign keys, junction tables let historians ask questions that cut across many sources at once — "who attended which events, and when?" — in ways a single spreadsheet, with its one-row-per-record limit, cannot represent.
 
-![Junction table Person-Event]()
+![Junction table Person-Event](/assets/images/data-criticism/junction_table.jpg)
 
 So far every relationship in our database has allowed at least one side to have several partners. But historians and archivists also regularly work with **authority records** — external, standardised identifiers for a specific person, held by an outside institution. [Wikidata](https://www.wikidata.org/), a free and open knowledge base, assigns exactly one unique identifier (a "QID", e.g. `Q193656`) to each distinct real-world entity it describes. Linking our Person table to Wikidata gives a genuine **one-to-one relationship**: each Person in our database corresponds to at most one Wikidata entry, and each Wikidata entry we link corresponds to exactly one Person — never several.
 
