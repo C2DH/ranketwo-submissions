@@ -673,11 +673,11 @@ Now we have - a very basic - architecture of a database containing several diffe
 
 | Relation-type | Notation | Example |
 |---|---|---|
-| One-to-one, optional (0,1 – 1,1) | `Person o\| ⋯ \|\| WikidataEntry` | Not every Person in our dataset has (yet) been linked to a Wikidata entry, but once linked, one Wikidata entry corresponds to exactly one Person. |
-| One-to-many, optional many (1,1 – 0,N) | `Source \|\| ⋯ o< Person` | One newspaper article may name zero, one, or several persons; every Person record belongs to exactly one Source. |
-| One-to-many, mandatory many (1,1 – 1,N) | `Organisation \|\| ⋯ \|< Office` | An Organisation only enters our database because at least one Office (a role held within it) was recorded; the same Organisation may have many recorded office holders. |
-| Many-to-one (mirror view of the row above) | `Office o< ⋯ \|\| Person` | Many Office records can point back to the same Person — Palmerston alone accounts for two (Foreign Secretary, then Prime Minister) — but every single Office record belongs to exactly one Person. |
-| Many-to-many, optional both sides (0,N – 0,N) | `Person o< ⋯ o< Event` | One person can take part in many events, and one event can involve many persons — captured by the Person-Event junction table. |
+| One-to-one, optional (0,1 – 1,1) | `Person o\| -- \|\| WikidataEntry` | Not every Person in our dataset has (yet) been linked to a Wikidata entry, but once linked, one Wikidata entry corresponds to exactly one Person. |
+| One-to-many, optional many (1,1 – 0,N) | `Source \|\| -- o< Person` | One newspaper article may name zero, one, or several persons; every Person record belongs to exactly one Source. |
+| One-to-many, mandatory many (1,1 – 1,N) | `Organisation \|\| -- \|< Office` | An Organisation only enters our database because at least one Office (a role held within it) was recorded; the same Organisation may have many recorded office holders. |
+| Many-to-one (mirror view of the row above) | `Office o< -- \|\| Person` | Many Office records can point back to the same Person — Palmerston alone accounts for two (Foreign Secretary, then Prime Minister) — but every single Office record belongs to exactly one Person. |
+| Many-to-many, optional both sides (0,N – 0,N) | `Person o< -- o< Event` | One person can take part in many events, and one event can involve many persons — captured by the Person-Event junction table. |
 
 
 **One-to-many and many-to-one describe the same relationship from two directions.** Looking from Source to Person, one article can mention many people (*one-to-many*); looking from Person to Source, every person-record belongs to exactly one article (*many-to-one*). It is the same arrow, just read from opposite ends — which is why you will sometimes see the identical relationship labelled "1:N" in one textbook and "N:1" in another.
