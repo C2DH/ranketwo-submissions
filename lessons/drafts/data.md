@@ -420,7 +420,14 @@ Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribu
 
 ![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
 
-The exercises in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of.  
+The exercises in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of. 
+
+Before going further, let us note that we could treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
+
+![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
+
+The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
+![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
 ### 4.a Conceiving a data model
 
@@ -692,13 +699,6 @@ But this lesson's aim is to raise awareness on what is behind a database; please
 Databases are the main carrier for digital data. They can store a great variety of different types of data. But their true value comes from their ability to run queries over all of their content. This way, we can get very specific information, evaluate the magnitude or duration of phenomena and detect patterns in the data.
 
 To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal.
-
-First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
-
-![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
-
-The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
-![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
 
 ### Reading/viewing suggestions
