@@ -15,7 +15,7 @@ Historians have long engaged with questions of provenance, reliability, and the 
 
 What distinguishes the digital age is not the existence of these issues but their amplification. Digital technologies enable data to circulate at unprecedented scale and speed, to be recombined across contexts, and to reach audiences far beyond those originally envisaged — raising new ethical stakes around control, context, and consent.
 
-This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and integrity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
+This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and cultural sensitivity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
 
 
 ## 1 From data to information to knowledge: ethics in practice
@@ -50,6 +50,7 @@ Does it change anything about how you answered the questions above?
 <!--simpler alternative for this third part of the exercice: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
 
 <!-- the short exercice aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
+
 
 ### 1.b Consent in a born-digital archive
 
