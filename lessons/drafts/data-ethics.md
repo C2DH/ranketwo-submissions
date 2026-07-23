@@ -163,12 +163,20 @@ Click on each stage that RDMkit diagram provides and read its description. While
 * Where in this lifecycle do you think the question of ownership most naturally arises? And at which stage might it become most urgent?
 * Consider the final stage of 'Reuse'. What ethical obligations might arise specifically at this stage — that is, when data created for one purpose is reused for another?
 <!--
-A second, complementary model is more commonly used in humanities and cultural heritage contexts. It describes the data lifecycle as: 
-* Acquisition/Collection 
-* Analysis 
-* Interpretation/Modelling 
-* Publication 
-* Archiving 
+A second, complementary model is more commonly used in humanities and cultural heritage contexts.The Data Management Expert Guide is designed by European experts to help social science researchers make their research data Findable, Accessible, Interoperable and Reusable (FAIR). It consists of planning, organising, documenting, processing, storing, and protecting your data to sharing and publishing them.
+![Data Management Expert Guide](/images/CESSDA.png "Data Management Expert Guide")
+
+Source: [Data management expert guide (DMEG)](https://dmeg.cessda.eu/Data-Management-Expert-Guide).
+
+This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) (Owens 2018; Corti et al. 2019).
+
+For the purposes of this lesson, we use a combined model that draws on both:
+* Planning: deciding what data to collect, for what purpose, and under what conditions.
+* Creating/Collection: gathering data, whether by creating it (interviews, surveys, photographs) or by locating it in existing sources (archives, databases, digitised collections).
+* Processing/Analysis: cleaning, transforming, and analysing data to produce findings.
+* Interpretation/Modelling: drawing conclusions and representing results through argumentation, visualisation, or modelling.
+* Publication/Sharing: disseminating research findings and increasingly the underlying datasets to scholarly and public audiences.
+* Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
 
 This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) .-->
 
@@ -179,6 +187,8 @@ For the purposes of this lesson, we use a combined model that draws on RDMkit an
 * Interpretation/Modelling: drawing conclusions and representing them in argument, visualisation, or model form.
 * Publication: sharing findings — and, increasingly, the underlying data — with other researchers and the public.
 * Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
+
+Extra : The SSHOC League of Data (SSHOC LoD) is a pilot gamification of the CESSDA Data Management Expert Guide® (DMEG).(https://lod.sshopencloud.eu).
 
 ### 2.b Ethics at every stage — tracing the data lifecycle
 
