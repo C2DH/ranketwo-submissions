@@ -401,7 +401,10 @@ Now return to the same Zenodo dataset you examined in assignment 3.a. Apply the 
 
 <!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
 
-This exercise can be completed individually or in small groups.
+<!-- Tugce: I added this new to discuss legal and moral responsibility-->
+The photographs are a good place to notice that GDPR and CARE do not always ask the same question. From the perspective of individual consent, Lea has arguably done everything right: the depicted individuals, or the family members who donated the images, signed a deposit agreement, and a CC BY licence is a defensible, legally clean choice. But CARE asks something else — not "did the person in the photograph agree to this?" but "does the wider family or community have a stake in how this image circulates, one that isn't necessarily settled just because a single signer said yes?" Take the photographs whose living relatives were never contacted: legally, if the person depicted (or whoever holds the relevant rights) has already signed the consent, nothing further may be required. Lea's three categories of material, where do the two frameworks point in the same direction, and where do they start to pull apart?
+
+The next exercise can be completed individually or in small groups.
 
 Lea is ready to deposit her collection. She has three categories of material, each raising different ethical questions:
 
@@ -422,6 +425,7 @@ Then reflect on the two frameworks together:
 * The phrase *handle data with care and, if possible, share* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
 
 <!-- in the above version, the questions about metadata schemas and repository types have been removed. The exercise now stays within what students have learned, connects back to earlier parts of the lesson, and ends with two reflection questions.-->
+
 
 
 ### Conclusion
