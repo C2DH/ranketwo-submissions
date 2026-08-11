@@ -9,7 +9,10 @@ learning-objectives:
 
 ---
 
-LESSON INTRODUCTION 
+## Video animation 
+Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
+
+## Introduction 
 
 Historians have long engaged with questions of provenance, reliability, and the integrity of their sources. Ethical concerns are equally central to historical practice, particularly when working with living individuals, collective memories, or oral histories. These concerns encompass consent, ownership, and the responsibilities involved in using and disseminating such materials.
 
