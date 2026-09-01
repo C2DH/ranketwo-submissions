@@ -16,7 +16,7 @@ This lesson is based on the assumption that data are not neutral givens, but str
 
 Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
-## 1 What is data?
+## 1 What are data?
 *Learning outcomes* 
 
 * *Understand that data are structured representations with specific characteristics* 
@@ -91,7 +91,7 @@ Rosenberg, D. (2013). Data before the Fact. In L. Gitelman (Ed.), “Raw Data”
 
 ## 2 Encoding and digital representation
 
-*Learning outcomes*: Understand how encoding translates texts, images, and sounds into machine-readable digital data; recognise that digital representations depend on technical standards, formats, and encoding schemes; critically reflect on how encoding shapes the preservation, interpretation, and accessibility of historical sources.
+*Learning outcomes*: Understand how encoding translates texts, images (and, by the same logic, also sounds) into machine-readable digital data; recognise that digital representations depend on technical standards, formats, and encoding schemes; critically reflect on how encoding shapes the preservation, interpretation, and accessibility of historical sources.
 
 How is reality translated into data? Encoding, the process of converting information from one format into another, lies at the heart of data recording. One of the simplest forms of encoding is a physical mark on a surface, such as a notch in wood or a punched hole in paper, used to represent a simple distinction like “yes” or “no”. Similar principles still appear today in tickets, gift cards, and punched cards.
 
@@ -133,7 +133,7 @@ Now, use once more the emulator to enter a longer description of yourself or a p
 This should allow you to see that the punch cards could hold small datasets: technically, this would translate to a size of around 60 [bytes](https://en.wikipedia.org/wiki/Byte) (one byte is 8 bits long, one bit being either a `0` or a `1`). You can play around with punchcards and see for yourself what information you can fit onto one of them.  
 
 STEP 4
-Try to register text in a non-Latin alphabet (Cyrillic, Arabic, Greek, Chinese...). What do you observe? 
+Now try to type some text using symbols from a non-Latin alphabet (Cyrillic, Arabic, Greek, Chinese...)? What do you observe? 
 
 Finally, please write a small essay (up to 500 words) reflecting on: 
 * What kind of historical information can/cannot fit in punch cards?
@@ -399,6 +399,8 @@ Notice how the same object requires a different data model depending on your pur
 
 > Deciding what to record about Lea's grandmother's belongings — and what to leave out — is itself an ethical choice. To explore this further, check this lesson on [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md).
 
+Critically thinking about data assembled by somebody else is crucial if we want to employ in our research. We always need to evaluate it to identify potential biases, shortcomings or problematic choice of categories. To allow the same thing for other ussing our data, we need to document why we have chosen a specific category or value, or why we might have revised it later on, so that our decision remain retracable. This way, other researchers can look for complementary sources from a different archive, or compare our data with another type of source (like oral history or photographs) to check, enhance or even critique the conclusions that our dataset might suggest just by the selection of the data model.
+
 ### Reading/viewing suggestions
 
 Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction.* . Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
@@ -441,7 +443,7 @@ A data model defines:
 * Which attributes will be recorded for each type of information
 * How the information is split and how the different parts relate to each other
 
-Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households.
+Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households. In theory, at last, the research question comes first and the data model is built according to it. In practice, however, the sequence is much less directed. Often, only when working out how to model a source, we encounter unexpected ambiguities or even new analytically interesting ways to capture and connect information, which will again affect the research question itself. Designing a data model therefore is usually more an iterative process, moving back and forth between what you were initially interested in and what the sources allow you to capture, rather than a decision you can make early on in your project and stiuck to during the analysis.
 
 Consider the source above.
 
@@ -583,6 +585,10 @@ Do you need new tables? Why?
 
 ### 4.f Example database Sources
 
+The example below follows a rather source-centered (or document-centered) design, in which each person, place, and organisation is connected to the source that mentioned them (via  `source_id`). This approach is used when extracting information from a single document. An entity-centered apporach takes the opposite direction: The person named `Palmerston` exists as only one single entry in the table and is linked to all the sources that mention him. This is what happened in table in 4.c when we decided to include more than just a single article. In most research projects, you will have to use both approaches. It is an imporant decision in the design of the data model whether the document-centered or the source-centered approach is appropriate. 
+
+Note that historians are often faced with uncertainty, be it that we are unsure over facts, or consider our sources not completey reliable in terms of the facts they state as true. We have already encountered two ways to handle this: we can use a set of Boolean flags, as in the example of creating subsets of the entity `Place`in the form of `is_region` / `is_country` / `is_city`, or a precision label, as we did we captured a date (e.g. 1857) and added a precision label drawn from a fixed vocabulary ( for example `exact`, `circa`, `before`, `after`, `unknown`). We can employ the same idea of adding a lable on certainty/uncertainty to any value. In the case of a person's name, for example, we could simply add an additional `name_certainty` column, using lables like `confirmed`, `probable`, or `disputed` to record whether a pseudonym or alias in a source can be confidently attributed to one particular person.
+
 If we create tables for all the different types of information or entities, we could have four tables (five, if the source itself also gets one, here table 1): persons (table 2), roles (table 3), places (table 4), organisations (table 5). We would want to have another one for historic events, that contains all of the entries above. Now the magic happens in the junction tables which we need to store the relations (or connectors). Here, persons and organisations are related (as in our table 3) or persons and events (our table 7).
 
 
@@ -695,10 +701,15 @@ But this lesson's aim is to raise awareness on what is behind a database; please
 
 ![Types](/assets/images/data-criticism/odb.jpg) 
 
+The relational model is not the only way to organise data. NoSQL databases (a loose family including document stores, key-value stores, and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example 4.d in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework): it does not have tables, but expresses infomration in simple three-part statements consisting of subject–predicate–object (so called "triples"). In the case of 4.d, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, linking the person-table to a Wikidata QID is a first step towards a RDF-based, linked-data, that is connecting data form various sources and formats.
+
 ### What have we learned?
+
 Databases are the main carrier for digital data. They can store a great variety of different types of data. But their true value comes from their ability to run queries over all of their content. This way, we can get very specific information, evaluate the magnitude or duration of phenomena and detect patterns in the data.
 
-To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal.
+To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
+
+However, a database is no replacement for good old source criticism: entering a piece of onforamtion form a source into a table does not make it any more certain or reliable, it still needs to be critically evaluated for provenance, perspective, and credibility. But uncertainty can be integrated explicitly into the data model, as we did in the case of the date precision in 4.f, for instance. The critical treatement of any source material, rather than considering information found in historic sources as solid facts, must remain the fundamental principle of any research in history - be it digital or not!
 
 
 ### Reading/viewing suggestions
@@ -729,7 +740,8 @@ Why is this useful?
 - Some formats are more fit for storing and exchanging large volumes of data
 - Some formats allow more complex structures than tables
 
-One widely used format for this purpose is [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html).
+All data formats are based on a simple principle: they employ a small set of agreed-upon rules (a syntax) for marking the beginning and the end of one piece of information after another, allowing the data to be readable by machines and expanded or manipulated as long as the rules are known to the specific software and system. 
+In Digital Humanities and Digital History, several formats are common. XML (Extensible Markup Language) is used mainly to annotate text or describe layout (it is, in fact, underlying all Microsoft Word documents). Most formats, for example [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html) can be adapted to store and structure any sort of information. We will work with JSON in the following sections of this lesson,  because it is widely used and works well for the hierarchical data historians often work with.
 
 JSON is designed to:
 - represent structured data in a way that computers can easily process  
@@ -861,6 +873,7 @@ Reflect on the following aspects:
 * In what situations might JSON be more useful than a table?
 * What are the limits of JSON for historical data?
 
+Converting a table into JSON by hand is useful to get a sense of these differences directly. Luckily, there is software to do this work in real projects, which also helps to avoid errors when typing brackets and quotes yourself. However, it is important to understand what actually changes in the process: a table forces every record into a set of columns, so something like Karl Marx's several publications either needs a separate linked table (as in Section 4) or a cell containing several valus (which raises the problems of separators and is not good for readability). With a format like JSON we can simply list them under one single entry because of the nested structure. On the other hand, tables allow us to quickl sort and filter our records, or to spot a missing value at a glance. Neither format is simply "better": the choice depends on the characteristics of our data, if it is rather regular, or rather nested and variable in shape.
 
 ### 5.d Exploring JSON rules - 20 minutes
 *This sub-assignment is of advanced difficulty for beginners*. 
@@ -880,6 +893,8 @@ For historians and humanists it is wise to use a schema that is established by m
 
 
 ### 5.e Critiquing data formats
+
+In real life, historians rarely convert data between formats by hand, there are dedicated tools to do this. But it is crucial to understand what is actually happening during such a conversion, because this allows us to critically assess a dataset we did not assemble ourselves. Only if we know what building a dataset by converting information extracted from sources into a structured format can we notice if precision or context is adequately represented or have been lost along the way. 
 
 In the previous exercises, you worked with different ways of structuring and representing data. This final step invites you to reflect more critically on the formats you use.
 
