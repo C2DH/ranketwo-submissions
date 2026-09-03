@@ -9,13 +9,16 @@ learning-objectives:
 
 ---
 
-LESSON INTRODUCTION 
+## Video animation 
+Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
+
+## Introduction 
 
 Historians have long engaged with questions of provenance, reliability, and the integrity of their sources. Ethical concerns are equally central to historical practice, particularly when working with living individuals, collective memories, or oral histories. These concerns encompass consent, ownership, and the responsibilities involved in using and disseminating such materials.
 
 What distinguishes the digital age is not the existence of these issues but their amplification. Digital technologies enable data to circulate at unprecedented scale and speed, to be recombined across contexts, and to reach audiences far beyond those originally envisaged — raising new ethical stakes around control, context, and consent.
 
-This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and integrity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
+This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and cultural sensitivity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
 
 
 ## 1 From data to information to knowledge: ethics in practice
@@ -50,6 +53,7 @@ Does it change anything about how you answered the questions above?
 <!--simpler alternative for this third part of the exercice: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
 
 <!-- the short exercice aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
+
 
 ### 1.b Consent in a born-digital archive
 
@@ -162,12 +166,20 @@ Click on each stage that RDMkit diagram provides and read its description. While
 * Where in this lifecycle do you think the question of ownership most naturally arises? And at which stage might it become most urgent?
 * Consider the final stage of 'Reuse'. What ethical obligations might arise specifically at this stage — that is, when data created for one purpose is reused for another?
 <!--
-A second, complementary model is more commonly used in humanities and cultural heritage contexts. It describes the data lifecycle as: 
-* Acquisition/Collection 
-* Analysis 
-* Interpretation/Modelling 
-* Publication 
-* Archiving 
+A second, complementary model is more commonly used in humanities and cultural heritage contexts.The Data Management Expert Guide is designed by European experts to help social science researchers make their research data Findable, Accessible, Interoperable and Reusable (FAIR). It consists of planning, organising, documenting, processing, storing, and protecting your data to sharing and publishing them.
+![Data Management Expert Guide](/images/CESSDA.png "Data Management Expert Guide")
+
+Source: [Data management expert guide (DMEG)](https://dmeg.cessda.eu/Data-Management-Expert-Guide).
+
+This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) (Owens 2018; Corti et al. 2019).
+
+For the purposes of this lesson, we use a combined model that draws on both:
+* Planning: deciding what data to collect, for what purpose, and under what conditions.
+* Creating/Collection: gathering data, whether by creating it (interviews, surveys, photographs) or by locating it in existing sources (archives, databases, digitised collections).
+* Processing/Analysis: cleaning, transforming, and analysing data to produce findings.
+* Interpretation/Modelling: drawing conclusions and representing results through argumentation, visualisation, or modelling.
+* Publication/Sharing: disseminating research findings and increasingly the underlying datasets to scholarly and public audiences.
+* Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
 
 This model places greater emphasis on the interpretive work that distinguishes humanities research from data science, and on the distinction between publication (sharing findings) and archiving (making the underlying data available for reuse by others) .-->
 
@@ -178,6 +190,8 @@ For the purposes of this lesson, we use a combined model that draws on RDMkit an
 * Interpretation/Modelling: drawing conclusions and representing them in argument, visualisation, or model form.
 * Publication: sharing findings — and, increasingly, the underlying data — with other researchers and the public.
 * Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
+
+Extra : The SSHOC League of Data (SSHOC LoD) is a pilot gamification of the CESSDA Data Management Expert Guide® (DMEG).(https://lod.sshopencloud.eu).
 
 ### 2.b Ethics at every stage — tracing the data lifecycle
 
@@ -400,7 +414,10 @@ Now return to the same Zenodo dataset you examined in assignment 3.a. Apply the 
 
 <!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
 
-This exercise can be completed individually or in small groups.
+<!-- Tugce: I added this new to discuss legal and moral responsibility-->
+The photographs are a good place to notice that GDPR and CARE do not always ask the same question. From the perspective of individual consent, Lea has arguably done everything right: the depicted individuals, or the family members who donated the images, signed a deposit agreement, and a CC BY licence is a defensible, legally clean choice. But CARE asks something else — not "did the person in the photograph agree to this?" but "does the wider family or community have a stake in how this image circulates, one that isn't necessarily settled just because a single signer said yes?" Take the photographs whose living relatives were never contacted: legally, if the person depicted (or whoever holds the relevant rights) has already signed the consent, nothing further may be required. Lea's three categories of material, where do the two frameworks point in the same direction, and where do they start to pull apart?
+
+The next exercise can be completed individually or in small groups.
 
 Lea is ready to deposit her collection. She has three categories of material, each raising different ethical questions:
 
@@ -421,6 +438,7 @@ Then reflect on the two frameworks together:
 * The phrase *handle data with care and, if possible, share* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
 
 <!-- in the above version, the questions about metadata schemas and repository types have been removed. The exercise now stays within what students have learned, connects back to earlier parts of the lesson, and ends with two reflection questions.-->
+
 
 
 ### Conclusion

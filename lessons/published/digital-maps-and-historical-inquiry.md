@@ -33,7 +33,7 @@ order:
 og:
   description: 
 ---
-
+<!--Internal note: this is the last version before copyediting. The copyedited version is available in word and has been integrated directly in the repository of the website-->
 ## Contents
 
 [Introduction](#introduction)

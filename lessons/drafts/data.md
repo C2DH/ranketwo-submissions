@@ -16,7 +16,7 @@ This lesson is based on the assumption that data are not neutral givens, but str
 
 Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
-## 1 What is data?
+## 1 What are data?
 *Learning outcomes* 
 
 * *Understand that data are structured representations with specific characteristics* 
@@ -91,7 +91,7 @@ Rosenberg, D. (2013). Data before the Fact. In L. Gitelman (Ed.), “Raw Data”
 
 ## 2 Encoding and digital representation
 
-*Learning outcomes*: Understand how encoding translates texts, images, and sounds into machine-readable digital data; recognise that digital representations depend on technical standards, formats, and encoding schemes; critically reflect on how encoding shapes the preservation, interpretation, and accessibility of historical sources.
+*Learning outcomes*: Understand how encoding translates texts, images (and, by the same logic, also sounds) into machine-readable digital data; recognise that digital representations depend on technical standards, formats, and encoding schemes; critically reflect on how encoding shapes the preservation, interpretation, and accessibility of historical sources.
 
 How is reality translated into data? Encoding, the process of converting information from one format into another, lies at the heart of data recording. One of the simplest forms of encoding is a physical mark on a surface, such as a notch in wood or a punched hole in paper, used to represent a simple distinction like “yes” or “no”. Similar principles still appear today in tickets, gift cards, and punched cards.
 
@@ -133,7 +133,7 @@ Now, use once more the emulator to enter a longer description of yourself or a p
 This should allow you to see that the punch cards could hold small datasets: technically, this would translate to a size of around 60 [bytes](https://en.wikipedia.org/wiki/Byte) (one byte is 8 bits long, one bit being either a `0` or a `1`). You can play around with punchcards and see for yourself what information you can fit onto one of them.  
 
 STEP 4
-Try to register text in a non-Latin alphabet (Cyrillic, Arabic, Greek, Chinese...). What do you observe? 
+Now try to type some text using symbols from a non-Latin alphabet (Cyrillic, Arabic, Greek, Chinese...)? What do you observe? 
 
 Finally, please write a small essay (up to 500 words) reflecting on: 
 * What kind of historical information can/cannot fit in punch cards?
@@ -261,13 +261,13 @@ Let us now explore how data are produced to describe and study the world around 
 
 Let's take a simple example: a wanted poster as you might know from western movies or comics (see figure below). Please observe carefully the poster and the information it provides. 
 
-![Wanted Poster](/assets/images/data-criticism/wanted-poster.jpg)
+![Wanted Poster](/assets/images/data-criticism/Wanted_Poster_marx_new.jpg)
 
 Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics in different columns with the purpose to identify this person.
 
 <!--
 Person:
-|Attributes|Value|
+|Attributes|Values|
 |:-:|:-:|
 |Attribute 1|"..."|
 |Attribute 2|"..."|
@@ -277,18 +277,21 @@ Person:
 
 Table Person
 
-|Attribute 1|Attribute 2|Attribute 3|Attribute 4|
-|:---------|:--------|:-------|:--------|
-|"..."|"..."|"..."|"..."|
-|"..."|"..."|"..."|"..."|
-|"..."|"..."|"..."|"..."|
+|Person ID|Attribute 1|Attribute 2|Attribute 3|Attribute 4|
+|:---------|:---------|:--------|:-------|:--------|
+|Person0001|Value1|Value2|Value3|Value4|
+
+<!--
+|P0002|"..."|"..."|"..."|"..."|
+|P0003|"..."|"..."|"..."|"..."|
+-->
 
 
 [Link to editable table: Person](/assets/docs/data-criticism/person-table.docx)
 
 STEP 1
 
-Please fill the table: for the attributes, refer to the poster. For the values, use your critical skills and get help from the visual in the poster and from research on the web. 
+Please fill the table: for the attributes (the characteristics listed in the column headers, such as "First Name:"), refer to the poster. For the values (the actual dates and information entered in the columns, such as "Karl"), use your critical skills and get help from the visual in the poster and from research on the web. 
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
@@ -305,30 +308,35 @@ Can you think of significant properties that would matter in this case but are n
 
 When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
 
-The pre-defined list of properties you want to capture is commonly called a *data model*, and a collection of data following such a model is called a *data set*. The individual rows — for example, the historic persons in your table — are called *data records* or *entries*. We will not go further into data models here; if you want to explore how they are used to define relationships between different types of information, see the reading suggestions below.
 
+
+<!--
 If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
+-->
+We can now expand our table to list several historic persons by adding further records (=rows) to it:
 
-|first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
-|:---------|:--------|:-------|:--------|:-------|:--------|:-----|:---|
-|Karl|Value 2|Value 3| Value 4|Value 5|Value 6|Value 7|Value 8| 
-|...|...|...|...|...|...|...|...|
-|...|...|...|...|...|...|...|...|
+|Person ID|first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
+|:---------:|:--------:|:-------:|:--------:|:-------:|:--------:|:-----:|:---:|:---:|
+|P0001|Karl|Value 2|Value 3| Value 4|Value 5|Value 6|Value 7|Value 8| 
+|P0002|...|...|...|...|...|...|...|...|
+|P0003|...|...|...|...|...|...|...|...|
 
 [Link to editable table: Historical Persons](/assets/docs/data-criticism/historical-persons-table.docx)
 
-The individual entries in the table are called *data points*, such as the string that is the value for the attribute `first_name` (Karl). 
+The pre-defined list of properties you want to capture is commonly called a *data model*, and a collection of data following such a model is called a *data set*. The individual rows — for example, the historic persons in your table — are called *data records* or *entries*. The individual entries in the table are called *data points*, such as the value `Karl` for the attribute `first_name`.
+We will not go further into data models here; if you want to explore how they are used to define relationships between different types of information, see the reading suggestions below.
+ 
 Now fill the table to describe the following historic personalities (or at least two of them): 
 * Karl Marx
 * Wilhelm Marx
 * Eleanor Marx 
 * Groucho Marx
 
-Now that you entered data, let's observe the different types of values and the issues they may raise. 
-* Compare the first and the third rows: what types of values do you have in each?
+Now that you entered data, let's observe the different *types* of values and the issues they may raise. 
+* Compare the first and the third rows after the ID: what types of values do you have in each?
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-While the values for the first two columns are clearly textual (often called a "string" like a string of characters), the third column could also be a number ("an integer").
+While the values for the first two descriptive columns are clearly textual (often called a "string" like a string of characters), the third would rather be a number (often called "an integer"). 
 </details> 
 
 * Observe the attribute in the third column: what additional values you should add if the attribute was "date" rather than "year"? How would you express these values based on what you learned in 1.c?
@@ -391,6 +399,8 @@ Notice how the same object requires a different data model depending on your pur
 
 > Deciding what to record about Lea's grandmother's belongings — and what to leave out — is itself an ethical choice. To explore this further, check this lesson on [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md).
 
+Critically thinking about data assembled by somebody else is crucial if we want to employ in our research. We always need to evaluate it to identify potential biases, shortcomings or problematic choice of categories. To allow the same thing for other ussing our data, we need to document why we have chosen a specific category or value, or why we might have revised it later on, so that our decision remain retracable. This way, other researchers can look for complementary sources from a different archive, or compare our data with another type of source (like oral history or photographs) to check, enhance or even critique the conclusions that our dataset might suggest just by the selection of the data model.
+
 ### Reading/viewing suggestions
 
 Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction.* . Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
@@ -412,7 +422,14 @@ Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribu
 
 ![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
 
-The exercises in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of.  
+The exercises in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of. 
+
+Before going further, let us note that we could treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
+
+![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
+
+The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
+![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
 ### 4.a Conceiving a data model
 
@@ -426,7 +443,7 @@ A data model defines:
 * Which attributes will be recorded for each type of information
 * How the information is split and how the different parts relate to each other
 
-Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households.
+Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households. In theory, at last, the research question comes first and the data model is built according to it. In practice, however, the sequence is much less directed. Often, only when working out how to model a source, we encounter unexpected ambiguities or even new analytically interesting ways to capture and connect information, which will again affect the research question itself. Designing a data model therefore is usually more an iterative process, moving back and forth between what you were initially interested in and what the sources allow you to capture, rather than a decision you can make early on in your project and stiuck to during the analysis.
 
 Consider the source above.
 
@@ -441,7 +458,7 @@ Use paper and pencil to draw your ideas.
 
 Now check the following image — this is what a data model for this source could look like. Make abstraction of technical details and focus on what you can understand.  
 
-![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+![Scheme and connections](/assets/images/data-criticism/database_scheme_simple.jpg)
 
 1. Can you recognise types of information that constitute descriptive categories following the article you read?
 2. Can you recognise what kind of information is considered important to retain based on the attributes of each category? 
@@ -478,29 +495,34 @@ Suppose Lord Palmerston appears in fifty different newspaper articles.
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary>
-
-Every time Palmerston appears in a source, you may need to enter information about the same person again. As the number of sources grows, this can lead to hundreds of repeated entries, inconsistencies in spelling or naming, and difficulties updating information across the dataset.
-
-These problems are not unique to spreadsheets — a carelessly built database can suffer from exactly the same duplication and inconsistency. The difference is that a relational database gives you a structural tool to prevent it: each entity gets recorded once, with a unique identifier other tables can refer back to.
-
+These problems are not unique to spreadsheets — a carelessly designed database can suffer from exactly the same duplication and inconsistency. What a database really adds is not automatic prevention, but enforcement: once you decide that Palmerston is recorded once, as P002, the database will not let that rule be silently broken — a spreadsheet cannot guarantee that. The real advantages of a database over a spreadsheet show up as a project grows: it can handle far more data, answer complex questions across many tables at once, let several people work on it together, stay fast with large datasets, keep connections between tables automatically up to date, and offer proper backups.
 </details>
 
 Discuss why a spreadsheet can become difficult to manage when information is repeated, ambiguous, uncertain, or complex.
 
-> Relational databases solve this problem by storing each entity only once and linking information through identifiers. In the relational database model introduced in 4.a, Palmerston exists only once, as record `P002`. Every event, office, or source that refers to him simply stores the identifier `P002`. This makes it possible to search, update, and analyse information across many sources without duplication.
+> A database only prevents duplicates if it is designed to. The technology itself doesn't know that "Lord Palmerston" and "the Premier" are the same person — that decision is made by whoever builds the data model. Once it is made, though, the database enforces it: Palmerston exists only once, as record P002, and every event, office, or source that refers to him simply stores that one identifier instead of repeating his name each time. If someone accidentally created a second row for him, the database would not catch that by itself — avoiding duplicates is a matter of careful design, not a guarantee that comes for free.
+>
+> **A note on scaling to many sources:** The table design shown above works well for a single article, where every Person, Place, and Organisation simply points back to the one Source they came from. But imagine building a database from a whole corpus — say, 500 newspaper articles about British foreign policy. Lord Palmerston would then be *mentioned in* many different sources, not *created by* one. Giving Person a single `source_id` column would force you to either duplicate Palmerston's row for every article he appears in (defeating the whole purpose of deduplication described above), or arbitrarily pick just one source to "own" him. The correct solution is a junction table — call it `Mention` — that records every time a person is named in a source, while the Person row itself stays unique.
+
+#### Mention Table (junction table Person ↔ Source)
+
+| mention_id | person_id | source_id |
+|---|---|---|
+| M001 | P002 | S001 |
+| M002 | P002 | S045 |
+| M003 | P002 | S078 |
+
+Palmerston (`P002`) still exists only once in the Person table, but now appears in three rows of the Mention table — making this a many-to-many relationship between Person and Source.
+
 
 ### 4.d Building a relational database
 
 *learning objective: Understand how relationships between tables are implemented with primary keys and foreign keys*
 
-Relational databases rely on a few key principles. 
 
-A relational database model organizes information into separate tables. Each table contains only unique rows, representing a specific object, place, or person... To guarantee this uniqueness, each row (record) requires a unique identifier ([primary key](https://www.w3schools.com/sql/sql_primarykey.asp)). 
+Relational databases rely on a few key principles. A relational database organises information into separate tables, where every row represents one specific object, place, or person.
 
-Imagine two people are both named "John Smith" in your sources. A primary key (PK) solves this: it is a short code (in our example `P001`, `P002` …) that belongs to one and only one row, permanently. You invent it yourself when building the database, or the software you use assigns it automatically to each row/record.
-
-
-For example: Table Person
+**Primary keys.** How do you make sure each row can always be told apart from every other? Titles like "Earl of Clarendon" don't help on their own — this is a hereditary title, so different men held it at different points in history. The name alone doesn't tell you *which* Earl of Clarendon a source is talking about. A primary key solves this: it is a short code, invented once and never reused, that belongs to exactly one row, permanently. These identifiers should follow a consistent, systematic pattern — not just any random label. In our example, persons are coded P001, P002, P003… ; places would follow their own pattern (L001, L002…), events another (E001, E002…). A consistent scheme like this makes it immediately clear which table an identifier belongs to, and keeps the whole database manageable as it grows — imagine trying to track thousands of records with inconsistent, ad-hoc labels!
 
 | person_id | name | source_id |
 |---|---|---|
@@ -508,35 +530,46 @@ For example: Table Person
 | P002 | Lord Palmerston | S001 |
 | P003 | Earl of Clarendon | S001 |
 
-The separate tables of a database are connected by relationships defined in the data model. To materialize these links without repeating all the attributes again, we use a [foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp), which is a unique identifier (primary key) of one table inserted into another. 
+`P003` always means *this specific* Earl of Clarendon — the one described in our source — no matter how many other Earls of Clarendon existed before or after him.
 
-Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
+**Foreign keys.** Once every row has its own permanent ID, tables can be linked without repeating information. A foreign key is simply a primary key from one table, copied into another table to point back to it. Instead of writing "Lord Palmerston, Premier of England" into every event he took part in, we just write `P002` — and the database follows that pointer back to the full Person record whenever it's needed.
 
-STEP 1 CREATE IDENTIFIERS
+| role_id | person_id | org_id | title |
+|---|---|---|---|
+| RO003 | P003 | O002 | Minister of Foreign Affairs |
 
-Using your list of entities:
-
-* Assign a unique identifier to each person.
-* Assign a unique identifier to each place.
-* Assign a unique identifier to each event. 
-
-STEP 2 CONNECTING INFORMATION
-
-Examine the sample database tables below.
-
-* Which table stores information about persons? Find and inspect this table. 
-* Which table stores information about events? Find and inspect this table. 
-* How can you identify all events involving Lord Palmerston? 
-* Why is the Person–Event table necessary?
+Here, `person_id` and `org_id` are foreign keys: they don't describe the Role row itself, they point to where the full details live.
 
 <details>
-<summary><strong>Need help? (click to expand)</strong></summary>
-The separate tables of a database are connected by relationships defined in the data model. To materialize these links without repeating all the attributes again, we use a [foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp), which is a unique identifier (primary key) of one table inserted into another. 
+<summary><strong>Check your understanding (click to expand)</strong></summary>
 
-Instead of writing "Lord Palmerston, Premier of England" into every event he is connected to, you write `P002` — and the database follows that pointer to the full Persons record instantly.
+Can you explain in your own words why `P003` in the Office table is a *foreign* key, not a primary key? What is the primary key of that Office row instead?
 
-Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
 </details>
+
+
+Some relationships can't be stored with a simple foreign key. Take the Lord Mayor's banquet (E002): both Palmerston (P002) and Clarendon (P003) took part in it. If you tried to add a person_id column to the Event table, you could only fit one person per event — there's no room for a second. If you instead tried adding an event_id column to the Person table, you'd run into the same wall from the other side: Palmerston alone appears at several events, not just one.
+Junction tables solve this by giving the relationship itself its own table, with one row per pairing rather than per person or per event. A row like P002 – E002 simply states "Palmerston took part in the banquet"; a second row, P003 – E002, states "Clarendon took part in the banquet too" — both can exist side by side, without forcing either the Person or the Event table to hold more than one value per field. This is exactly what the Person–Event table does: every row links exactly one person to exactly one event, and as many rows as needed can share the same person_id or the same event_id.
+Together with primary and foreign keys, junction tables let historians ask questions that cut across many sources at once — "who attended which events, and when?" — in ways a single spreadsheet, with its one-row-per-record limit, cannot represent.
+
+![Junction table Person-Event](/assets/images/data-criticism/junction_table.jpg)
+
+So far every relationship in our database has allowed at least one side to have several partners. But historians and archivists also regularly work with **authority records** — external, standardised identifiers for a specific person, held by an outside institution. [Wikidata](https://www.wikidata.org/), a free and open knowledge base, assigns exactly one unique identifier (a "QID", e.g. `Q193656`) to each distinct real-world entity it describes. Linking our Person table to Wikidata gives a genuine **one-to-one relationship**: each Person in our database corresponds to at most one Wikidata entry, and each Wikidata entry we link corresponds to exactly one Person — never several.
+
+**Identifier** (new table)
+
+| person_id | wikidata_qid |
+|---|---|
+| P002 | Q193656 |
+
+
+
+1. Go to [wikidata.org](https://www.wikidata.org/) and use the search bar at the top of the page.
+2. Search for "Lord Palmerston" (or one of the other persons from our source, e.g. "Earl of Clarendon").
+3. Open the matching entry. The QID appears directly under the title, in the form `(Qxxxxxx)`, and also in the page's URL.
+4. Add the QID as a new row to the Identifier table above.
+
+Which persons from our source were easy to find on Wikidata? Were there any where you were unsure whether you had found the right entry?
 
 ### 4.e Extending the database
 
@@ -552,7 +585,12 @@ Do you need new tables? Why?
 
 ### 4.f Example database Sources
 
-If we create tables for all the different types of information or entities, we could have four tables (five, if the source itself also gets one, here table 1): persons (table 2), functions (table 3), places (table 4), organisations (table 5). We would want to have another one for historic events, that contains all of the entries above. Now the magic happens in the junction tables which we need to store the relations (or connectors). Here, persons and organisations are related (as in our table 3) or persons and events (our table 7).
+The example below follows a rather source-centered (or document-centered) design, in which each person, place, and organisation is connected to the source that mentioned them (via  `source_id`). This approach is used when extracting information from a single document. An entity-centered apporach takes the opposite direction: The person named `Palmerston` exists as only one single entry in the table and is linked to all the sources that mention him. This is what happened in table in 4.c when we decided to include more than just a single article. In most research projects, you will have to use both approaches. It is an imporant decision in the design of the data model whether the document-centered or the source-centered approach is appropriate. 
+
+Note that historians are often faced with uncertainty, be it that we are unsure over facts, or consider our sources not completey reliable in terms of the facts they state as true. We have already encountered two ways to handle this: we can use a set of Boolean flags, as in the example of creating subsets of the entity `Place`in the form of `is_region` / `is_country` / `is_city`, or a precision label, as we did we captured a date (e.g. 1857) and added a precision label drawn from a fixed vocabulary ( for example `exact`, `circa`, `before`, `after`, `unknown`). We can employ the same idea of adding a lable on certainty/uncertainty to any value. In the case of a person's name, for example, we could simply add an additional `name_certainty` column, using lables like `confirmed`, `probable`, or `disputed` to record whether a pseudonym or alias in a source can be confidently attributed to one particular person.
+
+If we create tables for all the different types of information or entities, we could have four tables (five, if the source itself also gets one, here table 1): persons (table 2), roles (table 3), places (table 4), organisations (table 5). We would want to have another one for historic events, that contains all of the entries above. Now the magic happens in the junction tables which we need to store the relations (or connectors). Here, persons and organisations are related (as in our table 3) or persons and events (our table 7).
+
 
 #### Table 1 — Source
 
@@ -570,25 +608,30 @@ If we create tables for all the different types of information or entities, we c
 
 In a relational database, Palmerston exists **exactly once** as row `P002`. Every event, every office, every source that mentions him simply stores `P002`. You can then ask questions that cut across all your sources at once: _"List every event involving persons who held office in the British Government, sorted by date."_ A spreadsheet cannot answer that. A relational database answers it in a single query, however many sources you have gathered.
 
+
 _Note that we only see the first three entities here; further persons in the excerpt to be included in this table are: Harry Parkes (the Consul), Sir John Bowring, Admiral Seymour …_
 
-#### Table 3 — Office
+#### Table 3 — Role
 
-This table records **which role a person held in which organisation, and when**. It is itself a junction table — it links Persons to Organisations and adds the historical detail of the relationship.
+This table records genuine historical information: **which role a person held in which organisation, and for how long**. Each row also happens to name both a person and an organisation, which is what lets it double as the connector between the Person and Organisation tables — but unlike the Person-Event table below, it isn't a *real* junction table, since the role and dates are meaningful data in their own right, not just a link.
 
-| office_id | person_id | org_id | title | date_from | date_to |
-|---|---|---|---|---|---|
-| OF001 | P001 | O001 | Director | _unknown_ | _unknown_ |
-| OF002 | P002 | O002 | Premier of England | _before 1857_ | _after 1857_ |
-| OF003 | P003 | O002 | Minister of Foreign Affairs | _before 1857_ | _after 1857_ |
+**A note on structuring dates.** Historical dates are rarely exact, and a plain text field like "ca. 1853" or "before 1857" can't be sorted, filtered, or compared by a computer — it's just a string of characters to the software. A more analysable approach splits the date into two parts: a **value** the software can actually read (a year, or a full date when known), and a **precision** label from a fixed, small vocabulary (`exact`, `circa`, `before`, `after`, `unknown`) that records how certain that value is. You lose nothing — the historical uncertainty is still fully recorded — but the value column now becomes something a database can genuinely work with. Historians working with larger or more uncertain date ranges may want to look at the [Extended Date/Time Format (EDTF)](https://www.loc.gov/standards/datetime/) standard, which offers a more complete vocabulary for exactly this problem.
+
+| role_id | person_id | org_id | title | date_from_value | date_from_precision | date_to_value | date_to_precision |
+|---|---|---|---|---|---|---|---|
+| RO001 | P001 | O001 | Director | | unknown | | unknown |
+| RO002 | P002 | O002 | Premier of England | 1857 | before | 1857 | after |
+| RO003 | P003 | O002 | Minister of Foreign Affairs | 1857 | before | 1857 | after |
+
+**A note on the `type` column.** A single field should always hold one clear, unambiguous value — the same principle that makes primary keys work also applies here. Writing "Region / Country" into one `type` cell bundles two separate facts together, which makes the column hard to filter or count reliably (should a query for "all countries" also return this row, or not?). A cleaner approach is to give each possible category its own column, with a simple yes/no (Boolean) value, so that a place can belong to several categories at once without ambiguity.
 
 #### Table 4 — Place
 
-| place_id | name | type | source_id |
-|---|---|---|---|
-| L001 | India | Region / Country | S001 |
-| L002 | England | Country | S001 |
-| L003 | Canton | City | S001 |
+| place_id | name | is_region | is_country | is_city | source_id |
+|---|---|---|---|---|---|
+| L001 | India | TRUE | TRUE | FALSE | S001 |
+| L002 | England | FALSE | TRUE | FALSE | S001 |
+| L003 | Canton | FALSE | FALSE | TRUE | S001 |
 
 #### Table 5 — Organisation
 
@@ -602,19 +645,19 @@ This table records **which role a person held in which organisation, and when**.
 
  The table Event is the connecting hub.
 
-| event_id | name | date | place_id | org_id | source_id |
-|---|---|---|---|---|---|
-| E001 | Exposure of torture system in India before Parliament | ca. 1853 | L001 | O003 | S001 |
-| E002 | Lord Mayor's banquet — Palmerston's speech | early 1857 | L002 | O002 | S001 |
-| E003 | Arrest of sailors aboard the _Arrow_ | 1856-10-08 | L003 | O001 | S001 |
+| event_id | name | date_value | date_precision | place_id | org_id | source_id |
+|---|---|---|---|---|---|---|
+| E001 | Exposure of torture system in India before Parliament | 1853 | circa | L001 | O003 | S001 |
+| E002 | Lord Mayor's banquet — Palmerston's speech | 1857 | circa | L002 | O002 | S001 |
+| E003 | Arrest of sailors aboard the *Arrow* | 1856-10-08 | exact | L003 | O001 | S001 |
 
 #### Table 7 — Person–Event 
 
 The table Person-Event is the junction table.
 
-|compos_pers_ev_id | person_id | event_id | role_in_event                             |
+|compos_pers_ev_id | person_id | event_id | role_in_event              |
 |---|-----------|----------|-------------------------------------------|
-| PE001  | P002      | E002     | Speaker (as Premier)                      |
+| PE001  | P002      | E002     | Speaker (as Premier)                 |
 | PE002  | P001      | E001     | Director (respondent)           |
 | PE003  | P003      | E002     | Attendee (as Minister of Foreign Affairs) |
 
@@ -623,8 +666,34 @@ Because one person can participate in many events and one event can involve many
 
 A *query* is simply a question you ask the database in its own language — usually SQL, though the concept matters more here than the exact syntax. For example, you could ask: "Who was present at the Lord Mayor's banquet?" → the database would select all rows where `event_id = E002` → returning P002 and P003.
 
-Now we have - a very basic - architecture of a database containing several different types of tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible). 
-![Scheme and connections](/assets/images/data-criticism/database_scheme.jpg)
+Now we have - a very basic - architecture of a database containing several different types of tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible). A visual represntation would look something like this:
+
+> **Reading the diagram: cardinality and optionality.** Every relationship line carries two pieces of information at each end: *cardinality* (how many — a single bar means "one", a crow's foot means "many") and *optionality* (whether it's required — a bar means "must exist", an open circle means "zero is allowed"). Take Source–Person: the bar next to Source means every Person must belong to exactly one source (mandatory); the crow's foot next to Person means one source may be linked to many people — or, in principle, to none at all if a source names no individuals (optional). [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation) uses the same three symbols: ring = zero, dash = one, crow's foot = many.
+
+![Scheme and connections](/assets/images/data-criticism/database_scheme_detail.jpg)
+
+
+| Symbol | Meaning |
+|---|---|
+| `\|\|` | exactly one (mandatory: minimum 1, maximum 1) |
+| `o\|` | zero or one (optional: minimum 0, maximum 1) |
+| `\|<` | one or many (mandatory: minimum 1, maximum many) |
+| `o<` | zero or many (optional: minimum 0, maximum many) |
+
+*Reading rule: the symbol placed next to an entity's name describes **that entity's** multiplicity per one instance of the entity on the other end of the line. Example: `Source || ⋯ o< Person` reads as "one Source may be linked to zero-or-many Persons; every Person belongs to exactly one Source."*
+
+#### Comprehensive relations-type overview
+
+| Relation-type | Notation | Example |
+|---|---|---|
+| One-to-one, optional (0,1 – 1,1) | `Person o\| -- \|\| WikidataEntry` | Not every Person in our dataset has (yet) been linked to a Wikidata entry, but once linked, one Wikidata entry corresponds to exactly one Person. |
+| One-to-many, optional many (1,1 – 0,N) | `Source \|\| -- o< Person` | One newspaper article may name zero, one, or several persons; every Person record belongs to exactly one Source. |
+| One-to-many, mandatory many (1,1 – 1,N) | `Organisation \|\| -- \|< Office` | An Organisation only enters our database because at least one Office (a role held within it) was recorded; the same Organisation may have many recorded office holders. |
+| Many-to-one (mirror view of the row above) | `Office o< -- \|\| Person` | Many Office records can point back to the same Person — Palmerston alone accounts for two (Foreign Secretary, then Prime Minister) — but every single Office record belongs to exactly one Person. |
+| Many-to-many, optional both sides (0,N – 0,N) | `Person o< -- o< Event` | One person can take part in many events, and one event can involve many persons — captured by the Person-Event junction table. |
+
+
+**One-to-many and many-to-one describe the same relationship from two directions.** Looking from Source to Person, one article can mention many people (*one-to-many*); looking from Person to Source, every person-record belongs to exactly one article (*many-to-one*). It is the same arrow, just read from opposite ends — which is why you will sometimes see the identical relationship labelled "1:N" in one textbook and "N:1" in another.
 
 Of course, there are rules to follow when creating a database. Primary keys cannot be empty (null), for a start. Also, as we've already seen for other data sets, the entries (for each column) have to be of the same type. If you use a software to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)), you will have to specify the types. Also, the software <!-- which software? none was mentioned but anyway, I think that this level of details is perhaps too much without having before given specific explanation which however are not the aim of the lesson--> will ask you whether a column can hold foreign keys or not (you usually recognize them, because they are IDs, i.e. by their suffix `_id`).
 
@@ -632,17 +701,15 @@ But this lesson's aim is to raise awareness on what is behind a database; please
 
 ![Types](/assets/images/data-criticism/odb.jpg) 
 
+The relational model is not the only way to organise data. NoSQL databases (a loose family including document stores, key-value stores, and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example 4.d in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework): it does not have tables, but expresses infomration in simple three-part statements consisting of subject–predicate–object (so called "triples"). In the case of 4.d, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, linking the person-table to a Wikidata QID is a first step towards a RDF-based, linked-data, that is connecting data form various sources and formats.
+
 ### What have we learned?
+
 Databases are the main carrier for digital data. They can store a great variety of different types of data. But their true value comes from their ability to run queries over all of their content. This way, we can get very specific information, evaluate the magnitude or duration of phenomena and detect patterns in the data.
 
-To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal.
+To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
 
-First of all, we notice that we could obviously treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
-
-![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
-
-The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
-![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
+However, a database is no replacement for good old source criticism: entering a piece of onforamtion form a source into a table does not make it any more certain or reliable, it still needs to be critically evaluated for provenance, perspective, and credibility. But uncertainty can be integrated explicitly into the data model, as we did in the case of the date precision in 4.f, for instance. The critical treatement of any source material, rather than considering information found in historic sources as solid facts, must remain the fundamental principle of any research in history - be it digital or not!
 
 
 ### Reading/viewing suggestions
@@ -673,7 +740,8 @@ Why is this useful?
 - Some formats are more fit for storing and exchanging large volumes of data
 - Some formats allow more complex structures than tables
 
-One widely used format for this purpose is [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html).
+All data formats are based on a simple principle: they employ a small set of agreed-upon rules (a syntax) for marking the beginning and the end of one piece of information after another, allowing the data to be readable by machines and expanded or manipulated as long as the rules are known to the specific software and system. 
+In Digital Humanities and Digital History, several formats are common. XML (Extensible Markup Language) is used mainly to annotate text or describe layout (it is, in fact, underlying all Microsoft Word documents). Most formats, for example [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html) can be adapted to store and structure any sort of information. We will work with JSON in the following sections of this lesson,  because it is widely used and works well for the hierarchical data historians often work with.
 
 JSON is designed to:
 - represent structured data in a way that computers can easily process  
@@ -805,6 +873,7 @@ Reflect on the following aspects:
 * In what situations might JSON be more useful than a table?
 * What are the limits of JSON for historical data?
 
+Converting a table into JSON by hand is useful to get a sense of these differences directly. Luckily, there is software to do this work in real projects, which also helps to avoid errors when typing brackets and quotes yourself. However, it is important to understand what actually changes in the process: a table forces every record into a set of columns, so something like Karl Marx's several publications either needs a separate linked table (as in Section 4) or a cell containing several valus (which raises the problems of separators and is not good for readability). With a format like JSON we can simply list them under one single entry because of the nested structure. On the other hand, tables allow us to quickl sort and filter our records, or to spot a missing value at a glance. Neither format is simply "better": the choice depends on the characteristics of our data, if it is rather regular, or rather nested and variable in shape.
 
 ### 5.d Exploring JSON rules - 20 minutes
 *This sub-assignment is of advanced difficulty for beginners*. 
@@ -824,6 +893,8 @@ For historians and humanists it is wise to use a schema that is established by m
 
 
 ### 5.e Critiquing data formats
+
+In real life, historians rarely convert data between formats by hand, there are dedicated tools to do this. But it is crucial to understand what is actually happening during such a conversion, because this allows us to critically assess a dataset we did not assemble ourselves. Only if we know what building a dataset by converting information extracted from sources into a structured format can we notice if precision or context is adequately represented or have been lost along the way. 
 
 In the previous exercises, you worked with different ways of structuring and representing data. This final step invites you to reflect more critically on the formats you use.
 
