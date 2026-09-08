@@ -255,6 +255,12 @@ Pargman, Daniel, and Jacob Palme. "ASCII Imperialism." In *Standards and Their S
 
 
 ## 3 Creating models and datasets
+
+*Learning outcomes*
+
+* *Select descriptive categories and attributes appropriate to a specific research purpose*
+* *Organise information about persons or objects into a table of records, attributes, and values*
+
 Let us now explore how data are produced to describe and study the world around us. Texts, people, animals, places, or historical events can all be transformed into descriptive data. By creating such data, historians turn sources into structured representations that can be organised, searched, and analysed. This process is both conceptual — involving research choices and categories — and technical, relying on tools such as spreadsheets and databases, which also introduce their own constraints.
 
 ### 3.a Designing descriptive categories
@@ -411,6 +417,12 @@ Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consu
 
 
 ## 4 From sources to data: understanding the relational database
+
+*Learning outcomes* 
+
+* *Design a simple data model for a historical source*
+
+* *Recognize relations and how they are implemented in a data model*
 
 In 3.c, we created a single table to describe one type of object. But historical sources usually involve many different kinds of things at once — people, places, organisations, events — and we need a way to keep them connected without losing the bigger picture.
 
@@ -727,6 +739,10 @@ Viale, Mattia. « From the Historical Source to a Database: A Short Story ». 
 
 
 ## 5 Converting data: the example of JSON format
+
+*Learning outcomes*
+* *Understand the principle and finalities of converting data between formats* 
+* *Convert a CSV table into another structured format and validate the result, using JSON as a worked example*
 
 Historians increasingly work with digital tools that require data in specific formats. A format represents the way data are encoded, stored, and displayed; it can be important for how data can be used, exchanged and shared. The format is reflected in the extension of the data file (for example, `.csv`).
 
