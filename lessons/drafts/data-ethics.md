@@ -27,7 +27,7 @@ In everyday language, the terms data, information, and knowledge are often used 
 
 Data, in the technical sense, refers to raw material: individual observations, records, measurements, or artefacts considered in isolation. A name, a date, a photograph, a GPS coordinate, or a voice recording are all examples of data. On their own, they do not carry meaning. Information emerges when data is contextualised: a photograph becomes informative once we know who is depicted, when it was taken, and by whom. Knowledge, in turn, is the interpretive outcome produced by connecting and analysing information; it is what historians construct through their engagement with sources. 
 
-Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether the data is accurate <!--here, the third question, data accuracy, is certainly a stake, but it does not correspond to the third key priniple presented in the introduction, which is cultural sensitivity-->. At the level of information — when data is combined and contextualised — new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson -->At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
+Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether the data is accurate <!--here, the third question, data accuracy, is certainly a stake, but it does not correspond to the third key principle presented in the introduction, which is cultural sensitivity-->. At the level of information — when data is combined and contextualised — new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson -->At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
 
 This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata — descriptive, structural, and administrative — shapes how datasets are discovered, interpreted, and reused. <!--for the descriptive metadata we should introduce a link to Sofia's lesson--> As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
 
@@ -38,7 +38,7 @@ Watch the lesson video animation in full.
 Based on the video, consider the following:
 
 * The objects in the suitcase — letters, photographs, tapes — were created by different people at different times. Who do you think owns them now that Lea's grandmother has died?
-* Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her? <!--here is a link to make with Sofia lesson, exercice on postcard from WW1 Europeana-->
+* Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her? <!--here is a link to make with Sofia lesson, exercise on postcard from WW1 Europeana-->
 * At the end of the video, Lea calls her aunt Maria before making the photographs available online via the local history project. Why do you think she does this? What could happen if she shared them without asking?
 
 <!-- The General Data Protection Regulation (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph. -->
@@ -50,20 +50,20 @@ Explore further the notions of ownership of data and consent. Search for "GDPR p
 In your own words, what does the GDPR framework protect, and who does it protect it for?
 Does it change anything about how you answered the questions above?
 
-<!--simpler alternative for this third part of the exercice: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
+<!--simpler alternative for this third part of the exercise: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
 
-<!-- the short exercice aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
+<!-- the short exercise aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
 
 
 ### 1.b Consent in a born-digital archive
 
-For this exercice, you will work with the [September 11 Digital Archive](https://911digitalarchive.org/). 
+For this exercise, you will work with the [September 11 Digital Archive](https://911digitalarchive.org/). 
 
 > The September 11 Digital Archive is a born-digital collection created in the aftermath of the 2001 attacks to preserve personal accounts, photographs, and emails contributed by members of the public. At the time of its creation, online social networks did not yet exist; this was one of the first large-scale experiments in crowdsourced digital archiving. The archive was later transferred to the Library of Congress (Cohen and Rosenzweig 2005; Townsend 2010).
 
 Navigate to the archive's collection of [personal testimonies](https://911digitalarchive.org/collections/show/278). Select any testimony that interests you or one randomly and open its individual record page. Read both the content of the testimony and the information provided about it — its description, rights statement, and any other information that accompanies it.
 
-<!--If the screenshot does not have a fucntion, maybe we can omit it. The archive is not under open license, if need, we should ask for rights of use.-->
+<!--If the screenshot does not have a function, maybe we can omit it. The archive is not under open license, if need, we should ask for rights of use.-->
 <!--
 - [ IMAGE: Screenshot of a personal account record from the September 11 Digital Archive ] Personal account record, September 11 Digital Archive. Screenshot, [date]. -->
 
@@ -78,7 +78,7 @@ Now focus on the ethical dimensions of metadata and answer the following questio
 
 Now reflect on the following: 
 
-Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? <!--What different kinds of ownership — legal, moral, emotional — might be at stake?--> You can also check the next exercice to get inspiration. 
+Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? <!--What different kinds of ownership — legal, moral, emotional — might be at stake?--> You can also check the next exercise to get inspiration. 
 
 
 ### 1.c When everyone contributes, who owns the archive? 
@@ -105,10 +105,10 @@ In conventional archival settings, materials are typically deposited by creators
 
 As digital scholars have noted, contributors to participatory archives may operate with expectations shaped by personal, commemorative, or community-oriented intentions, rather than by an awareness of archival permanence or scholarly reuse (Theimer, 2011). Materials submitted in a moment of immediacy — such as responses to traumatic events — may later be encountered in entirely different interpretive frameworks, raising questions about ongoing consent and ethical reuse.
 
-Based on the exercices of 1.c and the readings below:
+Based on the exercises of 1.c and the readings below:
 Theimer, Kate. “What Is the Meaning of Archives 2.0.” American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
 
-Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
+Zaagsma, Gerben. “Digital History and the Politics of Digitisation”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
 
 
 Write a short reflection (150–200 words) addressing the following:
@@ -124,7 +124,7 @@ Theimer, Kate. “What Is the Meaning of Archives 2.0.” *American Archivist* 7
 Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
 
 <!-- 
-We could define levels as follows: core, going further, advanced. This menas that the first two are necessary, the third is a plus and the fourth is if need for a more in depth exercice, for example in groups. 
+We could define levels as follows: core, going further, advanced. This menas that the first two are necessary, the third is a plus and the fourth is if need for a more in depth exercise, for example in groups. 
 1.a Who owns the past? — Core — 30 min
 1.b Consent and user-generated sources in a born-digital archive — Core — 30 min
 1.c When everyone contributes, who owns the archive? — Going further — 20 min
@@ -199,7 +199,7 @@ Return to the video animation: we know that Lea has her family's oral testimonie
 
 By digitising these materials, Lea turned them into digital data. Following the data lifecycle stages, we will trace the main ethical questions that arise at each stage for this project.
 
-For the sake of the exercice, focus on the stages of: acquisition/collection, publication, archiving/reuse. In each stage below, we provide a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
+For the sake of the exercise, focus on the stages of: acquisition/collection, publication, archiving/reuse. In each stage below, we provide a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
 <!--
 **Planning**
 
@@ -212,7 +212,7 @@ Remember, Lea's collection includes oral histories, audio and video recordings, 
 * What will happen to her project's data once Lea starts to work on other things? Remember, a project has a beginning, a life and an end!
 
 > In research projects that take place in the context of universities, there are institutional processes that are necessary to go through before beginning data collection, for example consultation with ethics review boards and data protection officers. 
-A Data Management Plan (DMP), is often asked at this stage (please see 2.c.
+<!--A Data Management Plan (DMP), is often asked at this stage (please see 2.c. we can take this out--> 
 
 <!--
 What would such a document contain? (We will return to this in the hands-on exercise below.) **EDITOR NOTE: This is treated in the last subpart wholly, and the DMP is not introduced at the present stage. This makes it complicated to use it here.**
@@ -238,7 +238,7 @@ Lea transcribes the interviews and creates descriptions (metadata) for the photo
 
 > When data from different sources—such as dates, locations, relationships, or even incidental health details mentioned in interviews—are combined, they can reveal someone’s identity or expose them to harm in ways that a single piece of data would not. This is known as re-identification risk, a well-documented issue in research that uses linked datasets (Ohm 2010).
 
-Going further: Can you think what Lea could do to manage re-identification risks? <!--this is quite advanced as exercice. If maintained, is it possible to give some tips? Or we could turn this question to an advanced exercice and provide a reading with examples, or not propose it as exercice at all and and give one reading or two, not too complicated, to go further if someone wants-->
+Going further: Can you think what Lea could do to manage re-identification risks? <!--this is quite advanced as exercise. If maintained, is it possible to give some tips? Or we could turn this question to an advanced exercise and provide a reading with examples, or not propose it as exercise at all and and give one reading or two, not too complicated, to go further if someone wants-->
 
 **Publication**
 
@@ -252,7 +252,7 @@ In most legal frameworks, privacy rights do not survive death — meaning that t
 For guidance: <a href="https://oralhistory.org/archives-principles-and-best-practices-complete-manual/">Oral History Association. Archiving Oral History — Ownership and Rights Management</a>
 </details>
 
-* What licence should Lea attach to the published materials? What are the implications of choosing a Creative Commons Attribution licence (CC BY) versus a more restrictive licence, or no licence at all? <!--this is the first time the lesson evokes CC licences and has not explained sufficiently definitions and stakes or provided any other information for learners to do this exercice here. We should adress this-->
+* What licence should Lea attach to the published materials? What are the implications of choosing a Creative Commons Attribution licence (CC BY) versus a more restrictive licence, or no licence at all? <!--this is the first time the lesson evokes CC licences and has not explained sufficiently definitions and stakes or provided any other information for learners to do this exercise here. We should adress this-->
 
 <details>
 <summary><strong>What is a licence?</strong></summary>
@@ -275,7 +275,7 @@ For more information: [Creative Commons](https://creativecommons.org/)
 In the end of the video animation, we see that Lea has the intention to contribute the digital data of her collection to a local history project that will then publish them on the project's website. Lea essentially delegates the responsibility of long-term preservation to a regional digital archive. Also, by making them available online, she also offers the possibility for these materials to be downloaded or shared by anyone and reused in new contexts.  
 * Should Lea deposit all the materials of her collection or only those for which there is clear consent for archival access? What happens to the materials that might not be deposited?
 * Let's suppose that a researcher contacts the archive ten years later, wanting to use the oral testimonies for a study on urban change. She proposes to apply computational text analysis to the transcripts. Is this use covered by the original consent? How would you find out, and what would you do if it is not?
-<!--* The archive proposes to assign the collection a persistent identifier (a DOI) so it can be cited in academic publications. Does this constitute a new use of the data, and does it raise any new consent or ownership questions? => the lesson has not entered in details explaining what a DOI really is and how it is used. We cannot ask learners to do this exercice. Perhaps we can limit the exercices of this stage to the two above, as they cover both archiving and reuse contexts -->
+<!--* The archive proposes to assign the collection a persistent identifier (a DOI) so it can be cited in academic publications. Does this constitute a new use of the data, and does it raise any new consent or ownership questions? => the lesson has not entered in details explaining what a DOI really is and how it is used. We cannot ask learners to do this exercise. Perhaps we can limit the exercises of this stage to the two above, as they cover both archiving and reuse contexts -->
 
 ### 2.c Hands-on: Drafting a Data Management Plan and provenance table
 A Data Management Plan (DMP) is a document that describes how data will be managed throughout a project. Most research funders in Europe now require one (European Commission 2016). For historians, a DMP serves a second purpose: it is a record of the provenance of the data — where it came from, how it was collected, and what decisions were made along the way.
@@ -325,10 +325,10 @@ Specific problem to address: handle the data efficiently in the context of the w
 One small paragraph for: 
 Context of inception of the CARE principles: policies of open data and open science, rise of initiatives on biases and who controls the data (in this case, indigenous data) 
 
-Then in parts 3a and 3b present specifically which are the FAIR and CARE principles, and go to the exercices. 
+Then in parts 3a and 3b present specifically which are the FAIR and CARE principles, and go to the exercises. 
 
-Exercices need to be simplified, they are too technical. 
-Problem: these details are not sufficiently explained (for example what is DOI and all the rest of this stuff), so it is not pedagogically efficient to build exercices without introducing these notions before. But this is a huge subject and also it is not necessarily pertinenet for historians (in the sense that too many details go beyond the scope of the lesson which is much more oriented on the "why" question than the "how" question.   
+exercises need to be simplified, they are too technical. 
+Problem: these details are not sufficiently explained (for example what is DOI and all the rest of this stuff), so it is not pedagogically efficient to build exercises without introducing these notions before. But this is a huge subject and also it is not necessarily pertinenet for historians (in the sense that too many details go beyond the scope of the lesson which is much more oriented on the "why" question than the "how" question.   
 --> 
 
 Sharing research data responsibly requires both technical rigour and ethical awareness. Two complementary frameworks guide this practice: the FAIR principles, which define the conditions for efficient and sustainable data sharing, and the CARE principles, which ask who benefits from that sharing and whose interests must be protected.
@@ -342,18 +342,18 @@ As open data initiatives expanded, marginalised voices pointed out that framewor
 
 Handle data with care and, if possible, share: how to do this? 
 The FAIR principles were published in 2016 by a consortium of researchers, librarians, and data managers. They have since become a standard reference point in open science, required by major research funders in Europe and elsewhere (Wilkinson et al. 2016). Navigate to the original paper in Scientific Data (https://doi.org/10.1038/sdata.2016.18) and read the abstract and the brief description of each principle (pp. 1–3). Then explore the go-FAIR website (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation.
-<!-- Sofia: the learning objective is too vast for the lesson; instead of apply, it ought to be understand or familiarise with the FAIR principles. The article should be used from the author to gove some hints in the introduction of part 3 about context of inception of the FAIR principles; the other link with the FAIR principles can be used to do the exrcice by the learners-->
+<!-- Sofia: the learning objective is too vast for the lesson; instead of apply, it ought to be understand or familiarise with the FAIR principles. The article should be used from the author to gove some hints in the introduction of part 3 about context of inception of the FAIR principles; the other link with the FAIR principles can be used to do the exercise by the learners-->
 <!---->
 [ IMAGE: Screenshot of the go-FAIR website FAIR principles overview] FAIR Principles overview, go-FAIR.org. Screenshot, [date]. https://www.go-fair.org/fair-principles/*
 
-<!-- Sofia: I propose in the following list of principles, in each case to keep the initial word (for ex. Findable) and then only the first phrase that gives an elementary explanation. Work some important ones through the exercice by making in hands-on in order for learners to understand by problem. If technical details persist, then add links with explanations of the concept, for ex. to Wikipedia-->
+<!-- Sofia: I propose in the following list of principles, in each case to keep the initial word (for ex. Findable) and then only the first phrase that gives an elementary explanation. Work some important ones through the exercise by making in hands-on in order for learners to understand by problem. If technical details persist, then add links with explanations of the concept, for ex. to Wikipedia-->
 FAIR stands for:
 * Findable: Data and metadata should be easy to discover<!--, using persistent, globally unique identifiers (such as DOIs) and rich, standardised metadata registered in searchable catalogues.-->
 * Accessible: The conditions of access to data should be clearly stated - based on the understanding that accessibility also means that some data may legitimately be restricted. <!--Data should be retrievable under clearly specified conditions, using open and universal protocols. 'Accessible' does not mean 'free for all': some data may legitimately be restricted. What FAIR requires is that the conditions of access be clearly stated.-->
 * Interoperable: Data should use standardised formats, vocabularies, and ontologies so that it can be integrated with other datasets and used by different tools. For historians, this means using recognised metadata schemas (Dublin Core, Europeana Data Model) and controlled vocabularies for names, places, and dates.
 * Reusable: Data should be accompanied by a clear statement on the rights if use, usually a licence, and sufficient documentation — a README file, a data dictionary, a description of the methodology — so that another researcher can understand and build on it.
 
-<!--You can explore the [go-FAIR website] (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation. You will use this website in the exercices below-->
+<!--You can explore the [go-FAIR website] (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation. You will use this website in the exercises below-->
 
 Now navigate to [Zenodo](https://zenodo.org), a data repository hosted by CERN, the European Organization for Nuclear Research, and [an open infrastructure of the European Community](https://about.zenodo.org/). Search for a dataset related to oral history or cultural heritage. Select one result that interests you and examine its record page carefully.
 
