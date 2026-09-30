@@ -4,15 +4,15 @@ authors:
 editors: 
  - sofia-papastamkou
  - aida-horaniet-ibanez 
-date: 2025-05-08
-title: Data criticism. Defining data
+date: 2026-09-30
+title: Data and critique - the construction of data
 learning-objectives: 
  - Understand how digital data represent historical information through encoding systems and formats
  - Critically analyse how data models, schemas, and categories shape the representation of historical sources
  - Understand how relational databases structure and connect historical information 
 ---
 
-This lesson is based on the assumption that data are not neutral givens, but structured representations shaped by cultural conventions, technical choices, and research purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
+This lesson is based on the assumption <!--is assumption the good term?--> that data are not neutral givens, but structured representations shaped by cultural conventions, technical choices, and research purposes. It begins by exploring what “data” means and identifying its main characteristics before focusing on the specific nature of digital data.
 
 Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
@@ -83,9 +83,11 @@ If we look at a date like June 28, 1914 (`28-06-1914`), we can see another impor
 
 ### Reading/viewing suggestions
 
-Drucker, Johanna. Humanities Approaches to Graphical Display. *Digital Humanities Quarterly* 5 (1), 2011. https://doi.org/10.63744/r4ysrh7ae534.
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” *Digital Humanities Quarterly* 5 (1), 2011. https://doi.org/10.63744/r4ysrh7ae534.
 
-Loukissas, Y. A. (2019). _All data are local: Thinking critically in a data-driven society_. The MIT Press
+Loukissas, Yanni Alexander. (2019). *All data are local: Thinking critically in a data-driven society*. The MIT Press
+
+Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *The American Historical Review* 121 (2), 2016: 377‑402. https://doi.org/10.1093/ahr/121.2.377.
 
 Rosenberg, D. (2013). Data before the Fact. In L. Gitelman (Ed.), “Raw Data” Is an Oxymoron (pp. 15–40). The MIT Press. https://doi.org/10.7551/mitpress/9302.003.0003 to be found [here](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
 
