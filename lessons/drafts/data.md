@@ -23,16 +23,24 @@ Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 * *Recognise the role of formats, conventions and standards in data representation*
 * *Reflect on the historical and cultural dimensions of data formats.*
 
-The word “data” comes from Latin and means that which is given as in the French term *données*. In fact, what we call "data" – literally, "that which is given" – might be more accurately described as capta: "that which is taken," as Johanna Drucker (2011) argues. Data are not simply found in the world; they are actively constructed through assumptions and choices that are cultural, historical, political, and social (Drucker 2011, Loukissas 2019). Let's explore what "data" means and what its main characteristics are.
+The word “data” comes from Latin and means that which is given as in the French term *données*. In fact, what we call "data" might be more accurately described as capta: "that which is taken," as Johanna Drucker (2011) argues. Data are not simply found in the world; they are actively constructed through assumptions and choices that are cultural, historical, political, and social (Drucker 2011, Loukissas 2019). Let's explore the meaning and the main characteristics of "data".
 
 ### 1.a Objects becoming data
-Watch the video animation following Lea as she discovers and documents the objects left by her grandmother: books, postcards, tapes, floppy disks, videotapes, and photographs. 
+Watch the video animation following Lea as she discovers and documents the objects left by her grandmother.  
 
-1. Are all these objects “data”? 
-2. What kinds of information do these objects contain? 
+1. What are the objects that Lea discovers? (books, postcards, tapes, floppy disks, videotapes, and photographs).
+2. What kind of information do these objects contain? (text, sound, digital files, animated and still images) 
 3. Which of the objects are directly readable by humans, and which ones require technical mediation — that is, a device or piece of software that translates the object's content into something a human can directly perceive (for example, a tape recorder for an audio cassette, or a floppy disk drive connected to a computer)?
 
-When Lea makes photos of each object using her phone, several transformations take place. Consider: Does the photo capture everything about the object, or only some aspects of it? Could a future reader interpret the photo without ever having seen the original object? Could you tell from the photo alone whether the floppy disk still holds readable data? Do you think Lea constructs data at this stage? In what ways?
+At what point do these objects become “data”? Tip - Watch again from 00:14 to 00:16: what is the function of these objects for Lea? what does she aim to do with them? These are the elements that define the context in which the objects become data. 
+(When Lea decides that the objects are memories that need to be preserved, she defines the context in which these objects become data)  
+
+When Lea makes photos of each object using her phone, several transformations of their materiality take place. Do you think Lea creates data at this stage? In what ways? (Lea digitises the objects and created digital data)
+
+Now reflect on the following: 
+* Does the photo capture everything about the object, or only some aspects of it? 
+* Could a future reader interpret the photo without ever having seen the original object? 
+* Could you tell from the photo alone whether the floppy disk still holds readable data? 
 
 
 ### 1.b Understanding the building blocks of data
