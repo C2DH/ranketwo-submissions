@@ -43,14 +43,14 @@ Now reflect on the following:
 * Could you tell from the photo alone whether the floppy disk still holds readable data? 
 
 
-### 1.b Understanding the building blocks of data
-Let's work with dates. Dates are one of the simplest and most familiar forms of data. We use them to identify specific moments in time by combining a limited set of symbols. 
+### 1.b Understanding core characteristics of data
+Dating the objects is one of the tasks Lea gives to herself in the video to document her grandmother's holdings. Dates are important data for historians because they allow to contextualise a source. 
 
-Dates are important data for historians because they allow to contextualise a source - by the way, dating the objects is one of the tasks Lea gives to herself in the video to document her grandmother's holdings.  
+Dates are also one of the simplest and most familiar forms of data that we use to identify specific moments in time by combining a limited set of symbols. 
 
 A date such as `28-06-1914` already illustrates two essential characteristics of data: the symbols that represent data have to be finite and distinct.
 
-“Finite” means that data are built from a limited number of possible symbols. In the decimal system, for example, we use only ten digits (0–9). Likewise, the alphabet consists of a finite number of letters. Although the number of symbols is limited, they can be combined and rearranged in countless ways. This is what makes data versatile and powerful.
+“Finite” means that data are represented using a limited number of possible symbols. In the decimal system, for example, we use only ten digits (0–9). Likewise, the alphabet consists of a finite number of letters. Although the number of symbols is limited, they can be combined and rearranged in countless ways. This is what makes data versatile and powerful.
 
 “Distinct” means that each symbol must remain clearly distinguishable from the others. A 6 must always be recognizable as a 6, and not confused with a 5 or an 8. If symbols were not distinct, data could not be interpreted consistently by humans or machines.
 
@@ -59,9 +59,7 @@ Inspect these two dates:
 * `28-06-1914`
 * `8.6.1914`
 
-
-1. Which are the differences?
-2. Could these formats create confusion? In what situations?
+In what ways are these representations different? Do you discern any possibility of confusion, if so, in which case and how?
 
 What have we learned so far? Data only makes sense if the symbols representing it are _distinct_ and _finite_.
 
