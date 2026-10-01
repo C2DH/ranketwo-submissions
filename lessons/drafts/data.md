@@ -99,7 +99,7 @@ Rosenberg, D. (2013). Data before the Fact. In L. Gitelman (Ed.), “Raw Data”
 
 ## 2 Encoding and digital representation
 
-*Learning outcomes*: Understand how encoding translates texts, images (and, by the same logic, also sounds) into machine-readable digital data; recognise that digital representations depend on technical standards, formats, and encoding schemes; critically reflect on how encoding shapes the preservation, interpretation, and accessibility of historical sources.
+*Learning outcomes*: Understand how encoding mediates the transformation of information into machine-readable digital data; recognise that digital representations depend on technical standards, formats, and encoding schemes; critically reflect on how encoding shapes the preservation, interpretation, and accessibility of historical sources.
 
 How is reality translated into data? Encoding, the process of converting information from one format into another, lies at the heart of data recording. One of the simplest forms of encoding is a physical mark on a surface, such as a notch in wood or a punched hole in paper, used to represent a simple distinction like “yes” or “no”. Similar principles still appear today in tickets, gift cards, and punched cards.
 
@@ -118,7 +118,7 @@ Encoding serves to [transform human-readable to machine-readable information](ht
 Let's see together how a computer would interpret the holes of punch cards. 
 
 STEP 1
-Please inspect carefully the image below: it represents an [IBM](https://fr.wikipedia.org/wiki/IBM) punch card. The respective holes represent characters (letters, numbers, special characters). Can you distinguish a zone in the card that is readable by humans? 
+Please inspect carefully the image below: it represents an [IBM](https://en.wikipedia.org/wiki/IBM) punch card. The respective holes represent characters (letters, numbers, special characters). Can you distinguish a zone in the card that is readable by humans? 
 Tip: look on the top of the card! 
 
 Now, think briefly: if you wanted to write your name and make it machine-readable, what knowledge would it take to be able to punch it using this card? (We will come back to this question but for the moment please follow the next step below). 
@@ -172,7 +172,7 @@ Use an online ASCII or Unicode converter. You can use [RapidTables](https://www.
 2. Convert a short sentence — including at least one space and one punctuation mark — into ASCII. Which codes represent the space and the punctuation mark?
 3. Enter accented characters or non-Latin scripts. Explore their representations in different encoding schemes, for example ASCII, ASCII/UTF-8, Unicode. 
 
-Even if you do not fully understand what you see, such codes can be a source of technical problems — for example when collecting or publishing sources in web environments — but the same technical knowledge can also provide solutions to these problems. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). In other words, encoding has a role in what is visible and what is not. It is important to know this, even if you are not the one who would the technical work to fix such issues.   
+Even if you do not fully understand what you see, such codes can be a source of technical problems — for example when collecting or publishing sources in web environments — but the same technical knowledge can also provide solutions to these problems. The variety of encoding systems is result of technical choices and cultural assumptions and can have an impact on collecting, analysing and preserving historical data (see 2.d). In other words, encoding has a role in what is visible and what is not. It is important to know this, even if you are not the one who would do the technical work to fix such issues.   
 
 ### 2.c Images as encoded data
 
@@ -234,7 +234,7 @@ Reflect on the following questions:
 
 ### 2.d Why encoding schemes matter for historians
 
-The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols (ASCII Imperialism). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of.
+The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols ("ASCII Imperialism"). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of.
 
 Digital representations, whether text or images (or sound) are therefore never exact copies of reality. They depend on technical standards, resolutions, formats, and encoding choices. These choices shape what can be preserved, displayed, searched, analysed, or shared.
 
@@ -242,8 +242,7 @@ For historians, encoding matters because digital sources are always mediated by 
 
 > Although humans may find binary difficult to read, computers use it to represent and process all kinds of information. As we have seen, combinations of `0`and `1`s can encode texts, images, sounds, and many other forms of data. They can also represent instructions and logical operations such as “AND,” “OR,” and “NOT” — which means that binary digits are not only used to store information, but also to run algorithms and computer programs.
 
-
-Return to Lea’s digital collection of her grandmother's holdings from the introductory animation. Note the scene 5 where Lea discusses with Ada about the floppy disk.  
+Return to Lea’s digital collection of her grandmother's holdings from the introductory animation. Check Lea's discussion with Ada about the floppy disk and its metadata from 01:00 to 01:15.  
 
 1. Which technical problems could affect the preservation of her grandmother’s floppy disks, tapes, or digital photographs?
 2. What kinds of information could be lost during digitisation?
@@ -253,11 +252,11 @@ Return to Lea’s digital collection of her grandmother's holdings from the intr
 
 ### Reading/viewing suggestions 
 
-Haigh, Thomas. *Defining Digitalities I.* 2023. https://doi.org/10.25819/ubsi/10259.
+Haigh, Thomas. *Defining Digitalities I.* 2023. [DOI](https://doi.org/10.25819/ubsi/10259).
 
 The Punched Card | IBM. https://www.ibm.com/history/punched-card.
 
-http://www.injosoft.se, Injosoft AB. The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
+The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
 Pargman, Daniel, and Jacob Palme. "ASCII Imperialism." In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
 
@@ -327,7 +326,7 @@ When we want to describe and compare several historical personalities, objects, 
 <!--
 If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
 -->
-We can now expand our table to list several historic persons by adding further records (=rows) to it:
+We can now expand our table to list several historic persons by adding further records to it:
 
 |Person ID|first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
 |:---------:|:--------:|:-------:|:--------:|:-------:|:--------:|:-----:|:---:|:---:|
@@ -364,14 +363,14 @@ The fourth column could be a string again, but it could also be a geo-coordinate
 * What kind of issues could you encounter with the fifth column? 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-Our first historic person, Karl, was rather productive and was the author of many more than just one text. This is not a question of finality, but a structural problem: one person can be linked to many works — a *one-to-many relationship*. Squeezing several titles into a single cell (for example, separated by commas) might look like a solution, but it makes the data hard to search, sort, or count reliably. The proper solution is to give authored works their own table and link it back to the person — we will see exactly how to do this in Section 4.
+Our first historic person, Karl, was rather productive and was the author of many more than just one text. This is not a question of finality, but a structural problem: one person can be linked to many works — what we call a <b>one-to-many relationship</b>. Squeezing several titles into a single cell (for example, separated by commas) might look like a solution, but it makes the data hard to search, sort, or count reliably. The proper solution is to give authored works their own table and link it back to the person — we will see exactly how to do this in Section 4.
 </details> 
 
 * Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you think you could express these values (text, other)?
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-In this column, the values could be pre-defined: would you define two or more types of values? Whatever you decide, would these values be textual or integers? Think in terms of [coding data](https://en.wikipedia.org/wiki/Coding_(social_sciences)).
+In this column, the values could be pre-defined: would you define two or more types of values? Whatever you decide, would these values be textual or integers? Think in terms of <a href="https://en.wikipedia.org/wiki/Coding_(social_sciences)">coding data</a>.
 </details>
 
 * What values can you enter in the eighth column? 
@@ -386,9 +385,9 @@ What you've encountered here is called [data types](https://en.wikipedia.org/wik
 
 ### 3.c Creating datasets - 30 minutes
 
-Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be employed in data sets.
+Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be employed in datasets.
 
-Remember, in the video animation Lea finds several objects in her grandmother's house. Let's imagine that she ends up having a collection like the one described in [this lesson](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md#3c-bringing-it-all-together-evaluating-leas-choices). Note down the objects and put yourself into Lea's shoes: her purpose is to create an inventory. 
+Remember the video animation: from all the things available in her grandmother's house, Lea is not interested in the vase or the mirror, but in specific objects that she considers carriers of memories. In subsection 1.a, your first task was to note down the objects Lea enumerates in the video as findings. Use this list to put yourself into Lea's shoes: her purpose is to create an inventory of her findings. 
 
 1. Imagine a table Object to describe each of the objects enumerated in the video (one object per row)
 2. Which attributes you would create for each of the objects enumerated? (one attribute per column) 
@@ -408,12 +407,10 @@ If your purpose is instead to *document* the object in detail — for example, t
 |---|---|---|---|---|---|---|
 | 1 | floppy disk | plastic, magnetic film | 3.5 inch | "Photos 1998" (handwritten) | rusted casing, label partially faded | no |
 
-Notice how the same object requires a different data model depending on your purpose.
+Notice how the same object requires a different set of properties depending on your purpose.
 </details>
 
-> Deciding what to record about Lea's grandmother's belongings — and what to leave out — is itself an ethical choice. To explore this further, check this lesson on [ethics and responsibilities](https://github.com/C2DH/ranketwo-submissions/blob/master/lessons/drafts/data-ethics.md).
-
-Critically thinking about data assembled by somebody else is crucial if we want to employ in our research. We always need to evaluate it to identify potential biases, shortcomings or problematic choice of categories. To allow the same thing for other using our data, we need to document why we have chosen a specific category or value, or why we might have revised it later on, so that our decision remain retracable. This way, other researchers can look for complementary sources from a different archive, or compare our data with another type of source (like oral history or photographs) to check, enhance or even critique the conclusions that our dataset might suggest just by the selection of the data model.
+Critically thinking about data assembled by somebody else is crucial if we want to employ these data in our research. We always need to evaluate it to identify potential biases, shortcomings or problematic choice of categories. To allow the same thing for other people using our data, we need to document why we have chosen a specific category or value, or why we might have revised it later on, so that our decision remain retraceable. This way, other researchers can look for complementary sources from a different archive, or compare our data with another type of source (like oral history or photographs) to check, enhance or even critique the conclusions that our dataset might suggest just by the selection of the data model.
 
 ### Reading/viewing suggestions
 
