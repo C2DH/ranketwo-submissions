@@ -439,20 +439,20 @@ Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribu
 
 ![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
 
-The exercises in 4.a, 4.b, 4.c, 4.d and 4.e use this source. Subpart 4.f illustrates a possible implementation of a database using a collection this source is part of. 
+The exercises in the following subsections use this source and provide specific instructions. Subsection 4.f illustrates a possible implementation of a database using a collection this source is part of. 
 
-Before going further, let us note that we could treat this source on three different levels: On the one hand, we're dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
+Before going further, let us note that we could treat this source on three different levels: On the one hand, we are dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
 
 ![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
 
 The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
 ![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
+<!--it is not very clear how these three or even four levels are relevant with the rest. Also, what is the selected way to treat the source in the sections below-->
+
 ### 4.a Conceiving a data model
 
-Before information can be entered into a spreadsheet or a database, historians must decide what they want to record. A historical source contains far more information than can reasonably be captured as data. Researchers therefore select a limited number of categories that correspond to their research questions.
-
-This selection of categories is called a data model.
+Historians must decide what they want to record before information can be entered into a spreadsheet or a database. It is the research question that determines the categories a historian selects and the data to capture from a historical source. The selection of categories and the way these relate to each other is called a data model.
 
 A data model defines:
 
@@ -460,7 +460,7 @@ A data model defines:
 * Which attributes will be recorded for each type of information
 * How the information is split and how the different parts relate to each other
 
-Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households. In theory, at last, the research question comes first and the data model is built according to it. In practice, however, the sequence is much less directed. Often, only when working out how to model a source, we encounter unexpected ambiguities or even new analytically interesting ways to capture and connect information, which will again affect the research question itself. Designing a data model therefore is usually more an iterative process, moving back and forth between what you were initially interested in and what the sources allow you to capture, rather than a decision you can make early on in your project and stiuck to during the analysis.
+Different research questions require different data models. A historian studying political networks may record offices and organisations, while a historian studying family history may focus on kinship relations and households. In theory, the research question comes first and the data model is built according to it. In practice, however, designing a data model is more an iterative process, moving back and forth between the initial research question, constraints imposed by the sources, such as ambiguities, and analytical method requirements.
 
 Consider the source above.
 
@@ -484,9 +484,9 @@ Now check the following image — this is what a data model for this source coul
 Building a data model in practice raises further questions, such as how to handle a person known by several different names or titles (as with Palmerston in 4.c), or how to record that one person can be linked to several different works or roles (as with Karl's many publications in Section 3) — these are not flaws in your model, but design decisions every historian working with data has to make.
 
 
-### 4.b Extracting information from sources
+### 4.b Extracting historical information from sources
 
-Before building a database, historians must identify the information they want to record. In this exercise, we are going to extract names, places, organisations, and events from our historical sources. We are actually going to perform a simplified form of [Named Entity Recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition).
+Before building a database, historians must identify the information they want to record. In this exercise, we are going to extract names, places, organisations, and events from our historical sources. We are actually going to perform a simplified, non automatised form of [Named Entity Recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition).
 
 Look at the source excerpt above.
 
@@ -500,11 +500,11 @@ Which entities were easiest to identify? Which were more ambiguous?
 ![first paragraphs](/assets/images/data-criticism/source-zoom.jpg)
 
 
-### 4.c Understanding the limits of spreadsheets
+### 4.c Organising complex historical information
 
 Imagine that you repeat the previous exercise for 500 newspaper articles. The same people, places, and organisations will appear again and again. If you store everything in a single spreadsheet, the information quickly becomes difficult to organise and maintain.
 
-Suppose Lord Palmerston appears in fifty different newspaper articles.
+Suppose Lord Palmerston appears in fifty different newspaper articles. Try to answer the following:
 
 * How would you record the different political roles he held during the period covered by Marx's articles?
 * How would you handle the different titles used to refer to him?
@@ -512,7 +512,7 @@ Suppose Lord Palmerston appears in fifty different newspaper articles.
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary>
-These problems are not unique to spreadsheets — a carelessly designed database can suffer from exactly the same duplication and inconsistency. What a database really adds is not automatic prevention, but enforcement: once you decide that Palmerston is recorded once, as P002, the database will not let that rule be silently broken — a spreadsheet cannot guarantee that. The real advantages of a database over a spreadsheet show up as a project grows: it can handle far more data, answer complex questions across many tables at once, let several people work on it together, stay fast with large datasets, keep connections between tables automatically up to date, and offer proper backups.
+These problems are not unique to spreadsheets: a carelessly designed database can also suffer from duplication and inconsistency. What a database really adds is not automatic prevention, but enforcement: once you decide that Palmerston is recorded once, as P002 (P for Person and 002 because this name was the second person name in the extract provided in 4.b), the database will not let that rule be silently broken — a spreadsheet cannot guarantee that. The real advantages of a database over a spreadsheet show up as a project grows: it can handle far more data, answer complex questions across many tables at once, let several people work on it together, parse fastly large datasets, keep connections between tables automatically up to date, and offer proper backups.
 </details>
 
 Discuss why a spreadsheet can become difficult to manage when information is repeated, ambiguous, uncertain, or complex.
@@ -521,7 +521,7 @@ Discuss why a spreadsheet can become difficult to manage when information is rep
 >
 > **A note on scaling to many sources:** The table design shown above works well for a single article, where every Person, Place, and Organisation simply points back to the one Source they came from. But imagine building a database from a whole corpus — say, 500 newspaper articles about British foreign policy. Lord Palmerston would then be *mentioned in* many different sources, not *created by* one. Giving Person a single `source_id` column would force you to either duplicate Palmerston's row for every article he appears in (defeating the whole purpose of deduplication described above), or arbitrarily pick just one source to "own" him. The correct solution is a junction table — call it `Mention` — that records every time a person is named in a source, while the Person row itself stays unique.
 
-#### Mention Table (junction table Person ↔ Source)
+Mention Table (junction table Person ↔ Source)
 
 | mention_id | person_id | source_id |
 |---|---|---|
