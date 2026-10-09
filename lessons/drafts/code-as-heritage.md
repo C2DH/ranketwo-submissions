@@ -134,22 +134,24 @@ Code is not the only kind of formal, symbolic writing historians study; mathemat
 
 This vulnerability is not abstract. Source code is facing what has been called a digital dark age (Silva 2022), in other words the possible loss of vast amounts of digital information. Three factors are driving this risk. Technological obsolescence occurs when the hardware and software a program depends on become outdated. Platform changes occur when the services hosting code shut down or change significantly. And digital storage media are physically fragile, degrading over time in ways that paper archives generally do not. Section 1.c examines what this fragility has meant in practice by looking at the history of video game preservation.
 
-### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
+### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition – 20 mins
 
-Why should we care about preserving historical code? Source code faces particular vulnerabilities, as concrete examples in 1.c show.
+Why should we care about preserving historical code? Source code faces particular vulnerabilities, as the real-world examples in 1.c show.
 
-The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
+The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone. The Charter formally acknowledged that born-digital materials – content that originates in digital form – constitute an important part of our cultural legacy. These materials include databases, websites, software and other digital content that have never existed in physical form.
 
-Why was this recognition important? By officially affirming the historical and cultural value of digital materials, UNESCO effectively placed them on equal footing with traditional heritage forms like monuments and artifacts, highlighting their significance for future generations.
+Why was this recognition important? By officially affirming the historical and cultural value of digital materials, UNESCO effectively placed them on an equal footing with traditional forms of heritage like monuments and artefacts, highlighting their significance for future generations.
 
-However, it did not explicitly address source code preservation ([UNESCO 2009](https://unesdoc.unesco.org/ark:/48223/pf0000179529)). That changed in 2023, when UNESCO formally recognized the importance of preserving software source code as digital heritage for sustainable development, acknowledging its value across education, research, and cultural preservation ([UNESCO 2023](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)).
+However, it did not explicitly address source code preservation ([UNESCO 2009](https://unesdoc.unesco.org/ark:/48223/pf0000179529)). That changed in 2023, when UNESCO formally recognised the importance of preserving software source code as digital heritage for sustainable development, acknowledging its value across education, research and cultural preservation ([UNESCO 2023](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)).
 
-**Exercise – Analyzing UNESCO's Recognition of Source Code**
 
-These two documents show how digital heritage recognition has evolved and the challenges preservation efforts face. They provide important historical context and current thinking on source code preservation.
 
-* [Charter on the Preservation of the Digital Heritage (2003)](https://unesdoc.unesco.org/ark:/48223/pf0000179529) - Focus on definitions and scope (articles 1-3)
-* ['Positioning Software Source Code as Digital Heritage for Sustainable Development' (2023)](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)
+**Exercise – Analysing UNESCO's Recognition of Source Code**
+
+These two documents show how digital heritage recognition has developed over time and highlight the challenges involved in preservation. They provide important historical context and reflect contemporary attitudes to source code preservation.
+
+* [Charter on the Preservation of the Digital Heritage (2003)](https://unesdoc.unesco.org/ark:/48223/pf0000179529) – Focus on definitions and scope (articles 1-3)
+* [Positioning Software Source Code as Digital Heritage for Sustainable Development (2023)](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)
 
 Questions for reflection:
 
