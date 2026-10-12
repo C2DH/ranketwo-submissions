@@ -522,25 +522,25 @@ James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Prog
 
 
 
-## 3 A Case Study of Code Source Criticism - The Journey of the Apollo Code: Preservation, Heritagization, and Hidden Histories
+## 3 A Case Study of Source Code Criticism – The Journey of the Apollo Code: Preservation, Heritagisation and Hidden Histories
 
 45 minutes
 
 > [!NOTE]  
 > **Learning Objectives for Section 3:**
-> Engage with the materiality, technicality, and embedded cultural references of code in aims of historical analysis
+> Engage with the materiality, technicality and embedded cultural references of code for the purposes of historical analysis.
 
-On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload — yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. The AGC software represented one of the most complex programming projects of its era — and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to this material can reveal.
+On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before when it landed astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world was dependent on software developed at MIT’s Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission’s success, autonomously navigating the spacecraft, managing critical flight systems and famously recovering from overload alarms during the final minutes of descent. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload – yet the mission continued safely. This was possible because Margaret Hamilton’s team had designed the software to prioritise essential tasks and recover gracefully from errors, an innovative approach for that time which proved critical in those final minutes before landing. The AGC software represented one of the most complex programming projects of its era – and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today and what a critical appraisal of this material can reveal.
 
 ![The Apollo Guidance Computer (AGC) hardware module](/assets/images/code-as-heritage/Apollo_Guidance_Computer_AGC.jpg "Apollo Guidance Computer")
 
 **Figure 5:** The Apollo Guidance Computer (AGC), 1969. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
 
-In section 2, we introduced analytical questions for approaching code as historical evidence — questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete case across three dimensions: its survival as a paper artefact, the hidden histories it conceals, and its journey from paper to digital.
+In section 2, we introduced a series of analytical questions that can be used to approach code as historical evidence – questions about provenance, authenticity, context and cultural markers. The Apollo code provides an opportunity to apply these questions to a real-life case, considering three aspects: its survival as a paper artefact, the hidden histories it conceals and its journey from paper to digital.
 
 ### 3.a The Original Artefact: Reading the Paper Listing
 
-The preservation of Apollo's source code represents a rare exception in software history. Source code from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription. Yet even when source code survives, it doesn't carry everything with it — the paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project.
+The preservation of Apollo’s source code represents a rare exception in software history. Source code from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the task of digitisation and transcription. Yet even when source code survives, it doesn’t carry everything with it – paper listings document technical decisions but not the conditions in which they were made, the labour that produced them or the institutional dynamics that shaped the project.
 
 ![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
 
@@ -555,35 +555,35 @@ This is a page from the printed source code listing for the Apollo 11 Lunar Modu
 - Page numbers printed on the document itself (Page 731)
 - Assembly language notation as it appeared when the code was compiled on 14 July 1969
 
-The columns of abbreviated instructions may look opaque at first — this is assembly language, the level of the hierarchy introduced in section 1 that sits directly above machine code. But as you will see, much of what matters historically on this page requires no assembly knowledge to read.
+The columns of abbreviated instructions may seem impenetrable at first – this is assembly language, the level of hierarchy introduced in section 1 that sits directly above machine code. But as you will see, much of what matters historically on this page requires no assembly knowledge to read.
 
 **What is visible without technical expertise:**
 
 - The routine name at the bottom: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
-- A timestamp — a machine-generated record of the exact time the code was compiled (here: `16:27 JULY 14, 1969`) — and a program identifier in the header area
+- A timestamp – a machine-generated record of the exact time the code was compiled (here: `16:27 JULY 14, 1969`) – and a program identifier in the header area
 - Columns of abbreviated instructions and numeric codes
 
 
-**Exercise Part 1: First encounter with the artefact**
+**Exercise part 1: First encounter with the artefact**
 
-Examine Figure 6 carefully. Without any programming knowledge, identify:
+Examine Figure 6 carefully. Without any programming knowledge, reflect on the following questions:
 
 - What types of information can you extract from this page? (Consider dates, names, structure, formatting)
 - What questions does the artefact raise that it cannot answer? (Consider authorship, purpose, context)
 - How does the physical format of continuous-feed paper shape what was preserved?
-- Now consider the limit of this page on its own. This page tells you a great deal about who made it, when, and how it was produced, but not everything you would need to know if you wanted to understand exactly how this code made the computer behave. What kind of additional information about the machine itself would you need for that deeper level of understanding?
+- Now consider the limits of this page on its own. It tells you a great deal about who made it, when, and how it was produced, but not everything you would need to know if you wanted to understand exactly how the code made the computer behave. What kind of additional information about the machine itself would you need for that deeper level of understanding?
 
-This exercise demonstrates a key principle, and its limit. Without technical expertise, historians can still extract real information from a piece of code: dates, names, structure, the material conditions of its production. But extracting this information is not the same as fully understanding what the code did once it ran. That deeper level of interpretation would require knowledge of the machine itself, something this page alone cannot supply.
+This exercise demonstrates a key principle and the limitations of that principle. Without technical expertise, historians can still extract real information from a piece of code: dates, names, structure and the material conditions in which it was produced. But extracting this information is not the same as fully understanding what the code did once it ran. That deeper level of interpretation would require knowledge of the machine itself, something this page alone cannot supply.
 
 ### 3.b Hidden Histories: Gender and Invisible Labour
 
-The code alone does not reveal who produced it, under what conditions, or what that labour cost. To recover those dimensions, historians need other sources — and oral history is one of the most important.
+The code alone does not reveal who produced it, in what conditions, or what that labour cost. To learn about those aspects, historians need other sources, such as oral history.
 
 ![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
 
-**Figure 7:** [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)), director of MIT's Software Engineering Division, beside the Apollo program's source code listings, 1969. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
+**Figure 7:** [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer), director of MIT’s Software Engineering Division, beside the Apollo program's source code listings, 1969. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
 
-Margaret Hamilton directed the team at MIT's Instrumentation Laboratory that produced the Apollo software. She is also credited with coining the term "software engineering." The stacks of printed code beside her — roughly her own height — illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation.
+Margaret Hamilton directed the team at the MIT Instrumentation Laboratory that produced the Apollo software. She is also credited with coining the term “software engineering”. The stacks of printed code beside her – roughly her own height – illustrate the sheer physical scale of software projects in the 1960s, when code existed primarily as printed documentation.
 
 **Exercise: Code and invisible labour**
 
@@ -591,33 +591,33 @@ In 2004, the Computer History Museum conducted an oral history interview with Ha
 
 On working in exclusively male environments:
 
-> *"It was all men. All men and me."*
+> *“It was all men. All men and me.”*
 
-On bringing her daughter to the laboratory to work nights and weekends, and a colleague's reaction:
+On bringing her daughter to the laboratory to work nights and weekends, and a colleague’s reaction:
 
-> *"He said how can you work here when you have a baby at home [...]. He wasn't used to having a woman there number one, and number two with a child."*
+> *“He said how can you work here when you have a baby at home [...]. He wasn’t used to having a woman there number one, and number two with a child.”*
 
-On coining the term "software engineering" and how it was received:
+On coining the term “software engineering” and how it was received:
 
-> *"The engineers thought it was funny. There's margaret again, with her software engineering. You know it was funny."*
+> *“The engineers thought it was funny. There’s margaret again, with her software engineering. You know it was funny.”*
 
-On pay inequality:
+On the gender pay gap:
 
-> *"I found out that some men were making twice as much as women, for no reason, but excuses were given out, like, well because women get married, their husband will support them so they don't need us."*
+> *“I found out that some men were making twice as much as women, for no reason, but excuses were given out, like, well because women get married, their husband will support them so they don’t need us.”*
 
 Her own framing of these experiences:
 
-> *"I didn't think of it as men and women. It wasn't fair"*
+> *“I didn’t think of it as men and women. It wasn’t fair”*
 
 Considering the excerpts above, reflect on:
 
-- What aspects of Hamilton's experience and contribution do not appear anywhere in the code itself?
-- How does her testimony complement what the paper listing (Figure 6) can tell us about the Apollo project?
-- What does this suggest about the types of sources historians must use alongside code artefacts?
+- What aspects of Hamilton’s experience and contribution do not appear anywhere in the code itself.
+- How her testimony complements what the paper listing (Figure 6) can tell us about the Apollo project.
+- What this suggests about the types of sources historians need to use alongside code artefacts.
 
-These details about gender dynamics, professional recognition, and the practical conditions of technical labour do not appear in the code itself. The programming profession became increasingly masculinised during the 1960s and 1970s: while women had played significant early roles in programming, the field's professionalisation involved constructing a gendered professional identity that marginalised women's contributions ([Ensmenger 2010](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). 
+These details about gender dynamics, professional recognition and the practical conditions of technical labour do not appear in the code itself. The programming profession became increasingly masculinised during the 1960s and 1970s: although women had played a significant role in the early days of programming, the professionalisation of the field involved constructing a gendered professional identity that marginalised women’s contributions ([Ensmenger 2010](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). 
 
-Hamilton's testimony provides a first-person account of navigating these dynamics at one of the period's most prominent software projects. Oral history interviews with software pioneers thus constitute essential sources for computing history, capturing dimensions of experience that no source, however well preserved, can supply on its own. The [Computer History Museum](https://computerhistory.org/) and [NASA History Office](https://www.nasa.gov/history/history-office/) hold collections of such interviews that provide indispensable context for interpreting archival materials.
+Hamilton’s testimony provides a first-person account of navigating these dynamics during one of the period’s most prominent software projects. Her account shows how oral history interviews with software pioneers can serve as essential sources for computing history, capturing dimensions of experience that no other source, however well preserved, can supply on its own. The [Computer History Museum](https://computerhistory.org/) and [NASA History Office](https://www.nasa.gov/history/history-office/) hold collections of such interviews that provide indispensable context for interpreting archival materials.
 
 ### 3.c From Paper to Digital: Questions of Reconstruction
 
