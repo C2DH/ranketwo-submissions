@@ -763,7 +763,7 @@ The [GitHub Archive Program](https://archiveprogram.github.com/) represents a sp
 
 Launched in 2020, the program creates secure, long-term backups through multiple storage methods. Perhaps most striking is the [Arctic Code Vault](https://www.youtube.com/watch?v=0v9Rwqxa8eI), housed in an abandoned mine deep within the Svalbard Arctic archipelago, where code is stored in a facility designed to last centuries.
 
-![GitHub Open Source Archive Box with AI-generated design](/assets/images/code-as-heritage/GitHub_Archive_Box.png "GitHub Archive Box")
+![GitHub Open Source Archive Box with AI-generated design](/assets/images/code-as-heritage/GitHub_Archive_Box.jpg "GitHub Archive Box")
 
 **Figure 8:** Archival case for the GitHub Archive Program, containing 17,000 open-source repositories archived on hardened film. Design by Alex Maki-Jokela. *Credit: GitHub Archive Program, via [GitHub Archive Program](https://archiveprogram.github.com/greatest-hits/)*
 
@@ -815,7 +815,7 @@ For a specific example, examine: [archive.org/details/jsmess_engine_v2](archive.
 
 [Software Heritage](https://www.softwareheritage.org/) is a non-profit foundation with academic, government and industry partners that emerged from academic research culture. It was founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (Inria) and is rooted in scholarly values such as comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organisational model prioritises long-term preservation over commercial considerations. Think of it as a library that aims to collect all publicly available books – Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. By preserving the complete landscape of software development, it aims to provide future researchers with access to a much broader basis of historical evidence than a more selective approach would allow. For a detailed introduction to navigating Software Heritage, see the Programming Historian lesson [Préserver les logiciels de recherche](https://programminghistorian.org/fr/lecons/preserver-logiciels-recherche) (in French).
 
-![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Software_Heritage_Apollo11_Browse.png "Software Heritage: Apollo-11 repository directory structure")
+![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Software_Heritage_Apollo11_Browse.jpg "Software Heritage: Apollo-11 repository directory structure")
 
 **Figure 11:** The Software Heritage browse interface displaying the Apollo-11 repository. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
 
