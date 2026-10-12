@@ -341,49 +341,49 @@ The following table summarizes these questions as a quick reference:
 | Political dimensions | Access conditions, embedded assumptions, power relations |
 | What is absent | Missing features, gaps in the historical record |
 
-### 2.b Applying Source Code Criticism — 35 mins
+### 2.b Applying source code criticism — 35 mins
 
-This section puts into practice the analytical framework introduced in 2.a. You will examine two related code artifacts from the history of personal computing, applying the key analytical questions to real historical sources. The two artifacts are deliberately connected — they belong to the same program lineage — allowing you to observe how code evolves across time and what that evolution reveals historically.
+This section puts into practice the analytical framework introduced in 2.a. You will examine two related code artefacts from the history of personal computing, applying the key analytical questions to real historical sources. The two artefacts are deliberately connected – they belong to the same program lineage –, so that you can observe how code evolves over time and what that evolution reveals historically.
 
-Previously, we introduced key analytical questions historians bring to code: establishing provenance, understanding context, reading linguistic and cultural markers, analyzing comments, and attending to what is absent. Now we apply these questions to a specific artifact.
+Previously, we introduced some key analytical aspects that historians can consider when examining code: establishing provenance, understanding context, reading linguistic and cultural markers, analysing comments and identifying what is absent. Now we apply these questions to a specific artefact.
 
-> **A note before you begin:** You are encouraged to search the web at any point during this exercise to help identify the artifact and verify your hypotheses. Searching for names, dates, or technical terms you observe in the document is part of the analytical process—just as a historian might consult reference works while examining an unfamiliar source.
+> **A note before you begin:** We would encourage you to search the web at any point during this exercise to help identify the artefact and verify your hypotheses. Researching names, dates and technical terms you observe in the document is part of the analytical process, just as a historian might consult reference works while examining an unfamiliar source.
 
-#### Artifact 1: The Document
+#### Artefact 1: The document
 
-Examine the following digitized document carefully. Before reading further, spend five minutes observing this document. What clues can you identify about its origins, authors, purpose, and historical context?
+Examine the following digitised document carefully. Before reading further, spend five minutes observing the document. What clues can you identify about its origins, authors, purpose, and historical context?
 
-![A historical code artifact](/assets/images/code-as-heritage/Original-Microsoft-Source-Code.jpg "A historical code artifact")
+![A historical code artefact](/assets/images/code-as-heritage/Original-Microsoft-Source-Code.jpg "A historical code artefact")
 
 **Figure 4:** Original source code for Microsoft BASIC, written in 1975 by Bill Gates and Paul Allen with contributions from Monte Davidoff. *Source: Gates Notes, 2025.*
 
-#### Exercise Part 1: Analyzing the document
+#### Exercise Part 1: Analysing the document
 
-Examine the artifact and answer the following questions:
+Examine the artefact and answer the following questions:
 
 1. **Provenance and authenticity:** Who is credited as author? What dates appear? Where did this code originate, and how might it have reached us in this form?
 
 2. **Linguistic and cultural markers:** Look at the document header and structure. Can you identify what programming language this is?
 
-3. **Comments and documentation:** Examine how credit is attributed among the people mentioned. What does the language used—its tone, its informality—reveal about early software culture and workplace dynamics?
+3. **Comments and documentation:** Examine how credit is attributed among the people mentioned. What does the language used – the tone and informality – reveal about early software culture and workplace dynamics?
 
 4. **Material form and transmission:** What type of physical document is this? What printing technology produced it? What do the physical characteristics (paper format, margins, perforations) tell you about the technical environment of the time?
 
 <details>
-<summary><strong>Catch up: What is this artifact? (click to expand if you skipped the exercise)</strong></summary>
+<summary><strong>Catch up: What is this artefact? (click to expand if you skipped the exercise)</strong></summary>
 
-The image above is a photograph of the original source code for the Microsoft BASIC interpreter, written in 1975 by Bill Gates and Paul Allen (with contributions from Monte Davidoff). Despite its name, this document is not written in the BASIC language itself: it is an interpreter, written in Intel 8080 assembly language, that allows a computer to run programs written in BASIC. This program, developed for the Altair 8800 microcomputer, was the first product Microsoft ever sold and is considered a foundational artifact in the history of personal computing. The photograph was shared by Bill Gates on his blog in 2025, marking the 50th anniversary of Microsoft.
+The image above is a photograph of the original source code for the Microsoft BASIC interpreter, written in 1975 by Bill Gates and Paul Allen (with contributions from Monte Davidoff). Despite its name, this document is not written in the BASIC language itself: it is an interpreter, written in Intel 8080 assembly language, that allows a computer to run programs written in BASIC. This program, developed for the Altair 8800 microcomputer, was the first product Microsoft ever sold and is considered a foundational artefact in the history of personal computing. The photograph was shared by Bill Gates on his blog in 2025 to mark the 50th anniversary of Microsoft.
 
-BASIC itself predates this artifact by over a decade. The language was created in 1964 at Dartmouth College by John Kemeny and Thomas Kurtz as part of the Dartmouth Time-Sharing System, one of the first systems to let multiple users write and run programs interactively. A second date visible on the photograph, 6 September 1964, corresponds to this earlier moment: the launch of BASIC at Dartmouth, more than a decade before Gates and Allen wrote their own implementation for the Altair. Gates and Allen did not invent BASIC; they wrote their own implementation of it for a machine that had never run it before.
+BASIC itself predates this artefact by over a decade. The language was created in 1964 at Dartmouth College by John Kemeny and Thomas Kurtz as part of the Dartmouth Time-Sharing System, one of the first systems to let multiple users write and run programs interactively. A second date visible on the photograph, 6 September 1964, corresponds to this earlier moment: the launch of BASIC at Dartmouth, more than a decade before Gates and Allen wrote their own implementation for the Altair. Gates and Allen did not invent BASIC; they wrote their own implementation of it for a machine that had never run it before.
 
 
 </details>
 
-#### Artifact 2: The Snippet
+#### Artefact 2: The snippet
 
-Now examine this second artifact. This is a short excerpt — a snippet — from the source code of [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), a version of [Microsoft BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC), written in assembly language, developed for IBM PC compatibles, and dating from 1983.
+Now examine this second artefact. This is a short excerpt – a snippet – from the source code of [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), a version of [Microsoft BASIC](https://en.wikipedia.org/wiki/Microsoft_BASIC), written in assembly language, developed for IBM PC compatibles, dated 1983.
 
-Though written eight years after the first artifact, this code is a direct descendant of the 1975 program—and, as you will see, it carries the memory of its origins in its comments.
+Though it was written eight years after the first artefact, this code is a direct descendant of the 1975 program – and, as you will see, it carries the memory of its origins in its comments.
 
 ```
 ; [ This translation created 10-Feb-83 by Version 4.3 ]
@@ -417,39 +417,40 @@ MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
     .XLIST
 ```
 
-#### Exercise Part 2: Comparing the Artifacts
+#### Exercise part 2: Comparing the artefacts
 
-You now have two related documents before you: a photograph of a 1975 printout and a code file from 1983, published online in 2020 in a [GitHub](https://en.wikipedia.org/wiki/GitHub) repository — a platform for hosting and sharing code.
+You now have two related documents in front of you: a photograph of a 1975 printout and a code file from 1983, published online in 2020 in a [GitHub](https://en.wikipedia.org/wiki/GitHub) repository – a platform for hosting and sharing code.
 
-1. **What changed? What stayed the same?** Compare the two artifacts. What elements appear in both? What differences do you notice in the headers, dates, or content?
+1. **What changed? What stayed the same?** Compare the two artefacts. What elements appear in both? What differences do you notice in the headers, dates, or content?
 
-2. **Understanding multiple temporalities:** As discussed in Section 2.a, a single code artifact may contain traces of multiple moments. This code has traveled through time:
+2. **Understanding multiple temporalities:** As discussed in Section 2.a, a single code artefact may contain traces of multiple moments. This code has travelled through time:
    - **1975:** Originally written for the Altair 8800 microcomputer
-   - **1983:** Evolved and adapted for IBM PC compatibles as GW-BASIC
+   - **1983:** Developed and adapted for IBM PC compatibles as GW-BASIC
    - **2020:** The 1983 version deposited in a public GitHub repository by Microsoft
    - **2025:** Photograph of the original 1975 printout shared on Gates Notes
    
-   What does each moment add or transform? Why might code need to evolve as technical environments change? How does the same program lineage exist in different material forms—paper printout, magnetic storage, digital repository, photographic image?
+   What does each moment add or transform? Why might code need to evolve as technical environments change? How does the same program lineage exist in different material forms — paper printout, magnetic storage, digital repository, photographic image?
 
-#### Explore further the context of creation
+#### Further exploring the context of creation
 
-The examples you have examined belong to the lineage of Microsoft BASIC—the program that launched Microsoft as a company in 1975. Bill Gates and Paul Allen wrote the original interpreter for the Altair 8800, one of the first commercially successful personal computers. Over the following years, this code evolved and was adapted for numerous platforms, including the IBM PC and compatibles, where it became known as GW-BASIC.
+The examples you have examined belong to the lineage of Microsoft BASIC, the program that launched Microsoft as a company in 1975. Bill Gates and Paul Allen wrote the original interpreter for the Altair 8800, one of the first commercially successful personal computers. Over the following years, this code evolved and was adapted for multiple platforms, including the IBM PC and compatibles, where it became known as GW-BASIC. adapted for numerous platforms, including the IBM PC and compatibles, where it became known as GW-BASIC.
 
 **Code evolution and lineage**
 
-Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC: it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
+Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC: it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor), whereas the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
 
-Because both files are written in assembly language, adapting one for the other required a substantial rewrite, not a simple recompilation. Assembly code is written for a specific processor's instruction set, and the 8080 code that ran on the Altair could not simply be moved onto an Intel 8086 without being reworked line by line. This machine-specificity is itself a heritage question: preserving the GW-BASIC source does not guarantee that the same code would run, or even assemble, on different hardware.
+Because both files are written in assembly language, adapting the first to produce the second required a substantial rewrite, not just a simple recompilation. Assembly code is written for a specific processor’s instruction set, and the 8080 code that ran on the Altair could not simply be moved onto an Intel 8086 without being reworked line by line. This machine specificity is itself a heritage question: preserving the GW-BASIC source does not guarantee that the same code would run, or even assemble, on different hardware.
 
-This pattern of code being reused, adapted, and evolved across platforms and decades is fundamental to software history. Programs are not static artifacts frozen at the moment of creation; they have lineages, descendants, and branches. Understanding a piece of code often means tracing where it came from and what it became.
+This pattern of code being reused, adapted and developed across platforms and over decades is fundamental to software history. Programs are not static artefacts frozen at the moment of creation; they have lineages, descendants and branches. Understanding a piece of code often means tracing where it came from and what it became.
+
 
 **How later code remembers its origins**
 
-Notice how the 1983 code preserves memory of its 1975 origins. The comments explicitly state: "ORIGINALLY WRITTEN ON THE PDP-10 FROM FEBRUARY 9 TO APRIL 9 1975." This is the code documenting its own history—a form of self-referential provenance that historians can use to trace lineage.
+Notice how the 1983 code preserves the memory of its 1975 origins. The comments explicitly state: “ORIGINALLY WRITTEN ON THE PDP-10 FROM FEBRUARY 9 TO APRIL 9 1975”. This is the code documenting its own history, a form of self-referential provenance that historians can use to trace lineage.
 
-As noted in this section's introduction, a comment like this can mislead if read on its own. Taken alone, it might suggest the interpreter was written for a PDP-10 and later rewritten for the Altair's Intel 8080 processor. In fact, Gates and Allen never had access to an actual Altair or 8080 chip while writing the code: Paul Allen built a software emulator of the 8080 that ran on Harvard's PDP-10, and the two of them wrote and tested the interpreter on that emulator before it ever touched real Altair hardware. The comment is accurate as far as it goes, the code was indeed written on a PDP-10, but understanding what that meant requires a source outside the code itself.
+As noted in the introduction to this section, a comment like this can be misleading if read on its own. Taken out of context, it might suggest the interpreter was written for a PDP-10 and later rewritten for the Altair’s Intel 8080 processor. In practice, Gates and Allen never had access to an actual Altair or 8080 chip while writing the code: Paul Allen built a software emulator of the 8080 that ran on Harvard’s PDP-10, and the two of them wrote and tested the interpreter on that emulator before it ever touched real Altair hardware. The comment is strictly accurate – the code was indeed written on a PDP-10 –, but understanding what it actually means requires an additional source outside the code itself.
 
-Yet this memory is not perfectly preserved. Compare how the credits appear in each version:
+Moreover, the memory is not perfectly preserved. Compare how the credits appear in each version:
 
 **1975 version:**
 
@@ -467,20 +468,20 @@ PAUL ALLEN WROTE A LOT OF OTHER STUFF AND FAST CODE.
 MONTE DAVIDOFF WROTE THE MATH PACKAGE (F4I.MAC).
 ```
 
-The meaning is similar, but the wording has shifted. The specific technical terms ("RUNTIME" / "NON-RUNTIME") have been replaced with vaguer language ("A LOT OF STUFF" / "A LOT OF OTHER STUFF"). This is a small but telling reminder: when code evolves across versions, even the comments, that represent the human-readable parts meant to document the work, can change. As discussed in Section 2.a, historians must attend to what changes when code passes through different hands and contexts.
+The meaning is similar, but the wording has shifted. The specific technical terms (“RUNTIME”, “NON-RUNTIME”) have been replaced with vaguer language (“A LOT OF STUFF”, “A LOT OF OTHER STUFF”). This is a small but telling reminder: when code evolves across versions, even the comments, which represent the human-readable parts intended to document the work, can change. As discussed in Section 2.a, historians must be aware of any changes that occur when code passes through different hands and contexts.
 
 **Visit the GitHub repository**
 Microsoft. 2020. GW-BASIC Source Code Repository. GitHub. https://github.com/microsoft/GW-BASIC
 
-Microsoft published this code on GitHub in 2020 ([Microsoft, 2020](https://github.com/microsoft/GW-BASIC/blob/master/GWMAIN.ASM)). Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub, and consider this as a question of republication rather than a simple upload. Why might Microsoft have chosen 2020, thirty-seven years after the code was written, to make it public? The repository's own README offers one answer; further research online may surface others. Consulting sources beyond the artifact itself, official statements, later commentary, related releases, is standard historical practice, not a departure from it.
+Microsoft published this code on GitHub in 2020 ([Microsoft, 2020](https://github.com/microsoft/GW-BASIC/blob/master/GWMAIN.ASM)). Take a moment to visit the [GW-BASIC repository](https://github.com/microsoft/GW-BASIC) on GitHub, and consider this as a republication rather than a simple upload. Why might Microsoft have chosen 2020, thirty-seven years after the code was written, to make it public? The repository’s own README offers one answer; further research online may bring others to light. Consulting sources beyond the artefact itself – including official statements, later commentary and related releases – is standard historical practice, not a departure from it.
 
-When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the commit is dated to 1983, not to 2020, when the code was actually uploaded. This is because git, the version-control tool GitHub is built on, allows whoever makes a commit to set its recorded date to any value, including one that predates the tool's own existence: git did not exist in 1983. The commit metadata also lists an author whose name is unlikely to be one of the code's original 1975 or 1983 authors, since that person is the Microsoft employee who performed the digitization and upload, not Gates, Allen, or Davidoff.
+When you examine the [commit history](https://github.com/microsoft/GW-BASIC/commits/master/), you will notice something unusual: the commit is dated to 1983 – not to 2020, when the code was actually uploaded. This is because git, the version-control tool GitHub is built on, allows whoever makes a commit to set its recorded date to any value, including one that predates the tool’s own existence: git did not exist in 1983. The commit metadata also lists an author whose name is unlikely to be one of the code’s original 1975 or 1983 authors, since that person is the Microsoft employee who performed the digitisation and upload, not Gates, Allen or Davidoff.
 
-This distinction matters for how you read the repository: the commit date and author fields describe the act of republishing the code on GitHub, not the act of writing it. Treating them as though they describe the original creation would be an anachronism, the same kind of error a historian would make in treating a modern facsimile's publication date as the date of the manuscript it reproduces. There is also no way to verify, from the repository alone, whether the deposited files are complete or unaltered relative to the original 1983 source; the upload could in principle omit or modify material without this being visible from the code itself.
+This distinction matters for how you read the repository: the commit date and author fields describe the act of republishing the code on GitHub, not the act of writing it. Treating them as though they describe the original creation would be an anachronism, the same kind of error a historian would make in treating a modern facsimile’s publication date as the date of the manuscript it reproduces. There is also no way to verify, from the repository alone, whether the deposited files are complete or unaltered relative to the original 1983 source; in principle, the upload could omit or modify material without this being visible in the code itself.
 
-This gap between original creation and later republication is not unique to GW-BASIC. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts, or even unauthorized leaks. In many cases, the person uploading the code may not know, or may not record, when it was originally written. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
+This gap between original creation and later republication is not unique to GW-BASIC. Code surfaces on the web through many channels: official corporate releases, personal repositories, abandonware archives, hobbyist preservation efforts and even unauthorised leaks. In many cases, the person uploading the code may not know when it was originally written, or may choose not record this detail. When you encounter historical code online, approach temporal metadata critically. Ask yourself: does this date reflect when the code was written, when it was uploaded, or something else entirely? The answer is not always obvious.
 
-Finally, consider the question of reuse. The 1983 GW-BASIC source, as deposited, is not accompanied by the build tools or compiler needed to turn it back into a running program. Is this code, as published, actually usable today, or is its value here primarily documentary? The distinction is itself worth reflecting on as a historian.
+Finally, consider the question of reuse. The 1983 GW-BASIC source as deposited in GitHub is not accompanied by the build tools or compiler needed to turn it back into a running program. Is this code, as published, actually usable today, or is its value here primarily documentary? The distinction is itself worth reflecting on as a historian.
 
 ### Reading/viewing suggestions
 
@@ -505,9 +506,9 @@ Hayles, N. Katherine. 2005. *My Mother Was a Computer: Digital Subjects and Lite
 
 #### Programming Language and Culture
 
-Meyerovich, Leo A., and Ariel S. Rabkin. 2013. 'Empirical Analysis of Programming Language Adoption'. *Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages & Applications*: 1–18. https://dl.acm.org/doi/10.1145/2509136.2509515
+Meyerovich, Leo A., and Ariel S. Rabkin. 2013. “Empirical Analysis of Programming Language Adoption.” *Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages & Applications*: 1–18. https://dl.acm.org/doi/10.1145/2509136.2509515
 
-Walton, Janice. 2024. 'The Culture of Programming'. In *Culturally Responsive Computing*. https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/
+Walton, Janice. 2024. “The Culture of Programming.” In *Culturally Responsive Computing*. https://rotel.pressbooks.pub/culturally-responsive-computing/chapter/the-culture-of-programming/
 -->
 **Watch:**
 
@@ -535,9 +536,9 @@ On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished
 
 **Figure 5:** The Apollo Guidance Computer (AGC), 1969. *Credit: Rama, [CC BY-SA 2.0 FR](https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apollo_Guidance_Computer_(AGC).jpg)*
 
-In section 2, we introduced analytical questions for approaching code as historical evidence — questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete case across three dimensions: its survival as a paper artifact, the hidden histories it conceals, and its journey from paper to digital.
+In section 2, we introduced analytical questions for approaching code as historical evidence — questions about provenance, authenticity, context, and cultural markers. The Apollo code provides an opportunity to apply these questions to a concrete case across three dimensions: its survival as a paper artefact, the hidden histories it conceals, and its journey from paper to digital.
 
-### 3.a The Original Artifact: Reading the Paper Listing
+### 3.a The Original Artefact: Reading the Paper Listing
 
 The preservation of Apollo's source code represents a rare exception in software history. Source code from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the labour of digitisation and transcription. Yet even when source code survives, it doesn't carry everything with it — the paper listings document technical decisions but not the conditions under which they were made, the labour that produced them, or the institutional dynamics that shaped the project.
 
@@ -563,12 +564,12 @@ The columns of abbreviated instructions may look opaque at first — this is ass
 - Columns of abbreviated instructions and numeric codes
 
 
-**Exercise Part 1: First encounter with the artifact**
+**Exercise Part 1: First encounter with the artefact**
 
 Examine Figure 6 carefully. Without any programming knowledge, identify:
 
 - What types of information can you extract from this page? (Consider dates, names, structure, formatting)
-- What questions does the artifact raise that it cannot answer? (Consider authorship, purpose, context)
+- What questions does the artefact raise that it cannot answer? (Consider authorship, purpose, context)
 - How does the physical format of continuous-feed paper shape what was preserved?
 - Now consider the limit of this page on its own. This page tells you a great deal about who made it, when, and how it was produced, but not everything you would need to know if you wanted to understand exactly how this code made the computer behave. What kind of additional information about the machine itself would you need for that deeper level of understanding?
 
@@ -612,7 +613,7 @@ Considering the excerpts above, reflect on:
 
 - What aspects of Hamilton's experience and contribution do not appear anywhere in the code itself?
 - How does her testimony complement what the paper listing (Figure 6) can tell us about the Apollo project?
-- What does this suggest about the types of sources historians must use alongside code artifacts?
+- What does this suggest about the types of sources historians must use alongside code artefacts?
 
 These details about gender dynamics, professional recognition, and the practical conditions of technical labour do not appear in the code itself. The programming profession became increasingly masculinised during the 1960s and 1970s: while women had played significant early roles in programming, the field's professionalisation involved constructing a gendered professional identity that marginalised women's contributions ([Ensmenger 2010](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)). 
 
@@ -681,7 +682,7 @@ Using the header above, answer the following questions:
 - What institution held the source material?
 - What changes were made to the files after initial transcription, and when?
 - How does the header distinguish between original 1969 content and later additions?
-- The routine is named BURN_BABY_BURN. Based on the `##` comments in the header, where does this name come from? What does the presence of this cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming? What does it reveal about the types of sources historians need to interpret code artifacts?
+- The routine is named BURN_BABY_BURN. Based on the `##` comments in the header, where does this name come from? What does the presence of this cultural reference in mission-critical code suggest about the working environment of 1960s aerospace programming? What does it reveal about the types of sources historians need to interpret code artefacts?
 
 <details>
 <summary><strong>Understanding the Header Layers (click to expand)</strong></summary>
@@ -717,13 +718,13 @@ The Apollo code's journey from creation to online accessibility can be mapped as
 |-------|------------------|------|-------------------|---------------------|
 | Original creation | 1966-1969 | Punched cards, magnetic tape | Working software in development environment | — |
 | Assembly printout | July 1969 | Paper listings | Human-readable source code | Executability lost |
-| Archival deposit | 1970s-2000s | Paper in MIT Museum | Physical artifact | Institutional context, tacit knowledge |
+| Archival deposit | 1970s-2000s | Paper in MIT Museum | Physical artefact | Institutional context, tacit knowledge |
 | Digitisation | 2003-2009 | Scanned images | Visual record of pages | Some image quality, materiality |
 | Transcription | 2009 | Text files (.agc) | Searchable, executable (via emulator) text | Transcriber's interpretive decisions introduced |
 | Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars call a "reborn digital" object: an artifact that originated in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digital existence([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
+Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artefact. What emerges from this process is what scholars call a "reborn digital" object: an artefact that originated in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digital existence([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
 
 ### Reading/viewing suggestions
 
@@ -773,7 +774,7 @@ Launched in 2020, the program creates secure, long-term backups through multiple
 
 The Internet Archive, founded by Brewster Kahle in 1996, embodies the idealism of early internet culture — the belief that digital technology could democratize access to human knowledge. Its motto, "Universal Access to All Knowledge," reflects this founding vision.
 
-Rather than focusing primarily on preserving source code as text, the Internet Archive preserves the complete software experience: not just executable programs, but also their accompanying documentation, media, and cultural artifacts that help users understand the historical context in which the software was actually used. This holistic collection ranges from early personal computer applications to classic arcade games, and offers emulated environments where users can actively experience the software functioning as it did decades ago ([Internet Archive 2025](https://archive.org/details/software)). A third initiative, examined in the next section, takes source code itself as its primary object of preservation.
+Rather than focusing primarily on preserving source code as text, the Internet Archive preserves the complete software experience: not just executable programs, but also their accompanying documentation, media, and cultural artefacts that help users understand the historical context in which the software was actually used. This holistic collection ranges from early personal computer applications to classic arcade games, and offers emulated environments where users can actively experience the software functioning as it did decades ago ([Internet Archive 2025](https://archive.org/details/software)). A third initiative, examined in the next section, takes source code itself as its primary object of preservation.
 
 ![Staff at the Internet Archive warehouse sorting physical software materials for the software collection](/assets/images/code-as-heritage/Internet_Archive_software_collection_sorting.jpg "Internet Archive software collection sorting")
 
@@ -815,7 +816,7 @@ For a concrete example, examine: archive.org/details/jsmess_engine_v2
 
 **Figure 11:** The Software Heritage browse interface displaying the Apollo-11 repository. *Source: [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/chrislgarry/Apollo-11)*
 
-Note that the Apollo-11 repository visible here is itself a transcribed and reconstructed version of the original 1960s code — a "reborn digital" artifact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers.
+Note that the Apollo-11 repository visible here is itself a transcribed and reconstructed version of the original 1960s code — a "reborn digital" artefact that has passed through multiple preservation stages before being archived by Software Heritage. This illustrates how preservation archives capture not just original code, but the accumulated transformations and scholarly work involved in making historical code accessible to contemporary researchers.
 
 **Exercise: Understanding Software Heritage's Development**
 
@@ -859,7 +860,7 @@ This exercise guides you through the Software Heritage archive. Begin at the hom
 
 **Critical thinking questions:** After your exploration, consider these deeper questions:
 
-1. How does organizing the archive into layers, individual files, the history of changes to those files, and the projects they belong to, correspond to the kinds of questions you would ask when applying source criticism to a piece of code? Which layer would you start with if you were investigating a specific artifact's provenance?
+1. How does organizing the archive into layers, individual files, the history of changes to those files, and the projects they belong to, correspond to the kinds of questions you would ask when applying source criticism to a piece of code? Which layer would you start with if you were investigating a specific artefact's provenance?
 2. (Optional) Persistent identifiers ensure that a citation to a piece of code continues to point to the same content even if the code moves or the platform changes. Why might this matter for historical scholarship that cites code as evidence?
 
 ### 4.c Comparing Approaches Across Institutions - 10 minutes
@@ -893,7 +894,7 @@ Each approach preserves a unique dimension of software as cultural heritage, and
 Di Cosmo, Roberto, and Stefano Zacchiroli. 2017. 'Software Heritage: Why and How to Preserve Software Source Code'. *Proceedings of the 14th International Conference on Digital Preservation (iPRES 2017)*. https://www.softwareheritage.org/wp-content/uploads/2020/01/ipres-2017-swh.pdf
 
 <!--
-Di Cosmo, Roberto, Morane Gruenpeter, and Stefano Zacchiroli. 2020. 'Referencing Source Code Artifacts: A Separate Concern in Software Citation'. *Computing in Science & Engineering* 22 (2): 33–43. https://doi.org/10.1109/MCSE.2019.2963148
+Di Cosmo, Roberto, Morane Gruenpeter, and Stefano Zacchiroli. 2020. 'Referencing Source Code Artefacts: A Separate Concern in Software Citation'. *Computing in Science & Engineering* 22 (2): 33–43. https://doi.org/10.1109/MCSE.2019.2963148
 
 Software Heritage. 2019. *Paris Call: Software Source Code as Heritage for Sustainable Development*. UNESCO/INRIA. https://unesdoc.unesco.org/ark:/48223/pf0000366715
 
