@@ -621,9 +621,9 @@ Hamilton’s testimony provides a first-person account of navigating these dynam
 
 ### 3.c From Paper to Digital: Questions of Reconstruction
 
-The paper listings held at the MIT Museum are not what most people encounter today when they access the Apollo code. The version available online is a digital reconstruction: transcribed, formatted, and hosted on platforms that did not exist in 1969. For historians, this raises a familiar methodological concern: when we work with a copy or transcription rather than an original, we need to understand the chain of transmission. Who produced the version we are consulting? Under what circumstances? What transformations occurred along the way?
+The paper listings held at the MIT Museum are not what most people encounter today when they access the Apollo code. The version available online is a digital reconstruction that has been transcribed, formatted and hosted on platforms that did not exist in 1969. For historians, this raises a familiar methodological concern: when we work with a copy or transcription rather than an original, we need to understand the chain of transmission. Who produced the version we are consulting? Under what circumstances? What transformations occurred along the way?
 
-Today, the Apollo 11 source code is accessible on [GitHub](https://en.wikipedia.org/wiki/GitHub) — a platform for hosting and sharing code. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
+Today, the Apollo 11 source code is accessible on [GitHub](https://en.wikipedia.org/wiki/GitHub), a platform used for hosting and sharing code. Examine the header of the file `BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc`:
 
 **Source:** https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/BURN_BABY_BURN--MASTER_IGNITION_ROUTINE.agc
 
@@ -674,7 +674,7 @@ Today, the Apollo 11 source code is accessible on [GitHub](https://en.wikipedia.
 # BURN, BABY, BURN -- MASTER IGNITION ROUTINE
 ```
 
-**Exercise: Tracing the code's journey**
+**Exercise: Tracing the code’s journey**
 
 Using the header above, answer the following questions:
 
@@ -687,7 +687,7 @@ Using the header above, answer the following questions:
 <details>
 <summary><strong>Understanding the Header Layers (click to expand)</strong></summary>
 
-The header is a palimpsest — a document where different historical moments coexist, each requiring distinct analytical attention:
+The header is a palimpsest – a document where different historical moments coexist, each requiring distinct analytical attention:
 
 **Original historical content (1969):**
 - The routine name: `BURN, BABY, BURN -- MASTER IGNITION ROUTINE`
@@ -697,34 +697,34 @@ The header is a palimpsest — a document where different historical moments coe
 **Reconstruction and transcription metadata (2009):**
 - Transcriber identification: `Ron Burkey <info@sandroid.org>`
 - Modification history: dates, initials (RSB), specific changes
-- Source documentation: "transcribed or otherwise adapted from digitized images of a hardcopy from the MIT Museum"
+- Source documentation: “transcribed or otherwise adapted from digitized images of a hardcopy from the MIT Museum”
 - Provenance chain: Paul Fjeld (digitisation), Deborah Douglas (MIT Museum), ibiblio.org
 
 **Added historical context (2009, from oral history):**
 - The Magnificent Montague story, added July 2009
-- Attribution: "Onno's notes... which he got from Don Eyles"
+- Attribution: “Onno’s notes... which he got from Don Eyles”
 - The 40th anniversary gathering as source
 
-The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending on the file format and the programming or markup language, but this is beyond the scope of the current lesson.*
+This transparency is itself a marker of careful heritagisation – the archive documents its own construction. *Editor’s note: the markers for inserting comments may vary depending on the file format and the programming or markup language, but this is beyond the scope of the current lesson.*
 
-The BURN_BABY_BURN routine name is not an anomaly. Software development has historically incorporated humour, wordplay, and cultural references as part of its working culture. The name traces back to the phrase used by disc jockey Magnificent Montague on Los Angeles radio station KGFJ, which became associated with the Watts uprising of August 1965 — embedding a reference that carried multiple resonances: musical intensity, social upheaval, and the literal burning of rocket fuel. Crucially, this meaning would be invisible without Don Eyles' testimony at a 2009 reunion of AGC developers — illustrating how oral history can unlock what code alone cannot reveal ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12); [Montague and Baker 2003](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)).
+The BURN_BABY_BURN routine name is not an anomaly. Software development has historically incorporated humour, wordplay and cultural references as part of its working culture. The name can be traced back to the phrase used by disc jockey Magnificent Montague on the Los Angeles radio station KGFJ, which became associated with the Watts uprising of August 1965. It is therefore a reference that carried multiple resonances: musical intensity, social upheaval and the literal burning of rocket fuel. Crucially, this meaning would be invisible without Don Eyles’ testimony at a 2009 reunion of AGC developers – it is an example of how oral history can unlock what code alone cannot reveal ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12); [Montague and Baker 2003](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)).
 
 
 </details>
 
-The Apollo code's journey from creation to online accessibility can be mapped as a chain of transmission. Each stage enabled certain forms of access while introducing specific transformations:
+The Apollo code’s journey from creation to online accessibility can be mapped as a chain of transmission. Each stage enabled certain forms of access while introducing specific transformations:
 
-| Stage | Approximate Date | Form | What Was Preserved | What Was Transformed |
+| Stage | Approximate date | Form | What was preserved | What was transformed |
 |-------|------------------|------|-------------------|---------------------|
 | Original creation | 1966-1969 | Punched cards, magnetic tape | Working software in development environment | — |
 | Assembly printout | July 1969 | Paper listings | Human-readable source code | Executability lost |
 | Archival deposit | 1970s-2000s | Paper in MIT Museum | Physical artefact | Institutional context, tacit knowledge |
 | Digitisation | 2003-2009 | Scanned images | Visual record of pages | Some image quality, materiality |
-| Transcription | 2009 | Text files (.agc) | Searchable, executable (via emulator) text | Transcriber's interpretive decisions introduced |
+| Transcription | 2009 | Text files (.agc) | Searchable, executable (via emulator) text | Transcriber's interpretative decisions introduced |
 | Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artefact. What emerges from this process is what scholars call a "reborn digital" object: an artefact that originated in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digital existence([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
+Transmission is never neutral. Each stage enabled certain forms of access – digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators – while also introducing changes. The modification history (“Corrected 3 typos”) shows that even careful transcription involves decisions that alter the artefact. What emerges from this process is what scholars call a “reborn-digital” object, an artefact that originated in a non-digital form, was lost or became inaccessible, and has been reconstituted through digitisation and reconstruction into a new digital existence ([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, oral history and digital reconstruction each reveal dimensions the others cannot.
 
 ### Reading/viewing suggestions
 
@@ -732,7 +732,7 @@ Burkey, Ron. Virtual AGC Project. http://www.ibiblio.org/apollo/
 
 Coding with Dee. 2024. *This Is the Code That Sent Apollo 11 to the Moon (and It's Awesome)*. YouTube video, 19:08. https://www.youtube.com/watch?v=XHN6LV_1dWk
 
-Di Cosmo, Roberto. 2019. "Archiving and Referencing the Apollo Source Code." *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
+Di Cosmo, Roberto. 2019. . “Archiving and Referencing the Apollo Source Code”. *Software Heritage*. https://www.softwareheritage.org/2019/07/20/archiving-and-referencing-the-apollo-source-code/
 <!--
 - Ernst, Wolfgang. 2013. *Digital Memory and the Archive*. Minneapolis: University of Minnesota Press. https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive -->
 
@@ -740,7 +740,7 @@ Hamilton, Margaret. 2004. Oral history interview. Computer History Museum. https
 <!--
 - Montague, Magnificent, with Bob Baker. 2003. *Burn, Baby! BURN!: The Autobiography of Magnificent Montague*. Urbana: University of Illinois Press.
 
-- Tiwari, Deepika, Tim Toady, Martin Monperrus, and Benoit Baudry. 2024. "With Great Humor Comes Great Developer Engagement." *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)*: 1-11. https://doi.org/10.1109/ICSE-SEIS.2024.12
+- Tiwari, Deepika, Tim Toady, Martin Monperrus, and Benoit Baudry. 2024. “With Great Humor Comes Great Developer Engagement”. *Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)*: 1-11. https://doi.org/10.1109/ICSE-SEIS.2024.12
 -->
 ## 4 Preserving Code: Initiatives and Infrastructures
 
