@@ -425,7 +425,7 @@ Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consu
 
 *Learning outcomes* 
 
-* *Design a simple data model for a historical source*
+* *Design a simple data model for historical sources*
 
 * *Recognize relations and how they are implemented in a data model*
 
