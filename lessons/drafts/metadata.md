@@ -2,12 +2,11 @@
 authors: 
  - sofia-papastamkou
  
-date: 2025-05-08
-title: Data criticism. Metadata for finding and contextualising
+date: 2026-10-25
+title: Data and critique. Metadata for finding and contextualising
 learning-objectives: 
- - Understand how availability of descriptive information on historical records allows discoverability and contextualization of sources 
- - understand what metadata are and different forms they can take
- - understand the "findable, accessible, interoperable, reusable data" principles
+ - Identify what metadata are and use them efficiently to find, access and contextualise historical sources
+ - Understand the principles of interoperability, reusability and how metadata serve them
 ---
 
 ### 2.a Reading descriptions of historical data: the mediation of the archive
@@ -101,7 +100,7 @@ Let us now inspect the file of the image we are working with from the September 
 
 ![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive]({{ "/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg" | relative_url }} "Screenshot of the embedded metadata, 5 June 2025")
 
-![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, screenshot, 5 June 2025](/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg "Screenshot of the downloaded file of the image from the September 11 Digital Archive, 5 June 2025")
+![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, screenshot, 5 June 2025](/assets/images/data-criticism/2-911-archive-photo-embedded-metadata-2025-06-05.jpg "Screenshot of the downloaded file of the image from the September 11 Digital Archive, 5 June 2025")
 
 ![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, screenshot, 5 June 2025]({{"/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg | relative_url }}"Screenshot of the downloaded file of the image from the September 11 Digital Archive, 5 June 2025") 
 
@@ -132,7 +131,7 @@ Please check the section "subject":
 * Which are the keywords you find?
 * What do these keywords allow you to understand about the photo and about what it depicts? 
 
-![Photo from the World War One period, Europeana, screenshot, 18 June 2025](/images/2-europeana-ww1-record-2025-06-18.jpg "Photo from the World War One period, Europeana, screenshot, 18 June 2025") 
+![Photo from the World War One period, Europeana, screenshot, 18 June 2025](/assets/images/data-criticism/2-europeana-ww1-record-2025-06-18.jpg "Photo from the World War One period, Europeana, screenshot, 18 June 2025") 
 
 ![Photo from the World War One period, Europeana, screenshot, 18 June 2025]({{ "/images/2-europeana-ww1-record-2025-06-18.jpg | relative_url }} "Photo from the World War One period, Europeana, screenshot, 18 June 2025") 
 
