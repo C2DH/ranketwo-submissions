@@ -261,7 +261,7 @@ The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-G
 Pargman, Daniel, and Jacob Palme. "ASCII Imperialism." In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
 
 
-## 3 Creating models and datasets
+## 3 From sources to data
 
 *Learning outcomes*
 
@@ -421,7 +421,7 @@ Roberts, Spencer W.. Spreadsheets for Historians – Spencer W. Roberts. 12 aoû
 Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consulté le 2 juin 2026. https://libguides.law.ucla.edu/data/home.
 
 
-## 4 From sources to data: understanding the relational database
+## 4 Understanding the relational database
 
 *Learning outcomes* 
 
@@ -432,6 +432,7 @@ Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consu
 In 3.c, we created a single table to describe one type of object. But historical sources usually involve many different kinds of things at once — people, places, organisations, events — and we need a way to keep them connected without losing the bigger picture.
 
 When historians work with a few sources, a spreadsheet is often sufficient. But when we need to analyse hundreds or thousands of documents, information quickly becomes repetitive and difficult to manage. Relational databases, based on [specific software](https://en.wikipedia.org/wiki/Database#Database_management_system), were designed to organise large amounts of information while preserving the connections between the described objects.   
+
 
 ### Instructions 
 
