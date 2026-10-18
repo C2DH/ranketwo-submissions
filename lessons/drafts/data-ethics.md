@@ -145,7 +145,7 @@ Simply put, data lifecycles illustrate the stages of the life of data and the no
 
 RDMkit is the research data management toolkit developed by ELIXIR Europe (https://rdmkit.elixir-europe.org/data_life_cycle) - the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
 
-![Data lifecycle](/assets/images/from-sources-to-data/data-lifecycle.jpg "Data lifecycle")
+![Data lifecycle](/assets/images/from-sources-to-data/datalifecycle.jpg "Data lifecycle")
 
 Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345) 
 
