@@ -17,7 +17,7 @@ The search of <!-- this would rather be searching _for_ sources, no? --> histori
 
 [A card describing a record of the Library of Congress](https://commons.wikimedia.org/wiki/File:Library_of_Congress_Serials_Card_Catalog_in_the_John_Adams_Building_on_23_January_2025.jpg)
 
-![Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025](/images/2-nara-catalog-2025-05-21.jpg "Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025, available at https://catalog.archives.gov/")
+![Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025](/assets/images/data-criticism/2-nara-catalog-2025-05-21.jpg "Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025, available at https://catalog.archives.gov/") 
 
 ![Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025]({{"/images/2-nara-catalog-2025-05-21.jpg" | relative_url }} "Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025")
 
