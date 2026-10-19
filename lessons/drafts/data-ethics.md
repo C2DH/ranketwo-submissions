@@ -1,3 +1,4 @@
+
 ---
 authors: tugce-karatas 
 date: 2026-04-14
@@ -27,7 +28,7 @@ In everyday language, the terms data, information, and knowledge are often used 
 
 Data, in the technical sense, refers to raw material: individual observations, records, measurements, or artefacts considered in isolation. A name, a date, a photograph, a GPS coordinate, or a voice recording are all examples of data. On their own, they do not carry meaning. Information emerges when data is contextualised: a photograph becomes informative once we know who is depicted, when it was taken, and by whom. Knowledge, in turn, is the interpretive outcome produced by connecting and analysing information; it is what historians construct through their engagement with sources. 
 
-Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether it is handled with cultural sensitivity, particularly where it relates to communities whose heritage, traditions or experiences are involved. At the level of information, when data is combined and contextualised, new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson --> At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
+Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether it is handled with integrity and cultural sensitivity, particularly where it relates to communities whose heritage, traditions or experiences are involved. At the level of information, when data is combined and contextualised, new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson --> At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
 
 This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata — descriptive, structural, and administrative — shapes how datasets are discovered, interpreted, and reused. <!--for the descriptive metadata we should introduce a link to Sofia's lesson--> As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
 
@@ -41,16 +42,16 @@ Based on the video, consider the following:
 * Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her? <!--here is a link to make with Sofia lesson, exercise on postcard from WW1 Europeana-->
 * At the end of the video, Lea calls her aunt Maria before making the photographs available online via the local history project. Why do you think she does this? What could happen if she shared them without asking?
 
-<!-- The General Data Protection Regulation (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph. -->
 
-Explore further the notions of ownership of data and consent. Search for "GDPR personal data photographs" and read the first result that comes from an official EU source. <!--Sofia: the first result I have is this: https://gdpr-info.eu/recitals/no-51/-->
+Explore further the notions of ownership of data and consent. Search for "GDPR consent" and read the first result that comes from an official EU source related to Art.7. 
 
 > **What is the GDPR?** The General Data Protection Regulation (GDPR) is a European Union legal framework that came into force in 2018. It regulates how personal data — any information relating to an identifiable living person, including photographs — may be collected, stored, and shared. It applies to anyone processing personal data within the EU, and gives individuals the right to control how their information is used.
 
-In your own words, what does the GDPR framework protect, and who does it protect it for?
+The General Data Protection Regulation (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph.
+
+In your own words, what are the conditions for consent, what does the GDPR framework protect, and who does it protect it for?
 Does it change anything about how you answered the questions above?
 
-<!--simpler alternative for this third part of the exercise: Search for the term "GDPR" on the EUR-Lex website (or on the web) and read the first paragraph of the regulation. In your own words, what does it protect, and who does it protect it for?-->
 
 <!-- the short exercise aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
 
@@ -115,7 +116,6 @@ Write a short reflection (150–200 words) addressing the following:
 
 * Think back to the September 11 Digital Archive and HistorEsch Gesinn. In each case, what do you think motivated contributors to submit their materials? Were they likely thinking about long-term archival preservation, or something else entirely? Do you think Lea has such considerations? 
 * Based on the contribution forms you consulted in 1.c, do you think either collection adequately prepares contributors for the future uses their materials might serve — including uses they could not anticipate?
-<!--* Formal agreements govern how materials are deposited in traditional archives. What are the advantages and limitations of this approach compared to crowdsourced archives?-->
 
 ### Reading/viewing suggestions
  
@@ -137,7 +137,7 @@ Editor's note: Sections 1.a and 1.b form the core of this part and are suitable 
 
 ## 2 The data lifecycle: ethical obligations at every stage
 
-Data does not have a single moment at which ethics becomes relevant. Ethical obligations arise at every stage of a dataset's life — from the initial decision to collect data to its eventual archiving or deletion. This assignment introduces the concept of the research data lifecycle, shows how it is described in two prominent data management frameworks, and asks you to apply it to the case study that runs through this lesson: a local history project involving oral testimonies and family photographs.
+Data does not have a single moment at which ethics becomes relevant. Ethical obligations arise at every stage of a data's life — from the initial decision of creating or collecting to its eventual archiving or deletion. This assignment introduces the concept of the research data lifecycle, shows how it is described in two prominent data management frameworks, and asks you to apply it to the case study that runs through this lesson: a local history project involving oral testimonies and family photographs.
 
 ### 2.a What a data lifecycle is and how it matters for ethics - 20 mins
 
@@ -443,7 +443,7 @@ Then reflect on the two frameworks together:
 
 ### Conclusion
 The moment in the video when Lea pauses before publishing her archive — realising she must go back and check consent — is not a mistake or an oversight. It is good research practice. Ethical care is not a hurdle to overcome before the 'real' work of research begins; it is part of the research itself (Hammersley and Traianou 2012).
-This lesson has moved through three scales of ethical attention. The first assignment asked you to read existing archival records for the ethical traces they carry: questions of consent, ownership, and cultural sensitivity embedded in the metadata of a born-digital archive and a cultural heritage collection. The second asked you to think systematically about the whole life of a dataset, identifying the ethical obligations that arise at each stage from planning to archiving. The third offered two practical frameworks — FAIR and CARE — and asked you to apply them to real repositories and to the specific dilemma of deciding what to share, how, and on whose terms.
+This lesson has moved through three scales of ethical attention. The first assignment asked you to read existing archival records for the ethical traces they carry: questions of consent, ownership, and integrity embedded in the metadata of a born-digital archive and a cultural heritage collection. The second asked you to think systematically about the whole life of a dataset, identifying the ethical obligations that arise at each stage from planning to archiving. The third offered two practical frameworks — FAIR and CARE — and asked you to apply them to real repositories and to the specific dilemma of deciding what to share, how, and on whose terms.
 None of these frameworks provides automatic answers. The GDPR sets a minimum legal standard; ethics goes further. FAIR describes what technically responsible sharing looks like (Wilkinson et al. 2016); CARE asks whether sharing serves the interests of those whose lives the data concerns (Carroll et al. 2020). The answer to that question can only come from knowing your sources, knowing the communities behind them, and exercising the kind of informed, reflective judgement that is, in the end, what historical scholarship is for.
 
 ### Reading/viewing suggestions
