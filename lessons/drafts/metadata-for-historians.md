@@ -49,6 +49,33 @@ Descriptive instruments (catalogs, index cards…) have been invented wherever/w
 
 "There is nothing objective about metadata: it always makes a statement about the world, and this statement is subjective is what it includes, what it omits, where it draws its boundaries and in the terms it uses to describe it." (Gartner 2016: 4) 
 
+### Assignment 1 
 
+In this assignment, you will work with a print postcard that is part of the [art event ephemera collection](https://digitalcollections.nypl.org/collections/michael-cummings-african-american-art-event-ephemera-collection) of [Michael A. Cummings](https://en.wikipedia.org/wiki/Michael_A._Cummings), US artist and collector of ephemeral art of Black and Latino artists. 
+
+The collection is held at the Arthur Schomburg Center for Research in Black Culture, that is part of the New York Public Library (herafter NYPL). The postcard is only physically accessible in the cultural heritage institution that preserves it in New York, USA. The postcard, as the whole collection it belongs to, was digitized, for this reason its description is provided by the Digital Collections of the NYPL.
+
+Please check the description and explore the information contained with the help of the questions below. 
+
+* Is an image of the postcard available to inspect and download in order to work closer with it? 
+* What information can you find about the ways you can access this object and in which section? 
+* Is there any way at all to see what the postcard looks like from your computer? 
+
+Now, focus on the information that is provided **about** its context of creation: if you needed to work with it as a source, these elements help you to verify provenance, authenticity and judge the reliability of your source. 
+
+First, spot the elements that allow you to **identify** the resource and **contextualize its creation**. Typically, these are the chunks of information historians use to cite their sources, such as the name of author or any type of creator involved, a title, a date (of creation, publication etc.), a collection of which the object may be part, the archive that houses the resource, an identification number... This list is not necessarily exhaustive, so be aware that you might find more or less of these elements. Check your findings and note which elements of identification, if any. 
+
+Besides information on the context of creation, information about the collection the resource is part of is also iùportant. Check additional information, for example [the bibliographic description in the library's catalog](https://www.nypl.org/research/research-catalog/bib/b14968343) that is also provided in the page about the collection the postcard is part of. 
+
+* Reading only the above description of the collection and eventually the Wikipedia article on the [Schomburg Center](https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture) that holds the collection, what can you conclude about the broader environment of the postcard as source? How could you relate it to social and cultural evolutions in the United States in America in the 20th and 21st c.? 
+
+If you are careful, you will observe that the notices of the library's catalog gives also access to ancient bibliographic descriptions. Keep in mind that these are high quality metadata, since they provide complementary levels of contextualization and allow you to track - and possibly historicize - the evolution of the description of the item.
+
+Do you understand now how the following operations: 
+* first, digitizing the postcard separately from the book it is part of 
+* second, describing it as a unit independently from the book
+* third, making this information openly accessible in the open web
+
+all made it eventually possible for readers to find that this item exists, even if it is not immediately accessible online.   
 
 
