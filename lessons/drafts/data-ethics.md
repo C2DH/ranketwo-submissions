@@ -3,7 +3,7 @@ authors: tugce-karatas
 date: 2026-04-14
 title: Data criticism. Ethics and responsibility
 learning-objectives: 
- - Identify key ethical principles — consent, ownership, and cultural responsibility — in real archival situations
+ - Identify key ethical principles — consent, ownership, and integrity — in real archival situations
  - Identify the ethical obligations that arise at each phase of the research data lifecycle
  - Apply the FAIR and CARE principles to evaluate how historical datasets are shared
 
@@ -14,11 +14,11 @@ Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
 ## Introduction 
 
-Historians have long engaged with questions of provenance, reliability, and the integrity of their sources. Ethical concerns are equally central to historical practice, particularly when working with living individuals, collective memories, or oral histories. These concerns encompass consent, ownership, and the responsibilities involved in using and disseminating such materials.
+Historians have long engaged with questions of provenance, reliability, and the accuracy of their sources. Ethical concerns are equally central to historical practice, particularly when working with living individuals, collective memories, or oral histories. These concerns encompass responsibilities involved in using and disseminating such materials.
 
 What distinguishes the digital age is not the existence of these issues but their amplification. Digital technologies enable data to circulate at unprecedented scale and speed, to be recombined across contexts, and to reach audiences far beyond those originally envisaged — raising new ethical stakes around control, context, and consent.
 
-This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and cultural sensitivity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
+This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and integrity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
 
 
 ## 1 From data to information to knowledge: ethics in practice
@@ -27,7 +27,7 @@ In everyday language, the terms data, information, and knowledge are often used 
 
 Data, in the technical sense, refers to raw material: individual observations, records, measurements, or artefacts considered in isolation. A name, a date, a photograph, a GPS coordinate, or a voice recording are all examples of data. On their own, they do not carry meaning. Information emerges when data is contextualised: a photograph becomes informative once we know who is depicted, when it was taken, and by whom. Knowledge, in turn, is the interpretive outcome produced by connecting and analysing information; it is what historians construct through their engagement with sources. 
 
-Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether the data is accurate <!--here, the third question, data accuracy, is certainly a stake, but it does not correspond to the third key principle presented in the introduction, which is cultural sensitivity-->. At the level of information — when data is combined and contextualised — new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson -->At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
+Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether it is handled with cultural sensitivity, particularly where it relates to communities whose heritage, traditions or experiences are involved. At the level of information, when data is combined and contextualised, new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson --> At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
 
 This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata — descriptive, structural, and administrative — shapes how datasets are discovered, interpreted, and reused. <!--for the descriptive metadata we should introduce a link to Sofia's lesson--> As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
 
