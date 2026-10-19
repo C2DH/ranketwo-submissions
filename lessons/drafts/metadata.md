@@ -94,11 +94,11 @@ There is one more source of information that could be useful in such cases or in
 
 Let us now inspect the file of the image we are working with from the September 11 Digital Archive. You will find below a screenshot taken once the image was saved from the archive to a personal computer and then opened in the system (running on Windows 11) with right click. You can follow the description based on the screenshot but you can repeat the manipulation as described below.     
 
-[Screenshot](/images/2-911-archive--photo-embedded-metadata-2025-06-05%20184848.jpg) of the downloaded file of the image from the September 11 Digital Archive.
+[Screenshot](/assets/images/data-criticism/2-911-archive-photo-embedded-metadata-2025-06-05%20184848.jpg) of the downloaded file of the image from the September 11 Digital Archive.
 
-![Screenshot of the downloaded file of the image from the September 11 Digital Archive]({{ "/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg" | relative_url }})
+![Screenshot of the downloaded file of the image from the September 11 Digital Archive]({{ "/assets/images/data-criticism/2-911-archive-photo-embedded-metadata-2025-06-05.jpg" | relative_url }})
 
-![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive]({{ "/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg" | relative_url }} "Screenshot of the embedded metadata, 5 June 2025")
+![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive]({{ "/assets/images/data-criticism/2-911-archive-photo-embedded-metadata-2025-06-05.jpg" | relative_url }} "Screenshot of the embedded metadata, 5 June 2025")
 
 ![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, screenshot, 5 June 2025](/assets/images/data-criticism/2-911-archive-photo-embedded-metadata-2025-06-05.jpg "Screenshot of the downloaded file of the image from the September 11 Digital Archive, 5 June 2025")
 
@@ -140,7 +140,7 @@ In this sense, the keywords have a local function as metadata about the photo.
 
 Now, you may have noticed that one of these keywords is clickable. Click on it and observe where this action leads you. Normally, you are enabled to reach to all descriptions available on Europeana that have the same keyword. Do they all belong to the same collection? You can get help from the screenshot below, if necessary.    
 
-![Various holdings classified under World War 1 keyword on Europeana, screenshot, 18 June 2025](/images/2-europeana-ww1-indexation-2025-06-18.jpg "Various holdings classified under World War 1 keyword on Europeana, screenshot, 18 June 2025") 
+![Various holdings classified under World War 1 keyword on Europeana, screenshot, 18 June 2025](/assets/images/data-criticism/2-europeana-ww1-indexation-2025-06-18.jpg "Various holdings classified under World War 1 keyword on Europeana, screenshot, 18 June 2025") 
 <!-->
 ![Various holdings classified under World War 1 keyword on Europeana, screenshot, 18 June 2025]({{"/images/2-europeana-ww1-indexation-2025-06-18.jpg | relative_url }} "Various holdings classified under World War 1 keyword on Europeana, screenshot, 18 June 2025") 
 -->
@@ -160,7 +160,7 @@ Now go to [Flickr Commons](https://www.flickr.com/commons). This is a specific p
 <!-- cette figure ne semble pas nécessaire puisque la suivante l'englobe)
 ![Search on Flickr Commons with the keyword ww1, screenshot, 19 June 2025](/images/2-flickr-search-ww1.jpg "Search on Flickr Commons with the keyword ww1, screenshot, 19 June 2025") 
 --> 
-![Results of search on Flickr Commons with the keyword 'ww1', screenshot, 19 June 2025](../images/2-flickrcommons-results-ww1.jpg "Results of search on Flickr Commons with the keyword 'ww1', screenshot, 19 June 2025") 
+![Results of search on Flickr Commons with the keyword 'ww1', screenshot, 19 June 2025](/assets/images/data-criticism/2-flickrcommons-results-ww1.jpg "Results of search on Flickr Commons with the keyword 'ww1', screenshot, 19 June 2025") 
 
 ![Results of search on Flickr Commons with the keyword 'ww1', screenshot, 19 June 2025]({{"/images/2-flickrcommons-results-ww1.jpg | relatice_url }} "Results of search on Flickr Commons with the keyword 'ww1', screenshot, 19 June 2025") 
 
@@ -246,7 +246,7 @@ Regardless of the system you would choose to organize your sources: this could b
 <!-->
 ![Generic form of Tropy, screenshot, 19 June 2025](/images/tropy-form-2-generic.jpg "Generic form of Tropy, screenshot, 19 June 2025") 
 -->
-![Generic form of Tropy, screenshot, 19 June 2025](/images/tropy-form-2-generic.jpg "Generic form of Tropy, screenshot, 19 June 2025") 
+![Generic form of Tropy, screenshot, 19 June 2025](/assets/images/data-criticism/tropy-form-2-generic.jpg "Generic form of Tropy, screenshot, 19 June 2025") 
 
 ![Generic form of Tropy, screenshot, 19 June 2025]({{"/images/tropy-form-2-generic.jpg | relative_url }} "Generic form of Tropy, screenshot, 19 June 2025") 
 
