@@ -3,7 +3,7 @@ authors: tugce-karatas
 date: 2026-04-14
 title: Data criticism. Ethics and responsibility
 learning-objectives: 
- - Identify key ethical principles — consent, ownership, and cultural sensitivity — in real archival situations
+ - Identify key ethical principles — consent, ownership, and cultural responsibility — in real archival situations
  - Identify the ethical obligations that arise at each phase of the research data lifecycle
  - Apply the FAIR and CARE principles to evaluate how historical datasets are shared
 
