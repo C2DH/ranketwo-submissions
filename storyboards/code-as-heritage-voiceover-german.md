@@ -7,9 +7,7 @@ translator: deepl
 editor: tbd
 ---
 
-Bevor die Softwareentwicklung einen Namen hatte, war sie Frauenarbeit. In den Anfängen der Informatik galt das Programmieren weitgehend als Büroarbeit – präzise, mühsam und daher Frauen vorbehalten. Die sechs Frauen, die den ENIAC, einen der ersten
-
-elektronischen Computer, programmierten, entwickelten grundlegende Techniken, noch bevor es für dieses Fachgebiet überhaupt einen Begriff gab. Jahrzehntelang wurden ihre Namen systematisch aus den historischen Aufzeichnungen ausgeklammert.
+Bevor die Softwareentwicklung einen Namen hatte, war sie Frauenarbeit. In den Anfängen der Informatik galt das Programmieren weitgehend als Büroarbeit – präzise, mühsam und daher Frauen vorbehalten. Die sechs Frauen, die den ENIAC, einen der ersten elektronischen Computer, programmierten, entwickelten grundlegende Techniken, noch bevor es für dieses Fachgebiet überhaupt einen Begriff gab. Jahrzehntelang wurden ihre Namen systematisch aus den historischen Aufzeichnungen ausgeklammert.
 
 Doch ihr Code hat überdauert. Von Historikern anhand von Archiven und Zeitzeugenberichten untersucht, wird er zu einer Quelle, die die menschlichen Geschichten hinter der Technologie offenbart.
 
