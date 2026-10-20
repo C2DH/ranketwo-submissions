@@ -10,7 +10,7 @@ editor: tbd
 
 Transcription
 
-Avant même que le génie logiciel ne porte ce nom, c’était un travail de femmes. Aux débuts de l’informatique, la programmation était largement considérée comme un travail de bureau — précis, minutieux, et donc confié aux femmes. Les six femmes qui ont programmé l’ENIAC, l’un des premiers ordinateurs électroniques, ont mis au point des techniques fondamentales avant même que la discipline ne dispose d’un vocabulaire propre. Pendant des décennies, leurs noms ont été systématiquement exclus des archives historiques.
+Avant même que l'ingénierie logicielle ne porte ce nom, c’était un travail de femmes. Aux débuts de l’informatique, la programmation était largement considérée comme un travail de bureau — précis, minutieux, et donc confié aux femmes. Les six femmes qui ont programmé l’ENIAC, l’un des premiers ordinateurs électroniques, ont mis au point des techniques fondamentales avant même que la discipline ne dispose d’un vocabulaire propre. Pendant des décennies, leurs noms ont été systématiquement exclus des archives historiques.
 
 Pourtant, leur code a survécu. Étudié par les historiens aux côtés d’archives et de témoignages, il devient une source permettant de révéler les histoires humaines qui se cachent derrière la technologie.
 
