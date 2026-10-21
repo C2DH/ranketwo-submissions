@@ -3,7 +3,10 @@ authors:
  - moritz-feichtinger
 editors: 
  - sofia-papastamkou
- - aida-horaniet-ibanez 
+ - aida-horaniet-ibanez
+reviewers: 
+ - Cécile Armand
+ - Daniel Richter 
 date: 2026-09-30
 title: Data and critique - the construction of data
 learning-objectives: 
@@ -95,7 +98,7 @@ Loukissas, Yanni Alexander. (2019). *All data are local: Thinking critically in 
 
 Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” *The American Historical Review* 121 (2), 2016: 377‑402. https://doi.org/10.1093/ahr/121.2.377.
 
-Rosenberg, D. (2013). Data before the Fact. In L. Gitelman (Ed.), “Raw Data” Is an Oxymoron (pp. 15–40). The MIT Press. https://doi.org/10.7551/mitpress/9302.003.0003 to be found [here](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
+Rosenberg, D. (2013). “Data before the Fact.” In L. Gitelman (Ed.), *“Raw Data” Is an Oxymoron* (pp. 15–40). The MIT Press. https://doi.org/10.7551/mitpress/9302.003.0003. [Available at](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
 
 ## 2 Encoding and digital representation
 
@@ -258,7 +261,7 @@ The Punched Card | IBM. https://www.ibm.com/history/punched-card.
 
 The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
-Pargman, Daniel, and Jacob Palme. "ASCII Imperialism." In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
+Pargman, Daniel, and Jacob Palme. “ASCII Imperialism.” In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
 
 
 ## 3 From sources to data
@@ -416,40 +419,43 @@ Critically thinking about data assembled by somebody else is crucial if we want 
 
 Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction.* . Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
 
-Roberts, Spencer W.. Spreadsheets for Historians – Spencer W. Roberts. 12 août 2014. https://swroberts.ca/scholarship/spreadsheets-for-historians/.
+Roberts, Spencer W.. Spreadsheets for Historians – Spencer W. Roberts. 12 August 2014. https://swroberts.ca/scholarship/spreadsheets-for-historians/.
 
-Rogers, Jonathan. « LibGuides: Working with Quantitative Data: Home ». Consulté le 2 juin 2026. https://libguides.law.ucla.edu/data/home.
+Rogers, Jonathan. LibGuides: Working with Quantitative Data: Home. Accessed 2 June 2026. https://libguides.law.ucla.edu/data/home.
 
 
 ## 4 Understanding the relational database
 
 *Learning outcomes* 
 
-* *Design a simple data model for historical sources*
+* *Understand a simple data model designed for historical sources*
 
 * *Recognize relations and how they are implemented in a data model*
 
-In 3.c, we created a single table to describe one type of object. But historical sources usually involve many different kinds of things at once — people, places, organisations, events — and we need a way to keep them connected without losing the bigger picture.
+The previous section highlighted the creation of single tables to describe one type of object. But historical sources usually involve different kinds of objects at once — people, places, organisations, events... — and various connections between these objects. Furthermore, when historians need to analyse hundreds or thousands of documents, information may quickly become repetitive and complex to manage. When spreadsheets are no longer sufficient to effectively work with sources, relational databases, enter the scene. Based on [specific software](https://en.wikipedia.org/wiki/Database#Database_management_system), databases were designed to organise large amounts of information while preserving the connections between the described objects.  
 
-When historians work with a few sources, a spreadsheet is often sufficient. But when we need to analyse hundreds or thousands of documents, information quickly becomes repetitive and difficult to manage. Relational databases, based on [specific software](https://en.wikipedia.org/wiki/Database#Database_management_system), were designed to organise large amounts of information while preserving the connections between the described objects.   
+This section focuses on the concept of data model and the principles on which its implementation is based, using a simple example of a historical source (newspaper article). Technical notions are explained but their mastery can be acquired by use of selected resources proposed in the reading suggestions.   
 
 
 ### Instructions 
 
-Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribune*, April 10, 1857. [URL](https://www.marxists.org/archive/marx/works/1857/04/10.htm) <!--or via the Wayback Machine [here](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm).--> 
+Look at the following source: Karl Marx. Whose Atrocities? *New York Daily Tribune*, April 10, 1857. [URL](https://www.marxists.org/archive/marx/works/1857/04/10.htm). 
+
+If you have a problem to access the resource, please consult the [archived URL](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm).
 
 ![Source: "Whose Atrocities?"](/assets/images/data-criticism/source-full.jpg)
+Figure
 
-The exercises in the following subsections use this source and provide specific instructions. Subsection 4.f illustrates a possible implementation of a database using a collection this source is part of. 
+The source is a newspaper article by Karl Marx, published on 10 April, 1857. For the purpose of this lesson, it will be considered part of a collection of articles on UK policy towards China from which a database should be constructed. 
 
-Before going further, let us note that we could treat this source on three different levels: On the one hand, we are dealing with a website. On a different level, it is an excerpt from an edited volume assembling Marx's writings for the New York Daily Tribune that was published in 1951. Finally, we could also treat it as an article that appeared in said newspaper on April 10, 1857. This is how these different types are displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
+The image you see in the above figure represents the transcribed version of the article as published on the website [marxists.org](https://www.marxists.org/). This version is itself a digitisation in provenance of an edited volume published in 1951 assembling all articles on China authored by Marx in the *New York Daily Tribune*. The media archaelogy that traces the different ontological levels of our source (web page, book chapter, newspaper article) can be traced in the screenshots below that display different captures displayed in [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information. 
 
 ![zotero entries](/assets/images/data-criticism/zotero-entries.jpg)
 
 The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically conceived to manage archive photos:
 ![tropy_screen](/assets/images/data-criticism/tropy-object.jpg)
 
-<!--it is not very clear how these three or even four levels are relevant with the rest. Also, what is the selected way to treat the source in the sections below-->
+The exercises in the following subsections use the source as specified in the beginning of the section (newspaper article) and provide specific instructions. 
 
 ### 4.a Conceiving a data model
 
@@ -713,13 +719,11 @@ Now we have - a very basic - architecture of a database containing several diffe
 
 **One-to-many and many-to-one describe the same relationship from two directions.** Looking from Source to Person, one article can mention many people (*one-to-many*); looking from Person to Source, every person-record belongs to exactly one article (*many-to-one*). It is the same arrow, just read from opposite ends — which is why you will sometimes see the identical relationship labelled "1:N" in one textbook and "N:1" in another.
 
-Of course, there are rules to follow when creating a database. Primary keys cannot be empty (null), for a start. Also, as we've already seen for other data sets, the entries (for each column) have to be of the same type. If you use a software to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)), you will have to specify the types. Also, the software <!-- which software? none was mentioned but anyway, I think that this level of details is perhaps too much without having before given specific explanation which however are not the aim of the lesson--> will ask you whether a column can hold foreign keys or not (you usually recognize them, because they are IDs, i.e. by their suffix `_id`).
-
-But this lesson's aim is to raise awareness on what is behind a database; please consult the references in the reading suggestions to learn more (Julien 2024); and (Cosovschi 2024).   
+Of course, there are rules to follow when creating a database: primary keys cannot be empty, the types of data (textual, numeric, etc.) need to be specified and so on. But any software used to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)) will remind these rules and constraints or the database will not work. As this lesson's aim is to raise awareness on what is behind a database, please consult the references in the reading suggestions to learn more on the implementaiton of a data model (Julien 2024); and (Cosovschi 2024).   
 
 ![Types](/assets/images/data-criticism/odb.jpg) 
 
-The relational model is not the only way to organise data. NoSQL databases (a loose family including document stores, key-value stores, and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example 4.d in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework): it does not have tables, but expresses infomration in simple three-part statements consisting of subject–predicate–object (so called "triples"). In the case of 4.d, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, linking the person-table to a Wikidata QID is a first step towards a RDF-based, linked-data, that is connecting data form various sources and formats.
+The relational model is not the only way to organise data. [NoSQL](https://en.wikipedia.org/wiki/NoSQL) databases (a loose family including document stores, key-value stores, and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example 4.d in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework): it does not have tables, but expresses information in simple three-part statements consisting of subject–predicate–object (so called "triples"). In the case of 4.d, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, linking the person-table to a Wikidata QID is a first step towards a RDF-based, linked-data, that is connecting data form various sources and formats.
 
 ### What have we learned?
 
@@ -727,20 +731,20 @@ Databases are the main carrier for digital data. They can store a great variety 
 
 To make all of this possible, relational databases rely on a few key principles. Every record needs a **primary key** — a unique identifier that distinguishes it from all others, even if names or descriptions are identical across sources. **Foreign keys** allow tables to reference each other, so that a person, a place, or an organisation only needs to be described once and can then be linked to as many events or sources as needed. Where relationships are complex, for example if one person was involved in many events, and/ or we have to deal with one event involving many persons, **junction tables** store the connections without duplicating data. Together, these mechanisms allow historians to ask questions that cut across many sources at once, and to detect patterns that no single spreadsheet could reveal. 
 
-However, a database is no replacement for good old source criticism: entering a piece of information from a source into a table does not make it any more certain or reliable, it still needs to be critically evaluated for provenance, perspective, and credibility. But uncertainty can be integrated explicitly into the data model, as we did in the case of the date precision in 4.f, for instance. The critical treatement of any source material, rather than considering information found in historic sources as solid facts, must remain the fundamental principle of any research in history - be it digital or not!
+However, a database is subject to good old source criticism too: entering a piece of information from a source into a table does not make it any more certain or reliable, it still needs to be critically evaluated for provenance, perspective, and credibility. But uncertainty can be integrated explicitly into the data model, as we did in the case of the date precision in 4.f, for instance. The critical treatment of any source material, rather than considering information found in historic sources as solid facts, must remain the fundamental principle of any research in history - be it digital or not!
 
 
 ### Reading/viewing suggestions
 
 Nodegoat. What Is a Relational Database?. Accessed 4 June 2026. https://nodegoat.net/blog.s/20/what-is-a-relational-database.
 
-Cosovschi, Agustín. « From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat ». Programming Historian, 29 février 2024. https://programminghistorian.org/en/lessons/designing-database-nodegoat.
+Cosovschi, Agustín. “From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat”. Programming Historian, 29 February 2024. https://programminghistorian.org/en/lessons/designing-database-nodegoat.
 
 Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿[halshs-04550456￿](https://shs.hal.science/halshs-04550456v1)
 
-Robertson, Stephen. « THE PROPERTIES OF DIGITAL HISTORY ». *History and Theory* 61 (4) (2022): 86‑106. https://doi.org/10.1111/hith.12286.
+Robertson, Stephen. “The properties of digital history”. *History and Theory* 61 (4) (2022): 86‑106. https://doi.org/10.1111/hith.12286.
 
-Viale, Mattia. « From the Historical Source to a Database: A Short Story ». *Refashioning the Renaissance*, 21 November 2018. https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/.
+Viale, Mattia. “From the Historical Source to a Database: A Short Story”. *Refashioning the Renaissance*, 21 November 2018. https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/.
 
 
 
@@ -916,7 +920,7 @@ For historians and humanists it is wise to use a schema that is established by m
 
 ### 5.e Critiquing data formats
 
-In real life, historians rarely convert data between formats by hand, there are dedicated tools to do this. But it is crucial to understand what is actually happening during such a conversion, because this allows us to critically assess a dataset we did not assemble ourselves. Only if we know what building a dataset by converting information extracted from sources into a structured format can we notice if precision or context is adequately represented or have been lost along the way. 
+In real life, historians rarely convert data from one format to another by hand, there are dedicated tools to do this. But it is crucial to understand what is actually happening during such a conversion, because this allows us to critically assess a dataset we did not assemble ourselves. Only if we know what building a dataset by converting information extracted from sources into a structured format can we notice if precision or context is adequately represented or have been lost along the way. 
 
 In the previous exercises, you worked with different ways of structuring and representing data. This final step invites you to reflect more critically on the formats you use.
 
