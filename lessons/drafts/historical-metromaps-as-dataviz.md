@@ -314,9 +314,11 @@ Internet:
 
 <img width="1080" height="1080" alt="10 2020" src="https://github.com/user-attachments/assets/ea035b52-f8b5-4f84-b30a-690fd7d64dae" />
 
+It reminds me of an old poster hanging in metro trains that states that average citizen of Kyiv spends 4 years of life in metro (there is no sources that would prove this fact and mostly perceived as an urban legend or marketing strategy). However 4 years with good internet coverage is definitely a better option.  
+
 Metro schemas are used as versatile tool to tell different stories, which sometimes are completely unrelated to the primary purpose of the schemas - to navigate passengers inside rapid transit system.
 For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations (including  deep stations). this map carries a massage not about the public transportation but about the equipping metro stations with routers and WiFis to provide same internet quality as people would have in the offices or in their homes. 
-It reminds me of an old poster hanging in metro trains that states that average citizen of Kyiv spends 4 years of life in metro (there is no sources that would prove this fact and mostly perceived as an urban legend or marketing strategy). However 4 years with good internet coverage is definitely a better option.  
+
 
 
 
