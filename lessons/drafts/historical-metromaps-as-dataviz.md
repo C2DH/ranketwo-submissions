@@ -34,7 +34,7 @@ og:
 ---
 <!-- Check British/US english visualisation/visualization -->
 
-# Code as Heritage
+# Historical metro maps as data visualisations
 
 [Introduction](#introduction)
 
@@ -276,17 +276,8 @@ By completing this section, you will be able to:
 - Contextualise the historical setting of a metro map by comparing it with other metro and geographical maps.
 
 ### 3.a 
-The evolution of the same map and multiple versions of a mal
+The evolution of the same map and multiple versions of a map
 <!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
-
-### 3.b
-Other maps: thematic, internet coverage, etc.
-<!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
-
-### Reading/viewing suggestions  
-This is mostly Masha's section to add plenty of examples and guided analysis.
-<!-- Masha to add the reading suggestions -->
-
 
 Historical contextualisation of metro maps
 
@@ -307,8 +298,9 @@ one of the most prominent examples of the changes of the country policy was rena
 <img width="7795" height="8150" alt="KM_2025_a3 kyiv ua" src="https://github.com/user-attachments/assets/d500e06c-4ea8-45ce-adca-5ee4b4e2c4fe" />
 
 
-
-
+### 3.b
+Other maps: thematic, internet coverage, etc.
+<!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
 
 Internet:
 
@@ -338,5 +330,7 @@ Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one o
 <img width="1437" height="1502" alt="2012 official" src="https://github.com/user-attachments/assets/baea126b-7834-4395-a5b2-8ef845a506d1" />
 
 
-
+### Reading/viewing suggestions  
+This is mostly Masha's section to add plenty of examples and guided analysis.
+<!-- Masha to add the reading suggestions -->
 
