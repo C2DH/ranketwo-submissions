@@ -266,7 +266,7 @@ Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W.
 
 ## 3 Metro maps as data visualisations and historical sources in context 
 <!-- This section is mostly the historical section for Masha to develop. Structure it differently if needed, also include the visualization from your thesis about depth, etc. -->
-### 3.a "Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15)<!-- Fix references -->
+"Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15)<!-- Fix references -->
 
 Contextualisation is a key practice both in critical analysis of data visualisation and historical sources. How do we look at metro maps in combination with other maps? What new perspectives does it offer to look at the multiple versions of the same metro maps (e.g., official one vs. construction map), the official map over time, or in combination with other maps (e.g, Olympics, Internet coverage)? What contradictions do we find, and what information appears and disappears among them or over time?
 
@@ -275,31 +275,24 @@ Contextualisation is a key practice both in critical analysis of data visualisat
 By completing this section, you will be able to:
 - Contextualise the historical setting of a metro map by comparing it with other metro and geographical maps.
 
+### 3.a From geographical map to structural network
+In this part we approach the context behind creation of a structural networks on place of geographical maps in London, Paris and Kyiv.  
 
-Based on what you've learned in section 1. whatch the following video:
+Take a look at the following video:
 
 
 https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s
+
 TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
 
 
-London.
+London
 
-The Metropolitan Railway, the first underground train line to open in London and
-thus the first in the world, entered service in 1863, Other lines followed, run by several
-different companies, until, all the operators “agreed on a joint marketing strategy in 1908
-that featured the logo with a red disk and the word ‘Underground.” Tube was developed
-to solve massive surface congestion in Victorian London.
+The first in the world metro entered service in 1863 in London under the name the Metropolitan Railway.
+The universal template for modern subway maps was also created for the Tube.
 
-In 1933, Harry Beck, a draftsman in the London Underground Signals Office created the
-new map that was more accurately a diagram that prioritized riders’
-needs. “Passengers do not care what is on the surface they need to get from station to
-station”. Previous geographically accurate maps were not useful, but
-confusing! He removed all aboveground references but the Thames and replotted the
-stations at equidistant points along color-coded straight lines, going horizontal, vertical
-and 45%.
-This map was created through interdisciplinary approach. It remains the universal
-template for modern subway maps!
+In 1933, Harry Beck, a draftsman in the London Underground Signals Office created the new map that was more accurately a diagram that prioritised riders’ needs. “Passengers do not care what is on the surface they need to get from station to station”. 
+Previous geographically accurate maps were not useful, but confusing! He removed all aboveground references but the Thames and replotted the stations at equidistant points along color-coded straight lines, going horizontal, vertical and 45%.
 
 
 Paris
