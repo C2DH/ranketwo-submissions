@@ -366,7 +366,7 @@ For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Tr
 
 <img width="1080" height="1080" alt="3b_4G" src="https://github.com/user-attachments/assets/f0f097d2-3421-451c-875f-0885d0f286ca" />
 
-Picture 3b_4G in repository3
+Picture 3b_4G in repository
 
 Source - official Telegram channel of the Ministry of Digital Transformation of Ukraine (@mintsyfra - https://t.me/mintsyfra) from the 28th of October 2020.
 
@@ -376,11 +376,21 @@ Sport:
 
 Another example would be how maps and schemas reflect big sport events hosted by the country. here is the map of Kyiv from 1980 developed for tourists who would visit the city during the Olympics of 1980. Although Games were not hosted in Kyiv it was a big event for the whole post-soviet space. This is the tourist map of Kyiv incorporation all the important sport location as well as metro stations in the city.
 
-<img width="15739" height="15826" alt="1980 - Kiyev - Turistskaya skhema - B" src="https://github.com/user-attachments/assets/28b7f0a4-4118-4422-8d7e-744cbb14dc36" />
+<img width="15739" height="15826" alt="3b_Olympics 1980" src="https://github.com/user-attachments/assets/b209e83e-d557-4988-9130-74226ef8b40f" />
+
+Picture 3b_Olympics 1980 in repository.
+
+Source - touristic map of Kyiv published in 1980. From the private collection of M.Meleshko-Sudina.
+
+
 
 we know from other source that Kyiv metro was impacted by Olympics as the schedule for the metro trains were adjusted to the games.
 
-<img width="485" height="274" alt="Screenshot 2026-10-22 at 10 45 42" src="https://github.com/user-attachments/assets/68149822-4b72-4e30-ae10-56909aab290f" />
+<img width="485" height="274" alt="3b_Dispatch Diary" src="https://github.com/user-attachments/assets/2747a1f8-bdc2-4b56-9dc2-f1279c7e63bb" />
+
+Picture 3b_Dispatch Diary in repository.
+Sourse - from the metro dispatcher (control operator) journal - artefact is located in the museum of The Kyiv Metropolitan amd available onlime  
+
 
 Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). from this time on the announcement in metro train also done in both languages   
 
