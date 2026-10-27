@@ -364,7 +364,12 @@ Metro schemas are used as versatile tool to tell different stories, which someti
 For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations (including deep stations). this map carries a massage not about the public transportation but about the equipping metro stations with routers and WiFis to provide same internet quality as people would have in the offices or in their homes.
 
 
-<img width="1080" height="1080" alt="10 2020" src="https://github.com/user-attachments/assets/ea035b52-f8b5-4f84-b30a-690fd7d64dae" />
+<img width="1080" height="1080" alt="3b_4G" src="https://github.com/user-attachments/assets/f0f097d2-3421-451c-875f-0885d0f286ca" />
+
+Picture 3b_4G in repository3
+
+Source - official Telegram channel of the Ministry of Digital Transformation of Ukraine (@mintsyfra - https://t.me/mintsyfra) from the 28th of October 2020.
+
 
 
 Sport:
