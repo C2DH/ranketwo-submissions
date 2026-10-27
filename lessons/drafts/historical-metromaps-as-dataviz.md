@@ -266,13 +266,23 @@ Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W.
 
 ## 3 Metro maps as data visualisations and historical sources in context 
 <!-- This section is mostly the historical section for Masha to develop. Structure it differently if needed, also include the visualization from your thesis about depth, etc. -->
-3.a 3.a.
-Based on what you've learned in section 1.whatch the following video:
+### 3.a "Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15)<!-- Fix references -->
+
+Contextualisation is a key practice both in critical analysis of data visualisation and historical sources. How do we look at metro maps in combination with other maps? What new perspectives does it offer to look at the multiple versions of the same metro maps (e.g., official one vs. construction map), the official map over time, or in combination with other maps (e.g, Olympics, Internet coverage)? What contradictions do we find, and what information appears and disappears among them or over time?
+
+[!NOTE]
+*Learning objective:*
+By completing this section, you will be able to:
+- Contextualise the historical setting of a metro map by comparing it with other metro and geographical maps.
+
+
+Based on what you've learned in section 1. whatch the following video:
 
 • TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
 https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s
 
 London.
+
 The Metropolitan Railway, the first underground train line to open in London and
 thus the first in the world, entered service in 1863, Other lines followed, run by several
 different companies, until, all the operators “agreed on a joint marketing strategy in 1908
@@ -291,6 +301,7 @@ template for modern subway maps!
 
 
 Paris
+
 The Paris Metro network had almost exclusively been represented geographically. Beck
 was asked to develop map for Paris, did two versions both rejected
 “So why did the Paris Metro reject Beck's clear simplification of their beloved system?”
@@ -299,6 +310,7 @@ https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
 
 
 Kyiv
+
 The Kyiv metro schemas creators, Ahenty zmin about current official : “ We have
 examined almost every official metro map on the planet, dating from 1908 to 2014: the
 most comprehensive reference work on such maps is the book Transit Maps of the World,
@@ -319,16 +331,9 @@ html
 https://research-ebsco-com.proxy.bnl.lu/c/h7fpgt/viewer/pdf/7yx7chlx6n
 
 
-3.b "Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15)<!-- Fix references -->
 
-Contextualisation is a key practice both in critical analysis of data visualisation and historical sources. How do we look at metro maps in combination with other maps? What new perspectives does it offer to look at the multiple versions of the same metro maps (e.g., official one vs. construction map), the official map over time, or in combination with other maps (e.g, Olympics, Internet coverage)? What contradictions do we find, and what information appears and disappears among them or over time?
 
-[!NOTE]
-*Learning objective:*
-By completing this section, you will be able to:
-- Contextualise the historical setting of a metro map by comparing it with other metro and geographical maps.
-
-### 3.a 
+### 3.b 
 The evolution of the same map and multiple versions of a map
 <!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
 
