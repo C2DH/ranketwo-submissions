@@ -278,8 +278,10 @@ By completing this section, you will be able to:
 
 Based on what you've learned in section 1. whatch the following video:
 
-• TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
+
 https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s
+TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
+
 
 London.
 
