@@ -13,22 +13,22 @@ Video animation of the lesson: https://vimeo.com/1198347738/9a759399ac
 
 ## Introduction 
 
-Historians have long engaged with questions of provenance, reliability, and the accuracy of their sources. Ethical concerns are equally central to historical practice, particularly when working with living individuals, collective memories, or oral histories. These concerns encompass responsibilities involved in using and disseminating such materials.
+Historians have long engaged with questions of provenance, reliability, and the accuracy of their sources. Ethical concerns are equally central to historical practice, particularly when working with living individuals, collective memories, or oral histories. From the point of view of data ethics, these concerns encompass responsibilities involved in using and disseminating such materials.
 
-What distinguishes the digital age is not the existence of these issues but their amplification. Digital technologies enable data to circulate at unprecedented scale and speed, to be recombined across contexts, and to reach audiences far beyond those originally envisaged — raising new ethical stakes around control, context, and consent.
+What distinguishes the digital age is the amplification of these issues. Digital technologies enable data to circulate at unprecedented scale and speed, to be recombined across contexts, and to reach audiences far beyond those originally envisaged — raising new ethical stakes around control, context, and consent.
 
-This lesson works through these dimensions in three assignments. The first introduces the core ethical principles — consent, ownership, and integrity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a Data Management Plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
+This lesson works through these dimensions in three assignments. The first introduces the core principles of data ethics — consent, ownership, and integrity — through a born-digital oral history case study. The second maps these principles onto the full research data lifecycle, using a data management plan exercise drawn from a local history project. The third applies the FAIR and CARE principles as practical frameworks for responsible data sharing and reuse.
 
 
 ## 1 From data to information to knowledge: ethics in practice
 
 In everyday language, the terms data, information, and knowledge are often used interchangeably. In the context of data management, however, they refer to distinct categories with different ethical implications (Floridi 2013). Clarifying these distinctions is essential for understanding how ethical responsibility operates at different stages of historical research.
 
-Data, in the technical sense, refers to raw material: individual observations, records, measurements, or artefacts considered in isolation. A name, a date, a photograph, a GPS coordinate, or a voice recording are all examples of data. On their own, they do not carry meaning. Information emerges when data is contextualised: a photograph becomes informative once we know who is depicted, when it was taken, and by whom. Knowledge, in turn, is the interpretive outcome produced by connecting and analysing information; it is what historians construct through their engagement with sources. 
+Data, in the technical sense, refers to what is often qualified as raw material: individual observations, records, measurements, or artefacts considered in isolation. A name, a date, a photograph, a GPS coordinate, or a voice recording are all examples of data. Of course, we know that data are constructed (please see the lesson of Moritz Feichtinger on [Data critique - the construction of data](LINK-TO-THE-LESSON), but the important point to retian here is that, on their own, they do not carry meaning. Information emerges when data is contextualised: a photograph becomes informative once we know who is depicted, when it was taken, and by whom. Knowledge, in turn, is the interpretive outcome produced by connecting and analysing information; it is what historians construct through their engagement with sources. 
 
 Each of these levels introduces distinct ethical considerations. At the level of data, key questions include whether material was collected with [informed consent](https://en.wikipedia.org/wiki/Informed_consent), who holds ownership, and whether it is handled with integrity and cultural sensitivity, particularly where it relates to communities whose heritage, traditions or experiences are involved. At the level of information, when data is combined and contextualised, new risks emerge. For example, combining datasets may reveal sensitive details that individuals did not agree to disclose, or enable re-identification even when individual data points appear anonymised. <!-- here when talking about datasets etc we should introduce a link to Moritz's lesson --> At the level of knowledge — the interpretations and narratives historians produce — ethical concerns shift again: whose perspectives are represented, whose voices are absent, and who benefits or is potentially harmed by the knowledge being created. 
 
-This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata — descriptive, structural, and administrative — shapes how datasets are discovered, interpreted, and reused. <!--for the descriptive metadata we should introduce a link to Sofia's lesson--> As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
+This hierarchy is also central to understanding metadata, a concept that recurs throughout the lesson. When historians deposit datasets in archives, they are not only sharing data but also producing information about that data. Metadata — descriptive, structural, and administrative — shapes how datasets are discovered, interpreted, and reused (please check [the lesson on data critique and metadata](LINK-TO-THE-LESSON). As such, metadata creation is not a neutral act but an interpretive and ethical one: decisions about what to include, emphasise, or omit directly influence future use (Baca 2016).
 
 ### 1.a Who owns the traces of the past? - 40 mins 
 
@@ -36,35 +36,33 @@ Watch the lesson video animation in full.
 
 Based on the video, consider the following:
 
-* The objects in the suitcase — letters, photographs, tapes — were created by different people at different times. Who do you think owns them now that Lea's grandmother has died?
+* The objects in the suitcase — letters, photographs, tapes — were created by different people at different times. Who do you think owns them now that Lea's grandmother has died? Why?
 * Lea takes photographs of the objects and begins describing them on her smartphone. At what point, if any, does she become a creator herself — and what rights might that give her? <!--here is a link to make with Sofia lesson, exercise on postcard from WW1 Europeana-->
 * At the end of the video, Lea calls her aunt Maria before making the photographs available online via the local history project. Why do you think she does this? What could happen if she shared them without asking?
 
+Explore further the notions of ownership of data and consent to see how the ethical principles are legally implemented. Please read the [article 7](https://gdpr-info.eu/art-7-gdpr/) of the [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) (hereafter GDPR), the European Union legal framework that came into force in 2018. It regulates how personal data — any information relating to an identifiable living person, including photographs — may be collected, stored, and shared. It applies to anyone processing personal data within the EU, and gives individuals the right to control how their information is used.
 
-Explore further the notions of ownership of data and consent. Search for "GDPR consent" and read the first result that comes from an official EU source related to Art.7. 
+The (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph.
 
-> **What is the GDPR?** The General Data Protection Regulation (GDPR) is a European Union legal framework that came into force in 2018. It regulates how personal data — any information relating to an identifiable living person, including photographs — may be collected, stored, and shared. It applies to anyone processing personal data within the EU, and gives individuals the right to control how their information is used.
+* In your own words, what are the conditions for consent, what does the GDPR framework protect, and who does it protect it for?
 
-The General Data Protection Regulation (GDPR) governs the processing of personal data about living individuals. A photograph showing a recognisable person — such as Aunt Maria — counts as personal data under the GDPR. Sharing it publicly without consent may constitute a violation, regardless of who legally owns the photograph.
-
-In your own words, what are the conditions for consent, what does the GDPR framework protect, and who does it protect it for?
 Does it change anything about how you answered the questions above?
 
 
 <!-- the short exercise aims at making learners explore the questions of ownership and consent. Watch video = 5 min, answering the two questions 10 mins, explore GDPR 15 minutes -->
 
-
 ### 1.b Consent in a born-digital archive
 
-For this exercise, you will work with the [September 11 Digital Archive](https://911digitalarchive.org/). 
+For this exercise, you will work with the [September 11 Digital Archive](https://911digitalarchive.org/)
+If for any reason you do not wish to engage with this event, a list of alternative resources is provided at the end of the subsection. You can use one of these with use of the questions provided below.
 
-> The September 11 Digital Archive is a born-digital collection created in the aftermath of the 2001 attacks to preserve personal accounts, photographs, and emails contributed by members of the public. At the time of its creation, online social networks did not yet exist; this was one of the first large-scale experiments in crowdsourced digital archiving. The archive was later transferred to the Library of Congress (Cohen and Rosenzweig 2005; Townsend 2010).
+> CONTENT WARNING:  The archives provided in this exercise may contain raw, unfiltered primary sources—including audio recordings, emails, and firsthand accounts detailing major disaster or traumatic experience. Readers are encouraged to engage with this material at their own pace and utilize the archives' search filters to manage their exposure to sensitive content.
 
-Navigate to the archive's collection of [personal testimonies](https://911digitalarchive.org/collections/show/278). Select any testimony that interests you or one randomly and open its individual record page. Read both the content of the testimony and the information provided about it — its description, rights statement, and any other information that accompanies it.
+The September 11 Digital Archive is a born-digital collection created in the aftermath of the 2001 attacks to preserve personal accounts, photographs, and emails contributed by members of the public. At the time of its creation, online social networks did not yet exist; this was one of the first large-scale experiments in crowdsourced digital archiving. The archive was later transferred to the Library of Congress (Cohen and Rosenzweig 2005; Townsend 2010).
 
-<!--If the screenshot does not have a function, maybe we can omit it. The archive is not under open license, if need, we should ask for rights of use.-->
-<!--
-- [ IMAGE: Screenshot of a personal account record from the September 11 Digital Archive ] Personal account record, September 11 Digital Archive. Screenshot, [date]. -->
+Navigate to the archive's collection of [personal testimonies](https://911digitalarchive.org/collections/show/278). Select any testimony that interests you or one randomly and open its individual record page. Although the content is now not available to read, please consult the information provided about it — its description, rights statement, and any other information that accompanies it.
+
+<!--Note of Sofia: I readjusted the content of the exercise as the content is not at all available, probably for rights issues...  -->
 
 Now focus on the ethical dimensions of metadata and answer the following questions:
 
@@ -77,7 +75,14 @@ Now focus on the ethical dimensions of metadata and answer the following questio
 
 Now reflect on the following: 
 
-Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? <!--What different kinds of ownership — legal, moral, emotional — might be at stake?--> You can also check the next exercise to get inspiration. 
+Who, in your assessment, 'owns' this account: the person who wrote it, the archive that holds it, the Library of Congress that now preserves it, or some combination of the three? <!--What different kinds of ownership — legal, moral, emotional — might be at stake?--> How do you interpret the fact that the content of the testimonies is now not accessible?  
+You can also check the next exercise to get inspiration. 
+
+Alternative archives
+
+[Oral histories section](https://hurricanearchive.org/items?type=4) of the Hurricane Digital Memory Bank 
+
+[Oral History Archive](https://www.rfmi.princeton.edu/archive) of the Religion and Forced Migration Initiative 
 
 
 ### 1.c When everyone contributes, who owns the archive? 
@@ -95,7 +100,7 @@ Now compare the two archives on the following two points and write a short respo
 
 > Tip: The September 11 Digital Archive no longer has an active contribution form. You can consult an archived version from 2004 on the Internet Archive: [Contribute form of the September 11 Digital Archive](https://web.archive.org/web/20040202174803/http://911digitalarchive.org/stories/add.html). This gives you a sense of what contributors were asked to agree to at the time of submission.
 
-### 1.d Intentions, expectations and tensions: what the digital amplifies in the archive - 40 mins
+### 1.d The ethics of the participatory digital archive: consent, immediacy, and long-term reuse - 40 mins
 
 The September 11 Digital Archive is an example of a born-digital archive — that is, a collection of materials created in digital form from the outset — built from crowdsourced contributions, meaning materials voluntarily submitted by members of the public rather than selected by a traditional institution.  
 
