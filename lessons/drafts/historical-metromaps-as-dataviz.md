@@ -400,13 +400,11 @@ Sourse - from the metro dispatcher (control operator) journal - artefact is loca
 
 Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). from this time on the announcement in metro train also done in both languages   
 
-<img width="1437" height="1502" alt="2012 official" src="https://github.com/user-attachments/assets/baea126b-7834-4395-a5b2-8ef845a506d1" />
+<img width="1437" height="1502" alt="3b_Official 2012" src="https://github.com/user-attachments/assets/de1f3183-1c1a-4364-b2af-a803da6554ee" />
 
+Picture 3b_Official 2012 in repository
 
-<img width="900" height="600" alt="KM_2010_UrbanRail net" src="https://github.com/user-attachments/assets/e1a8f466-771e-4d38-b625-95cd1def8ab3" />
-
-
-<img width="7795" height="8150" alt="KM_2025_a3 kyiv ua" src="https://github.com/user-attachments/assets/d500e06c-4ea8-45ce-adca-5ee4b4e2c4fe" />
+Source - picture appears on multiple news websites amd social media posts as official Kyiv Metro Schema of 2012.
 
 
 
