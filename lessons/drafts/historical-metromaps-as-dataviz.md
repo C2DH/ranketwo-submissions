@@ -346,11 +346,26 @@ There is a third level of reality that include future plans for the development 
 
 Perceiving metro schemas with regard to these three layers of reality in a way allows to time-travel and see both past and the future. Try comparing the evolution of the same map and multiple versions of a map and trace not only future incorporating past but also past incorporating future.
 
+Renaming
+
 Not only the networks captures the evolution. An example of the changes of the country's policy was renaming of metro stations. Since 1990 15 stations (out of 52) in the Kyiv Metropolitan have been officially renamed (1 under-construction station was renamed before opening). These name changes occurred in a few waves: 
 
 First in direct aftermath of the fall of the Soviet Union and Ukraine gaining independence (early 1990s), 
 then, during the post-Euromaidan decommunization. The names of soviet leaders and ideals were replaces with original toponyms, signaling the change of political orientation, moving away from the communist past. 
+
 Lastly, during the de-Russification following the 2022 full-scale invasion. As an example 'Druzhby Narodiv' ('Friendship of Nations') station (implying Ukrainian-Russian friendship) was replaces by an local toponym 'Zvirynetska' originating from middle age Kyivan Rus, centuries before Principality of Moscow appeared on the map.
+
+<img width="900" height="600" alt="3a_En 2010" src="https://github.com/user-attachments/assets/dca3435b-dc68-41a0-949e-5366883c8a89" />
+
+Picture 3a_En 2010 in repository
+
+Source - picture appears on multiple websites on how go get around in Kyiv for foreigners (it is the oldest map in English I have). Downloaded from OrangeSmile.com. 
+
+
+Compare picture 3a_En 2010 with 3a_Official 2026 and find same stations with different names.
+
+
+
 
 
 
