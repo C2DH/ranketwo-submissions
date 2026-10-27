@@ -333,49 +333,48 @@ https://research-ebsco-com.proxy.bnl.lu/c/h7fpgt/viewer/pdf/7yx7chlx6n
 
 
 
-### 3.b 
-The evolution of the same map and multiple versions of a map
+### 3.b Historical contextualisation of metro maps
 <!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
 
-Historical contextualisation of metro maps
+Why metro maps should be read critically?
 
-Kyiv metro maps should be read critically as they portray different realities. 
+In the following section a few examples will be presented, where metro schemas portray things beyond or instead of the classical function metro schemas that is to help passengers navigate the rapid transit system.
+
+
+What if metro schemas are able to portray different realities? 
+
 On one level there is an official 'real' map of everything passengers can see and use. 
-On the other level there is a broader map with all the objects  unseen to the passengers like stations that are currently being in construction, ghost stations that are not accessible or service tunnels. This map is a reality for those working in metro.
-There is a third level of reality that include future plans for the development of metro. these type of metro schemas can be confusing for the people unfamiliar with Kyiv realities. The purpose of thise maps is not help to navigate across the city (try using imaginary line), but depicts dreams and hopes for the future of metro, resulting in  more extensive and colourful schemas. Could be especially useful for the election campaign! this types of reality is the most fragile. some of those future lines portrayed on schemas have been on the map for decades and yes they still imaginary. some of those plans were indeed implemented and moves to the first level of reality - current passenger maps. some projects are abandons and remain but a ghosts of past hopes for the future.
+
+On the other level there is a broader functional map with all the objects unseen to the passengers like stations that are currently being in construction, ghost stations that are not accessible to public or service tunnels. This map is a reality for those managing and working in metro. 
+
+There is a third level of reality that include future plans for the development of metro. These type of metro schemas can be confusing for the people unfamiliar with Kyiv realities. The purpose of these maps is not to help navigate across the city, but depicts 'dreams and hopes' for the development of metro, resulting in more extensive and colourful network of lines both existing and envisioned. This level of reality is the most fragile, some of those future lines portrayed on schemas have been on the map for decades and yet they are still 'imaginary', officially - to be realised.  Other plans did come to live and were implemented thus moving to the first level of reality - current passenger maps. And finally there are projects that were abandoned for different reasons and remain but a ghosts of past hopes for the future.
+
+Perceiving metro schemas with regard to these three layers of reality in a way allows to time-travel and see both past and the future. Try comparing the evolution of the same map and multiple versions of a map and trace not only future incorporating past but also past incorporating future.
+
+Not only the networks captures the evolution. An example of the changes of the country's policy was renaming of metro stations. Since 1990 15 stations (out of 52) in the Kyiv Metropolitan have been officially renamed (1 under-construction station was renamed before opening). These name changes occurred in a few waves: 
+
+First in direct aftermath of the fall of the Soviet Union and Ukraine gaining independence (early 1990s), 
+then, during the post-Euromaidan decommunization. The names of soviet leaders and ideals were replaces with original toponyms, signaling the change of political orientation, moving away from the communist past. 
+Lastly, during the de-Russification following the 2022 full-scale invasion. As an example 'Druzhby Narodiv' ('Friendship of Nations') station (implying Ukrainian-Russian friendship) was replaces by an local toponym 'Zvirynetska' originating from middle age Kyivan Rus, centuries before Principality of Moscow appeared on the map.
 
 
-Renaming
 
+Metro maps does not necessary reflect milestone changes, it is also capable of capturing the everyday life things, much more relatable on a personal level.
 
-one of the most prominent examples of the changes of the country policy was renaming of metro stations. starting from late 1990 (shortly before the fall on the soviet union and Ukraine gaining independence) XX metro station have been renamed in a broader context of decommunisations where the names of prominent soviet leaders are replaces with original toponyms. Also signaling the change of political orientation, moving away from the communist past. the latest renaming took place in 2023 were the names such as 'friendship of nations' - implying Ukrainian-russian friendship in particular were replaces by an autentic toponym staming from middle ages (back in times of Kyivan Rus, centuries before moscow kingdom appeared.    
-
-<img width="900" height="600" alt="KM_2010_UrbanRail net" src="https://github.com/user-attachments/assets/e1a8f466-771e-4d38-b625-95cd1def8ab3" />
-
-
-<img width="7795" height="8150" alt="KM_2025_a3 kyiv ua" src="https://github.com/user-attachments/assets/d500e06c-4ea8-45ce-adca-5ee4b4e2c4fe" />
-
-
-### 3.b
-Other maps: thematic, internet coverage, etc.
-<!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
+It reminds me of an old poster hanging in metro trains that states that average citizen of Kyiv spends 4 years of life in metro (there is no sources that would prove this fact and mostly perceived as an urban legend or marketing strategy). `
 
 Internet:
 
+Metro schemas are used as versatile tool to tell different stories, which sometimes are completely unrelated to the primary purpose of the schemas - to navigate passengers inside rapid transit system. 
+For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations (including deep stations). this map carries a massage not about the public transportation but about the equipping metro stations with routers and WiFis to provide same internet quality as people would have in the offices or in their homes.
+
+
 <img width="1080" height="1080" alt="10 2020" src="https://github.com/user-attachments/assets/ea035b52-f8b5-4f84-b30a-690fd7d64dae" />
-
-It reminds me of an old poster hanging in metro trains that states that average citizen of Kyiv spends 4 years of life in metro (there is no sources that would prove this fact and mostly perceived as an urban legend or marketing strategy). However 4 years with good internet coverage is definitely a better option.  
-
-Metro schemas are used as versatile tool to tell different stories, which sometimes are completely unrelated to the primary purpose of the schemas - to navigate passengers inside rapid transit system.
-For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations (including  deep stations). this map carries a massage not about the public transportation but about the equipping metro stations with routers and WiFis to provide same internet quality as people would have in the offices or in their homes. 
-
-
 
 
 Sport:
 
-Another example would be how maps and schemas reflect big sport events hosted by the country. here is the map of Kyiv from 1980 developed for tourists who would visit the city during the Olympics of 1980. Although Games were not hosted in Kyiv it was a big event for the whole post-soviet space. This is the tourist map of Kyiv incorporation all the important sport location as well as metro stations in the city. 
-
+Another example would be how maps and schemas reflect big sport events hosted by the country. here is the map of Kyiv from 1980 developed for tourists who would visit the city during the Olympics of 1980. Although Games were not hosted in Kyiv it was a big event for the whole post-soviet space. This is the tourist map of Kyiv incorporation all the important sport location as well as metro stations in the city.
 
 <img width="15739" height="15826" alt="1980 - Kiyev - Turistskaya skhema - B" src="https://github.com/user-attachments/assets/28b7f0a4-4118-4422-8d7e-744cbb14dc36" />
 
@@ -386,6 +385,19 @@ we know from other source that Kyiv metro was impacted by Olympics as the schedu
 Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). from this time on the announcement in metro train also done in both languages   
 
 <img width="1437" height="1502" alt="2012 official" src="https://github.com/user-attachments/assets/baea126b-7834-4395-a5b2-8ef845a506d1" />
+
+
+<img width="900" height="600" alt="KM_2010_UrbanRail net" src="https://github.com/user-attachments/assets/e1a8f466-771e-4d38-b625-95cd1def8ab3" />
+
+
+<img width="7795" height="8150" alt="KM_2025_a3 kyiv ua" src="https://github.com/user-attachments/assets/d500e06c-4ea8-45ce-adca-5ee4b4e2c4fe" />
+
+
+
+
+### Exercises 
+Look at the evolution of metro schemas overtime. Trace examples of changes on the map, think of a context behind this change. Search for the information what this change means.
+
 
 
 ### Reading/viewing suggestions  
