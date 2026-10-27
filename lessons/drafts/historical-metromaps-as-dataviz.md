@@ -315,6 +315,12 @@ schema was created guided by the same principles.
 Article from the agency that did the design:
 https://a3.kyiv.ua/projects/metromap/
 
+<img width="7795" height="8150" alt="3a_Official 2026" src="https://github.com/user-attachments/assets/a08b0aa9-7ff0-48d6-98af-aa87028dc61e" />
+
+Picture 3a_Official 2026 in repository.
+Source - Official Kyiv Metro schema as for the 2026.
+
+
 
 
 Reading:
