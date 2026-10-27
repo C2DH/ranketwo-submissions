@@ -124,7 +124,12 @@ Write a short reflection (150–200 words) addressing the following:
  
 Theimer, Kate. “What Is the Meaning of Archives 2.0.” *American Archivist* 74, no. 1 (July 9, 2011): 58–68. https://doi.org/10.17723/AARC.74.1.H7TN4M4027407666.
 
+Wood, Sarah. The Challenging Records Toolkit: Supporting staff who encounter challenging records unexpectedly. University of Leicester, 2025. https://doi.org/10.25392/LEICESTER.DATA.29910479.V1.
+
+Wright, Kirsten, and Nicola Laurent. 2021. “Safety, Collaboration, and Empowerment: Trauma-Informed Archival Practice”. *Archivaria* 91 (June):38-73. https://archivaria.ca/index.php/archivaria/article/view/13787.
+
 Zaagsma, Gerben. “Digital History and the Politics of Digitization”. *Digital Scholarship in the Humanities* 38 (2), June 2023, 830–851, https://doi.org/10.1093/llc/fqac050
+
 
 <!-- 
 We could define levels as follows: core, going further, advanced. This menas that the first two are necessary, the third is a plus and the fourth is if need for a more in depth exercise, for example in groups. 
