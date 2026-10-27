@@ -267,12 +267,13 @@ Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W.
 ## 3 Metro maps as data visualisations and historical sources in context 
 <!-- This section is mostly the historical section for Masha to develop. Structure it differently if needed, also include the visualization from your thesis about depth, etc. -->
 3.a 3.a.
-Based on what you've learned in section 1.whatch the following video 
+Based on what you've learned in section 1.whatch the following video:
+
 • TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
 https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s
 
 London.
- The Metropolitan Railway, the first underground train line to open in London and
+The Metropolitan Railway, the first underground train line to open in London and
 thus the first in the world, entered service in 1863, Other lines followed, run by several
 different companies, until, all the operators “agreed on a joint marketing strategy in 1908
 that featured the logo with a red disk and the word ‘Underground.” Tube was developed
@@ -289,14 +290,13 @@ This map was created through interdisciplinary approach. It remains the universa
 template for modern subway maps!
 
 
-
 Paris
-
 The Paris Metro network had almost exclusively been represented geographically. Beck
 was asked to develop map for Paris, did two versions both rejected
 “So why did the Paris Metro reject Beck's clear simplification of their beloved system?”
 “Evolution of the Paris metro map: from spaghetti dish to futuristic city”:
 https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
+
 
 Kyiv
 The Kyiv metro schemas creators, Ahenty zmin about current official : “ We have
