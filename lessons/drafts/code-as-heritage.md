@@ -74,14 +74,14 @@ Every app, website, and digital service we use today is built on layers of sourc
 ### 1.a Defining Source Code: Between Technical Function and Cultural Expression - 25 min
 
 #### First encounter with a source 
-Look at the image below. It is a piece of paper from 1978, containing a short handwritten text by computer scientist [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), reproduced on dot-matrix computer paper. Before reading on, take a moment to consider: what do you think this document does? Who was it written for, a human or a machine?
+Look at the image below. It is a piece of paper containing a short handwritten text by computer scientist [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), reproduced on dot-matrix computer paper. Before reading on, take a moment to consider: what do you think this document does? Who was it written for, a human or a machine?
 
 ![The famous "Hello, World!" program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/code-as-heritage/Hello_World_Brian_Kernighan_1978.jpg "Hello World program by Brian Kernighan")
-Figure 1 Brian Kernighan, "Hello, World!" program in C, handwritten and reproduced on dot-matrix computer paper. Published in *The C Programming Language*, 1978. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
+Figure 1 Brian Kernighan, "Hello, World!" program in C, handwritten and reproduced on dot-matrix computer paper, made for Artsy's *Algorythm Auction*. Based on Kernighan's 1974 Bell Labs memo *Programming in C: A Tutorial*; the example was reprinted in *The C Programming Language* (1978). *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
 
-Now try to execute the same piece of code yourself. Click on the link and press `Run`: [W3Schools editor](https://www.w3schools.com/cpp/trycpp.asp?filename=demo_helloworld) 
+Now try to execute a version of the same piece of code yourself. Click on the link and press `Run`: [W3Schools editor](https://www.w3schools.com/c/tryc.php?filename=demo_helloworld)
 
-You’ve just executed a program that has been reproduced by generations of programmers. The phrase “Hello, World!” has become a classic first output, symbolizing the beginning of learning any new programming language.
+You have just executed a modern version of the same program, several decades later. The two words that appeared on your screen, "Hello, World!", are the output of one of the most reproduced texts in the history of computing.
 
 <details>
 <summary><strong>Background: the 'Hello, World!' tradition</strong></summary>
@@ -92,7 +92,7 @@ But where did this tradition originate ? The example traces back to Brian Kernig
 
 #### What is source code? 
 
-The exercise above points to a specificity at the heart of source code as a historical source: the text you just ran was written for humans to read. Machines read it too: compilers and interpreters parse the source text before any processor can execute it. Before going further, four basic concepts are worth establishing.
+The exercise above points to a specificity at the heart of source code as a historical source: the text you just ran was written for humans to read. Machines read it too: compilers and interpreters parse the source text before any processor can execute it. Before going further, five basic concepts are worth establishing.
 
 > **Key concepts**
 
@@ -132,13 +132,7 @@ This vulnerability is not abstract. Source code faces what has been called a Dig
 
 ### 1.b Born-Digital Heritage: How Source Code Gained Official Recognition - 20 min
 
-Why should we care about preserving historical code? Source code faces particular vulnerabilities, as concrete examples in 1.c show.
-
-The institutional recognition of source code as cultural heritage began with the [2003 UNESCO Charter on the Preservation of Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529), which represented a significant milestone in this journey. It formally acknowledged that born-digital materials—content that originates in digital form—constitute an important part of our cultural legacy. These materials include databases, websites, software, and other digital content that have never existed in physical form.
-
-Why was this recognition important? By officially affirming the historical and cultural value of digital materials, UNESCO effectively placed them on equal footing with traditional heritage forms like monuments and artifacts, highlighting their significance for future generations.
-
-However, it did not explicitly address source code preservation ([UNESCO 2009](https://unesdoc.unesco.org/ark:/48223/pf0000179529)). That changed in 2023, when UNESCO formally recognized the importance of preserving software source code as digital heritage for sustainable development, acknowledging its value across education, research, and cultural preservation ([UNESCO 2023](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development)).
+The [2003 UNESCO Charter on the Preservation of the Digital Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000179529) mentions software among digital materials, but it does not address source code as such. Source code received specific attention later, through a [partnership between UNESCO and Inria](https://www.softwareheritage.org/symposium-and-summit-2023/) signed in 2017 around the Software Heritage archive. This led to the [Paris Call](https://unesdoc.unesco.org/ark:/48223/pf0000366715) (2019), a declaration by international experts presenting source code as heritage. The discussion continues today, for example at the [2023 symposium held at UNESCO](https://www.unesco.org/en/articles/positioning-software-source-code-digital-heritage-sustainable-development).
 
 **Exercise – Analyzing UNESCO's Recognition of Source Code**
 
@@ -150,7 +144,7 @@ These two documents show how digital heritage recognition has evolved and the ch
 Questions for reflection:
 
 1. How does the 2003 Charter define digital heritage, and where might source code fit within this definition? Consider the language used and the types of materials mentioned.
-2. Looking at the 2023 UNESCO article, what specific arguments are presented for treating source code as heritage? How has this perspective evolved over the twenty years since the original Charter?
+2. What kind of document is the 2023 text, and who produced it? What arguments does it give for treating source code as heritage?
 3. What specific benefits does code preservation offer to society, and in which fields (legacy, research, etc.) is it recognized as having particular value?
 
 
@@ -162,7 +156,7 @@ Let us examine this aspect from the perspective of video games.
 
 > A 2023 study by the Video Game History Foundation and the Software Preservation Network measured the scale of this loss. The study found that 87 percent of classic video games released in the United States before 2010 are no longer commercially available. The situation is even more severe for early games: less than 3 percent of titles released before 1985 have been reissued. The period from roughly 1977 to 1985 marked the emergence of home computing and the first generation of commercial video games; these availability rates are nonetheless comparable to the survival rates of American silent films (14 percent) and pre-World War II audio recordings (10 percent) ([Video Game History Foundation 2023](https://gamehistory.org/study-explainer/)).
 
-Many classic video games survive only as reverse-engineered approximations after their original code was lost through corporate restructuring, technological changes, or simple neglect. Reverse engineering is the process of deconstructing a digital object, whether finished or unfinished, to understand its design and composition without full access to its original source code or documentation. It allows programmers to recreate software functionality, but the resulting code is an approximation rather than the historical original. For a fuller introduction to reverse engineering as a method for historical research, see the Programming Historian lesson [Reverse Engineering Born-Digital Artefacts: A Beginner's Guide](https://programminghistorian.org/en/lessons/reverse-engineering-born-digital-artefacts) (Demleitner and Gammenthaler 2026).
+Many classic video games survive only as executable code, after their original source code was lost through corporate restructuring, technological changes, or simple neglect. Reverse engineering is the process of deconstructing a digital object, whether finished or unfinished, to understand its design and composition without full access to its original source code or documentation. It allows programmers to recreate software functionality, but the resulting code is an approximation rather than the historical original. For a fuller introduction to reverse engineering as a method for historical research, see the Programming Historian lesson [Reverse Engineering Born-Digital Artefacts: A Beginner's Guide](https://programminghistorian.org/en/lessons/reverse-engineering-born-digital-artefacts) (Demleitner and Gammenthaler 2026).
 
 Look at the image below. You are looking at a storage medium from 1984. It contains a complete software program — a video game called Jet Set Willy, popular in the early home computing era. Before reading on, consider: what do you think is stored on this cassette? And what do you think might be missing from it?
 
@@ -299,7 +293,7 @@ What changes is where we find answers and what new questions the source itself r
 
 When approaching any piece of code, the following questions can guide your analysis. These are not sequential steps but concurrent concerns — a single element of code may illuminate several at once. This is not an exhaustive methodology but a starting point; the field of digital source criticism remains open, and specific sources may raise questions not anticipated here.
 
-**Establishing provenance and authenticity:** Who wrote this code? When was it created? Where did it originate, and how did it reach us? Sometimes, proprietary source code becomes available through unauthorized leaks. For example, in 2023, portions of Twitter's source code were leaked on GitHub, revealing aspects of their recommendation algorithm ([Yu 2023](https://www.wowebsites.com/blog/2023/04/twitter-algorithm-code-leaked-and-released-an-explanation/)).
+**Establishing provenance and authenticity:** Who wrote this code? When was it created? Where did it originate, and how did it reach us? Sometimes, proprietary source code becomes available through unauthorized leaks. For example, in 2023, portions of Twitter's source code were [leaked on GitHub](https://www.wowebsites.com/blog/2023/04/twitter-algorithm-code-leaked-and-released-an-explanation/), shortly before the company officially published its recommendation algorithm.
 
 **Questioning the broader context:** When and why was this code written? What problem did it address, and for what audience? Understanding the broader purpose — whether the system is a game, a scientific calculation, or a business application — is essential for guiding analysis. Consider also what technological constraints existed at the time: memory limitations, processing speed, and available hardware all influenced how programmers worked.
 
@@ -367,7 +361,6 @@ The image above is a photograph of the original source code for the Microsoft BA
 
 BASIC itself predates this artifact by over a decade. The language was created in 1964 at Dartmouth College by John Kemeny and Thomas Kurtz as part of the Dartmouth Time-Sharing System, one of the first systems to let multiple users write and run programs interactively. A second date visible on the photograph, 6 September 1964, corresponds to this earlier moment: the launch of BASIC at Dartmouth, more than a decade before Gates and Allen wrote their own implementation for the Altair. Gates and Allen did not invent BASIC; they wrote their own implementation of it for a machine that had never run it before.
 
-
 </details>
 
 #### Artifact 2: The Snippet
@@ -431,6 +424,8 @@ The examples you have examined belong to the lineage of Microsoft BASIC—the pr
 Comparing the 1975 printout with the 1983 code reveals something important about how code travels through time. The 1983 GW-BASIC is not simply a copy of the 1975 Altair BASIC: it is its descendant, adapted for different hardware. The 1975 version ran on the Altair 8800 (Intel 8080 processor); the 1983 version was developed for IBM PC compatibles (Intel 8086/8088). The core logic and structure evolved from the original, but the code itself was transformed to work in a new technical environment.
 
 Because both files are written in assembly language, adapting one for the other required a substantial rewrite, not a simple recompilation. Assembly code is written for a specific processor's instruction set, and the 8080 code that ran on the Altair could not simply be moved onto an Intel 8086 without being reworked line by line. This machine-specificity is itself a heritage question: preserving the GW-BASIC source does not guarantee that the same code would run, or even assemble, on different hardware.
+
+Because both files are written in assembly language, adapting one for the other was not a simple recompilation. Assembly code is written for a specific processor's instruction set, so the 8080 code that ran on the Altair could not simply be moved onto an Intel 8086. Instead, Microsoft used a translation program to generate much of the 8086 code from a master version of the source([Microsoft 2020](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/)). This machine-specificity is itself a heritage question: preserving the GW-BASIC source does not guarantee that the same code would run, or even assemble, on different hardware.
 
 This pattern of code being reused, adapted, and evolved across platforms and decades is fundamental to software history. Programs are not static artifacts frozen at the moment of creation; they have lineages, descendants, and branches. Understanding a piece of code often means tracing where it came from and what it became.
 
@@ -520,7 +515,7 @@ James, Mike. 2025. 'Bill Gates Shares The Code That Launched Microsoft'. *I Prog
 > **Learning Objectives for Section 3:**
 > Engage with the materiality, technicality, and embedded cultural references of code in aims of historical analysis
 
-On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload — yet the mission continued safely. This was possible because Margaret Hamilton's team had designed the software to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. The AGC software represented one of the most complex programming projects of its era — and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to this material can reveal.
+On 20 July 1969, Apollo 11 achieved what no human space mission had accomplished before: landing astronauts on the surface of the Moon. The moment when Neil Armstrong and Buzz Aldrin became the first humans to set foot on another world depended critically on software developed at MIT's Instrumentation Laboratory. The Apollo Guidance Computer (AGC) was not merely auxiliary equipment; it was essential to the mission's success, autonomously navigating the spacecraft, managing critical flight systems, and famously recovering from overload alarms during the final minutes of descent. During the Apollo 11 lunar descent, the AGC triggered 1202 and 1201 alarms warning of computer overload — yet the mission continued safely. This was possible because the software developed at MIT, where Margaret Hamilton led the flight software team, had been designed to prioritise essential tasks and recover gracefully from errors, a then-innovative approach that proved critical in those final minutes before landing. The AGC software represented one of the most complex programming projects of its era — and one whose survival was far from guaranteed. This case study examines how that code became accessible to historians today, and what a critical approach to this material can reveal.
 
 ![The Apollo Guidance Computer (AGC) hardware module](/assets/images/code-as-heritage/Apollo_Guidance_Computer_AGC.jpg "Apollo Guidance Computer")
 
@@ -543,7 +538,7 @@ This is a page from the printed source code listing for the Apollo 11 Lunar Modu
 - Continuous-feed paper with perforated edges, typical of 1960s computer printouts
 - Monospace typeface produced by a line printer
 - Page numbers printed on the document itself (Page 731)
-- Assembly language notation as it appeared when the code was compiled on 14 July 1969
+- Assembly language notation as it appeared when the code was assembled on 14 July 1969
 
 The columns of abbreviated instructions may look opaque at first — this is assembly language, the level of the hierarchy introduced in section 1 that sits directly above machine code. But as you will see, much of what matters historically on this page requires no assembly knowledge to read.
 
@@ -573,7 +568,7 @@ The code alone does not reveal who produced it, under what conditions, or what t
 
 **Figure 7:** [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)), director of MIT's Software Engineering Division, beside the Apollo program's source code listings, 1969. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
 
-Margaret Hamilton directed the team at MIT's Instrumentation Laboratory that produced the Apollo software. She is also credited with coining the term "software engineering." The stacks of printed code beside her — roughly her own height — illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation.
+Margaret Hamilton directed the team at MIT's Instrumentation Laboratory that produced the Apollo on-board flight software. She is also credited with coining the term "software engineering." The stacks of printed code beside her — roughly her own height — illustrate the sheer physical scale of 1960s software projects, where code existed primarily as printed documentation.
 
 **Exercise: Code and invisible labour**
 
@@ -695,7 +690,7 @@ The header is a palimpsest — a document where different historical moments coe
 - Attribution: "Onno's notes... which he got from Don Eyles"
 - The 40th anniversary gathering as source
 
-The header uses different comment markers (`#` vs `##`) to distinguish between transcription notes and added historical context. This transparency is itself a marker of careful heritagization — the archive documents its own construction. *Editor's Note: the markers for inserting comments may vary depending on the file format and the programming or markup language, but this is beyond the scope of the current lesson.*
+The header uses different comment markers (`#` vs `##`), but not consistently: in this GitHub copy, `#` marks both the original 1969 content and the 2009 transcription notes, while `##` marks the added historical context. Since 2016, the [Virtual AGC project](https://www.ibiblio.org/apollo/changes.html) has used `#` for original comments and `##` for modern ones. This transparency is itself a marker of careful heritagization — the archive documents its own construction.
 
 The BURN_BABY_BURN routine name is not an anomaly. Software development has historically incorporated humour, wordplay, and cultural references as part of its working culture. The name traces back to the phrase used by disc jockey Magnificent Montague on Los Angeles radio station KGFJ, which became associated with the Watts uprising of August 1965 — embedding a reference that carried multiple resonances: musical intensity, social upheaval, and the literal burning of rocket fuel. Crucially, this meaning would be invisible without Don Eyles' testimony at a 2009 reunion of AGC developers — illustrating how oral history can unlock what code alone cannot reveal ([Tiwari et al. 2024](https://doi.org/10.1109/ICSE-SEIS.2024.12); [Montague and Baker 2003](https://mitpress.mit.edu/9780262517966/the-computer-boys-take-over/)).
 
@@ -711,10 +706,12 @@ The Apollo code's journey from creation to online accessibility can be mapped as
 | Archival deposit | 1970s-2000s | Paper in MIT Museum | Physical artifact | Institutional context, tacit knowledge |
 | Digitisation | 2003-2009 | Scanned images | Visual record of pages | Some image quality, materiality |
 | Transcription | 2009 | Text files (.agc) | Searchable, executable (via emulator) text | Transcriber's interpretive decisions introduced |
-| Platform publication | 2009-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
+| Platform publication | 2016-present | GitHub repository | Version-controlled, publicly accessible code | Embedded in platform infrastructure |
 | Heritage archiving | 2016-present | Software Heritage | Persistent, citable archive | — |
 
-Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars call a "reborn digital" object: an artifact that originated in a non-digital form, was lost or inaccessible, and has been reconstituted through digitisation and reconstruction into a new digital existence([Ernst 2013](https://www.upress.umn.edu/book-division/books/digital-memory-and-the-archive)). This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
+The GitHub repository is itself a copy: it was created in 2016 from the transcriptions of the [Virtual AGC project](https://virtualagc.github.io/virtualagc/faq.html), which remains the reference source maintained by Ron Burkey. Transmission is never neutral. Each stage enabled certain forms of access — digitisation made the code viewable without visiting MIT; transcription made it searchable and executable via emulators — while introducing particular changes. The modification history ("Corrected 3 typos") shows that even careful transcription involves decisions that alter the artifact. What emerges from this process is what scholars such as [Niels Brügger](https://dhq-static.digitalhumanities.org/pdf/000256.pdf) call a "reborn digital" object: an artifact that originated in a non-digital form and has been reconstituted through digitisation and reconstruction into a new digital existence.. This Apollo case thus demonstrates both what code preservation makes possible and why historians must bring multiple source types to bear: the paper listing, the oral history, and the digital reconstruction each reveal dimensions the others cannot.
+
+
 
 ### Reading/viewing suggestions
 
@@ -800,7 +797,7 @@ For a concrete example, examine: archive.org/details/jsmess_engine_v2
 
 ### 4.b Software Heritage: Mission, Scope and Infrastructure - 40 minutes
 
-[Software Heritage](https://www.softwareheritage.org/) is a nonprofit foundation with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo (a computer science professor) with institutional support from the National Institute for Research in Computer Science and Automation (INRIA), it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. Think of it as a library that aims to collect all publicly available books — Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. By preserving the complete landscape of software development, it ensures that future researchers will have access to much richer historical evidence than a more selective approach would allow. For a detailed introduction to navigating Software Heritage, see the Programming Historian lesson: [Préserver les logiciels de recherche](https://programminghistorian.org/fr/lecons/preserver-logiciels-recherche).
+[Software Heritage](https://www.softwareheritage.org/) is a nonprofit initiative with academic, governmental, and industry partners that emerged from academic research culture. Founded in France in 2016 by Roberto Di Cosmo and Stefano Zacchiroli (both computer scientists) with institutional support from Inria, the French National Institute for Research in Digital Science and Technology, it reflects scholarly values: comprehensive collection, rigorous documentation, persistent citation through identifiers, and open access. Its organizational model prioritizes long-term preservation over commercial considerations. Think of it as a library that aims to collect all publicly available books — Software Heritage does this for open source code, though it cannot include proprietary code that is legally protected. By preserving the complete landscape of software development, it ensures that future researchers will have access to much richer historical evidence than a more selective approach would allow. For a detailed introduction to navigating Software Heritage, see the Programming Historian lesson: [Préserver les logiciels de recherche](https://programminghistorian.org/fr/lecons/preserver-logiciels-recherche).
 
 ![Software Heritage browse interface showing the Apollo-11 repository structure](/assets/images/code-as-heritage/Software_Heritage_Apollo11_Browse.png "Software Heritage: Apollo-11 repository directory structure")
 
