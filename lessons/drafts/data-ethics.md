@@ -151,7 +151,7 @@ Data does not have a single moment at which ethics becomes relevant. Ethical obl
 
 Simply put, data lifecycles illustrate the stages of the life of data and the notions that are tied to them (datasets, databases, see lesson 1). The notion was developed as part of data management practices. 
 
-RDMkit is the research data management toolkit developed by ELIXIR Europe (https://rdmkit.elixir-europe.org/data_life_cycle) - the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
+[RDMkit](https://rdmkit.elixir-europe.org/data_life_cycle) is the research data management toolkit developed by ELIXIR Europe, the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
 
 ![Data lifecycle](assets/images/data-criticism/datalifecycle.jpg)
 
@@ -254,16 +254,14 @@ Lea is now ready to make the collection available online. <!--This is the moment
 
 * Two interviewees have died since the interviews were conducted. What are Lea's obligations — should she contact their heirs, and if so, what for? <!--How/where can we find help to answer these questions? This one seems to be a bit difficult --> 
 
-<details>
-<summary><strong>What happens to consent when a contributor dies?</strong></summary>
+> What happens to consent when a contributor dies?
 In most legal frameworks, privacy rights do not survive death — meaning that the personal data of a deceased individual is generally no longer protected under regulations such as the GDPR. However, legal frameworks vary by country, and some national laws do extend certain protections beyond death. Beyond the legal question, there is also an ethical one: even if the law does not require it, many archivists and researchers consider it good practice to notify next of kin before publishing materials involving deceased individuals, particularly when those materials are of a sensitive or personal nature. Oral history associations have developed specific guidelines on this matter.
-For guidance: <a href="https://oralhistory.org/archives-principles-and-best-practices-complete-manual/">Oral History Association. Archiving Oral History — Ownership and Rights Management</a>
-</details>
+For guidance:[Oral History Association. Archiving Oral History — Ownership and Rights Management](https://oralhistory.org/archives-principles-and-best-practices-complete-manual/)
+
 
 * What licence should Lea attach to the published materials? What are the implications of choosing a Creative Commons Attribution licence (CC BY) versus a more restrictive licence, or no licence at all? <!--this is the first time the lesson evokes CC licences and has not explained sufficiently definitions and stakes or provided any other information for learners to do this exercise here. We should adress this-->
 
-<details>
-<summary><strong>What is a licence?</strong></summary>
+> What is a licence?
 When you make a document, a photograph, or any other creation publicly available, a licence tells others what they are and are not allowed to do with it. Without a licence, the default position in most countries is that all rights are reserved — meaning no one can legally reuse the material without asking permission.
 Creative Commons (CC) licences offer a flexible middle ground. They allow creators to share their work while specifying the conditions of reuse. The most common conditions are:
 
@@ -274,7 +272,7 @@ SA (Share Alike) — adaptations must be shared under the same licence
 
 These conditions can be combined. For example, CC BY-NC allows reuse with attribution but not for commercial purposes. The most open licence, CC BY, requires only attribution. The most restrictive, CC BY-NC-ND, limits reuse to non-commercial contexts and prohibits any modification.
 For more information: [Creative Commons](https://creativecommons.org/)
-</details>
+
 
 > Sometimes, the consent given at the collection stage may not be sufficient for the publication stage. Think about the difference between consenting to an interview and consenting to your words being permanently and publicly accessible on the internet (Thompson and Bornat 2017).
 
@@ -371,11 +369,12 @@ Crymble, Adam, and Emma Azid. “Black Lives, British Justice: Black People in L
 
 * 1. Does the dataset have a unique persistent identifier such as a DOI (Digital Object Identifier) or similar? 
 
+<!--
 <details>
 <summary><strong>What is a DOI?</strong></summary>
 A DOI (Digital Object Identifier) is <a href='https://ask.library.uic.edu/faq/345899'>a string of numbers, letters and symbols used to uniquely identify a digital object</a> - an article, a dataset, a report - and to provide it with a permanent web address so that it can be reliably found and cited. A DOI looks like this: <a href='https://doi.org/10.5281/zenodo.5304501'>https://doi.org/10.5281/zenodo.5304501</a>. Think of it as a digital identity card: it stays with the object permanently and always points to the same resource. DOIs are a key component of the FAIR principles, because findability depends on stable, globally recognised identifiers.
 </details>
-
+-->
 In the record page, look for the DOI. 
 
 Then read [what a unique identifier is in the FAIR principles context](https://www.go-fair.org/fair-principles/f1-meta-data-assigned-globally-unique-persistent-identifiers/) (estimated time of reading: 3 minutes). 
@@ -389,11 +388,14 @@ In comparison, check a dataset with restricted access: Pepe, Antonio Gerardo, Ro
 
 * 3. In what format are the data files available? Are these open, non-proprietary formats (such as CSV, plain text, or open XML standards), or are they proprietary formats that may not be readable without specific software?
 
+The FAIR principles recommend open formats because they make it easier to share, access, and reuse data.
+
+<!--
 <details>
 <summary><strong>What is an open file format</strong></summary>
 An open file format is a type of file that anyone can open and use, because its structure is public. You don’t need special or expensive software to access it. By contrast, proprietary formats are controlled by companies and often require specific programs. Open formats matter because they help make sure your files will still be usable in the future—even if software changes or disappears. Some common open formats are <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> (data), <a href="https://en.wikipedia.org/wiki/Text_file">TXT</a> (text), <a href="https://en.wikipedia.org/wiki/PNG">PNG</a> (images), <a href="https://en.wikipedia.org/wiki/Office_Open_XML">Open XML</a> and <a href="https://en.wikipedia.org/wiki/MP3">MP3</a> (audio). Proprietary formats include .xlsx, .docx, and .psd. The FAIR principles recommend open formats because they make it easier to share, access, and reuse data.
 </details>
-
+-->
 
 * 4. Is there a [README](https://ubc-library-rc.github.io/rdm/) file or [data dictionary](https://ubc-library-rc.github.io/rdm/content/07_data_dictionary.html) that explains what the data contains and how it was collected? Is this documentation sufficient for you to understand the data without contacting the depositor?
 * 5. How are the rights of use specified? Is it possible to reuse the data and under what conditions? (Tip: here you should look for a licence, as we explain in 2.b) 
@@ -462,6 +464,8 @@ Wilkinson, Mark D. et al. 'The FAIR Guiding Principles for Scientific Data Manag
 Global Indigenous Data Alliance. CARE Principles. https://www.gida-global.org/care
 
 Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, et al. 2020. “The CARE Principles for Indigenous Data Governance”. *Data Science Journal* 19 (1): 43. https://doi.org/10.5334/dsj-2020-043.
+
+O’Donnell, Dan. « Thinking about the CARE Principles in the Digital Humanities ». DARIAH-Campus, 16 décembre 2021. https://campus.dariah.eu/resources/hosted/thinking-about-the-care-principles-in-the-digital-humanities.
 
 D'Ignazio, Catherine, and Lauren F. Klein. Data Feminism. MIT Press, 2020. Open access: https://data-feminism.mitpress.mit.edu/ — especially Chapter 4: 'What Gets Counted Counts.'
 
