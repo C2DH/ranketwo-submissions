@@ -384,12 +384,18 @@ Source - touristic map of Kyiv published in 1980. From the private collection of
 
 
 
-we know from other source that Kyiv metro was impacted by Olympics as the schedule for the metro trains were adjusted to the games.
+we know from other source that Kyiv metro was impacted by Olympics as the schedule for the metro trains were adjusted to the games. 
+
 
 <img width="485" height="274" alt="3b_Dispatch Diary" src="https://github.com/user-attachments/assets/2747a1f8-bdc2-4b56-9dc2-f1279c7e63bb" />
 
+'During the days of the '80 Olympics, from July 21 to July 27, 1980, metro operated daily on weekdays with an extra insertion [service slot] for Olympic football at 30 pairs [of trains] per hour.
+On weekends, they operated on the Olympic schedule of 30 pairs per hour with an insertion for football [raising it to] 33 pairs per hour.' [translated with AI]
+
 Picture 3b_Dispatch Diary in repository.
-Sourse - from the metro dispatcher (control operator) journal - artefact is located in the museum of The Kyiv Metropolitan amd available onlime  
+
+Sourse - from the metro dispatcher (control operator) journal - artefact is located in the museum of The Kyiv Metropolitan amd available onlime https://www.metropoliten.kiev.ua/books/hronika-metro-1960.pdf 
+
 
 
 Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). from this time on the announcement in metro train also done in both languages   
