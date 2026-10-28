@@ -439,3 +439,6 @@ Look at the evolution of metro schemas overtime. Trace examples of changes on th
 This is mostly Masha's section to add plenty of examples and guided analysis.
 <!-- Masha to add the reading suggestions -->
 
+The genius of the London Tube Map. TED Series. 2 November 2018. YouTube video. [https://youtu.be/iBErp8qvWZg](https://youtu.be/iBErp8qvWZg)
+
+Mark Ovenden. "Harry Beck: The Paris Connection." *Creative Review". March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
