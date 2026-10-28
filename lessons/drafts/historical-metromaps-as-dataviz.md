@@ -331,6 +331,8 @@ https://a3.kyiv.ua/projects/metromap/
 
 <img width="7795" height="8150" alt="3a_Official 2026" src="https://github.com/user-attachments/assets/a08b0aa9-7ff0-48d6-98af-aa87028dc61e" />
 
+*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+
 Picture 3a_Official 2026 in repository.
 Source - Official Kyiv Metro schema as for the 2026.
 
@@ -377,6 +379,8 @@ Lastly, during the de-Russification following the 2022 full-scale invasion. As a
 
 <img width="900" height="600" alt="3a_En 2010" src="https://github.com/user-attachments/assets/dca3435b-dc68-41a0-949e-5366883c8a89" />
 
+*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+
 Picture 3a_En 2010 in repository
 
 Source - picture appears on multiple websites on how go get around in Kyiv for foreigners (it is the oldest map in English I have). Downloaded from OrangeSmile.com. 
@@ -399,6 +403,8 @@ For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Tr
 
 <img width="1080" height="1080" alt="3b_4G" src="https://github.com/user-attachments/assets/f0f097d2-3421-451c-875f-0885d0f286ca" />
 
+*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+
 Picture 3b_4G in repository
 
 Source - official Telegram channel of the Ministry of Digital Transformation of Ukraine (@mintsyfra - https://t.me/mintsyfra) from the 28th of October 2020.
@@ -411,6 +417,8 @@ Another example would be how maps and schemas reflect big sport events hosted by
 
 <img width="15739" height="15826" alt="3b_Olympics 1980" src="https://github.com/user-attachments/assets/b209e83e-d557-4988-9130-74226ef8b40f" />
 
+*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+
 Picture 3b_Olympics 1980 in repository.
 
 Source - touristic map of Kyiv published in 1980. From the private collection of M.Meleshko-Sudina.
@@ -421,6 +429,8 @@ we know from other source that Kyiv metro was impacted by Olympics as the schedu
 
 
 <img width="485" height="274" alt="3b_Dispatch Diary" src="https://github.com/user-attachments/assets/2747a1f8-bdc2-4b56-9dc2-f1279c7e63bb" />
+
+*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
 
 'During the days of the '80 Olympics, from July 21 to July 27, 1980, metro operated daily on weekdays with an extra insertion [service slot] for Olympic football at 30 pairs [of trains] per hour.
 On weekends, they operated on the Olympic schedule of 30 pairs per hour with an insertion for football [raising it to] 33 pairs per hour.' [translated with AI]
@@ -434,6 +444,8 @@ Sourse - from the metro dispatcher (control operator) journal - artefact is loca
 Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). from this time on the announcement in metro train also done in both languages   
 
 <img width="1437" height="1502" alt="3b_Official 2012" src="https://github.com/user-attachments/assets/de1f3183-1c1a-4364-b2af-a803da6554ee" />
+
+*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
 
 Picture 3b_Official 2012 in repository
 
