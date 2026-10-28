@@ -307,7 +307,15 @@ The Paris Metro network had almost exclusively been represented geographically. 
 was asked to develop map for Paris, did two versions both rejected
 “So why did the Paris Metro reject Beck's clear simplification of their beloved system?”
 “Evolution of the Paris metro map: from spaghetti dish to futuristic city”:
-https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
+https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/ <!-- This link is for a blog post that reproduces an article published in a review. This article is now in the reading suggestions section with author Mark Ovenden. I will delete this part with the link to blog post once your draft is done-->
+
+*ADDITION SOFIA* [LINK TO WIKIPEDIA PAGE WITH IMAGES OF PLANS DE METRO DE PARIS](https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris)* 
+*Ideas for exercise? We mentioned the possibility to compare maps: 
+* one of London, one of Paris (and one of Kiev?)
+* from the thirties onwards we see maps of Paris métro that look like diagrams a bit; however they keep the geographical attachment with the scheme of Paris on which the diagram is superposed
+* the Wikipedia page does not mention Beck's name
+* the article of Mark Ovenden, see reading suggestions (which is the correct reference for the article republished in the blog of Grapheine, link provided by Masha above) provides context about the prposal of Beck, the French cultural resistance and gives material to build a short but percutant exercise* 
+
 
 
 Kyiv
@@ -375,8 +383,6 @@ Source - picture appears on multiple websites on how go get around in Kyiv for f
 
 
 Compare picture 3a_En 2010 with 3a_Official 2026 and find same stations with different names.
-
-
 
 
 
