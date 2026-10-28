@@ -240,6 +240,8 @@ Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W.
 
 Now, we will focus on a metro map. )<!-- Masha to select a metro map -->
 
+**LINK TO METRO MAP OF HONG KONG [https://www.mtr.com.hk/en/customer/services/system_map.html]5https://www.mtr.com.hk/en/customer/services/system_map.html°** <!--proposed by Sofia-->
+
 Please try to answer the following questions, grounding your answers in the visual elements and how the saliency of the map is controlled:
 
 - What kind of city does the metro map suggest: ordered, complex, dense, accesible, equal, hierarchical, modern,...?
