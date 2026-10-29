@@ -1,13 +1,29 @@
 ---
 authors: 
  - sofia-papastamkou
- 
+editors: 
+ - joella-van-donkersgoed
+reviewers: 
+ - muriel-van-ruymbeke 
 date: 2026-10-25
-title: Data and critique. Metadata for finding and contextualising
+title: Data and critique - a gentle introduction to metadata for historians
 learning-objectives: 
- - Identify what metadata are and use them efficiently to find, access and contextualise historical sources
- - Understand the principles of interoperability, reusability and how metadata serve them
+ - 
+ - 
 ---
+Metadata are often defined, in general terms, as “data about data”. The term originated in computer science and became widespread with the development of information infrastructures such as the internet and the web. The concept itself, however, is much older: libraries, archives and other institutions that organise information have relied on it for centuries. Today, metadata play an essential role in every activity that involves digital infrastructure. The ubiquity and accessibility of digital technologies have also democratised the production of metadata. Once the work of specialised professional communities, it is now something everyone does in everyday interactions with digital devices and networks.    
+
+Metadata are relevant whenever information is searched for, organised or analysed. For historians, this applies directly to the work they do with their sources at different stages of research. Metadata are therefore an important tool for historical source criticism, helping historians to verify the provenance of their sources and to place them in context. 
+
+This lesson offers a gentle introduction to metadata for historians working with digital sources, whether digitised or born-digital. By the end of the lesson, readers should have a basic understanding of what metadata are and how they can help historians find, access and organise their sources in order to analyse them more effectively. In this lesson, metadata are considered a key element of historians’ data literacy.
+
+### 1 What are metadata and why historians should bother
+
+
+
+### 2 
+
+### 3 
 
 ### 2.a Reading descriptions of historical data: the mediation of the archive
     
