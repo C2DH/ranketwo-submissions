@@ -279,190 +279,126 @@ Contextualisation is a key practice both in critical analysis of data visualisat
 [!NOTE]
 *Learning objective:*
 By completing this section, you will be able to:
-- Contextualise the historical setting of a metro map by comparing it with other metro and geographical maps.
+- Trace the process of transformation from real-life phenomena into an structural network across multiple cities.
+- Contextualise the implicit narrative of a metro map within historical setting by comparing it with other metro schemas and geographical maps.
 
 ### 3.a From geographical map to structural network
-In this part we approach the context behind creation of a structural networks on place of geographical maps in London, Paris and Kyiv.  
-
+In this part we approach the context behind creation of a structural networks on place of geographical maps in London, Paris and Kyiv.
 Take a look at the following video:
-
 
 https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s
 
 TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
 
 
-London
+London tube is first in the world metro that entered service in 1863 under the name the Metropolitan Railway. Not only the whole phenomenon of metro originated from London, but also the first non-geographical metro diagram which until now remains the template for the way we think of metro maps.
+In 1933, Harry Beck, a draftsman in the London Underground Signals Office created the new map that was more accurately a diagram that prioritised riders’ needs. His argument was that passengers do not care what is on the surface, they need to get from station to station. 'It's the system that's important not the geography'. Previous geographically accurate maps were more confusing if anything. He removed all aboveground references but the Thames and replotted the stations at equidistant points along color-coded straight lines, going horizontal, vertical and 45 degree angles. 
 
-The first in the world metro entered service in 1863 in London under the name the Metropolitan Railway.
-The universal template for modern subway maps was also created for the Tube.
+The neighbouring Paris Metro network on the contrary had almost exclusively been represented geographically. Although Beck was asked to develop schema for Paris Metropoliten and post WWII created two versions of map, both were rejected and well-know spaghetti dish remained. Only in 1987 Paris metro map shifted from geographically-bound to diagram, complying with the universal language of metro mapping, and in early 2000 eventually adapted Beck's rules.  
 
-In 1933, Harry Beck, a draftsman in the London Underground Signals Office created the new map that was more accurately a diagram that prioritised riders’ needs. “Passengers do not care what is on the surface they need to get from station to station”. 
-Previous geographically accurate maps were not useful, but confusing! He removed all aboveground references but the Thames and replotted the stations at equidistant points along color-coded straight lines, going horizontal, vertical and 45%.
-
-
-Paris
-
-The Paris Metro network had almost exclusively been represented geographically. Beck
-was asked to develop map for Paris, did two versions both rejected
-“So why did the Paris Metro reject Beck's clear simplification of their beloved system?”
-“Evolution of the Paris metro map: from spaghetti dish to futuristic city”:
-https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/ <!-- This link is for a blog post that reproduces an article published in a review. This article is now in the reading suggestions section with author Mark Ovenden. I will delete this part with the link to blog post once your draft is done-->
-
-*ADDITION SOFIA* [LINK TO WIKIPEDIA PAGE WITH IMAGES OF PLANS DE METRO DE PARIS](https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris)* 
-*Ideas for exercise? We mentioned the possibility to compare maps: 
-* one of London, one of Paris (and one of Kiev?)
-* from the thirties onwards we see maps of Paris métro that look like diagrams a bit; however they keep the geographical attachment with the scheme of Paris on which the diagram is superposed
-* the Wikipedia page does not mention Beck's name
-* the article of Mark Ovenden, see reading suggestions (which is the correct reference for the article republished in the blog of Grapheine, link provided by Masha above) provides context about the prposal of Beck, the French cultural resistance and gives material to build a short but percutant exercise* 
-
-
-
-Kyiv
-
-The Kyiv metro schemas creators, Ahenty zmin about current official : “ We have
-examined almost every official metro map on the planet, dating from 1908 to 2014: the
-most comprehensive reference work on such maps is the book Transit Maps of the World,
-which is the first collection of all the world’s metro maps. During our research, we
-noticed a general trend: a shift from maps to diagrams.” Referencing to Beck. Kyiv
-schema was created guided by the same principles.
-Article from the agency that did the design:
-https://a3.kyiv.ua/projects/metromap/
+Beck's diagram from 1935 served as an template and guidance for creation of the official Kyiv Rapid Transit map, designed in 2015. The Kyiv Metro schemas creators, Ahenty Zmin examined official metro maps all over the planet from 1908 to 2014 concluding (unsurprisingly) the general shift from maps to diagrams:  'Diagrams allow information about the transport network to be laid out more evenly and enable passengers to find the information they need quickly and accurately whilst on a fast-moving metro carriage. When designing such diagrams, one must take into account, at the very least, poor lighting, swaying whilst the train is in motion, and overcrowding in the carriages'.
 
 <img width="7795" height="8150" alt="3a_Official 2026" src="https://github.com/user-attachments/assets/a08b0aa9-7ff0-48d6-98af-aa87028dc61e" />
 
-*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+Official Kyiv Rapid Transit System map as of 2026. Retrieved from https://a3.kyiv.ua/projects/metromap/
 
-Picture 3a_Official 2026 in repository.
-Source - Official Kyiv Metro schema as for the 2026.
+Same principle of creating diagrams across countries in a way becomes a universal language. Traveling to an unfamiliar cities we are still able to read metro schema, even if it is in a foreign language and we know nothing about a city and its geography.   
 
+Exercise
+1. Please take a look at the following article “Henry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ and collection of Paris metro maps from different decades LINK TO WIKIPEDIA PAGE WITH IMAGES OF PLANS DE METRO DE PARIS 
+What were the reasons behind rejection of Beck's map? What created difficulties for adapting diagrammatic approach in the past?  What were the Paris realities Beck might have not taken into account? How did the Paris metro schemas evolved over time?
 
-
-
-Reading:
-• Article about Beck on Open Culture: [cultural & educational media for the
-worldwide lifelong learning community.]
-https://www.openculture.com/2018/04/the-genius-of-harry-becks-1933-london-tubemap.
-html
-“Henry Beck: the Paris connection”
-https://research-ebsco-com.proxy.bnl.lu/c/h7fpgt/viewer/pdf/7yx7chlx6n
+2. Take a look at two following websites
+	1. https://railsmaps.com/world/metro - geographical accurate metro maps across the globe
+	2. https://www.worldmetromap.com/map - single worldwide metro network.
+Both projects aim for the same think - to map every existing metro in the world the results, however are very different.
 
 
 
 
 ### 3.b Historical contextualisation of metro maps
-<!-- Masha to work on this section, doing a critical analysis comparing multiple maps -->
 
 Why metro maps should be read critically?
 
 In the following section a few examples will be presented, where metro schemas portray things beyond or instead of the classical function metro schemas that is to help passengers navigate the rapid transit system.
 
+Why metro maps should be read critically?
+In the following section we give a few examples of metro schemas used as versatile tool to tell different stories and portray things beyond or instead of the classical function of metro schemas that is to help passengers navigate the rapid transit system.
 
-What if metro schemas are able to portray different realities? 
+What if metro schemas are able to portray different realities?
+On one level there is an official 'real' map of everything passengers can see and use.
+On the other level there is a broader functional map with additional objects unseen to passengers like stations that are currently being in construction, ghost stations that are not accessible to public or service tunnels. This map is a reality for those managing and working in metro.
+There is a third level of reality that include future plans for the development of metro. These type of metro schemas can be confusing for people unfamiliar with Kyiv realities. The primary purpose of these maps is not to help navigate across the city, but present plans for the development of metro, resulting in more extensive and colourful network of lines both existing and envisioned. This level of reality is the most fragile, some of those future lines portrayed on schemas have been on the map for decades and yet they remain imaginary (to be constructed). Some plan come to life thus moving to the first level of reality - current passenger maps. And finally there are projects that are abandoned for different reasons and remain but a ghosts of past dreams and hopes for the future.
+Perceiving metro schemas with regard to these three layers of reality in a way allows to time-travel and see both past in the future and the future in the past. 
 
-On one level there is an official 'real' map of everything passengers can see and use. 
+<img width="515" height="700" alt="3b_1976_plans_by M Barashkov" src="https://github.com/user-attachments/assets/9f211df3-f7e9-4659-b860-c33821814094" />
 
-On the other level there is a broader functional map with all the objects unseen to the passengers like stations that are currently being in construction, ghost stations that are not accessible to public or service tunnels. This map is a reality for those managing and working in metro. 
+<img width="404" height="316" alt="3b_2003_plans" src="https://github.com/user-attachments/assets/d3d4d5d3-73e8-4e42-8f04-377e87d0b996" />
 
-There is a third level of reality that include future plans for the development of metro. These type of metro schemas can be confusing for the people unfamiliar with Kyiv realities. The purpose of these maps is not to help navigate across the city, but depicts 'dreams and hopes' for the development of metro, resulting in more extensive and colourful network of lines both existing and envisioned. This level of reality is the most fragile, some of those future lines portrayed on schemas have been on the map for decades and yet they are still 'imaginary', officially - to be realised.  Other plans did come to live and were implemented thus moving to the first level of reality - current passenger maps. And finally there are projects that were abandoned for different reasons and remain but a ghosts of past hopes for the future.
+<img width="4681" height="3287" alt="3b_2017_UNIAN_plans" src="https://github.com/user-attachments/assets/eca7b199-872f-45f6-ab95-c5505548f1a5" />
 
-Perceiving metro schemas with regard to these three layers of reality in a way allows to time-travel and see both past and the future. Try comparing the evolution of the same map and multiple versions of a map and trace not only future incorporating past but also past incorporating future.
 
-Renaming
 
-Not only the networks captures the evolution. An example of the changes of the country's policy was renaming of metro stations. Since 1990 15 stations (out of 52) in the Kyiv Metropolitan have been officially renamed (1 under-construction station was renamed before opening). These name changes occurred in a few waves: 
+Exercise 
+Look at the following metro schemas from 1976, 2003 and 2017. Compare them with Official Kyiv Rapid Transit System map of 2026 to see the state of plans' implementation.
+	- How did the metro lines evolved? 
+	- Which plans came to be? 
+	- Which have not been realised?  
+	- Think of possible reasons for the pans to be abandoned.
 
-First in direct aftermath of the fall of the Soviet Union and Ukraine gaining independence (early 1990s), 
-then, during the post-Euromaidan decommunization. The names of soviet leaders and ideals were replaces with original toponyms, signaling the change of political orientation, moving away from the communist past. 
+Not only the networks captures the evolution. An example of the changes of the country's policy was renaming of metro stations. Since 1990 15 stations (out of 52) in the Kyiv Metropolitan have been officially renamed (1 under-construction station was renamed before opening). These name changes occurred in a few waves:
+First in direct aftermath of the fall of the Soviet Union and Ukraine gaining independence (early 1990s), then, during the post-Euromaidan decommunization. The names of soviet leaders and ideals were replaces with original toponyms, signalling the change of political orientation, moving away from the communist past.
+Lastly, during the de-Russification following the 2022 full-scale invasion. As an example 'Druzhby Narodiv' ('Friendship of Nations') station (implying Ukrainian-Russian friendship) was renamed into  'Zvirynetska' - local toponym that originates from middle age Kyivan Rus, centuries before Principality of Moscow appeared on the map.
 
-Lastly, during the de-Russification following the 2022 full-scale invasion. As an example 'Druzhby Narodiv' ('Friendship of Nations') station (implying Ukrainian-Russian friendship) was replaces by an local toponym 'Zvirynetska' originating from middle age Kyivan Rus, centuries before Principality of Moscow appeared on the map.
+Exercise
+Compare a map from 2010 picture 3a_En 2010 with Official Kyiv Rapid Transit System map of 2026 to find cases of stations' renaming.
 
 <img width="900" height="600" alt="3a_En 2010" src="https://github.com/user-attachments/assets/dca3435b-dc68-41a0-949e-5366883c8a89" />
 
-*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+Kyiv rapid transit system map from 2010 by UrbanRail.Net (R.Schwandl) retrieved from OrangeSmile.com.
 
-Picture 3a_En 2010 in repository
-
-Source - picture appears on multiple websites on how go get around in Kyiv for foreigners (it is the oldest map in English I have). Downloaded from OrangeSmile.com. 
-
-
-Compare picture 3a_En 2010 with 3a_Official 2026 and find same stations with different names.
-
-
-
-
-Metro maps does not necessary reflect milestone changes, it is also capable of capturing the everyday life things, much more relatable on a personal level.
-
-It reminds me of an old poster hanging in metro trains that states that average citizen of Kyiv spends 4 years of life in metro (there is no sources that would prove this fact and mostly perceived as an urban legend or marketing strategy). `
-
-Internet:
-
-Metro schemas are used as versatile tool to tell different stories, which sometimes are completely unrelated to the primary purpose of the schemas - to navigate passengers inside rapid transit system. 
-For example, Schema of Kyiv metro from 2020 issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations (including deep stations). this map carries a massage not about the public transportation but about the equipping metro stations with routers and WiFis to provide same internet quality as people would have in the offices or in their homes.
+Metro maps does not necessary reflect milestone socio-political changes, it is also capable of capturing everyday life, events hosted by the city, help the tourist to find historical monuments or mark special occasions.
+About 15 years ago there was a poster hanging in metro trains stating that average citizen of Kyiv spends 4 years of their life in metro. There is no sources that would back up this figure and it is mostly perceived as an urban legend or marketing strategy. However this poster became an encouragement for people to make use of this time, weather 4 years or not. 
+A decade later schema of Kyiv Metro issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations. This map does not 'speak' of public transportation but about the progress of the Ministry in equipping metro stations with high-quality internet connection. Now passengers almost have to use their time while in metro and there is barely a few people who are not looking in their devices.   
 
 
 <img width="1080" height="1080" alt="3b_4G" src="https://github.com/user-attachments/assets/f0f097d2-3421-451c-875f-0885d0f286ca" />
 
-*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
+Kyiv Metro schema featuring 4G internet coverage posted on the 28th of October 2020 on official Telegram channel of the Ministry of Digital Transformation of Ukraine (@mintsyfra - https://t.me/mintsyfra) 
 
-Picture 3b_4G in repository
+Another example would be how maps and schemas reflect big sport events. The Kyiv map from 1980 was meant for tourists who visited the city during the '80 Olympics and incorporated big sport location of the city as well as metro stations. Although Kyiv did not host the Games the importance of this event spread through the whole post-soviet space. 
 
-Source - official Telegram channel of the Ministry of Digital Transformation of Ukraine (@mintsyfra - https://t.me/mintsyfra) from the 28th of October 2020.
-
-
-
-Sport:
-
-Another example would be how maps and schemas reflect big sport events hosted by the country. here is the map of Kyiv from 1980 developed for tourists who would visit the city during the Olympics of 1980. Although Games were not hosted in Kyiv it was a big event for the whole post-soviet space. This is the tourist map of Kyiv incorporation all the important sport location as well as metro stations in the city.
 
 <img width="15739" height="15826" alt="3b_Olympics 1980" src="https://github.com/user-attachments/assets/b209e83e-d557-4988-9130-74226ef8b40f" />
 
-*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
-
-Picture 3b_Olympics 1980 in repository.
-
-Source - touristic map of Kyiv published in 1980. From the private collection of M.Meleshko-Sudina.
-
-
-
-we know from other source that Kyiv metro was impacted by Olympics as the schedule for the metro trains were adjusted to the games. 
-
-
-<img width="485" height="274" alt="3b_Dispatch Diary" src="https://github.com/user-attachments/assets/2747a1f8-bdc2-4b56-9dc2-f1279c7e63bb" />
-
-*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
-
-'During the days of the '80 Olympics, from July 21 to July 27, 1980, metro operated daily on weekdays with an extra insertion [service slot] for Olympic football at 30 pairs [of trains] per hour.
-On weekends, they operated on the Olympic schedule of 30 pairs per hour with an insertion for football [raising it to] 33 pairs per hour.' [translated with AI]
-
-Picture 3b_Dispatch Diary in repository.
-
-Sourse - from the metro dispatcher (control operator) journal - artefact is located in the museum of The Kyiv Metropolitan amd available onlime https://www.metropoliten.kiev.ua/books/hronika-metro-1960.pdf 
-
-
-
-Another sport event that has impacted metro was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). from this time on the announcement in metro train also done in both languages   
-
-<img width="1437" height="1502" alt="3b_Official 2012" src="https://github.com/user-attachments/assets/de1f3183-1c1a-4364-b2af-a803da6554ee" />
-
-*IMAGE CAPTION HERE WITH TITLE, DATE AND SOURCE FOR MAP*
-
-Picture 3b_Official 2012 in repository
-
-Source - picture appears on multiple news websites amd social media posts as official Kyiv Metro Schema of 2012.
-
-
+Kyiv tourist map from 1980. From the private collection of M.Meleshko-Sudina.
+We know from other sources that Kyiv metro was impacted by '80 Olympics. In control operator' journal - one of the exhibits from Kyiv metro museum, there is a records schedule changes for the metro trains to adjusted to the Games' schedule.
+'During the days of the '80 Olympics, from July 21 to July 27, 1980, metro operated daily on weekdays with an extra insertion [service slot] for Olympic football at 30 pairs [of trains] per hour. On weekends, they operated on the Olympic schedule of 30 pairs per hour with an insertion for football [raising it to] 33 pairs per hour.' [translated with AI]
+Another sport event that has impacted Kyiv Metro schemas was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). From this time on the announcement in metro trains is also done in both languages
 
 
 ### Exercises 
-Look at the evolution of metro schemas overtime. Trace examples of changes on the map, think of a context behind this change. Search for the information what this change means.
+Think of other cases where metro maps can be used to carry particular message, rather than navigate passengers.
+	- What could be the agenda behind this message? 
+	- How would it be represented visually? 
+	- What would need to be highlighted? 
+	- What can be left on the background?  
+	- How would visualisation makes you perceive the message?
+
 
 
 
 ### Reading/viewing suggestions  
-This is mostly Masha's section to add plenty of examples and guided analysis.
-<!-- Masha to add the reading suggestions -->
+
 
 The genius of the London Tube Map. TED Series. 2 November 2018. YouTube video. [https://youtu.be/iBErp8qvWZg](https://youtu.be/iBErp8qvWZg)
 
 Mark Ovenden. "Harry Beck: The Paris Connection." *Creative Review". March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
+
+“Evolution of the Paris metro map: from spaghetti dish to futuristic city”: https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
+Article by Ahenty Zmin - creators of Kyiv rapid transit map: https://a3.kyiv.ua/projects/metromap/
+
+Monmonier, Mark. (1996). How to Lie with Maps. https://www.researchgate.net/publication/37420071_How_to_Lie_with_Maps
+
+
+
