@@ -240,20 +240,19 @@ Reflect on the following questions:
 
 ### 2.d Why encoding schemes matter for historians
 
-The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice which determines what can be done with the data. Remember, ASCII excluded non-western characters and symbols ("ASCII Imperialism"). Storing and transmitting an image in a higher or lower resolution, in grayscale or RGB, can have effects on the accuracy of the representation of real-world objects. Consequently, the encoding scheme and its effects are something we should be critically aware of.
+The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice that determines what can be done with the data. Remember, ASCII excluded non-Western characters and symbols (this is referred to “ASCII imperialism”). Storing and transmitting an image in a higher or lower resolution, in greyscale or RGB, can affect the accuracy of the representation of real-world objects. So we should be critically aware of the encoding scheme used and its effects.
 
-Digital representations, whether text or images (or sound) are therefore never exact copies of reality. They depend on technical standards, resolutions, formats, and encoding choices. These choices shape what can be preserved, displayed, searched, analysed, or shared.
+Digital representations, whether text or images (or sound), are therefore never exact copies of reality. They depend on technical standards, resolutions, formats and encoding choices. These choices shape what can be preserved, displayed, searched, analysed or shared.
 
-For historians, encoding matters because digital sources are always mediated by technical systems. Some older formats become unreadable over time, some encoding systems exclude certain languages or symbols, and some digitisation processes may reduce or alter visual and sonic details. Understanding encoding therefore helps historians critically evaluate how digital sources are produced, transformed, and preserved.
+For historians, encoding matters because digital sources are always mediated by technical systems. Some older formats become unreadable over time, some encoding systems exclude certain languages or symbols and some digitisation processes may reduce or alter visual and audio details. Understanding encoding therefore helps historians to critically evaluate how digital sources are produced, transformed and preserved.
 
-> Although humans may find binary difficult to read, computers use it to represent and process all kinds of information. As we have seen, combinations of `0`and `1`s can encode texts, images, sounds, and many other forms of data. They can also represent instructions and logical operations such as “AND,” “OR,” and “NOT” — which means that binary digits are not only used to store information, but also to run algorithms and computer programs.
+Although humans may find binary difficult to read, computers use it to represent and process all kinds of information. As we have seen, combinations of  `0`and `1`s can encode texts, images, sounds and many other forms of data. As binary digits can also represent instructions and logical operations such as “AND”, “OR” and “NOT”, they are used not only to store information but also to run algorithms and computer programs.
 
-Return to Lea’s digital collection of her grandmother's holdings from the introductory animation. Check Lea's discussion with Ada about the floppy disk and its metadata from 01:00 to 01:15.  
-
-1. Which technical problems could affect the preservation of her grandmother’s floppy disks, tapes, or digital photographs?
-2. What kinds of information could be lost during digitisation?
-3. Why is metadata important when recovering or interpreting digital sources?
-4. Can digital reproductions ever fully replace original objects?
+Go back to Lea’s digital collection of her grandmother’s possessions from the initial animation. Listen again to Lea’s discussion with Ada about the floppy disk and its metadata from 01:00 to 01:15.
+1.	What technical problems could affect the preservation of her grandmother’s floppy disks, tapes or digital photographs?
+2.	What kinds of information could be lost during digitisation?
+3.	Why are metadata important when recovering or interpreting digital sources?
+4.	Can digital reproductions ever fully replace original objects?
 
 
 ### Reading/viewing suggestions 
@@ -264,7 +263,7 @@ The Punched Card | IBM. https://www.ibm.com/history/punched-card.
 
 The Beginner’s Guide to ASCII. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
-Pargman, Daniel, and Jacob Palme. “ASCII Imperialism.” In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
+Pargman, Daniel, and Jacob Palme. “ASCII Imperialism”. In *Standards and Their Stories: How Quantifying, Classifying, and Formalizing Practices Shape Everyday Life*, edited by Susan Leigh Star and Martha Lampland, 177–199. Ithaca: Cornell University Press, 2009.
 
 
 ## 3 From sources to data
