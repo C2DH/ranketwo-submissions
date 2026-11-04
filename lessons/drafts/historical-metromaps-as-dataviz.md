@@ -306,17 +306,18 @@ Official Kyiv Rapid Transit System map as of 2026. Retrieved from https://a3.kyi
 Same principle of creating diagrams across countries in a way becomes a universal language. Traveling to an unfamiliar cities we are still able to read metro schema, even if it is in a foreign language and we know nothing about a city and its geography.   
 
 Exercise
-1. Please take a look at the following article “Henry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ and collection of Paris metro maps from different decades LINK TO WIKIPEDIA PAGE WITH IMAGES OF PLANS DE METRO DE PARIS 
-
-What were the reasons behind rejection of Beck's map? What created difficulties for adapting diagrammatic approach in the past?  What were the Paris realities Beck might have not taken into account? How did the Paris metro schemas evolved over time?
-
-2. Take a look at two following websites
-	1. https://railsmaps.com/world/metro - geographical accurate metro maps across the globe
-	2. https://www.worldmetromap.com/map - single worldwide metro network.
-
-Both projects aim for the same think - to map every existing metro in the world the results, however are very different.
 
 
+1. Take a look at two following two projects. They both attempt to represent the same thing - all metro systems on the planet in one place. However, they use two different approaches: one - geographical map, another - abstract network.
+   
+	https://railsmaps.com/world/metro
+	https://www.worldmetromap.com/map 
+
+What does each of the map 'says'? How do we perceive them? What is the main narrative? Purpose? Which of two (if any) is most suitable for navigating passengers? what other functions are they meant to carry? What information can you extract from either of them?
+
+2. To explore more about the evolution of Paris metro map please take a look at the following article: “Henry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ and see the collection of Paris metro maps from different decades https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris
+
+What were the reasons behind rejection of Beck's map? What created difficulties for adapting diagrammatic approach in Paris? How did the Paris metro schemas evolved over time?
 
 
 ### 3.b Historical contextualisation of metro maps
@@ -340,11 +341,17 @@ Perceiving metro schemas with regard to these three layers of reality in a way a
 
 <img width="515" height="700" alt="3b_1976_plans_by M Barashkov" src="https://github.com/user-attachments/assets/9f211df3-f7e9-4659-b860-c33821814094" />
 
+Kyiv Metro schema from 1976, created by M.Barashkow, retrieved from https://www.metropoliten.kiev.ua/pict/maps/1976.gif 
+
+
 <img width="404" height="316" alt="3b_2003_plans" src="https://github.com/user-attachments/assets/d3d4d5d3-73e8-4e42-8f04-377e87d0b996" />
+
+Kyiv Metro Map from 2003, retreived from https://www.metropoliten.kiev.ua/pict/maps/futur.jpg
+
 
 <img width="4681" height="3287" alt="3b_2017_UNIAN_plans" src="https://github.com/user-attachments/assets/eca7b199-872f-45f6-ab95-c5505548f1a5" />
 
-
+Kyiv metro Map from
 
 Exercise 
 Look at the following metro schemas from 1976, 2003 and 2017. Compare them with Official Kyiv Rapid Transit System map of 2026 to see the state of plans' implementation.
@@ -393,15 +400,9 @@ Another sport event that has impacted Kyiv Metro schemas was UEFA Euro 2012. Kyi
 
 ### Exercises 
 Think of other cases where metro maps can be used to carry particular message, rather than navigate passengers.
+What could be the agenda behind this message? How would it be represented visually? What would need to be highlighted? What can be left on the background? How would visualisation makes you perceive the message? You can also draw you own metro map. 
+
 	
-	- What could be the agenda behind this message? 
-	- How would it be represented visually? 
-	- What would need to be highlighted? 
-	- What can be left on the background?  
-	- How would visualisation makes you perceive the message?
-
-
-
 
 ### Reading/viewing suggestions  
 
