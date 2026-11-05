@@ -126,7 +126,23 @@ Why is this important? In data visualisation, certain things are shown "at a gla
 
 #### Exercise
 
-If you look at the metro map in <!-- Figure X, Masha to select an example from her collection -->:
+If you look at the metro maps in Figure 3 and Figure 4: <!-- Figure X, Masha to select an example from her collection -->:
+
+
+<img width="18595" height="14437" alt="1_1965_Geographical map" src="https://github.com/user-attachments/assets/5823e7aa-7a0c-4e77-b506-a4e3f89e70f7" />
+
+(assets/images/historical-metromaps-as-dataviz/1_1965_Geographical map.jpg) 
+
+
+**Figure 3:**  Geographical Map of Kyiv from 1965. from a private collection of M.Meleshko-Sudina
+
+<img width="904" height="443" alt="1_1965_Network" src="https://github.com/user-attachments/assets/812ae15c-1733-4a07-b2ff-bb24d64b162d" />
+
+(assets/images/historical-metromaps-as-dataviz/1_1965_Network.png)
+
+**Figure 4:** Kyiv Metro network map from 1965, retrieved from https://www.metropoliten.kiev.ua/pict/maps/1965.gif
+
+
 - What do you notice instantly (i.e., pre-attentively: color hue, intensity, orientation, shapes)?
 - Which visual encodings are highlighted?
 - Which ones are downplayed?
@@ -135,6 +151,7 @@ If you look at the metro map in <!-- Figure X, Masha to select an example from h
 - Can you find other metro maps where it was not like that?<!-- Masha: This is a potential place to introduce the history of metro maps -->
 - Which stations stand out?
 - Which lines dominate visually?
+  
 
 <details>
   <summary>Do you need help?</summary>
@@ -147,6 +164,8 @@ Examples in metro maps typically include:
 - Position: The placement of stations and lines helps users recognize connections and direction.
 - Orientation: Straight horizontal, vertical, or diagonal lines make routes easier to follow visually.
 </details>
+
+
 
 Do you think that all the preattentive attributes are equally strong?
 <details>
