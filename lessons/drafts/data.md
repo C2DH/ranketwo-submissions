@@ -270,18 +270,19 @@ Pargman, Daniel, and Jacob Palme. “ASCII Imperialism”. In *Standards and The
 
 *Learning outcomes*
 
-* *Select descriptive categories and attributes appropriate to a specific research purpose*
-* *Organise information about persons or objects into a table of records, attributes, and values*
+* Select descriptive categories and attributes that are appropriate for a specific research purpose.
+* Organise information about people or objects into a table of records, attributes and values.
 
-Let us now explore how data are produced to describe and study the world around us. Texts, people, animals, places, or historical events can all be transformed into descriptive data. By creating such data, historians turn sources into structured representations that can be organised, searched, and analysed. This process is both conceptual — involving research choices and categories — and technical, relying on tools such as spreadsheets and databases, which also introduce their own constraints.
+We will now explore how data are produced to describe and study the world around us. Texts, people, animals, places and historical events can all be transformed into descriptive data. By creating such data, historians turn sources into structured representations that can be organised, searched and analysed. This process is both conceptual, involving research choices and categories, and technical, relying on tools such as spreadsheets and databases, which also introduce their own constraints.
+
 
 ### 3.a Designing descriptive categories
 
-Let's take a simple example: a wanted poster as you might know from western movies or comics (see figure below). Please observe carefully the poster and the information it provides. 
+Let’s take a simple example: a “Wanted” poster of the kind that you might see in Westerns or comics (see figure below). Look carefully at the poster and the information it provides. 
 
-![Wanted Poster](/assets/images/data-criticism/Wanted_Poster_marx_new.jpg)
+![Wanted poster](/assets/images/data-criticism/Wanted_Poster_marx_new.jpg)
 
-Then think of the poster as a simple table that focusses on a given person and lists a number of characteristics in different columns with the purpose to identify this person.
+Then think of the poster as a simple table that focuses on a given person and lists a number of characteristics in different columns with the purpose of identifying that person.
 
 <!--
 Person:
@@ -293,7 +294,7 @@ Person:
 |Attribute 4|"..."|
 -->
 
-Table Person
+Person table
 
 |Person ID|Attribute 1|Attribute 2|Attribute 3|Attribute 4|
 |:---------|:---------|:--------|:-------|:--------|
@@ -308,30 +309,24 @@ Table Person
 [Link to editable table: Person](/assets/docs/data-criticism/person-table.docx)
 
 STEP 1
-
-Please fill the table: for the attributes (the characteristics listed in the column headers, such as "First Name:"), refer to the poster. For the values (the actual dates and information entered in the columns, such as "Karl"), use your critical skills and get help from the visual in the poster and from research on the web. 
+Fill in the table. For the attributes (the characteristics listed in the column headers, such as “First Name:”), refer to the poster. For the values (the actual dates and information entered in the columns, such as “Karl”), use your critical skills and get help from the image in the poster and research on the web.
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-In the above scaffold table, attribute 1 would be the first name of the person, attribute 2 would be the person's last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, Karl Marx.
+In the above scaffold table, attribute 1 would be the person’s first name, attribute 2 would be the person’s last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, Karl Marx.
 </details> 
 
 STEP 2
+By selecting specific attributes, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we were describing something else, like a place, a piece of art, an animal or a book. In other words, the selection of descriptive categories depends on the aim. In the case of the “Wanted” poster, the aim is to identify and catch a fugitive. For this reason, identifying a person’s favourite dessert, for example, might not be the most significant property, especially if we can only list a limited number of them on our Wanted poster.
 
-By selecting specific attributes, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we described something else, like a place, or a piece of art, or an animal, or a book. In other words, the selection of descriptive categories is subject to a finality. In the case of the wanted poster, the finality is identifying and catching a fugitive. For this reason, identifying, say, a person's favorite dessert might not be the most significant property, especially if we can only list a limited number of them on our wanted poster. 
+Can you think of significant properties that would matter in this case but are not included on the poster?
+ 
 
-Can you think of significant properties that would matter in this case but are not included in the poster? 
+### 3.b Creating descriptive data | 25 mins
 
-### 3.b Creating descriptive data
+When we want to describe and compare several historical personalities, objects or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute – that is, a feature we want to record, such as a name, date, place or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
 
-When we want to describe and compare several historical personalities, objects, or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute — that is, a feature we want to record, such as a name, date, place, or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
-
-
-
-<!--
-If you imagine tilting our two-column table to the right, the attributes become column headers and we can add more rows to it, each one describing one person:
--->
-We can now expand our table to list several historic persons by adding further records to it:
+We can now expand our table to list several historical figures by adding further records to it:
 
 |Person ID|first_name|last_name|year_of_birth|place_of_birth|author_of|gender|number_of_children|is_still_alive|
 |:---------:|:--------:|:-------:|:--------:|:-------:|:--------:|:-----:|:---:|:---:|
@@ -339,39 +334,40 @@ We can now expand our table to list several historic persons by adding further r
 |P0002|...|...|...|...|...|...|...|...|
 |P0003|...|...|...|...|...|...|...|...|
 
-[Link to editable table: Historical Persons](/assets/docs/data-criticism/historical-persons-table.docx)
+[Link to editable table: Historical figures](/assets/docs/construction-of-data/historical-figures-table.pdf)
 
-The pre-defined list of properties you want to capture is commonly called a *data model*, and a collection of data following such a model is called a *data set*. The individual rows — for example, the historic persons in your table — are called *data records* or *entries*. The individual entries in the table are called *data points*, such as the value `Karl` for the attribute `first_name`.
-We will not go further into data models here; if you want to explore how they are used to define relationships between different types of information, see the reading suggestions below.
- 
-Now fill the table to describe the following historic personalities (or at least two of them): 
+When we want to describe and compare several historical personalities, objects or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute – that is, a feature we want to record, such as a name, date, place or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
+
+We can now expand our table to list several historical figures by adding further records to it:
+
 * Karl Marx
 * Wilhelm Marx
 * Eleanor Marx 
 * Groucho Marx
 
-Now that you entered data, let's observe the different *types* of values and the issues they may raise. 
-* Compare the first and the third rows after the ID: what types of values do you have in each?
+Now that you have entered the data, let’s observe the different types of values and the issues they may raise.
+* Compare the first and third columns after the ID: what types of values do you have in each?
+
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-While the values for the first two descriptive columns are clearly textual (often called a "string" like a string of characters), the third would rather be a number (often called "an integer"). 
+While the values for the first two descriptive columns are clearly textual (often called a “string”, like a string of characters), the third is a number (often referred to as an “integer”, meaning a whole number). 
 </details> 
 
-* Observe the attribute in the third column: what additional values you should add if the attribute was "date" rather than "year"? How would you express these values based on what you learned in 1.c?
+* Observe the attribute in the third column: what additional values would you have to add if the attribute was “date” rather than “year”? How would you express these values based on what you learned in 1.c?
+* What type of values could you enter in the fourth column?
 
-* What type of values you could enter in the fourth column? 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-The fourth column could be a string again, but it could also be a geo-coordinate, like a GPS location. In addition, it is unclear if this column refers to countries, cities, regions, villages, or even specific buildings.
+The fourth column could be a string again, but it could also be a geo-coordinate, like a GPS location. In addition, it is unclear if this column refers to countries, cities, regions, villages or even specific buildings.
 </details> 
 
 * What kind of issues could you encounter with the fifth column? 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-Our first historic person, Karl, was rather productive and was the author of many more than just one text. This is not a question of finality, but a structural problem: one person can be linked to many works — what we call a <b>one-to-many relationship</b>. Squeezing several titles into a single cell (for example, separated by commas) might look like a solution, but it makes the data hard to search, sort, or count reliably. The proper solution is to give authored works their own table and link it back to the person — we will see exactly how to do this in Section 4.
+Our first historic person, Karl, was rather productive and was the author of several works. This is not a question related to the aim; it is a structural problem, in that one person can be linked to many works. This is what we call a one-to-many relationship. Squeezing several titles into a single cell (separated by commas, for example) might look like a solution, but it makes the data hard to search, sort or count reliably. The best solution is to give authored works their own table and link it back to the person. We will see how to do this in Section 4.
 </details> 
 
-* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways you think you could express these values (text, other)?
+* Do you think that the sixth column could create specific questions as to the values you would enter? In what ways do you think you could express these values (text, other)?
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
@@ -382,48 +378,48 @@ In this column, the values could be pre-defined: would you define two or more ty
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-The eighth column can only hold "yes" or "no" as an answer (in most computational contexts, this is expressed in "Boolean" values: `true` or `false`).
+The eighth column can only hold a “yes” or “no” answer (in most computational contexts, this is expressed in “Boolean” values: `true` or `false`).
 </details>
 
-What you've encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type). Like the descriptive categories, that you should have selected before you begin collecting data, you also need to think of the appropriate data types for each of them.
+What you have encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type). Like the descriptive categories that you should select before you begin collecting data, you also need to think of the appropriate data types for each of them.
 
 
-### 3.c Creating datasets - 30 minutes
+### 3.c Creating datasets | 30 mins
 
-Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make: thus, for different purposes, different attributes can be employed in datasets.
+Historians do not record all possible information. The categories they choose depend on the questions they want to ask and the comparisons they want to make. This means that different attributes can be employed in datasets for different purposes.
 
-Remember the video animation: from all the things available in her grandmother's house, Lea is not interested in the vase or the mirror, but in specific objects that she considers carriers of memories. In subsection 1.a, your first task was to note down the objects Lea enumerates in the video as findings. Use this list to put yourself into Lea's shoes: her purpose is to create an inventory of her findings. 
+Remember the video animation: out of all the things available in her grandmother’s house, Lea is not interested in the vase or the mirror but in specific objects that she considers to hold special memories. In subsection 1.a, your first task was to note down the objects Lea enumerates in the video as findings. Use this list to put yourself into Lea’s shoes: her purpose is to create an inventory of her findings.
 
-1. Imagine a table Object to describe each of the objects enumerated in the video (one object per row)
-2. Which attributes you would create for each of the objects enumerated? (one attribute per column) 
+1. Imagine an Object table to describe each of the objects enumerated in the video (one object per row).
+2. Which attributes would you create for each of the objects enumerated (one attribute per column)?
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
 
-If your purpose is to create an *inventory* — quickly knowing what exists and where — a few basic attributes are enough:
+If your purpose is to create an *inventory* that will give a quick indication of what exists and where, a few basic attributes are enough:
 
 | object_id | object_type | location_found | condition |
 |---|---|---|---|
-| 1 | floppy disk | grandmother's desk drawer | unreadable, rusted casing |
+| 1 | floppy disk | grandmother’s desk drawer | unreadable, rusted casing |
 
-If your purpose is instead to *document* the object in detail — for example, to preserve or analyse it later — you need more attributes:
+If your purpose is instead to *document* the object in detail – for example, to preserve or analyse it later – you need more attributes:
 
 | object_id | object_type | material | dimensions | label_text | condition_notes | digitised |
 |---|---|---|---|---|---|---|
-| 1 | floppy disk | plastic, magnetic film | 3.5 inch | "Photos 1998" (handwritten) | rusted casing, label partially faded | no |
+| 1 | floppy disk | plastic, magnetic film | 3.5 inch | “Photos 1998” (handwritten) | rusted casing, label partially faded | no |
 
 Notice how the same object requires a different set of properties depending on your purpose.
 </details>
 
-Critically thinking about data assembled by somebody else is crucial if we want to employ these data in our research. We always need to evaluate it to identify potential biases, shortcomings or problematic choice of categories. To allow the same thing for other people using our data, we need to document why we have chosen a specific category or value, or why we might have revised it later on, so that our decision remain retraceable. This way, other researchers can look for complementary sources from a different archive, or compare our data with another type of source (like oral history or photographs) to check, enhance or even critique the conclusions that our dataset might suggest just by the selection of the data model.
+Critically thinking about data assembled by somebody else is crucial if we want to employ these data in our research. We always need to evaluate them to identify potential biases, shortcomings or problematic choices of categories. And to ensure that other people using our data can do the same thing, we need to document why we have chosen a specific category or value and why we might have changed our mind later on so that our decisions remain traceable. This enables other researchers to look for complementary sources from a different archive or compare our data with another type of source (like oral history or photographs) to check, enhance or even criticise the conclusions that our dataset might suggest as a result of the selected data model.
 
 ### Reading/viewing suggestions
 
-Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction.* . Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
+Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction*. Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
 
-Roberts, Spencer W.. Spreadsheets for Historians – Spencer W. Roberts. 12 August 2014. https://swroberts.ca/scholarship/spreadsheets-for-historians/.
+Roberts, Spencer W. Spreadsheets for Historians – Spencer W. Roberts. 12 August 2014. [https://swroberts.ca/scholarship/spreadsheets-for-historians/](https://swroberts.ca/scholarship/spreadsheets-for-historians/)
 
-Rogers, Jonathan. LibGuides: Working with Quantitative Data: Home. Accessed 2 June 2026. https://libguides.law.ucla.edu/data/home.
+Rogers, Jonathan. LibGuides: Working with Quantitative Data: Home. Accessed 2 June 2026. [https://libguides.law.ucla.edu/data/home](https://libguides.law.ucla.edu/data/home).
 
 
 ## 4 Understanding the relational database
@@ -764,27 +760,29 @@ Viale, Mattia. “From the Historical Source to a Database: A Short Story”. *R
 ## 5 Converting data: the example of JSON format
 
 *Learning outcomes*
-* *Understand the principle and finalities of converting data between formats* 
-* *Convert a CSV table into another structured format and validate the result, using JSON as a worked example*
 
-Historians increasingly work with digital tools that require data in specific formats. A format represents the way data are encoded, stored, and displayed; it can be important for how data can be used, exchanged and shared. The format is reflected in the extension of the data file (for example, `.csv`).
+- Understand the principle and aims of converting data between formats.
+- Convert a CSV table into another structured format and validate the result using JSON as a worked example.
 
-When working with digital tools, structured formats make it easier to exchange data between information systems. Structured formats use standardized rules on the architecture and form of the data they contain, commonly called the data schema.
+Historians increasingly work with digital tools that require data in specific formats. A format represents the way data are encoded, stored and displayed; it can be important for how data can be used, exchanged and shared. The format is reflected in the extension of the data file (for example `.csv`).
 
-For example, in assignment 3, we worked with data in the form of a table. Tabular data are best stored, displayed, used and shared in [CSV (Comma-separated Values) format](https://en.wikipedia.org/wiki/Comma-separated_values). Tables are extremely useful, however, data often needs to be converted from one format to another.
+When working with digital tools, structured formats make it easier to exchange data between information systems. Structured formats use standardised rules regarding the architecture and form of the data they contain, commonly called the data schema.
+
+For example, in assignment 3, we worked with data in the form of a table. Tabular data are best stored, displayed, used and shared in [CSV (comma-separated values)](https://en.wikipedia.org/wiki/Comma-separated_values) format. Tables are extremely useful, but data often need to be converted from one format to another.
 
 Why is this useful?
 
-- Different tools require different formats (for example, web applications)
-- Some formats are more fit for storing and exchanging large volumes of data
-- Some formats allow more complex structures than tables
+* Different tools require different formats (for example web applications)
+* Some formats are better suited to storing and exchanging large volumes of data
+* Some formats allow more complex structures than tables
 
-All data formats are based on a simple principle: they employ a small set of agreed-upon rules (a syntax) for marking the beginning and the end of one piece of information after another, allowing the data to be readable by machines and expanded or manipulated as long as the rules are known to the specific software and system. 
-In Digital Humanities and Digital History, several formats are common. XML (Extensible Markup Language) is used mainly to annotate text or describe layout (it is, in fact, underlying all Microsoft Word documents). Most formats, for example [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html) can be adapted to store and structure any sort of information. We will work with JSON in the following sections of this lesson,  because it is widely used and works well for the hierarchical data historians often work with.
+All data formats are based on a simple principle: they employ a small set of agreed-upon rules (a syntax) for marking the beginning and end of one piece of information after another, allowing the data to be read by machines and expanded or manipulated as long as the rules are known to the specific software and system. 
+
+Several formats are commonly used in digital humanities and digital history. XML (Extensible Markup Language) is mainly used to annotate text or describe layout (it underlies all Microsoft Word documents). Most formats, for example [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html), can be adapted to store and structure any sort of information. We will work with JSON in the following sections of this lesson because it is widely used and works well for the hierarchical data often employed by historians.
 
 JSON is designed to:
-- represent structured data in a way that computers can easily process  
-- allow more flexible organisation of information (for example, nested data)
+* represent structured data in a way that computers can easily process
+* allow more flexible organisation of information (for example nested data)
 
 In this assignment, you will learn how to convert your tabular data into JSON and explore what this format makes possible.
 
@@ -828,7 +826,7 @@ Look at the following dataset describing Karl Marx:
 }
 ```
 
-Now work with the following questions:
+Now work through the following questions:
 
 1. Identify different kinds of elements in the data:
 
@@ -853,13 +851,13 @@ If you need help, check below.
 
 | **Type**    | **What it means**                                          | **Example in JSON**                                            | **Formatting notes**                                                                                |
 | ----------- | ---------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **string**  | A piece of text, always in double quotes.                  | `"firstName": "Karl"`                                          | Always use **double quotes `"..."`** for text (not single quotes).                                  |
-| **integer** | A whole number (no quotes).                                | `"year": 1867`                                                 | No quotes around numbers.                                                                           |
+| **string**  | A piece of text, always in double quotation marks.                  | `"firstName": "Karl"`                                          | Always use **double quotation marks `"..."`** for text (not single quotation marks).                                  |
+| **integer** | A whole number (no quotation marks).                                | `"year": 1867`                                                 | No quotation marks around numbers.                                                                           |
 | **number**  | A number that can have decimals.                           | `"rating": 4.5`                                                | Same rule: no quotes.                                                                               |
-| **boolean** | A truth value: `true` or `false`.                          | `"isAlive": false`                                             | Must be lowercase (`true`, not `True`).                                                             |
-| **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lowercase `null`.                                                                           |
+| **boolean** | A truth value: `true` or `false`.                          | `"isAlive": false`                                             | Must be lower case (`true`, not `True`).                                                             |
+| **null**    | No value (empty).                                          | `"middleName": null`                                           | Must be lower case `null`.                                                                           |
 | **object**  | A collection of key–value pairs inside curly braces `{ }`. | `"birth": { "date": "1818-05-05", "place": "Trier" }`          | Keys and values are separated by a colon `:`. Multiple entries are separated by commas.             |
-| **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects, or even other arrays. |
+| **array**   | A list of values inside square brackets `[ ]`.             | `"occupations": ["Philosopher", "Economist", "Revolutionary"]` | Values are separated by commas. Arrays can contain strings, numbers, objects or even other arrays. |
  
 
 ### 5.b Understanding how JSON organises data
@@ -868,24 +866,25 @@ Based on what you observed, here are some key principles of JSON:
 
 **Basic structure**
 
-* Data is organised in key–value pairs
+* Data is organised into key–value pairs
   * "firstName": "Karl Heinrich"
 
-* Different containers (or "drawers" or "boxes") are used to structure data:
+* Different containers (or “drawers” or “boxes”) are used to structure data:
   * `{  }` (curly brackets) → objects (group related information)
   * `[  ]` (square brackets) → arrays (lists of values)
-  * `" "` (quotes) → text values
+  * `" "` (quotation marks) → text values
 
 **Syntax**
 
 * Entries are separated by commas `,`
-* Keys and text values must use double quotes
+* Keys and text values must use double quotation marks
 * Information can be organised hierarchically because, unlike tables, JSON allows nested structures
 * Indentation is used to make nested structures easier to read by humans
 * Commas must be placed correctly
 
+Now go back to the previous exercise and look again at the structure to see if you understand better.  
 
-### 5.c Creating your own JSON
+### 5.c Creating your own JSON | 35 mins
 
 Now convert your own table into JSON.
 
@@ -912,7 +911,8 @@ Reflect on the following aspects:
 * In what situations might JSON be more useful than a table?
 * What are the limits of JSON for historical data?
 
-Converting a table into JSON by hand is useful to get a sense of these differences directly. Luckily, there is software to do this work in real projects, which also helps to avoid errors when typing brackets and quotes yourself. However, it is important to understand what actually changes in the process: a table forces every record into a set of columns, so something like Karl Marx's several publications either needs a separate linked table (as in Section 4) or a cell containing several valus (which raises the problems of separators and is not good for readability). With a format like JSON we can simply list them under one single entry because of the nested structure. On the other hand, tables allow us to quickl sort and filter our records, or to spot a missing value at a glance. Neither format is simply "better": the choice depends on the characteristics of our data, if it is rather regular, or rather nested and variable in shape.
+Converting a table into JSON by hand is useful to get a sense of these differences directly. Luckily, when working on a real project there is software to do this task for you, which also helps to avoid errors when typing brackets and quotation marks yourself. However, it is important to understand what actually changes in the process: a table forces every record into a set of columns, so something like Karl Marx’s several publications either needs a separate linked table (as in Section 4) or a cell containing several values (which raises the problems of separators and is not good for readability). With a format like JSON we can simply list them under one single entry because of the nested structure. On the other hand, tables allow us to quickly sort and filter our records, or to spot a missing value at a glance. Neither format is “better”: the choice depends on the characteristics of our data and whether it is more regular or nested and variable in form.
+
 
 ### 5.d Exploring JSON rules - 20 minutes
 *This sub-assignment is of advanced difficulty for beginners*. 
@@ -921,26 +921,24 @@ Some JSON datasets follow more formal rules called a data schema, which define:
 * What fields exist
 * What kind of values they contain
 
-Explore:
+Explore the [JSON schema](https://json-schema.org/learn).
 
-https://json-schema.org/learn
+After reading [what a schema is](https://json-schema.org/understanding-json-schema/about), try to imagine when you might need to write your own schema and when it would be better to rely on the official JSON schema (or another schema used by a large community).
 
+For historians and humanities scholars it is wise to use a schema that is established by others. However, you can of course write your own schema. We recommend [this comprehensive tutorial](https://json-schema.org/learn). If you’re not sure or don’t have time, you might as well use one of the many online schema generators listed in the reading suggestions below.
 
-After reading [what is a schema](https://json-schema.org/understanding-json-schema/about), try to imagine in which case you might need to write your own schema and in which case you should better rely on the official JSON schema (or another schema used by a large community).
-
-For historians and humanists it is wise to use a schema that is established by many others. However, you can of course write your own schema. For a comprehensive tutorial, see [here](https://json-schema.org/learn). If you're lazy, you might as well use one of the many online schema generators listed in the reading suggestions below.
 
 
 ### 5.e Critiquing data formats
 
-In real life, historians rarely convert data from one format to another by hand, there are dedicated tools to do this. But it is crucial to understand what is actually happening during such a conversion, because this allows us to critically assess a dataset we did not assemble ourselves. Only if we know what building a dataset by converting information extracted from sources into a structured format can we notice if precision or context is adequately represented or have been lost along the way. 
+In real life, historians rarely convert data from one format to another by hand as there are dedicated tools to do it for them. But it is crucial to understand what is actually happening during such a conversion, because this allows us to critically assess a dataset we did not assemble ourselves. Only if we know what it means to build a dataset by converting information extracted from sources into a structured format can we notice if details or context are adequately represented or have been lost along the way.
 
 In the previous exercises, you worked with different ways of structuring and representing data. This final step invites you to reflect more critically on the formats you use.
 
 
 Consider the formats you have used in this assignment (JSON, CSV table).
 
-1. Can this format be opened and edited with different software tools?
+1. Can these formats be opened and edited with different software tools?
 2. Would someone else easily be able to reuse your data?
 3. What problems might arise if the software you used becomes unavailable?
 
@@ -971,10 +969,11 @@ https://en.wikipedia.org/wiki/List_of_open_file_formats
 
 ### What have we learned?
 
-Across this lesson, we have seen that data are never simply "given": they are shaped by the symbols, conventions, and technical choices used to represent them (Section 1), and translated into machine-readable form through encoding systems whose scope and limitations — from punch cards to ASCII to RGB — determine what can and cannot be represented (Section 2). Turning historical sources into data requires deliberate choices about which descriptive categories and attributes to capture, choices that depend on the purpose of the research and are never neutral (Section 3). When the same entities recur across many sources, relational databases let us record each one only once and connect them through primary and foreign keys, making it possible to ask questions that a flat spreadsheet could not answer (Section 4). Finally, formats such as JSON show that even a finished dataset can be reorganised, nested, and exchanged in different ways — and that the choice of format, like the choice of encoding or data model, has consequences for who can reuse historical data and how (Section 5).
+During this lesson, we see that data are never simply “given”: they are shaped by the symbols, conventions and technical choices used to represent them (Section 1) and translated into machine-readable form through encoding systems – from punch cards to ASCII to RGB – whose scope and limitations determine what can and cannot be represented (Section 2). Turning historical sources into data requires deliberate choices about which descriptive categories and attributes to capture, choices that depend on the purpose of the research and are never neutral (Section 3). When the same entities recur across many sources, relational databases allow us to record each entity just once and connect them through primary and foreign keys, making it possible to ask questions that a flat spreadsheet could not answer (Section 4). Finally, formats such as JSON show that even a finished dataset can be reorganised, nested and exchanged in different ways, and that the choice of format, like the choice of encoding or data model, has consequences for who can reuse historical data and how (Section 5).
 
-Together, these five steps trace the path from a historical source to structured, queryable data: from recognising what counts as data, through encoding and modelling it, to storing, connecting, and finally sharing it.
+Together, these five steps trace the path from a historical source to structured, queryable data: from recognising what counts as data, through encoding and modelling it, to storing, connecting and finally sharing it.
 
+<!--Note Sofia on 5 Nov. 2026: I move this part in the introduction of the lesson-->
 
 ### Reading/viewing suggestions
 
