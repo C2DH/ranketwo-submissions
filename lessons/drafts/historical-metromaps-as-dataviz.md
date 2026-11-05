@@ -126,21 +126,7 @@ Why is this important? In data visualisation, certain things are shown "at a gla
 
 #### Exercise
 
-If you look at the metro maps in Figure 3 and Figure 4: <!-- Figure X, Masha to select an example from her collection -->:
-
-
-<img width="18595" height="14437" alt="1_1965_Geographical map" src="https://github.com/user-attachments/assets/5823e7aa-7a0c-4e77-b506-a4e3f89e70f7" />
-
-(assets/images/historical-metromaps-as-dataviz/1_1965_Geographical map.jpg) 
-
-
-**Figure 3:**  Geographical Map of Kyiv from 1965. from a private collection of M.Meleshko-Sudina
-
-<img width="904" height="443" alt="1_1965_Network" src="https://github.com/user-attachments/assets/812ae15c-1733-4a07-b2ff-bb24d64b162d" />
-
-(assets/images/historical-metromaps-as-dataviz/1_1965_Network.png)
-
-**Figure 4:** Kyiv Metro network map from 1965, retrieved from https://www.metropoliten.kiev.ua/pict/maps/1965.gif
+If you look at the New York Subway map https://www.mta.info/map/5256   <!-- Figure X, Masha to select an example from her collection. Dear Aida, I have added a link to the new york subway map from official website. it is more complex that the one from Kyiv and i think it will be a better example. what do you think?  -->:
 
 
 - What do you notice instantly (i.e., pre-attentively: color hue, intensity, orientation, shapes)?
@@ -189,7 +175,8 @@ The Gestalt Laws of pattern perception are a set of rules that describe the way 
 <!-- Replace image but actual image from Colin Ware but a-z.lu does not work. This is a similar example -->
 
 #### Exercise
-Which Gestalt principles can you observe in Figure <!-- Masha to select a metro map -->? 
+Which Gestalt principles can you observe in Tokyo Subway Route map https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf  <!-- Masha to select a metro map. dear Aida, same here. I think this more complex map can be a better study case. what do you think? -->? 
+
 - How does the principle of similarity apply: are all the stations represented consistently? Are similar symbols used for differet purposes?Do line colors clearly communicate membership to a specific route?
 - What about the principle of proximity: are transfer stations close enough to suggest connectivity? Does spacing help users identify routes?
 - Can you maybe observe any features that comply with the principle of Continutiy? (e.g., facility to follow a line without interruption, confusing crosses, line bends to support visual flow,...)
@@ -344,7 +331,7 @@ What were the reasons behind rejection of Beck's map? What created difficulties 
 
 Why metro maps should be read critically?
 
-In the following section a few examples will be presented, where metro schemas portray things beyond or instead of the classical function metro schemas that is to help passengers navigate the rapid transit system.
+In the following section we will show a few examples from Kyiv, where metro schemas portray things beyond or instead of the classical function metro schemas that is to help passengers navigate the rapid transit system.
 
 Why metro maps should be read critically?
 In the following section we give a few examples of metro schemas used as versatile tool to tell different stories and portray things beyond or instead of the classical function of metro schemas that is to help passengers navigate the rapid transit system.
