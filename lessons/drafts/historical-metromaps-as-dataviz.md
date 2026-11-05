@@ -311,13 +311,14 @@ Exercise
 1. Take a look at two following two projects. They both attempt to represent the same thing - all metro systems on the planet in one place. However, they use two different approaches: one - geographical map, another - abstract network.
    
 	https://railsmaps.com/world/metro
+
 	https://www.worldmetromap.com/map 
 
 What does each of the map 'says'? How do we perceive them? What is the main narrative? Purpose? Which of two (if any) is most suitable for navigating passengers? what other functions are they meant to carry? What information can you extract from either of them?
 
-2. To explore more about the evolution of Paris metro map please take a look at the following article: “Henry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ and see the collection of Paris metro maps from different decades https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris
+2. To explore more about the evolution of Paris metro map take a look at the following article: “Henry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ and see the collection of Paris metro maps from different decades https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris
 
-What were the reasons behind rejection of Beck's map? What created difficulties for adapting diagrammatic approach in Paris? How did the Paris metro schemas evolved over time?
+What were the reasons behind rejection of Beck's map? What created difficulties for adapting diagrammatic approach in Paris? How did the Paris metro schemas evolved over time? How does it reflect the perception of the city by Parisians? How does visualisation reflect this perception?
 
 
 ### 3.b Historical contextualisation of metro maps
@@ -351,7 +352,7 @@ Kyiv Metro Map from 2003, retreived from https://www.metropoliten.kiev.ua/pict/m
 
 <img width="4681" height="3287" alt="3b_2017_UNIAN_plans" src="https://github.com/user-attachments/assets/eca7b199-872f-45f6-ab95-c5505548f1a5" />
 
-Kyiv metro Map from
+Kyiv metro Map from 2017, created by Municipal Organization "Institute of the General Plan of Kyiv City", retrieved from https://www.unian.net/kyiv/2039651-v-kieve-budet-pyat-vetok-metro-opublikovana-karta-proekta.html 
 
 Exercise 
 Look at the following metro schemas from 1976, 2003 and 2017. Compare them with Official Kyiv Rapid Transit System map of 2026 to see the state of plans' implementation.
@@ -367,7 +368,7 @@ First in direct aftermath of the fall of the Soviet Union and Ukraine gaining in
 Lastly, during the de-Russification following the 2022 full-scale invasion. As an example 'Druzhby Narodiv' ('Friendship of Nations') station (implying Ukrainian-Russian friendship) was renamed into  'Zvirynetska' - local toponym that originates from middle age Kyivan Rus, centuries before Principality of Moscow appeared on the map.
 
 Exercise
-Compare a map from 2010 picture 3a_En 2010 with Official Kyiv Rapid Transit System map of 2026 to find cases of stations' renaming.
+Compare a map from 2010 with Official Kyiv Rapid Transit System map of 2026 to find cases of stations' renaming.
 
 <img width="900" height="600" alt="3a_En 2010" src="https://github.com/user-attachments/assets/dca3435b-dc68-41a0-949e-5366883c8a89" />
 
