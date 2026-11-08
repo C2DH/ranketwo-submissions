@@ -445,12 +445,12 @@ For each category, consider the following questions:
 
 Then reflect on the two frameworks together using the [Data Ethics Canvas](https://theodi.org/tools), a planning tool developed by the Open Data Institute (ODI) to help projects think through who could be affected by how data is used and shared.
 
-![Data Ethics Canvas](assets/images/data-criticism/data-ethics-canvas.png)
+![Data Ethics Canvas](assets/images/data-criticism/data-ethics-canvas.pdf)
 
 Source: Open Data Institute, [*Data Ethics Canvas*](https://theodi.org/tools), 2021. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-1. ** Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
-2. ** Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
+** 1. Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
+** 2. Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
 
 Write two or three sentences per box. Then decide, as a group, whether your category should be shared openly with a licence, shared with restrictions, or only partly deposited.
 
