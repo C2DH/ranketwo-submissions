@@ -297,7 +297,7 @@ Using the structure below, draft a short DMP for Lea's local history project. Yo
 
 Now complete a short provenance table for one type of material in the collection — for example, the oral history recordings. A provenance table records the origin and custody history of a data item. Use the following columns:
 
-| Data item | Creator | Date/period | Original purpose | How acquired | Consent status | Rights holder | Transformations applied | Ethical notes | 
+| Data item | Creator | Date/period | Original purpose | Acquisition method | Consent status | Rights holder | Transformations applied | Ethical notes | 
 | -------- | ------ | ----- | ------ | ------ | ------ | ----- | ----- | ------ | 
 | Aunt Maria's recording | Grandmother | 1982 | New Year's Wish | Donation | Consent given | Aunt Maria | No transformations | Mentions names of now deceased people |  
 
@@ -443,7 +443,16 @@ For each category, consider the following questions:
 * What CARE considerations apply? Whose interests and authority must be considered beyond the legal minimum?
 * What licence would you attach to the materials that can be shared? Refer back to the Creative Commons callout box in 2.b if needed.
 
-Then reflect on the two frameworks together:
+Then reflect on the two frameworks together using the [Data Ethics Canvas](https://theodi.org/tools), a planning tool developed by the Open Data Institute (ODI) to help projects think through who could be affected by how data is used and shared.
+
+![Data Ethics Canvas](assets/images/data-criticism/data-ethics-canvas.png)
+
+Source: Open Data Institute, [*Data Ethics Canvas*](https://theodi.org/tools), 2021. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+1. ** Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
+2. ** Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
+
+Write two or three sentences per box. Then decide, as a group, whether your category should be shared openly with a licence, shared with restrictions, or only partly deposited.
 
 * The phrase *handle data with care and, if possible, share* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
 
