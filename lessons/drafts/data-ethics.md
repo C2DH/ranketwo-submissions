@@ -449,10 +449,10 @@ Then reflect on the two frameworks together using the [Data Ethics Canvas](https
 
 Source: Open Data Institute, [*Data Ethics Canvas*](https://theodi.org/tools), 2021. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-** 1. Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
-** 2. Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
+* 1. Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
+* 2. Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
 
-Write two or three sentences per box. Then decide, as a group, whether your category should be shared openly with a licence, shared with restrictions, or only partly deposited.
+Write two or three sentences per box. Then decide, whether your category should be shared openly with a licence, shared with restrictions, or only partly deposited.
 
 * The phrase *handle data with care and, if possible, share* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in that formulation? What conditions would make sharing impossible, or irresponsible?
 
