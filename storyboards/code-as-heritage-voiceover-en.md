@@ -44,7 +44,7 @@ This process can be understood as “reborn digital”: software recovered from 
 
 Along its journey, this code has passed through three of the major institutions now dedicated to preserving software heritage. The GitHub Archive Program stores code in an Arctic vault designed to last centuries. Beyond the code, the Internet Archive makes many historical programs accessible through browser-based emulation. Software Heritage, a French academic nonprofit, aims to preserve all publicly available source code.
 
-Every layer of code that built our digital world carries decisions, assumptions, and lives. Learning to read it historically means learning to ask not just what it does, but who wrote it, under what conditions, and what other sources needed to fully understand it. This lesson will show you how.
+Every layer of code that built our digital world carries decisions, assumptions, and lives. Learning to read it historically means learning to ask not just what it does, but who wrote it, under what conditions, and what other sources are needed to fully understand it. This lesson will show you how.
 
 
 
