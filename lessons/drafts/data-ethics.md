@@ -445,7 +445,7 @@ For each category, consider the following questions:
 
 Then reflect on the two frameworks together using the [Data Ethics Canvas](https://theodi.org/tools), a planning tool developed by the Open Data Institute (ODI) to help projects think through who could be affected by how data is used and shared.
 
-![Data Ethics Canvas](assets/images/data-criticism/data-ethics-canvas.pdf)
+![Data Ethics Canvas](assets/images/data-criticism/data-ethics-canvas.png)
 
 Source: Open Data Institute, [*Data Ethics Canvas*](https://theodi.org/tools), 2021. Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
