@@ -15,7 +15,7 @@ Metadata are often defined, in general terms, as “data about data”. The term
 
 Metadata are relevant whenever information is searched for, organised or analysed. For historians, this applies directly to the work they do with their sources at different stages of research. Metadata are therefore an important tool for historical source criticism, helping historians to verify the provenance of their sources and to place them in context. 
 
-This lesson offers a gentle introduction to metadata for historians working with digital sources, whether digitised or born-digital. By the end of the lesson, readers should have a basic understanding of what metadata are and how they can help historians find, access and organise their sources in order to analyse them more effectively. In this lesson, metadata are considered a key element of historians’ data literacy.
+This lesson offers a gentle introduction to metadata for historians working with digital sources, whether digitised or born-digital. By the end of the lesson, readers should have a basic understanding of what metadata are and how they can help historians find, access and organise their sources in order to analyse them more effectively. In this lesson, metadata are considered a key element of historians’ data literacy. <!--should add a word here about authenticity and integrity of sources and how these are challeneged in digital environments-->
 
 ### 1 What are metadata and why historians should bother
 
