@@ -32,7 +32,6 @@ order:
 og:
   description: 
 ---
-<!-- Check British/US english visualisation/visualization -->
 
 # Historical metro maps as data visualisations
 
@@ -49,13 +48,13 @@ og:
 
 This lesson offers an introduction to the critical analysis of metro maps both as historical sources and as data visualisations, using the case study of Kyev’s metro. What you learn in this lesson can be applied to other types of data visualisations, as well as to metro maps of other cities and historical periods.
 
-Data visualisation is the process of representing data visually to support understanding, exploration, and communication. It is important to understand that there are many ways to visualise data where complexity is central to both the representation and the exploration of the data. However, in this lesson we are going to focus on data visualisation with the aim of extracting information as quickly as possible; in the case of the metro, this involves a network graph.
+Data visualisation is the process of representing data visually to support understanding, exploration, and communication. It is important to understand that there are many ways to visualise data where complexity is central to both the representation and the exploration of the data. However, in this lesson we are going to focus on data visualisation with the aim of extracting information as quickly as possible; in the case of the metro, this involves exploring a network graph.
 
 The critical analysis of a data visualisation shares most of the key questions frequently asked about digitised and born digital sources. However, further consideration is required to assess for example the level of abstraction, the impact on cognition and, as we will see in our case study, certain additional questions specific to metro maps (e.g., perceived geography).
 
 In this lesson, you will learn that:
 1. **Metro maps as data visualisations** are the result of a transformation pipeline from real world phenonema such as geography or distances, captured as data into nodes and edges, and finally represented as a network graph visualisation.
-2. **Data does not speak for itself (and neither does its visualisation)**. There are economic, cultural, political, social and historical histories that metro maps can tell.
+2. **Data does not speak for itself (and neither does its visualisation)**. There are economic, cultural, political, social and historical narratives that metro maps can tell.
 3. **Contextualisation is a fundamental practice in data analysis and visualisation**, as well as in the interpretation of historical sources. For that purpose, we will explore how to combine and compare metro maps for a deeper analysis.
 
 Each section includes practical exercises designed to develop your critical thinking, as well as additional resources where you can explore the content further if required.
@@ -64,15 +63,15 @@ Each section includes practical exercises designed to develop your critical thin
 
 [!NOTE]
 *Learning objectives:*
-By completing this section, you will be able to:
-- Understand the different levels of abstraction from data collection to representation.
-- To understand how this translates specfically to metro maps
+By completing this section, you will be able to understand:
+- the different levels of abstraction from data collection to representation.
+- how this translates specfically to metro maps
 
-Does data objectively capture the phenomena taking place in the real world? Drucker says that "by recognizing the always interpreted character of data we have shifted from data to capta, acknowledging the constructed-ness of the categories according to the uses and expectations for which they are put in service" (Drucker,2011). Loukissas explains that "in thinking about when something becomes data, we must lend weight to the material processes involved; measuring, recording, and otherwise capturing the world are processess with physical constraints. (...) Aspects of the original subject are inevitably lost in translation" (Loukissas, 2019).
+Does data objectively capture the phenomena taking place in the real world? Drucker says that "by recognizing the always interpreted character of data we have shifted from data to capta, acknowledging the constructed-ness of the categories according to the uses and expectations for which they are put in service" (Drucker,2011). Loukissas explains that "in thinking about when something becomes data, we must lend weight to the material processes involved; measuring, recording, and otherwise capturing the world are processess with physical constraints. (...) Aspects of the original subject are inevitably lost in translation" (Loukissas, 2019). In other words, it is important to pay attention to how data constructs a representation of the reality, shaped by the choices, interpretations, purposes and material limitations involved in its collection, inevitably leaving out certain aspects of the original phenomenon.
 
-A data visualisation is a representation of information that involves transforming real-world phenomena into a simplified visual form through a process of abstraction. This process usually includes four steps: 1)A real-world event, system, or situation is observed. 2)Data collection: Information about the phenomenon is gathered through observation, measurement, surveys, records, or technology. 3)Representation: The data is converted into a visual form, 4) The representation is pereceived by the human perceptual and cognitive system.
+A data visualisation is a representation of information that involves transforming real-world phenomena into a simplified visual form through a process of abstraction. This process usually includes four steps: 1)A real-world event, system, or situation is observed. 2)Data collection: Information about the phenomenon is gathered through observation, measurement, surveys, records, or technology. 3)Representation: The data is converted into a visual form, 4) The representation is perceived by the human perceptual and cognitive system.
 
-There is a "widespread belief that large data sets offer a higher form of intelligence and knowledge that can generate insights that were previously impossible, with the aura of truth, objectivity, and accuracy” (Boyd et al., 2012) and "data visualization is often the visual enactment of this "aura of truth". Learning to be a critical reader and designer entails learning productive ways to challenge that aura" (D'Ignazio, 2019). This is therefore the focus of this first section.
+There is a “widespread belief that large data sets offer a higher form of intelligence and knowledge that can generate insights that were previously impossible, with the aura of truth, objectivity, and accuracy” (Boyd et al., 2012). As D’Ignazio further observes, “data visualization is often the visual enactment of this ‘aura of truth’”, arguing that “learning to be a critical reader and designer entails learning productive ways to challenge that aura” (D'Ignazio, 2019). 
 
 ### 1.a From phenomena to data
 
@@ -81,41 +80,42 @@ What exactly does this mean? If we look, for example, at a metro map like the on
 <details>
   <summary>Do you need help?</summary>
 
-  Some examples would include geographic phenomena such as distances between stations, elevation changes, administrative boundaries, rivers and waterways; mobility phenomena such as passenger movements, peak-hour demand, origin-destination flows, accessibility needs; socio-economic phenomena such as population density, employment density, urban growth, turist activity; environmental phenomena such as noise levels or weather changes, among many others. These are essentially all the observable events that exist before they are converted into data and then represented into a metro map.
+  Some examples would include geographic phenomena such as distances between stations, elevation changes, administrative boundaries, rivers and waterways; mobility phenomena such as passenger movements, peak-hour demand, origin-destination flows, accessibility needs; socio-economic phenomena such as population density, employment density, urban growth, turist activity; environmental phenomena such as noise levels or weather changes, among many others. These provide the basis for planning and designing metro lines, informing the decisions that shape the physical network and, ultimately, its representation in metro maps.
+
+</details>
 
 Different phenomena are captured into data using different methods. For example, distances, elevation changes or noise levels would be measured, accessibility needs could be collected using a survey, and touristic activity could be recorded through observation (among other options).
 
 The sort of decisions made during the data collection process are refleced in the decisions about what gets measured, why it gets measured and how it gets measured. For example who is the metro system and the metro map designed for (i.e., who is the target population: workers, turists,...)? Why a data collection method is selected and what are the limitations (i.e.,how was the sample selected)? What tools, instruments, or technologies were used to collect the data? When was the data collected? Who was responsible for the data collection?. These are just some examples of decisions that would alter the result significantly. Would it be the same to collect data for a metro system aimed at commuters travelling from the suburbs to the office districts as it would be to cater for the large numbers of tourists visiting the historic districts? It is important to understand that a critical view of the data collection process is important to challenge any "aura of truth". Additionally, as historians, the answers to all these questions bring relevant historical information as we will see in the next sections.
 
-</details>
+Real-world phenomena are rarely isolated; they exist within complex systems of relationships and interdependencies. These relationships can be understood through the concept of a network, composed of interconnected entities (nodes) and the connections between them (links).
 
-A network consists of:
-- Vertices (nodes): the objects in the network.
-- Edges (links): the connections between those objects.
+#### Exercise
+
+Look at these two examples and reflect how a network structure applies to metro maps:
+Example 1: S-Bahn, Berlin [https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980.htm](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980.htm) *maps from 1964, 1967 seem interesting as they show both the network and the Berlin wall (as real world phenomenon)* 
+
+Example 2: A part of the NYC subway in 1904 [https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0](https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0) https://www.mta.info/map/5256 
 
 <details>
-  <summary>Can you work out what this data relates to in the case of the underground map?</summary>
+  <summary>Do you need help?</summary>
 Exactly – the nodes are the stations and the links are the underground lines.
 </details>
-<!-- Additional references for network graphs? Expand explanations? Wait to see if the rest of the content is balanced. -->
 
-MAP PROPOSAL SOFIA 1: S-Bahn, Berlin [https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980.htm](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980.htm) *maps from 1964, 1967 seem interesting as they show both the network and the Berlin wall (as real world phenomenon)* 
-
-MAP PROPOSAL SOFIA 2: A part of the NYC subway in 1904 [https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0](https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0)
 
 ### 1.b From data to representation
 #### Preattentive processing
 
 Once the data has been collected, the next part of the transformation comes into place, its visualisation. In order to critically approach a representation, we first need to understand how attention is captured and how we organise and interpret what we see. For that purpose, we are introducing in this section two relevant concepts in data visualisation: Preattentive attributes and Gestalt principles.
 
-Look at the two images below, how many fives can you count on the first image? What about the second? Can you see the difference? This is an example of how we can leverage color as a preattentive attribute in data visualisation.
+Look at the two images below, how many sevens can you count on the first image? What about the second? Can you see the difference? This is an example of how we can leverage color as a preattentive attribute in data visualisation.
 
 ![Color as a preattentive attribute](/assets/images/historical-metromaps-as-dataviz/color-preattentive.jpg)
 
-**Figure 1:** Color as a preattentive attribute. Source: Colin Ware, Information Visualization: Perception for Design
+**Figure 1:** Color as a preattentive attribute. Source: Modified from Colin Ware, Information Visualization: Perception for Design
 <!-- Replace image but actual image from Colin Ware but a-z.lu does not work. This is a similar example -->
 
-Preattentive attributes are visual features that the human brain notices almost instantly. See below what other preattentive attributes we can use a part from color.
+Preattentive attributes are visual features that the human brain notices almost instantly. See below what other preattentive attributes what other preattentive attributes there are besides color.
 
 ![Preattentive attribute](/assets/images/historical-metromaps-as-dataviz/preattentive-attributes.jpg)
 
@@ -126,15 +126,14 @@ Why is this important? In data visualisation, certain things are shown "at a gla
 
 #### Exercise
 
-If you look at the New York Subway map https://www.mta.info/map/5256   <!-- Figure X, Masha to select an example from her collection. Dear Aida, I have added a link to the new york subway map from official website. it is more complex that the one from Kyiv and i think it will be a better example. what do you think?  -->:
-
+If you look at the two metro maps discussed in the previous section:
 
 - What do you notice instantly (i.e., pre-attentively: color hue, intensity, orientation, shapes)?
-- Which visual encodings are highlighted?
+- Which visual elements are highlighted?
 - Which ones are downplayed?
 - How do preattentive attributes affect the perception of centrality?
 - What do you observe about the shape of the lines?
-- Can you find other metro maps where it was not like that?<!-- Masha: This is a potential place to introduce the history of metro maps -->
+- Can you find other metro maps where it is not like that?
 - Which stations stand out?
 - Which lines dominate visually?
   
@@ -165,17 +164,25 @@ To explore this topic further: read Ware Chapter five: Visual Saliency and Findi
 
 #### Gestalt laws
 
-"The visual brain is a powerful pattern-finding engine. There is no other way of presenting information so that structures, groups, and trends can be discovered." (Ware 2019) <!-- Fix references -->. In this section we will discuss: what does it take for us to see a group and what does constitute a visual connection between objects?
+"The visual brain is a powerful pattern-finding engine. There is no other way of presenting information so that structures, groups, and trends can be discovered." (Ware, 2019). In this section we will discuss: what does it take for us to see a group and what does constitute a visual connection between objects?
 
-The Gestalt Laws of pattern perception are a set of rules that describe the way we see patterns in visual displays, and these translate into a set of design principles for data visualization: 1) proximity, 2) similarity, 3) connectedness, 4) continuity, 5) symmetry, 6) closure, 7) relative size, and 8) common fate.
+The Gestalt Laws of pattern perception are a set of rules that describe the way we see patterns in visual displays, and these translate into a set of design principles for data visualization. Six
+Gestalt laws are discussed here:
+1. Proximity: Objects that are close together as perceived as a group.
+2. Similarly: Objects with similar attributes (i.e., color, shape) are perceived as a group.
+3. Enclosure: Objects surrounded by a common boundary (i.e., a line, a colored area) are perceived as a group.
+4. Closure: The mind tends to fill in missing visual information to perceive incomplete shapes or patterns as complete.
+5. Continuity: The eye naturally follows smooth, continuous lines and paths rather than abrupt changes or interruptions.
+6. Connection: Elements linked by connectors (i.e., a line) are perceived as belonging together.
 
-![Gestalt laws](/assets/images/historical-metromaps-as-dataviz/gestalt.jpg)
+<!--[Gestalt laws](/assets/images/historical-metromaps-as-dataviz/gestalt.jpg)-->
+Read this article to understand how Gestalt Principles apply specifically to data visualisation: **https://nastengraph.medium.com/gestalt-principles-in-data-visualization-a4e56e6074b5**
 
-**Figure X:** Gestalt laws. Source: Colin Ware, Information Visualization: Perception for Design
-<!-- Replace image but actual image from Colin Ware but a-z.lu does not work. This is a similar example -->
+<!-- I allowed replace image by the one from the link above **Figure X:** -->
 
 #### Exercise
-Which Gestalt principles can you observe in Tokyo Subway Route map https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf  <!-- Masha to select a metro map. dear Aida, same here. I think this more complex map can be a better study case. what do you think? -->? 
+Which Gestalt principles can you observe in Tokyo Subway Route map and how does it differ from the previous metro maps?
+**https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf**
 
 - How does the principle of similarity apply: are all the stations represented consistently? Are similar symbols used for differet purposes?Do line colors clearly communicate membership to a specific route?
 - What about the principle of proximity: are transfer stations close enough to suggest connectivity? Does spacing help users identify routes?
@@ -183,7 +190,7 @@ Which Gestalt principles can you observe in Tokyo Subway Route map https://www.t
 
 <!-- Masha, this is an alternative place to introduce the history of metro maps as they also evolved based on these principles. -->
 
-As you now understand, there are many decisions behind the data collection and visualisation process, starting from what is counted, to how it's organised and categorised and finally represented. Data visualisation is leveraged to reduce cognitive load so that the user can focus on a specific objective, as in the case of metro maps. However, as we have seen, this also implies [abstraction and omission of information](https://ranke2.uni.lu/u/digital-maps/#assignment-02-reading-maps.en) <!-- Maybe we can find an additional reference discussing these two terms -- yes, I Sofia added the link to the maps lesson on Ranke.2 -->, that we need to be aware of when exploring metro maps as historical sources. 
+As you now understand, there are many decisions behind the data collection and visualisation process, starting from what is counted, to how it's organised and categorised and finally represented. Data visualisation is leveraged to reduce cognitive load so that the user can focus on a specific objective, as in the case of metro maps. However, as we have seen, this also implies [abstraction and omission of information](https://ranke2.uni.lu/u/digital-maps/#assignment-02-reading-maps.en)<!-- Maybe we can find an additional reference discussing these two terms -- yes, I Sofia added the link to the maps lesson on Ranke.2 -->, that we need to be aware of when exploring metro maps as historical sources. 
 
 In the next section we will analyse the specific implications on how metro maps as data visualisations communicate certain historical and political narratives, that require a critical analysis of what is there and how it is represented, and what has been omitted and the potential reasons behind.
 
@@ -211,14 +218,14 @@ By completing this section, you will be able to:
 - Understand that data does not speak for itself, nor does its visualization and how a narrative can be controlled through visual saliency.
 - How this applies specifically to metro maps and how to read implicit narratives.
 
-Data does not speak for itself, nor does its visualizations. A metro map, for example, encodes economic, cultural, political, social, and historical narratives. Now that you understand how data can be visually encoded, you can examine how saliency is used to emphasize certain narratives. This section focuses on developing an awareness of that saliency in any representation.
+Data does not speak for itself, nor does its visualizations. A metro map, for example, encodes economic, cultural, political, social, and historical narratives. Now that you understand how data can be visually encoded, you can examine how controlling saliency is used to emphasize certain narratives. This section focuses on developing an awareness of that visual emphasis in any representation.
 
 ### 2.a Controlling the saliency 
 
 #### Exercise
 
 We will start this section with an exercise, exploring the following example: 
- [The New York Times' One Report Diverging Perspectives](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html)
+ **[The New York Times' One Report Diverging Perspectives](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html)**
 
 - How does the same report present diverging perspectives? Switch between "How a democrat might see things" and "How a republican might see things?"
 - What visual elements change in the representation?
@@ -229,6 +236,7 @@ We will start this section with an exercise, exploring the following example:
 <details>
   <summary>Do you need help?</summary>
 Some of the elements used to control the narrative in the example include:
+
 - Modifying the x-axis to present partial data.
 - Using color to highlight specific values or a range of values.
 - Adding reference lines as a baseline for comparison, to measure success or failure.
@@ -238,7 +246,7 @@ Some of the elements used to control the narrative in the example include:
 If we look at the visualization without any of these elements, the readers could be influenced by their expertise in the subject, their political opinions or their level or visual data literacy, among others.
 </details>
 
-"If grouping, highlighting, and annotation can guide viewers toward a certain comparison or pattern, then for better or worse, a visualization designer has some control over what their viewers see in a data set. "(Franconeri et al, 20212)<!-- Fix references -->
+"If grouping, highlighting, and annotation can guide viewers toward a certain comparison or pattern, then for better or worse, a visualization designer has some control over what their viewers see in a data set" (Franconeri et al., 20212).<!-- Fix references -->
 
 To know more about the complexities of truth and deception in visualisation, please read:
 Cairo, A. (2016). The truthful art: Data, charts, and maps for communication. New Riders.
@@ -248,9 +256,9 @@ Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W.
 
 #### Exercise
 
-Now, we will focus on a metro map. )<!-- Masha to select a metro map -->
+Now, we will focus on the Hong Kong metro map.
 
-**LINK TO METRO MAP OF HONG KONG [https://www.mtr.com.hk/en/customer/services/system_map.html]5https://www.mtr.com.hk/en/customer/services/system_map.html°** <!--proposed by Sofia-->
+**https://www.mtr.com.hk/en/customer/services/system_map.html** <!--proposed by Sofia-->
 
 Please try to answer the following questions, grounding your answers in the visual elements and how the saliency of the map is controlled:
 
@@ -264,8 +272,11 @@ Please try to answer the following questions, grounding your answers in the visu
 
 <details>
   <summary>Do you need help?</summary>
-  <!-- Masha to do an analysis of the selected metro map -->
+ The legibility of a simplified layout can suggest an ordered and efficient city, while a high density of connections around central stations can reflect their strategic importance as major commercial or business districts. A schematic layout prioritises route legibility over geographical accuracy, aimed primarily at commuters who need to identify stations, follow routes and navigate transfers efficiently between residential areas and employment centres. In contrast, a geographically accurate representation prioritises spatial orientation and the relationship between the transport network and the wider urban environment, catering more broadly to passengers interested in understanding where stations are located in relation to neighbourhoods, landmarks and geographical barriers. The use of multiple languages can make the network accessible to international visitors while reflecting colonial legacies and local cultural identities through station names. Finally, the display of connections to wider
+regional transport infrastructure can communicate political priorities and the city's relationship with the surrounding region.
 </details>
+
+A deep understanding of the historical and cultural context would, of course, allow for a more nuanced analysis, as it would be the case when analysing metro maps as part of historical research. "Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15). In the next section, we will look at metro maps as historical sources in context.
 
 ### Reading/viewing suggestions 
 
@@ -277,8 +288,6 @@ Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W.
 
 
 ## 3 Metro maps as data visualisations and historical sources in context 
-<!-- This section is mostly the historical section for Masha to develop. Structure it differently if needed, also include the visualization from your thesis about depth, etc. -->
-"Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15)<!-- Fix references -->
 
 Contextualisation is a key practice both in critical analysis of data visualisation and historical sources. How do we look at metro maps in combination with other maps? What new perspectives does it offer to look at the multiple versions of the same metro maps (e.g., official one vs. construction map), the official map over time, or in combination with other maps (e.g, Olympics, Internet coverage)? What contradictions do we find, and what information appears and disappears among them or over time?
 
