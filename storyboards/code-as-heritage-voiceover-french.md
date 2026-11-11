@@ -41,11 +41,11 @@ Mais avant que les historiens puissent étudier le code, celui-ci doit avoir sur
 
 Les listes du programme Apollo ont survécu parce que des copies papier ont été conservées au musée du MIT, et parce que des personnes dévouées ont par la suite entrepris le travail de numérisation et de transcription.
 
-Des cartes perforées aux listes sur papier, des images numérisées aux fichiers texte et au dépôt GitHub, le code a trouvé une nouvelle vie numérique.
+Des cartes perforées aux listes sur papier, des images numérisées aux fichiers texte et au dépôt distant, le code a trouvé une nouvelle vie numérique.
 
-Ce processus peut être considéré comme une « renaissance numérique » : un logiciel récupéré à partir de supports physiques conservés et reconstitué sous forme numérique.
+Ce processus peut être considéré comme une recréation numérique : un logiciel récupéré à partir de supports physiques conservés et reconstitué sous forme numérique.
 
-Au cours de son parcours, ce code est passé par trois des principales institutions qui se consacrent aujourd’hui à la préservation du patrimoine logiciel. Le programme d’archivage GitHub stocke le code dans une chambre forte située dans l’Arctique, conçue pour durer des siècles. Au-delà du code, Internet Archive rend de nombreux programmes historiques accessibles grâce à une émulation via navigateur. Software Heritage, une association universitaire française à but non lucratif, a pour objectif de préserver l’ensemble du code source accessible au public.
+Au cours de son parcours, ce code est passé par trois des principales institutions qui se consacrent aujourd’hui à la préservation du patrimoine logiciel. Le programme d’archivage de GitHub stocke le code dans un coffre-fort situé dans l’Arctique, conçu pour durer des siècles. Au-delà du code, Internet Archive rend de nombreux programmes historiques accessibles grâce à une émulation via navigateur. Software Heritage, une association universitaire française à but non lucratif, a pour objectif de préserver l’ensemble du code source accessible au public.
 
 Chaque couche de code qui a construit notre monde numérique est porteuse de décisions, d’hypothèses et de vies. Apprendre à le lire d’un point de vue historique, c’est apprendre à se demander non seulement ce qu’il fait, mais aussi qui l’a écrit, dans quelles conditions, et quelles autres sources sont nécessaires pour le comprendre pleinement. Ce cours vous montrera comment y parvenir.
 
