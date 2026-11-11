@@ -39,9 +39,9 @@ Le code nous invite à interroger le contexte technique, social et culturel dans
 
 Mais avant que les historiens puissent étudier le code, celui-ci doit avoir survécu. Les logiciels des années 1960 ont rarement résisté aux restructurations d’entreprises, aux évolutions technologiques ou à la simple négligence — et le code source, contrairement aux programmes exécutables, était particulièrement vulnérable.
 
-Les listes du programme Apollo ont survécu parce que des copies papier ont été conservées au musée du MIT, et parce que des personnes dévouées ont par la suite entrepris le travail de numérisation et de transcription.
+Les listings du programme Apollo ont survécu parce que des copies papier ont été conservées au musée du MIT, et parce que des personnes dévouées ont par la suite entrepris le travail de numérisation et de transcription.
 
-Des cartes perforées aux listes sur papier, des images numérisées aux fichiers texte et au dépôt distant, le code a trouvé une nouvelle vie numérique.
+Des cartes perforées aux listings imprimés, des images numérisées aux fichiers texte et au dépôt distant, le code a trouvé une nouvelle vie numérique.
 
 Ce processus peut être considéré comme une recréation numérique : un logiciel récupéré à partir de supports physiques conservés et reconstitué sous forme numérique.
 
