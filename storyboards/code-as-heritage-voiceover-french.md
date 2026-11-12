@@ -47,6 +47,6 @@ Ce processus peut être considéré comme une recréation numérique : un logici
 
 Au cours de son parcours, ce code est passé par trois des principales institutions qui se consacrent aujourd’hui à la préservation du patrimoine logiciel. Le programme d’archivage de GitHub stocke le code dans un coffre-fort situé dans l’Arctique, conçu pour durer des siècles. Au-delà du code, Internet Archive rend de nombreux programmes historiques accessibles grâce à une émulation via navigateur. Software Heritage, une association universitaire française à but non lucratif, a pour objectif de préserver l’ensemble du code source accessible au public.
 
-Chaque couche de code qui a construit notre monde numérique est porteuse de décisions, d’hypothèses et de vies. Apprendre à le lire d’un point de vue historique, c’est apprendre à se demander non seulement ce qu’il fait, mais aussi qui l’a écrit, dans quelles conditions, et quelles autres sources sont nécessaires pour le comprendre pleinement. Ce cours vous montrera comment y parvenir.
+Chaque couche de code qui a construit notre monde numérique est porteuse de décisions, d’hypothèses et de vies. Apprendre à le lire d’un point de vue historique, c’est apprendre à se demander non seulement ce qu’il fait, mais aussi qui l’a écrit, dans quelles conditions, et quelles autres sources sont nécessaires pour le comprendre pleinement.
 
 
