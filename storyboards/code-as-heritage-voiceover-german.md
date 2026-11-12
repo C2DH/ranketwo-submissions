@@ -44,5 +44,5 @@ Dieser Prozess lässt sich als ‚digitale Wiedergeburt‘ verstehen: Software, 
 
 Auf seiner Reise durchlief dieser Code drei der wichtigsten Institutionen, die sich heute der Bewahrung des Software-Erbes widmen. Das GitHub Archivprogramm  speichert Code in einem Tresorraum in der Arktis, der für eine Lebensdauer von Jahrhunderten ausgelegt ist. Über den Code hinaus macht das Internet Archive viele historische Programme durch browserbasierte Emulation zugänglich. Software Heritage, eine akademische gemeinnützige Organisation aus Frankreich, hat sich zum Ziel gesetzt, den gesamten öffentlich zugänglichen Quellcode zu bewahren.
 
-Jede Codeebene, aus der unsere digitale Welt besteht, birgt Entscheidungen, Annahmen und Lebensgeschichten.  Code historisch lesen zu lernen bedeutet, nicht nur zu fragen, was Code tut, sondern auch, wer ihn geschrieben hat, unter welchen Bedingungen und welche weiteren Quellen erforderlich sind, um ihn vollständig zu verstehen. In dieser Lektion erfahren Sie, wie das geht.
+Jede Codeebene, aus der unsere digitale Welt besteht, birgt Entscheidungen, Annahmen und Lebensgeschichten.  Code historisch lesen zu lernen bedeutet, nicht nur zu fragen, was Code tut, sondern auch, wer ihn geschrieben hat, unter welchen Bedingungen und welche weiteren Quellen erforderlich sind, um ihn vollständig zu verstehen.
 
