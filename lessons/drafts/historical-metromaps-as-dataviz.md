@@ -86,10 +86,14 @@ What exactly does this mean? Look at the metro maps provided in figures 1 and 2.
 1. What sort of real-world events lie behind the data needed to create this map? Could you name at least five? 
 2. How are they collected as data? What sort of decisions do you think might have been made between observing these phenomena and recording them as data? Make a list of five key questions.
 
-Figure 1. 
+![Map showing the lines of the Interborough Rapid Transit Co.](/assets/images/historical-metromaps-as-dataviz/interborough-rapid-transit.jpg "Map showing the lines of the Interborough Rapid Transit Co.")
+
+Figure 1. Map showing the lines of the Interborough Rapid Transit Company. New York, 1904. [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0). Public domain. 
+
+![S-Bahn Berlin. Netzplan 1967](/assets/images/historical-metromaps-as-dataviz/berlin_b.jpg "Berlin S-Bahn. Network Map, 1967")
 
 
-Figure 2. 
+Figure 2. Berlin S-Bahn. Network Map, 1967 (Netzplan der S-Bahn Berlin - 1967). Source: *S-Bahn-Galerie.de.* [URL](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980/1967_S-Bahn-Berlin.htm).  
 
 <details>
   <summary>Do you need help?</summary>
