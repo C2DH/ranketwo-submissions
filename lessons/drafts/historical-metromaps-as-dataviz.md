@@ -49,13 +49,13 @@ og:
 
 This lesson offers an introduction to the critical analysis of metro maps both as historical sources and as data visualisations, using the case study of Kyev’s metro. What you learn in this lesson can be applied to other types of data visualisations, as well as to metro maps of other cities and historical periods.
 
-Data visualisation is the process of representing data visually to support understanding, exploration, and communication. It is important to understand that there are many ways to visualise data where complexity is central to both the representation and the exploration of the data. However, in this lesson we are going to focus on data visualisation with the aim of extracting information as quickly as possible; in the case of the metro, this involves a network graph.
+Data visualisation is the process of representing data visually to support understanding, exploration, and communication. It is important to understand that there are many ways to visualise data where complexity is central to both the representation and the exploration of the data. However, in this lesson we are going to focus on data visualisation with the aim of extracting information as quickly as possible; in the case of the metro, this involves exploring a network graph.
 
 The critical analysis of a data visualisation shares most of the key questions frequently asked about digitised and born digital sources. However, further consideration is required to assess for example the level of abstraction, the impact on cognition and, as we will see in our case study, certain additional questions specific to metro maps (e.g., perceived geography).
 
 In this lesson, you will learn that:
 1. **Metro maps as data visualisations** are the result of a transformation pipeline from real world phenonema such as geography or distances, captured as data into nodes and edges, and finally represented as a network graph visualisation.
-2. **Data does not speak for itself (and neither does its visualisation)**. There are economic, cultural, political, social and historical histories that metro maps can tell.
+2. **Data does not speak for itself and neither does its visualisation**. There are economic, cultural, political, social and historical narratives that metro maps can tell.
 3. **Contextualisation is a fundamental practice in data analysis and visualisation**, as well as in the interpretation of historical sources. For that purpose, we will explore how to combine and compare metro maps for a deeper analysis.
 
 Each section includes practical exercises designed to develop your critical thinking, as well as additional resources where you can explore the content further if required.
@@ -65,33 +65,44 @@ Each section includes practical exercises designed to develop your critical thin
 [!NOTE]
 *Learning objectives:*
 By completing this section, you will be able to:
-- Understand the different levels of abstraction from data collection to representation.
-- To understand how this translates specfically to metro maps
+- Understand the different levels of abstraction from data collection to representation and how these apply to metro maps
 
-Does data objectively capture the phenomena taking place in the real world? Drucker says that "by recognizing the always interpreted character of data we have shifted from data to capta, acknowledging the constructed-ness of the categories according to the uses and expectations for which they are put in service" (Drucker,2011). Loukissas explains that "in thinking about when something becomes data, we must lend weight to the material processes involved; measuring, recording, and otherwise capturing the world are processess with physical constraints. (...) Aspects of the original subject are inevitably lost in translation" (Loukissas, 2019).
+Does data objectively capture the phenomena taking place in the real world? Drucker says that “by recognizing the always interpreted character of data we have shifted from data to capta, acknowledging the constructed-ness of the categories according to the uses and expectations for which they are put in service” (Drucker, 2011). Loukissas explains that “in thinking about when something becomes data, we must lend weight to the material processes involved; measuring, recording, and otherwise capturing the world are processess with physical constraints. (...) Aspects of the original subject are inevitably lost in translation” (Loukissas, 2019).
 
-A data visualisation is a representation of information that involves transforming real-world phenomena into a simplified visual form through a process of abstraction. This process usually includes four steps: 1)A real-world event, system, or situation is observed. 2)Data collection: Information about the phenomenon is gathered through observation, measurement, surveys, records, or technology. 3)Representation: The data is converted into a visual form, 4) The representation is pereceived by the human perceptual and cognitive system.
+In other words, it is important to pay attention to how data constructs a representation of the reality, shaped by the choices, interpretations, purposes and material limitations involved in its collection, inevitably leaving out certain aspects of the original phenomenon.
 
-There is a "widespread belief that large data sets offer a higher form of intelligence and knowledge that can generate insights that were previously impossible, with the aura of truth, objectivity, and accuracy” (Boyd et al., 2012) and "data visualization is often the visual enactment of this "aura of truth". Learning to be a critical reader and designer entails learning productive ways to challenge that aura" (D'Ignazio, 2019). This is therefore the focus of this first section.
+A data visualisation is a representation of information that involves transforming real-world phenomena into a simplified visual form through a process of abstraction. This process usually includes four steps: 
+1. A real-world event, system, or situation is observed. 
+2. Data collection: information about the phenomenon is gathered through observation, measurement, surveys, records, or technology. 
+3. Representation: the data is converted into a visual form
+4. The representation is perceived by the human perceptual and cognitive system.
+
+There is a “widespread belief that large data sets offer a higher form of intelligence and knowledge that can generate insights that were previously impossible, with the aura of truth, objectivity, and accuracy” (Boyd *et al.*, 2012). As D'Ignazio (2019) further observes, “data visualization is often the visual enactment of this “aura of truth”, arguing that “learning to be a critical reader and designer entails learning productive ways to challenge that aura”. This is therefore the focus of this first section.
 
 ### 1.a From phenomena to data
 
-What exactly does this mean? If we look, for example, at a metro map like the one in Image 1, what sort of real-world events lie behind the data needed to create this map? Could you name at least five? How are they collected as data? What sort of decisions do you think might have been made between observing these phenomena and recording them as data? Make a list of five key questions.
+What exactly does this mean? Look at the metro maps provided in figures 1 and 2. Then answer to the following questions: 
+
+1. What sort of real-world events lie behind the data needed to create this map? Could you name at least five? 
+2. How are they collected as data? What sort of decisions do you think might have been made between observing these phenomena and recording them as data? Make a list of five key questions.
+
+Figure 1. 
+
+
+Figure 2. 
 
 <details>
   <summary>Do you need help?</summary>
 
-  Some examples would include geographic phenomena such as distances between stations, elevation changes, administrative boundaries, rivers and waterways; mobility phenomena such as passenger movements, peak-hour demand, origin-destination flows, accessibility needs; socio-economic phenomena such as population density, employment density, urban growth, turist activity; environmental phenomena such as noise levels or weather changes, among many others. These are essentially all the observable events that exist before they are converted into data and then represented into a metro map.
-
-Different phenomena are captured into data using different methods. For example, distances, elevation changes or noise levels would be measured, accessibility needs could be collected using a survey, and touristic activity could be recorded through observation (among other options).
-
-The sort of decisions made during the data collection process are refleced in the decisions about what gets measured, why it gets measured and how it gets measured. For example who is the metro system and the metro map designed for (i.e., who is the target population: workers, turists,...)? Why a data collection method is selected and what are the limitations (i.e.,how was the sample selected)? What tools, instruments, or technologies were used to collect the data? When was the data collected? Who was responsible for the data collection?. These are just some examples of decisions that would alter the result significantly. Would it be the same to collect data for a metro system aimed at commuters travelling from the suburbs to the office districts as it would be to cater for the large numbers of tourists visiting the historic districts? It is important to understand that a critical view of the data collection process is important to challenge any "aura of truth". Additionally, as historians, the answers to all these questions bring relevant historical information as we will see in the next sections.
+Some examples would include geographic phenomena such as distances between stations, elevation changes, administrative boundaries, rivers and waterways; mobility phenomena such as passenger movements, peak-hour demand, origin-destination flows, accessibility needs; socio-economic phenomena such as population density, employment density, urban growth, tourist activity; environmental phenomena such as noise levels or weather changes, among many others. These provide the basis for planning and designing metro lines, informing the decisions that shape the physical network and, ultimately, its representation in metro maps.
 
 </details>
 
-A network consists of:
-- Vertices (nodes): the objects in the network.
-- Edges (links): the connections between those objects.
+Different phenomena are captured into data using different methods. For example, distances, elevation changes or noise levels would be measured, accessibility needs could be collected using a survey, and touristic activity could be recorded through observation (among other options).
+
+The sort of decisions made during the data collection process are reflected in the decisions about what gets measured, why it gets measured and how it gets measured. For example who is the metro system and the metro map designed for (i.e., who is the target population: workers, tourists,...)? Why a data collection method is selected and what are the limitations (i.e.,how was the sample selected)? What tools, instruments, or technologies were used to collect the data? When was the data collected? Who was responsible for the data collection?. These are just some examples of decisions that would alter the result significantly. Would it be the same to collect data for a metro system aimed at commuters travelling from the suburbs to the office districts as it would be to cater for the large numbers of tourists visiting the historic districts? It is important to understand that a critical view of the data collection process is important to challenge any "aura of truth". Additionally, as historians, the answers to all these questions bring relevant historical information as we will see in the next sections.
+
+Real-world phenomena are rarely isolated; they exist within complex systems of relationships and interdependencies. These relationships can be understood through the concept of a network, composed of interconnected entities (nodes) and the connections between them (links).
 
 <details>
   <summary>Can you work out what this data relates to in the case of the underground map?</summary>
