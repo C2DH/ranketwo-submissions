@@ -90,7 +90,7 @@ What exactly does this mean? Look at the metro maps provided in figures 1 and 2.
 
 Figure 1. Map showing the lines of the Interborough Rapid Transit Company. New York, 1904. [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0). Public domain. 
 
-![S-Bahn Berlin. Netzplan 1967](/assets/images/historical-metromaps-as-dataviz/berlin_b.jpg "Berlin S-Bahn. Network Map, 1967")
+![S-Bahn Berlin. Netzplan 1967](/assets/images/historical-metromaps-as-dataviz/1967-s-bahn-berlin-b.jpg "Berlin S-Bahn. Network Map, 1967")
 
 
 Figure 2. Berlin S-Bahn. Network Map, 1967 (Netzplan der S-Bahn Berlin - 1967). Source: *S-Bahn-Galerie.de.* [URL](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980/1967_S-Bahn-Berlin.htm).  
