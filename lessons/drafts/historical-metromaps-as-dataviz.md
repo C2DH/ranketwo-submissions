@@ -116,38 +116,39 @@ The nodes are the stations and the links are the urban transportation lines.
 </details>
 
 
-### 1.b From data to representation
-#### Preattentive processing
+### 1.b From data to representation - preattentive processing
 
-Once the data has been collected, the next part of the transformation comes into place, its visualisation. In order to critically approach a representation, we first need to understand how attention is captured and how we organise and interpret what we see. For that purpose, we are introducing in this section two relevant concepts in data visualisation: Preattentive attributes and Gestalt principles.
+Once the data has been collected, the next part of the transformation comes into place, its visualisation. In order to critically approach a representation, we first need to understand how attention is captured and how we organise and interpret what we see. For that purpose, we are introducing in this and the following section two relevant concepts in data visualisation: preattentive attributes and Gestalt principles.
 
 Look at the two images below, how many fives can you count on the first image? What about the second? Can you see the difference? This is an example of how we can leverage color as a preattentive attribute in data visualisation.
 
-![Color as a preattentive attribute](/assets/images/historical-metromaps-as-dataviz/color-preattentive.jpg)
+![Colour as a preattentive attribute](/assets/images/historical-metromaps-as-dataviz/colour-preattentive.jpg "Colour as a preattentive attribute")
 
-**Figure 1:** Color as a preattentive attribute. Source: Colin Ware, Information Visualization: Perception for Design
-<!-- Replace image but actual image from Colin Ware but a-z.lu does not work. This is a similar example -->
+Figure 3. Colour as a preattentive attribute. Image generated with use of generative artificial intelligence (Copilot). 
 
-Preattentive attributes are visual features that the human brain notices almost instantly. See below what other preattentive attributes we can use a part from color.
+Preattentive attributes are visual features that the human brain notices almost instantly. There are other preattentive attributes we can use apart from color. Read this short article on pre-attentive attributes: 
 
+Wink, Isaac. *Research Guides: Data Applications Services: Tips for Creating Effective Data Visualizations*. [URL](https://libguides.uky.edu/data_applications/data_viz_tips).
+
+<!--
 ![Preattentive attribute](/assets/images/historical-metromaps-as-dataviz/preattentive-attributes.jpg)
 
-**Figure 2:** Pre-attentive attributes. Source: Colin Ware, Information Visualization: Perception for Design
-<!-- Replace image but actual image from Colin Ware but a-z.lu does not work. This is a similar example -->
+**Figure ** Pre-attentive attributes. Source: Colin Ware, Information Visualization: Perception for Design
+ -->
 
 Why is this important? In data visualisation, certain things are shown "at a glance". For example in the case of metro maps, if you want people to instantly identify a certain information, it should be differenciated from all other information in a preattentive way.
 
-#### Exercise
+Now, use what you read on preattentive attributes to do the following exercise. 
 
-If you look at the New York Subway map https://www.mta.info/map/5256   <!-- Figure X, Masha to select an example from her collection. Dear Aida, I have added a link to the new york subway map from official website. it is more complex that the one from Kyiv and i think it will be a better example. what do you think?  -->:
+Look at the [New York Subway map](https://www.mta.info/map/5256) or the maps on figures 1 and 2. 
 
 
 - What do you notice instantly (i.e., pre-attentively: color hue, intensity, orientation, shapes)?
-- Which visual encodings are highlighted?
+- Which visual elements are highlighted?
 - Which ones are downplayed?
 - How do preattentive attributes affect the perception of centrality?
 - What do you observe about the shape of the lines?
-- Can you find other metro maps where it was not like that?<!-- Masha: This is a potential place to introduce the history of metro maps -->
+- Can you find other metro maps where it is not like that?<!-- Masha: This is a potential place to introduce the history of metro maps -->
 - Which stations stand out?
 - Which lines dominate visually?
   
@@ -165,7 +166,6 @@ Examples in metro maps typically include:
 </details>
 
 
-
 Do you think that all the preattentive attributes are equally strong?
 <details>
   <summary>Do you need help?</summary>
@@ -174,21 +174,37 @@ There are degrees of popout, but in general, the strongest effects are based on 
 </details>
 <!-- Add an example image, it can be a generic one or if we find an example especifically for metro maps -->
 
-To explore this topic further: read Ware Chapter five: Visual Saliency and Finding Information <!-- Fix references -->
+### 1.c From data to representation - Gestalt laws
 
-#### Gestalt laws
+"The visual brain is a powerful pattern-finding engine. There is no other way of presenting information so that structures, groups, and trends can be discovered." (Ware 2019). 
 
-"The visual brain is a powerful pattern-finding engine. There is no other way of presenting information so that structures, groups, and trends can be discovered." (Ware 2019) <!-- Fix references -->. In this section we will discuss: what does it take for us to see a group and what does constitute a visual connection between objects?
+In this subsection we will discuss: what does it take for us to see a group and what does constitute a visual connection between objects?
 
-The Gestalt Laws of pattern perception are a set of rules that describe the way we see patterns in visual displays, and these translate into a set of design principles for data visualization: 1) proximity, 2) similarity, 3) connectedness, 4) continuity, 5) symmetry, 6) closure, 7) relative size, and 8) common fate.
+The Gestalt principles of pattern perception are a set of rules that describe the way we see patterns in visual displays, and these translate into a set of design principles for data visualization. 
 
-![Gestalt laws](/assets/images/historical-metromaps-as-dataviz/gestalt.jpg)
+![Gestalt principles](/assets/images/historical-metromaps-as-dataviz/gestalt-principles.jpg "Gestalt principles")
 
-**Figure X:** Gestalt laws. Source: Colin Ware, Information Visualization: Perception for Design
-<!-- Replace image but actual image from Colin Ware but a-z.lu does not work. This is a similar example -->
+Figure 4. Gestalt principles. [FIO101](https://www.flickr.com/photos/rosenfeldmedia/49932103068) [Rosenfeld Media](https://www.flickr.com/photos/rosenfeldmedia/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.fr)
 
-#### Exercise
-Which Gestalt principles can you observe in Tokyo Subway Route map https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf  <!-- Masha to select a metro map. dear Aida, same here. I think this more complex map can be a better study case. what do you think? -->? 
+We focus on six of the Gestalt principles:
+
+1. Proximity: Objects that are close together as perceived as a group
+2. Similarly: Objects with similar attributes (i.e., color, shape) are perceived as a
+group
+3. Enclosure: Objects surrounded by a common boundary (i.e., a line, a colored
+area) are perceived as a group.
+4. Closure: The mind tends to fill in missing visual information to perceive
+incomplete shapes or patterns as complete.
+5. Continuity: The eye naturally follows smooth, continuous lines and paths
+rather than abrupt changes or interruptions.
+6. Connection: Elements linked by connectors (i.e., a line) are perceived as
+belonging together. 
+
+Do the following exercise. 
+
+How do Gestalt principles apply to the maps of figures 1 and 2? 
+
+Alternative metromaps for the exercise: Tokyo Subway Route [map](https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf).
 
 - How does the principle of similarity apply: are all the stations represented consistently? Are similar symbols used for differet purposes?Do line colors clearly communicate membership to a specific route?
 - What about the principle of proximity: are transfer stations close enough to suggest connectivity? Does spacing help users identify routes?
@@ -196,22 +212,23 @@ Which Gestalt principles can you observe in Tokyo Subway Route map https://www.t
 
 <!-- Masha, this is an alternative place to introduce the history of metro maps as they also evolved based on these principles. -->
 
-As you now understand, there are many decisions behind the data collection and visualisation process, starting from what is counted, to how it's organised and categorised and finally represented. Data visualisation is leveraged to reduce cognitive load so that the user can focus on a specific objective, as in the case of metro maps. However, as we have seen, this also implies [abstraction and omission of information](https://ranke2.uni.lu/u/digital-maps/#assignment-02-reading-maps.en) <!-- Maybe we can find an additional reference discussing these two terms -- yes, I Sofia added the link to the maps lesson on Ranke.2 -->, that we need to be aware of when exploring metro maps as historical sources. 
+As you now understand, there are many decisions behind the data collection and visualisation process, starting from what is counted, to how it's organised and categorised and finally represented. Data visualisation is leveraged to reduce cognitive load so that the user can focus on a specific objective, as in the case of metro maps. However, as we have seen, this also implies [abstraction and omission of information](https://ranke2.uni.lu/u/digital-maps/#assignment-02-reading-maps.en), that we need to be aware of when exploring metro maps as historical sources. 
 
 In the next section we will analyse the specific implications on how metro maps as data visualisations communicate certain historical and political narratives, that require a critical analysis of what is there and how it is represented, and what has been omitted and the potential reasons behind.
 
 To explore this topic further: read Ware Chapter six: Static and Moving patterns <!-- Fix references -->
 
-### Reading/viewing suggestions  <!-- I have also added references here, is it correct? They are mostly the same -->
-Drucker, J. (2011). Humanities approaches to graphical display. Digital Humanities Quarterly, 5(1), 1-21.
+### Reading/viewing suggestions  
 
-Loukissas, Y. A. (2019). All data are local: Thinking critically in a data-driven society. MIT press.
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” *Digital Humanities Quarterly* 5 (1), 2011. https://doi.org/10.63744/r4ysrh7ae534.
 
-d’Ignazio, C., & Klein, L. F. (2016, October). Feminist data visualization. In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE (Vol. 2, No. 10).
+Loukissas, Yanni Alexander. (2019). *All data are local: Thinking critically in a data-driven society*. The MIT Press
 
-Boyd, danah, & Crawford, K. (2012). CRITICAL QUESTIONS FOR BIG DATA: Provocations for a cultural, technological, and scholarly phenomenon. Information, Communication & Society, 15(5), 662–679. https://doi.org/10.1080/1369118X.2012.678878
+Boyd, danah, and Kate Crawford. CRITICAL QUESTIONS FOR BIG DATA: Provocations for a cultural, technological, and scholarly phenomenon. *Information, Communication & Society*, 15(5), June 2012. 662–679. [DOI](https://doi.org/10.1080/1369118X.2012.678878)
 
-D’Ignazio, C. (2019). Data Visualization. In R. Hobbs & P. Mihailidis (Eds), The International Encyclopedia of Media Literacy (1st edn, pp. 1–10). Wiley. https://doi.org/10.1002/9781118978238.ieml0095
+D’Ignazio, Catherine. Data Visualization. In Renee Hobbs and Paul Mihailidis (eds), *The International Encyclopedia of Media Literacy*, 1st edn. Wiley: 2019, 1–10.  [DOI](https://doi.org/10.1002/9781118978238.ieml0095)
+
+Kuznetsova, Anastasiya. Gestalt Principles in Data Visualization. *Medium*, 24 November 2023, [URL](https://nastengraph.medium.com/gestalt-principles-in-data-visualization-a4e56e6074b5).
 
 Ware, C. (2019). Information visualization: perception for design. Morgan Kaufmann.
 
