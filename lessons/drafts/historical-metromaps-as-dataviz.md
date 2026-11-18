@@ -108,15 +108,13 @@ The sort of decisions made during the data collection process are reflected in t
 
 Real-world phenomena are rarely isolated; they exist within complex systems of relationships and interdependencies. These relationships can be understood through the concept of a network, composed of interconnected entities (nodes) and the connections between them (links).
 
+In figures 1 and 2, what do the nodes and the connections between them represent respectively?
+
 <details>
-  <summary>Can you work out what this data relates to in the case of the underground map?</summary>
-Exactly – the nodes are the stations and the links are the underground lines.
+  <summary>Need help? Click to expand</summary>
+The nodes are the stations and the links are the transport lines.
 </details>
-<!-- Additional references for network graphs? Expand explanations? Wait to see if the rest of the content is balanced. -->
 
-MAP PROPOSAL SOFIA 1: S-Bahn, Berlin [https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980.htm](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980.htm) *maps from 1964, 1967 seem interesting as they show both the network and the Berlin wall (as real world phenomenon)* 
-
-MAP PROPOSAL SOFIA 2: A part of the NYC subway in 1904 [https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0](https://digitalcollections.nypl.org/items/6f180ec0-c6d1-012f-63dc-58d385a7bc34?canvasIndex=0)
 
 ### 1.b From data to representation
 #### Preattentive processing
