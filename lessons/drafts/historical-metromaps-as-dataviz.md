@@ -112,7 +112,7 @@ In figures 1 and 2, what do the nodes and the connections between them represent
 
 <details>
   <summary>Need help? Click to expand</summary>
-The nodes are the stations and the links are the transport lines.
+The nodes are the stations and the links are the urban transportation lines.
 </details>
 
 
