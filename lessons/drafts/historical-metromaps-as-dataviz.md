@@ -93,7 +93,7 @@ Figure 1. Map showing the lines of the Interborough Rapid Transit Company. New Y
 ![S-Bahn Berlin. Netzplan 1967](/assets/images/historical-metromaps-as-dataviz/1967-s-bahn-berlin-b.jpg "Berlin S-Bahn. Network Map, 1967")
 
 
-Figure 2. Berlin S-Bahn. Network Map, 1967 (Netzplan der S-Bahn Berlin - 1967). Source: *S-Bahn-Galerie.de.* [URL](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980/1967_S-Bahn-Berlin.htm).  
+Figure 2. Berlin S-Bahn. Network Map, 1967 (Netzplan der S-Bahn Berlin - 1967). Source: *S-Bahn-Galerie.de.* [URL](https://www.s-bahn-galerie.de/S_Bahn_Berlin/xPlan_Bln/Plan_S_B_1961-1980/1967_S-Bahn-Berlin.htm). (*Add information on rights of use*) 
 
 <details>
   <summary>Do you need help?</summary>
