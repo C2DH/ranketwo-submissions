@@ -241,7 +241,7 @@ By completing this section, you will be able to:
 - Understand that data does not speak for itself, nor does its visualization and how a narrative can be controlled through visual saliency.
 - How this applies specifically to metro maps and how to read implicit narratives.
 
-Data does not speak for itself, nor does its visualizations. A metro map, for example, encodes economic, cultural, political, social, and historical narratives. Now that you understand how data can be visually encoded, you can examine how saliency is used to emphasize certain narratives. This section focuses on developing an awareness of that saliency in any representation.
+Data does not speak for itself, nor does its visualizations. A metro map, for example, encodes economic, cultural, political, social, and historical narratives. Now that you understand how data can be visually encoded, you can examine how controlling saliency is used to emphasize certain narratives. This section focuses on developing an awareness of that visual emphasis in any representation.
 
 ### 2.a Controlling the saliency 
 
@@ -259,56 +259,56 @@ We will start this section with an exercise, exploring the following example:
 <details>
   <summary>Do you need help?</summary>
 Some of the elements used to control the narrative in the example include:
-- Modifying the x-axis to present partial data.
-- Using color to highlight specific values or a range of values.
-- Adding reference lines as a baseline for comparison, to measure success or failure.
-- The use of titles, subtitles, and explanatory text.
-- The use of annotations to highlight important figures.
+<ul>
+  <li>Modifying the x-axis to present partial data.</li>
+  <li>Using color to highlight specific values or a range of values.</li>
+  <li>Adding reference lines as a baseline for comparison, to measure success or failure.</li>
+ <li>The use of titles, subtitles, and explanatory text.</li>
+ <li>The use of annotations to highlight important figures.</li>
+</ul>
 
 If we look at the visualization without any of these elements, the readers could be influenced by their expertise in the subject, their political opinions or their level or visual data literacy, among others.
 </details>
 
-"If grouping, highlighting, and annotation can guide viewers toward a certain comparison or pattern, then for better or worse, a visualization designer has some control over what their viewers see in a data set. "(Franconeri et al, 20212)<!-- Fix references -->
+“If grouping, highlighting, and annotation can guide viewers toward a certain comparison or pattern, then for better or worse, a visualization designer has some control over what their viewers see in a data set”. (Franconeri *et al.*, 2021)
 
-To know more about the complexities of truth and deception in visualisation, please read:
-Cairo, A. (2016). The truthful art: Data, charts, and maps for communication. New Riders.
-Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W. Norton <!-- Move to suggested reading and keep here only the references -->
+To know more about the complexities of truth and deception in visualisation, please read the works of Cairo included in the reading suggestions section.
 
 ### 2.b Controlling saliency in metro maps
 
-#### Exercise
+Now, we will focus on a metro map. 
+Check the [Hong Kong metro map](https://www.mtr.com.hk/archive/en/services/routemap.pdf).
 
-Now, we will focus on a metro map. )<!-- Masha to select a metro map -->
+Try to answer the following questions, grounding your answers in the visual elements and how the saliency of the map is controlled:
 
-**LINK TO METRO MAP OF HONG KONG [https://www.mtr.com.hk/en/customer/services/system_map.html]5https://www.mtr.com.hk/en/customer/services/system_map.html°** <!--proposed by Sofia-->
-
-Please try to answer the following questions, grounding your answers in the visual elements and how the saliency of the map is controlled:
-
-- What kind of city does the metro map suggest: ordered, complex, dense, accesible, equal, hierarchical, modern,...?
-- What routes are perceived as more used, more important, more efficient?
-- Which aspects of the map have been highlighted or simplified and why could that be? What assumptions did the designers make about the passengers’ perspective and priorities? Whose mobility is prioritised?
-- Is it tourist-centric, commuter centric, etc. and why? What are the key stations? 
-- Do the choices about language or naming conventions encode colonial, political and cultural legacies?
-- What additional modes of transport are shown?
-- How does the metro map encode power structures?
+* What kind of city does the metro map suggest: ordered, complex, dense, accesible, equal, hierarchical, modern, other?
+* What routes are perceived as more used, more important, more efficient?
+* Which aspects of the map have been highlighted or simplified and why could that be? What assumptions did the designers make about the passengers’ perspective and priorities? Whose mobility is prioritised?
+* Is the map tourist-centric, commuter centric, etc. and why? What are the key stations? 
+* Do the choices about language or naming conventions encode colonial, political and cultural legacies?
+* What additional modes of transport are shown?
+* How does the metro map encode power structures?
 
 <details>
   <summary>Do you need help?</summary>
-  <!-- Masha to do an analysis of the selected metro map -->
+  The legibility of a simplified layout can suggest an ordered and efficient city, while a high density of connections around central stations can reflect their strategic importance as major commercial or business districts. A schematic layout prioritises route legibility over geographical accuracy, aimed primarily at commuters who need to identify stations, follow routes and navigate transfers efficiently between residential areas and employment centres. In contrast, a geographically accurate representation prioritises spatial orientation and the relationship between the transport network and the wider urban environment, catering more broadly to passengers interested in understanding where stations are located in relation to neighbourhoods, landmarks and geographical barriers. The use of multiple languages can make the network accessible to international visitors while reflecting colonial legacies and local cultural identities through station names. Finally, the display of connections to wider regional transport infrastructure can communicate political priorities and the city's relationship with the surrounding region.
 </details>
+
+A deep understanding of the historical and cultural context would, of course, allow for a more nuanced analysis, as it would be the case when analysing metro maps as part of historical research. Consider the following citation: 
+“Meaning is context-bound, and context is boundless” (Culler, 1998 cited in Loukissas 2019).
+
+In section 3 we look at metro maps as historical sources in context.  
 
 ### Reading/viewing suggestions 
 
-Franconeri, S. L., Padilla, L. M., Shah, P., Zacks, J. M., & Hullman, J. (2021). The science of visual data communication: What works. Psychological Science in the public interest, 22(3), 110-161.
+Franconeri, Steven L., *et al*. “The Science of Visual Data Communication: What Works”. *Psychological Science in the Public Interest* 22 (3), December 2021: 110‑61. [DOI](https://doi.org/10.1177/15291006211051956).
 
-Cairo, A. (2016). The truthful art: Data, charts, and maps for communication. New Riders.
+Cairo, Alberto. *The truthful art: Data, charts, and maps for communication*. New Riders, 2016
 
-Cairo, A. (2019). How charts lie: Getting smarter about visual information. W.W. Norton
+Cairo, Alberto. *How charts lie: Getting smarter about visual information*. W.W. Norton, 2019
 
 
-## 3 Metro maps as data visualisations and historical sources in context 
-<!-- This section is mostly the historical section for Masha to develop. Structure it differently if needed, also include the visualization from your thesis about depth, etc. -->
-"Meaning is context-bound, and context is boundless" (Culler, 1998) - from a lecture at Cornell University (mentioned in All data is Local, Loukissas page 15)<!-- Fix references -->
+## 3 Metro maps as data visualisations and historical sources in context  
 
 Contextualisation is a key practice both in critical analysis of data visualisation and historical sources. How do we look at metro maps in combination with other maps? What new perspectives does it offer to look at the multiple versions of the same metro maps (e.g., official one vs. construction map), the official map over time, or in combination with other maps (e.g, Olympics, Internet coverage)? What contradictions do we find, and what information appears and disappears among them or over time?
 
