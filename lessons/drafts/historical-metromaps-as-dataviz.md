@@ -370,31 +370,31 @@ to many more examples.
   * [World Metro Map](https://www.worldmetromap.com/map) 
 
 
-Considering the above, reflects on the power of standardized diagrammatic forms, particularly network graphs, which assume and reinforce a common visual literacy among their users. 
+Considering the above, reflect on the power of standardized diagrammatic forms, particularly network graphs, which assume and reinforce a common visual literacy among their users. 
 
 
 ### 3.b Historical contextualisation of metro maps
 
-Why metro maps should be read critically?
+Why and how metro maps should be read critically?
+In the following section, we present several examples of metro schemas employed as versatile visual tools to tell stories and represent phenomena that extend beyond their conventional function of helping passengers navigate a rapid transit system.
 
-In the following section we will show a few examples from Kyiv, where metro schemas portray things beyond or instead of the classical function metro schemas that is to help passengers navigate the rapid transit system.
+Are metro maps merely representations of transport systems, or do they constitute a broader diagrammatic language capable of depicting different realities?
 
-Why metro maps should be read critically?
-In the following section we give a few examples of metro schemas used as versatile tool to tell different stories and portray things beyond or instead of the classical function of metro schemas that is to help passengers navigate the rapid transit system.
+We can distinguish three levels of lecture: 
 
-What if metro schemas are able to portray different realities?
-
-On one level there is an official 'real' map of everything passengers can see and use.
-
-On the other level there is a broader functional map with additional objects unseen to passengers like stations that are currently being in construction, ghost stations that are not accessible to public or service tunnels. This map is a reality for those managing and working in metro.
-
-There is a third level of reality that include future plans for the development of metro. These type of metro schemas can be confusing for people unfamiliar with Kyiv realities. The primary purpose of these maps is not to help navigate across the city, but present plans for the development of metro, resulting in more extensive and colourful network of lines both existing and envisioned. This level of reality is the most fragile, some of those future lines portrayed on schemas have been on the map for decades and yet they remain imaginary (to be constructed). Some plan come to life thus moving to the first level of reality - current passenger maps. And finally there are projects that are abandoned for different reasons and remain but a ghosts of past dreams and hopes for the future.
+* First level: an official “real” map of everything passengers can see and use.
+* Second level: a functional map including realities that the passengers do not see (stations under construction, ghost stations out of use, service tunnels...) This kind of map is a reality for those managing and working in the metro network.
+* Third level: maps depicting future plans for the development of the network, mixing both existing and envisioned networks. This third level of reality is the most fragile: some plans come to life, thus moving to the first level of reality (ordinary passenger maps), others are abandoned for different reasons and remain but a ghost of past dreams and hopes for the future.
 
 Perceiving metro schemas with regard to these three layers of reality in a way allows to time-travel and see both past in the future and the future in the past. 
 
-<img width="515" height="700" alt="3b_1976_plans_by M Barashkov" src="https://github.com/user-attachments/assets/9f211df3-f7e9-4659-b860-c33821814094" />
+We explored the first level in subsection 3.a to see how diagrams help establish a visual *lingua franca*. Let's see how the other two levels make it necessary to be familiar with more specific temporalities and localised realities. 
 
-Kyiv Metro schema from 1976, created by M.Barashkow, retrieved from https://www.metropoliten.kiev.ua/pict/maps/1976.gif 
+
+![Kyiv Metro schema from 1976, created by M.Barashkow]()
+M.Barashkow, Kyiv Metro, 1976. [Source](https://www.metropoliten.kiev.ua/pict/maps/1976.gif)
+
+<!--alternatively, to avoid risk of using the image: Check the [Kyiv Metro schema from 1976, created by M.Barashkow](https://www.metropoliten.kiev.ua/pict/maps/1976.gif). --> 
 
 
 <img width="404" height="316" alt="3b_2003_plans" src="https://github.com/user-attachments/assets/d3d4d5d3-73e8-4e42-8f04-377e87d0b996" />
@@ -426,9 +426,6 @@ Compare a map from 2010 with Official Kyiv Rapid Transit System map of 2026 to f
 
 Kyiv rapid transit system map from 2010 by UrbanRail.Net (R.Schwandl) retrieved from OrangeSmile.com.
 
-Metro maps does not necessary reflect milestone socio-political changes, it is also capable of capturing everyday life, events hosted by the city, help the tourist to find historical monuments or mark special occasions.
-
-About 15 years ago there was a poster hanging in metro trains stating that average citizen of Kyiv spends 4 years of their life in metro. There is no sources that would back up this figure and it is mostly perceived as an urban legend or marketing strategy. However this poster became an encouragement for people to make use of this time, weather 4 years or not. 
 
 A decade later schema of Kyiv Metro issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations. This map does not 'speak' of public transportation but about the progress of the Ministry in equipping metro stations with high-quality internet connection. Now passengers almost have to use their time while in metro and there is barely a few people who are not looking in their devices.   
 
@@ -462,7 +459,7 @@ What could be the agenda behind this message? How would it be represented visual
 
 The genius of the London Tube Map. TED Series. 2 November 2018. YouTube video. [https://youtu.be/iBErp8qvWZg](https://youtu.be/iBErp8qvWZg)
 
-Mark Ovenden. "Harry Beck: The Paris Connection." *Creative Review*. March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
+Mark Ovenden. “Harry Beck: The Paris Connection." *Creative Review*. March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
 
 “Evolution of the Paris metro map: from spaghetti dish to futuristic city”: https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
 
