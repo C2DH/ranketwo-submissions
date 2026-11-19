@@ -360,7 +360,7 @@ Finally, explore how the creation of transport diagrams across national contexts
 * Look at the Kyiv Rapid Map introduced in 2015 that used Beck’s 1935 diagram as a model and source of inspiration. Can you read and understand this metro map despite language barriers and limited knowledge of the local geography?  
 
 <!-- Its designers, Ahenty Zmin, examined official metro maps from around the world dating from 1908 to 2014 and identified a broader transition from geographically accurate maps to schematic diagrams. As they observed, “Diagrams allow information about the transport network to be laid out more evenly and enable passengers to find the information they need quickly and accurately whilst on a fast-moving metro carriage. When designing such diagrams, one must take into account, at the very least, poor lighting, swaying whilst the train is in motion, and overcrowding in the carriages.”-->
-![Official Kyiv Rapid Transit Map](/assets/images/historical-maps-as-dataviz/3a-official-2026.jpg) 
+![Official Kyiv Rapid Transit Map](/assets/images/historical-metromaps-as-dataviz/3a-official-2026.jpg) 
 
 Figure . Official Kyiv Rapid Transit Map. 2026. [Source](https://a3.kyiv.ua/projects/metromap/). Courtesy from [website](https://a3.kyiv.ua/) for free non-commercial use.  
 
