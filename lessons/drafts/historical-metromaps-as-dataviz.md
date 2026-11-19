@@ -316,45 +316,61 @@ Contextualisation is a key practice both in critical analysis of data visualisat
 *Learning objective:*
 By completing this section, you will be able to:
 - Trace the process of transformation from real-life phenomena into an structural network across multiple cities.
-- Contextualise the implicit narrative of a metro map within historical setting by comparing it with other metro schemas and geographical maps.
+- Contextualise the implicit narrative of a metro map within a historical setting by comparing it with other spatial and network visualisations.
+
+In this section, we examine the historical and urban context behind the development of schematic network maps that replaced geographically accurate representations in London, Paris, and Kyiv.
 
 ### 3.a From geographical map to structural network
-In this part we approach the context behind creation of a structural networks on place of geographical maps in London, Paris and Kyiv.
-Take a look at the following video:
 
-https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s
+The London Underground was the world's first metro system, entering service in 1863 under the name Metropolitan Railway. Not only did the metro as a mode of urban transportation originate in London, but the city also gave rise to the first schematic, non-geographical metro map. This innovative design remains the model that continues to shape how we think about and represent metro networks today.
 
-TED: The genius of the London Tube Map | Michael Bierut on "Small Thing Big Idea"
+Take a look at the following video: TED: The genius of the London Tube Map. Michael Bierut on "Small Thing Big Idea". [YouTube video](https://www.youtube.com/watch?v=Aw_1mOwx5gM&t=5s)
+
+Answer the following questions: 
+* What was the innovation of Harry Beck? 
+* What was his main argument regarding the passengers' needs? 
+* How did Beck redraw the underground? What techniques did he use?
+
+You can also check [the 1933 London undergournd map](https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321).  
+
+<details>
+  <summary>Do you need help?</summary>
+The development of metro maps is often associated with Harry Beck, a draftsman in the London Underground Signals Office, who designed a new map in 1933 that was in fact more of a diagram than a conventional map. His design prioritized passengers' needs rather than geographical accuracy. Beck argued that travellers were not concerned with what lay on the surface; they simply needed to know how to get from one station to another. As he famously put it, “It is the system that is important, not the geography.” Geographically accurate maps often made the network appear more confusing than it was. Beck therefore removed all above-ground references except the River Thames and redrew the network using colour-coded lines and evenly spaced stations arranged along horizontal, vertical, and 45-degree angles.
+</details>
+
+Now: 
+* Read the following article: Mark Ovenden. “Harry Beck: The Paris Connection”. *Creative Review*. March 2009. [URL](https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf/) OR “Harry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ 
+* Check this [1939 map of the Paris métro](https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris#/media/Fichier:M%C3%A9tro_parisien_%C3%A9tat_du_r%C3%A9seau_en_1939.jpeg)  
+* See the collection of Paris metro maps from different decades https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris
+
+Answer the questions: 
+* What were the reasons behind the rejection of Beck's map? 
+* What created difficulties for adapting diagrammatic approach in Paris? 
+* How did the Paris metro schemas evolved over time? 
+* How does this evolution reflect the perception of the city by Parisians? 
+* How does visualisation reflect this perception?
+
+<details>
+  <summary>Do you need help?</summary>
+The neighbouring Paris Métro network, by contrast, was for many years represented almost exclusively through geographically accurate maps. Although Beck was invited to develop a schematic map for the Paris Métro and produced two versions after the Second World War, both proposals were rejected, and the well-known “spaghetti” style of representation remained in use. It was only in 1987 that the Paris Métro map began to move away from a strictly geographical representation towards a schematic diagram, following the international conventions of metro mapping. In the early 2000s, it further adopted several of Beck’s design principles.
+</details>
+
+Finally, explore how the creation of transport diagrams across national contexts has led to the emergence of a universal visual language. 
+
+* Look at the Kyiv Rapid Map introduced in 2015 that used Beck’s 1935 diagram as a model and source of inspiration. Can you read and understand this metro map despite language barriers and limited knowledge of the local geography?  
+
+<!-- Its designers, Ahenty Zmin, examined official metro maps from around the world dating from 1908 to 2014 and identified a broader transition from geographically accurate maps to schematic diagrams. As they observed, “Diagrams allow information about the transport network to be laid out more evenly and enable passengers to find the information they need quickly and accurately whilst on a fast-moving metro carriage. When designing such diagrams, one must take into account, at the very least, poor lighting, swaying whilst the train is in motion, and overcrowding in the carriages.”-->
+![Official Kyiv Rapid Transit Map](/assets/images/historical-maps-as-dataviz/3a-official-2026.jpg) 
+
+Figure . Official Kyiv Rapid Transit Map. 2026. [Source](https://a3.kyiv.ua/projects/metromap/). Courtesy from [website](https://a3.kyiv.ua/) for free non-commercial use.  
+
+* Explore two projects that represent two completely different ways to visualize subway maps from around the world. See how the ideas we have explored in this section apply
+to many more examples. 
+  * [RailsMaps](https://railsmaps.com/world/metro)
+  * [World Metro Map](https://www.worldmetromap.com/map) 
 
 
-London tube is first in the world metro that entered service in 1863 under the name the Metropolitan Railway. Not only the whole phenomenon of metro originated from London, but also the first non-geographical metro diagram which until now remains the template for the way we think of metro maps.
-
-In 1933, Harry Beck, a draftsman in the London Underground Signals Office created the new map that was more accurately a diagram that prioritised riders’ needs. His argument was that passengers do not care what is on the surface, they need to get from station to station. 'It's the system that's important not the geography'. Previous geographically accurate maps were more confusing if anything. He removed all aboveground references but the Thames and replotted the stations at equidistant points along color-coded straight lines, going horizontal, vertical and 45 degree angles. 
-
-The neighbouring Paris Metro network on the contrary had almost exclusively been represented geographically. Although Beck was asked to develop schema for Paris Metropoliten and post WWII created two versions of map, both were rejected and well-know spaghetti dish remained. Only in 1987 Paris metro map shifted from geographically-bound to diagram, complying with the universal language of metro mapping, and in early 2000 eventually adapted Beck's rules.  
-
-Beck's diagram from 1935 served as an template and guidance for creation of the official Kyiv Rapid Transit map, designed in 2015. The Kyiv Metro schemas creators, Ahenty Zmin examined official metro maps all over the planet from 1908 to 2014 concluding (unsurprisingly) the general shift from maps to diagrams:  'Diagrams allow information about the transport network to be laid out more evenly and enable passengers to find the information they need quickly and accurately whilst on a fast-moving metro carriage. When designing such diagrams, one must take into account, at the very least, poor lighting, swaying whilst the train is in motion, and overcrowding in the carriages'.
-
-<img width="7795" height="8150" alt="3a_Official 2026" src="https://github.com/user-attachments/assets/a08b0aa9-7ff0-48d6-98af-aa87028dc61e" />
-
-Official Kyiv Rapid Transit System map as of 2026. Retrieved from https://a3.kyiv.ua/projects/metromap/
-
-Same principle of creating diagrams across countries in a way becomes a universal language. Traveling to an unfamiliar cities we are still able to read metro schema, even if it is in a foreign language and we know nothing about a city and its geography.   
-
-Exercise
-
-
-1. Take a look at two following two projects. They both attempt to represent the same thing - all metro systems on the planet in one place. However, they use two different approaches: one - geographical map, another - abstract network.
-   
-	https://railsmaps.com/world/metro
-
-	https://www.worldmetromap.com/map 
-
-What does each of the map 'says'? How do we perceive them? What is the main narrative? Purpose? Which of two (if any) is most suitable for navigating passengers? what other functions are they meant to carry? What information can you extract from either of them?
-
-2. To explore more about the evolution of Paris metro map take a look at the following article: “Henry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ and see the collection of Paris metro maps from different decades https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris
-
-What were the reasons behind rejection of Beck's map? What created difficulties for adapting diagrammatic approach in Paris? How did the Paris metro schemas evolved over time? How does it reflect the perception of the city by Parisians? How does visualisation reflect this perception?
+Considering the above, reflects on the power of standardized diagrammatic forms, particularly network graphs, which assume and reinforce a common visual literacy among their users. 
 
 
 ### 3.b Historical contextualisation of metro maps
@@ -446,10 +462,11 @@ What could be the agenda behind this message? How would it be represented visual
 
 The genius of the London Tube Map. TED Series. 2 November 2018. YouTube video. [https://youtu.be/iBErp8qvWZg](https://youtu.be/iBErp8qvWZg)
 
-Mark Ovenden. "Harry Beck: The Paris Connection." *Creative Review". March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
+Mark Ovenden. "Harry Beck: The Paris Connection." *Creative Review*. March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
 
 “Evolution of the Paris metro map: from spaghetti dish to futuristic city”: https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
-Article by Ahenty Zmin - creators of Kyiv rapid transit map: https://a3.kyiv.ua/projects/metromap/
+
+Article by Ahenty Zmin - creators of Kyiv rapid transit map: https://a3.kyiv.ua/projects/metromap/ 
 
 Monmonier, Mark. (1996). How to Lie with Maps. https://www.researchgate.net/publication/37420071_How_to_Lie_with_Maps
 
