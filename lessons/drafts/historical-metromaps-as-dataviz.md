@@ -245,16 +245,14 @@ Data does not speak for itself, nor does its visualizations. A metro map, for ex
 
 ### 2.a Controlling the saliency 
 
-#### Exercise
-
 We will start this section with an exercise, exploring the following example: 
  [The New York Times' One Report Diverging Perspectives](https://archive.nytimes.com/www.nytimes.com/interactive/2012/10/05/business/economy/one-report-diverging-perspectives.html)
 
-- How does the same report present diverging perspectives? Switch between "How a democrat might see things" and "How a republican might see things?"
-- What visual elements change in the representation?
-- How does the visualisation look like without any of those elements? Click on "September Jobs Report".
-- How do you think would the readers decide what's the narrative?
-- Can you make a list of the visual elements used to control the saliency?
+* How does the same report present diverging perspectives? Switch between "How a democrat might see things" and "How a republican might see things?"
+* What visual elements change in the representation?
+* How does the visualisation look like without any of those elements? Click on "September Jobs Report".
+* How do you think would the readers decide what's the narrative?
+* Can you make a list of the visual elements used to control the saliency?
 
 <details>
   <summary>Do you need help?</summary>
@@ -373,7 +371,7 @@ to many more examples.
 Considering the above, reflect on the power of standardized diagrammatic forms, particularly network graphs, which assume and reinforce a common visual literacy among their users. 
 
 
-### 3.b Reading critically metro maps
+### 3.b Reading critically metro maps in levels
 
 Why and how metro maps should be read critically?
 In the following section, we present several examples of metro schemas employed as versatile visual tools to tell stories and represent phenomena that extend beyond their conventional function of helping passengers navigate a rapid transit system.
@@ -444,17 +442,22 @@ Compare this map with the Official Kyiv Rapid Transit System map of 2026.
 * Evoke at least one example of renaming in link with one of the events you identified.  
 
 TIP: You can get help from the [Wikipedia article on the Kyiv metro](https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)). Eventually, you can do some research on the web on the topic in the language you prefer. 
+
+* Around 2012, the Kyiv metro maps became by default bilingual using both the Ukrainian and the English languages. Make some research in the web and write a short text (300-500 words) outlining the context of this change. 
   
 ### 3.d Reflecting networks on networks
 
 In October 2020, the Ministry of Digital Transformation of Ukraine posted on [its Telegram channel](https://t.me/mintsyfra) a plan of the Kyiv Metro showing the 4G internet coverage on the stations. This map uses the public transportation network to add a layer but about the progress of the Ministry in equipping metro stations with high-quality internet connection. 
 
 Plan available on the website of the Transformation Office of Ukrain. [Kyiv Metro Map featuring 4G internet coverage](https://media.transformation.org.ua/wp-content/uploads/2021/03/01141822/metro-4dzh.jpeg). 
+<!--[Facebook post of the Ministry](https://www.facebook.com/diia.gov.ua/posts/4g-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%94-%D0%BD%D0%B0-45-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D1%8F%D1%85-%D0%BC%D0%B5%D1%82%D1%80%D0%BE-%D1%83-%D0%BA%D0%B8%D1%94%D0%B2%D1%96%D1%82%D0%B5%D0%BF%D0%B5%D1%80-%D0%B2%D0%B8-%D0%B1%D1%83%D0%B4%D0%B5%D1%82%D0%B5-%D0%BD%D0%B0-%D0%B7%D0%B2%D1%8F%D0%B7%D0%BA%D1%83-%D1%83-%D0%BC%D0%B5%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D1%85-%D0%B7%D0%B0/403313277739695/)-->
 
 * How does this map correspond to the needs of passengers? Is the primary purpose to help nvigation in the city? In what way? 
 * What could be the broder agenda (political, social) behind the depiction of the 4G system covering the Kyiv metro?
 * How is the main message represented and highlighted visually? 
-* What information is left in the background and how? 
+* What information is left in the background and how?
+
+Can you think other examples of maps on maps?  
 
 
 <!--
