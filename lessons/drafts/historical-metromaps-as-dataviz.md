@@ -373,7 +373,7 @@ to many more examples.
 Considering the above, reflect on the power of standardized diagrammatic forms, particularly network graphs, which assume and reinforce a common visual literacy among their users. 
 
 
-### 3.b Historical contextualisation of metro maps
+### 3.b Reading critically metro maps
 
 Why and how metro maps should be read critically?
 In the following section, we present several examples of metro schemas employed as versatile visual tools to tell stories and represent phenomena that extend beyond their conventional function of helping passengers navigate a rapid transit system.
@@ -390,54 +390,76 @@ Perceiving metro schemas with regard to these three layers of reality in a way a
 
 We explored the first level in subsection 3.a to see how diagrams help establish a visual *lingua franca*. Let's see how the other two levels make it necessary to be familiar with more specific temporalities and localised realities. 
 
+Look at the following metro schemas from 1976, 2003 and 2017. Compare them with the Official Kyiv Rapid Transit System map of 2026 to see the state of plans' implementation.
+  - How did the metro lines evolve? 
+  - Which plans came to be? 
+  - Which have not been realised?  
+  - Think of possible reasons for the plans to have been abandoned.
 
-![Kyiv Metro schema from 1976, created by M.Barashkow]()
-M.Barashkow, Kyiv Metro, 1976. [Source](https://www.metropoliten.kiev.ua/pict/maps/1976.gif)
+![Kyiv Metro schema from 1976, created by M.Barashkow](/assets/images/historical-metromaps-as-dataviz/kyiv-metro-plan-1976-barashkov.jpg "Kyiv Metro schema from 1976, created by M.Barashkow")
+
+Figure . M.Barashkow, Kyiv Metro, 1976. [Source](https://www.metropoliten.kiev.ua/pict/maps/1976.gif)
 
 <!--alternatively, to avoid risk of using the image: Check the [Kyiv Metro schema from 1976, created by M.Barashkow](https://www.metropoliten.kiev.ua/pict/maps/1976.gif). --> 
 
 
-<img width="404" height="316" alt="3b_2003_plans" src="https://github.com/user-attachments/assets/d3d4d5d3-73e8-4e42-8f04-377e87d0b996" />
+![Kyiv Metro Map, 2003](/assets/images/historical-metromaps-as-dataviz/kyiv-metro-plan-2003.jpg "Kyiv Metro Map, 2003")
+Kyiv Metro Map, 2003. [Source](https://www.metropoliten.kiev.ua/pict/maps/futur.jpg)
 
-Kyiv Metro Map from 2003, retreived from https://www.metropoliten.kiev.ua/pict/maps/futur.jpg
+<!--
+alternatively, to avoid risk of using the image: Check the [Kyiv Metro Map, 2003](https://www.metropoliten.kiev.ua/pict/maps/futur.jpg). --> 
 
+![Kyiv Metro Map, 2017](/assets/images/historical-metromaps-as-dataviz/kyiv-metro-plan-2017-unian.jpg "Kyiv Metro Map, 2017")
 
-<img width="4681" height="3287" alt="3b_2017_UNIAN_plans" src="https://github.com/user-attachments/assets/eca7b199-872f-45f6-ab95-c5505548f1a5" />
+Kyiv Metro Map, 2017. Created by the municipal organisation "Institute of the General Plan of Kyiv City". [Source](https://www.unian.net/kyiv/2039651-v-kieve-budet-pyat-vetok-metro-opublikovana-karta-proekta.html) <!--OR http://kyiv.me/general-plan-of-kyiv-city/10-transport-and-street-network/-->
 
-Kyiv metro Map from 2017, created by Municipal Organization "Institute of the General Plan of Kyiv City", retrieved from https://www.unian.net/kyiv/2039651-v-kieve-budet-pyat-vetok-metro-opublikovana-karta-proekta.html 
+ 
 
-Exercise 
-Look at the following metro schemas from 1976, 2003 and 2017. Compare them with Official Kyiv Rapid Transit System map of 2026 to see the state of plans' implementation.
-	- How did the metro lines evolved? 
-	- Which plans came to be? 
-	- Which have not been realised?  
-	- Think of possible reasons for the pans to be abandoned.
-
-Not only the networks captures the evolution. An example of the changes of the country's policy was renaming of metro stations. Since 1990 15 stations (out of 52) in the Kyiv Metropolitan have been officially renamed (1 under-construction station was renamed before opening). These name changes occurred in a few waves:
+<!--
+Not only the networks captures the evolution. An example of the changes of the country's policy was renaming of  Since 1990 15 stations (out of 52) in the Kyiv Metropolitan have been officially renamed (1 under-construction station was renamed before opening). These name changes occurred in a few waves:
 
 First in direct aftermath of the fall of the Soviet Union and Ukraine gaining independence (early 1990s), then, during the post-Euromaidan decommunization. The names of soviet leaders and ideals were replaces with original toponyms, signalling the change of political orientation, moving away from the communist past.
 
 Lastly, during the de-Russification following the 2022 full-scale invasion. As an example 'Druzhby Narodiv' ('Friendship of Nations') station (implying Ukrainian-Russian friendship) was renamed into  'Zvirynetska' - local toponym that originates from middle age Kyivan Rus, centuries before Principality of Moscow appeared on the map.
+-->
 
-Exercise
-Compare a map from 2010 with Official Kyiv Rapid Transit System map of 2026 to find cases of stations' renaming.
+### 3.c Metro maps in historical context 
 
-<img width="900" height="600" alt="3a_En 2010" src="https://github.com/user-attachments/assets/dca3435b-dc68-41a0-949e-5366883c8a89" />
+Focus on the renaming of metro stations. 
+Look at the following map of the Kyiv rapid transit system from 2010. 
 
-Kyiv rapid transit system map from 2010 by UrbanRail.Net (R.Schwandl) retrieved from OrangeSmile.com.
+![Kyiv Rapid Transit Map, 2010](/assets/images/historical-metromaps-as-dataviz/kyiv-metro-plan-2010.jpg "Kyiv Rapid Transit Map, 2010") 
+
+Figure . Kyiv Rapid Transit Map, 2010. By UrbanRail.Net Source: OrangeSmile.com.<!--we need to find a good source and rights of use; cannot be used in this state-->
+
+<!--alternative maps
+* here? https://transphoto.org/articles/764/?st=30&lang=en
+* this one https://commons.wikimedia.org/wiki/Category:Kyiv_Metro_maps#/media/File:Kiev_metro_route_map_uk_en.svg
+* here: https://kyivpastfuture.com.ua/skhemy-kyivskoho-metropolitenu/ from 2011 or 2008? 
+
+-->
+Compare this map with the Official Kyiv Rapid Transit System map of 2026. 
+* Can you find renamings of stations?
+* Can you identify events in the history of Ukraine that led to renaming stations of the Kyiv Metro? Try to find at least three.
+* Evoke at least one example of renaming in link with one of the events you identified.  
+
+TIP: You can get help from the [Wikipedia article on the Kyiv metro](https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)). Eventually, you can do some research on the web on the topic in the language you prefer. 
+  
+### 3.d Reflecting networks on networks
+
+In October 2020, the Ministry of Digital Transformation of Ukraine posted on [its Telegram channel](https://t.me/mintsyfra) a plan of the Kyiv Metro showing the 4G internet coverage on the stations. This map uses the public transportation network to add a layer but about the progress of the Ministry in equipping metro stations with high-quality internet connection. 
+
+Plan available on the website of the Transformation Office of Ukrain. [Kyiv Metro Map featuring 4G internet coverage](https://media.transformation.org.ua/wp-content/uploads/2021/03/01141822/metro-4dzh.jpeg). 
+
+* How does this map correspond to the needs of passengers? Is the primary purpose to help nvigation in the city? In what way? 
+* What could be the broder agenda (political, social) behind the depiction of the 4G system covering the Kyiv metro?
+* How is the main message represented and highlighted visually? 
+* What information is left in the background and how? 
 
 
-A decade later schema of Kyiv Metro issued by the Ministry of Digital Transformation shows the 4G internet coverage on the stations. This map does not 'speak' of public transportation but about the progress of the Ministry in equipping metro stations with high-quality internet connection. Now passengers almost have to use their time while in metro and there is barely a few people who are not looking in their devices.   
-
-
-<img width="1080" height="1080" alt="3b_4G" src="https://github.com/user-attachments/assets/f0f097d2-3421-451c-875f-0885d0f286ca" />
-
-Kyiv Metro schema featuring 4G internet coverage posted on the 28th of October 2020 on official Telegram channel of the Ministry of Digital Transformation of Ukraine (@mintsyfra - https://t.me/mintsyfra) 
-
+<!--
 Another example would be how maps and schemas reflect big sport events. The Kyiv map from 1980 was meant for tourists who visited the city during the '80 Olympics and incorporated big sport location of the city as well as metro stations. Although Kyiv did not host the Games the importance of this event spread through the whole post-soviet space. 
 
-
-<img width="15739" height="15826" alt="3b_Olympics 1980" src="https://github.com/user-attachments/assets/b209e83e-d557-4988-9130-74226ef8b40f" />
 
 Kyiv tourist map from 1980. From the private collection of M.Meleshko-Sudina.
 
@@ -446,24 +468,18 @@ We know from other sources that Kyiv metro was impacted by '80 Olympics. In cont
 'During the days of the '80 Olympics, from July 21 to July 27, 1980, metro operated daily on weekdays with an extra insertion [service slot] for Olympic football at 30 pairs [of trains] per hour. On weekends, they operated on the Olympic schedule of 30 pairs per hour with an insertion for football [raising it to] 33 pairs per hour.' [translated with AI]
 
 Another sport event that has impacted Kyiv Metro schemas was UEFA Euro 2012. Kyiv being one of the host cities welcomed hundreds of thousands football fans from all over the world and on this occasion metro has introduced bilingual metro schemas (Ukr + Eng). From this time on the announcement in metro trains is also done in both languages
+-->
 
-
-### Exercises 
-Think of other cases where metro maps can be used to carry particular message, rather than navigate passengers.
-What could be the agenda behind this message? How would it be represented visually? What would need to be highlighted? What can be left on the background? How would visualisation makes you perceive the message? You can also draw you own metro map. 
-
-	
-
-### Reading/viewing suggestions  
-
+### Reading/viewing suggestions 
 
 The genius of the London Tube Map. TED Series. 2 November 2018. YouTube video. [https://youtu.be/iBErp8qvWZg](https://youtu.be/iBErp8qvWZg)
 
-Mark Ovenden. “Harry Beck: The Paris Connection." *Creative Review*. March 2009. (Available at: https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf / archived version available at https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf
+Ovenden, Mark. “Harry Beck: The Paris Connection." *Creative Review*. March 2009. (Available at [URL](https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf/) 
+[Archived version](https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf)
 
 “Evolution of the Paris metro map: from spaghetti dish to futuristic city”: https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
 
-Article by Ahenty Zmin - creators of Kyiv rapid transit map: https://a3.kyiv.ua/projects/metromap/ 
+Агенти Змін. *Схема Швидкісного Транспорту*. *https://a3.kyiv.ua/*. [URL](http://a3.kyiv.ua/projects/metromap). Accessed 19 November 2026. *(The author is the creator of the Kyiv rapid transit map).*
 
 Monmonier, Mark. (1996). How to Lie with Maps. https://www.researchgate.net/publication/37420071_How_to_Lie_with_Maps
 
