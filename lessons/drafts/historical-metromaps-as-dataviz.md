@@ -104,7 +104,7 @@ Some examples would include geographic phenomena such as distances between stati
 
 Different phenomena are captured into data using different methods. For example, distances, elevation changes or noise levels would be measured, accessibility needs could be collected using a survey, and touristic activity could be recorded through observation (among other options).
 
-The sort of decisions made during the data collection process are reflected in the decisions about what gets measured, why it gets measured and how it gets measured. For example who is the metro system and the metro map designed for (i.e., who is the target population: workers, tourists,...)? Why a data collection method is selected and what are the limitations (i.e.,how was the sample selected)? What tools, instruments, or technologies were used to collect the data? When was the data collected? Who was responsible for the data collection?. These are just some examples of decisions that would alter the result significantly. Would it be the same to collect data for a metro system aimed at commuters travelling from the suburbs to the office districts as it would be to cater for the large numbers of tourists visiting the historic districts? It is important to understand that a critical view of the data collection process is important to challenge any "aura of truth". Additionally, as historians, the answers to all these questions bring relevant historical information as we will see in the next sections.
+The sort of decisions made during the data collection process are reflected in the decisions about what gets measured, why it gets measured and how it gets measured. For example who is the metro system and the metro map designed for (i.e., who is the target population: workers, tourists,...)? Why a data collection method is selected and what are the limitations (i.e.,how was the sample selected)? What tools, instruments, or technologies were used to collect the data? When was the data collected? Who was responsible for the data collection?. These are just some examples of decisions that would alter the result significantly. Would it be the same to collect data for a metro system aimed at commuters travelling from the suburbs to the office districts as it would be to cater for the large numbers of tourists visiting the historic districts? It is important to understand that a critical view of the data collection process is important to challenge any “aura of truth”. Additionally, as historians, the answers to all these questions bring relevant historical information as we will see in the next sections.
 
 Real-world phenomena are rarely isolated; they exist within complex systems of relationships and interdependencies. These relationships can be understood through the concept of a network, composed of interconnected entities (nodes) and the connections between them (links).
 
@@ -130,27 +130,20 @@ Preattentive attributes are visual features that the human brain notices almost 
 
 Wink, Isaac. *Research Guides: Data Applications Services: Tips for Creating Effective Data Visualizations*. [URL](https://libguides.uky.edu/data_applications/data_viz_tips).
 
-<!--
-![Preattentive attribute](/assets/images/historical-metromaps-as-dataviz/preattentive-attributes.jpg)
-
-**Figure ** Pre-attentive attributes. Source: Colin Ware, Information Visualization: Perception for Design
- -->
-
-Why is this important? In data visualisation, certain things are shown "at a glance". For example in the case of metro maps, if you want people to instantly identify a certain information, it should be differenciated from all other information in a preattentive way.
+Why is this important? In data visualisation, certain things are shown “at a glance”. For example in the case of metro maps, if you want people to instantly identify a certain information, it should be differenciated from all other information in a preattentive way.
 
 Now, use what you read on preattentive attributes to do the following exercise. 
 
 Look at the [New York Subway map](https://www.mta.info/map/5256) or the maps on figures 1 and 2. 
 
-
-- What do you notice instantly (i.e., pre-attentively: color hue, intensity, orientation, shapes)?
-- Which visual elements are highlighted?
-- Which ones are downplayed?
-- How do preattentive attributes affect the perception of centrality?
-- What do you observe about the shape of the lines?
-- Can you find other metro maps where it is not like that?<!-- Masha: This is a potential place to introduce the history of metro maps -->
-- Which stations stand out?
-- Which lines dominate visually?
+* What do you notice instantly (i.e., pre-attentively: color hue, intensity, orientation, shapes)?
+* Which visual elements are highlighted?
+* Which ones are downplayed?
+* How do preattentive attributes affect the perception of centrality?
+* What do you observe about the shape of the lines?
+* Can you find other metro maps where it is not like that?<!-- Masha: This is a potential place to introduce the history of metro maps -->
+* Which stations stand out?
+* Which lines dominate visually?
   
 
 <details>
@@ -189,7 +182,7 @@ Figure 4. Gestalt principles. [FIO101](https://www.flickr.com/photos/rosenfeldme
 We focus on six of the Gestalt principles:
 
 1. Proximity: Objects that are close together as perceived as a group
-2. Similarly: Objects with similar attributes (i.e., color, shape) are perceived as a
+2. Similarity: Objects with similar attributes (i.e., color, shape) are perceived as a
 group
 3. Enclosure: Objects surrounded by a common boundary (i.e., a line, a colored
 area) are perceived as a group.
@@ -206,7 +199,7 @@ How do Gestalt principles apply to the maps of figures 1 and 2?
 
 Alternative metromaps for the exercise: Tokyo Subway Route [map](https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf).
 
-- How does the principle of similarity apply: are all the stations represented consistently? Are similar symbols used for differet purposes?Do line colors clearly communicate membership to a specific route?
+- How does the principle of similarity apply: are all the stations represented consistently? Are similar symbols used for differet purposes? Do line colors clearly communicate membership to a specific route?
 - What about the principle of proximity: are transfer stations close enough to suggest connectivity? Does spacing help users identify routes?
 - Can you maybe observe any features that comply with the principle of Continutiy? (e.g., facility to follow a line without interruption, confusing crosses, line bends to support visual flow,...)
 
@@ -215,8 +208,6 @@ Alternative metromaps for the exercise: Tokyo Subway Route [map](https://www.tok
 As you now understand, there are many decisions behind the data collection and visualisation process, starting from what is counted, to how it's organised and categorised and finally represented. Data visualisation is leveraged to reduce cognitive load so that the user can focus on a specific objective, as in the case of metro maps. However, as we have seen, this also implies [abstraction and omission of information](https://ranke2.uni.lu/u/digital-maps/#assignment-02-reading-maps.en), that we need to be aware of when exploring metro maps as historical sources. 
 
 In the next section we will analyse the specific implications on how metro maps as data visualisations communicate certain historical and political narratives, that require a critical analysis of what is there and how it is represented, and what has been omitted and the potential reasons behind.
-
-To explore this topic further: read Ware Chapter six: Static and Moving patterns <!-- Fix references -->
 
 ### Reading/viewing suggestions  
 
@@ -231,6 +222,9 @@ D’Ignazio, Catherine. Data Visualization. In Renee Hobbs and Paul Mihailidis (
 Kuznetsova, Anastasiya. Gestalt Principles in Data Visualization. *Medium*, 24 November 2023, [URL](https://nastengraph.medium.com/gestalt-principles-in-data-visualization-a4e56e6074b5).
 
 Ware, C. (2019). Information visualization: perception for design. Morgan Kaufmann.
+
+Wink, Isaac. Research Guides: Data Applications Services: Tips for Creating Effective Data Visualizations. https://libguides.uky.edu/data_applications/data_viz_tips. Accessed 18 November 2026.
+
 
 
 ## 2 Does data really speak for itself?
@@ -329,7 +323,7 @@ Answer the following questions:
 * What was his main argument regarding the passengers' needs? 
 * How did Beck redraw the underground? What techniques did he use?
 
-You can also check [the 1933 London undergournd map](https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321).  
+You can also check [the 1933 London underground map](https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321).  
 
 <details>
   <summary>Do you need help?</summary>
@@ -339,10 +333,10 @@ The development of metro maps is often associated with Harry Beck, a draftsman i
 Now: 
 * Read the following article: Mark Ovenden. “Harry Beck: The Paris Connection”. *Creative Review*. March 2009. [URL](https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf/) OR “Harry Beck: the Paris connection” https://ateliertally.com/harry-beck-the-paris-connection/ 
 * Check this [1939 map of the Paris métro](https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris#/media/Fichier:M%C3%A9tro_parisien_%C3%A9tat_du_r%C3%A9seau_en_1939.jpeg)  
-* See the collection of Paris metro maps from different decades https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris
+* See [the collection of Paris metro maps from different decades](https://fr.wikipedia.org/wiki/Plan_du_m%C3%A9tro_de_Paris)
 
 Answer the questions: 
-* What were the reasons behind the rejection of Beck's map? 
+* What were the reasons behind the rejection of Beck's map? Think what was the main difference of the Paris plans compared to Beck's. 
 * What created difficulties for adapting diagrammatic approach in Paris? 
 * How did the Paris metro schemas evolved over time? 
 * How does this evolution reflect the perception of the city by Parisians? 
@@ -355,7 +349,7 @@ The neighbouring Paris Métro network, by contrast, was for many years represent
 
 Finally, explore how the creation of transport diagrams across national contexts has led to the emergence of a universal visual language. 
 
-* Look at the Kyiv Rapid Map introduced in 2015 that used Beck’s 1935 diagram as a model and source of inspiration. Can you read and understand this metro map despite language barriers and limited knowledge of the local geography?  
+* Look at the Kyiv Rapid Transit Map introduced in 2015 that used Beck’s 1935 diagram as a model and source of inspiration. Can you read and understand this metro map despite language barriers and limited knowledge of the local geography?  
 
 <!-- Its designers, Ahenty Zmin, examined official metro maps from around the world dating from 1908 to 2014 and identified a broader transition from geographically accurate maps to schematic diagrams. As they observed, “Diagrams allow information about the transport network to be laid out more evenly and enable passengers to find the information they need quickly and accurately whilst on a fast-moving metro carriage. When designing such diagrams, one must take into account, at the very least, poor lighting, swaying whilst the train is in motion, and overcrowding in the carriages.”-->
 ![Official Kyiv Rapid Transit Map](/assets/images/historical-metromaps-as-dataviz/3a-official-2026.jpg) 
@@ -477,14 +471,15 @@ Another sport event that has impacted Kyiv Metro schemas was UEFA Euro 2012. Kyi
 
 The genius of the London Tube Map. TED Series. 2 November 2018. YouTube video. [https://youtu.be/iBErp8qvWZg](https://youtu.be/iBErp8qvWZg)
 
-Ovenden, Mark. “Harry Beck: The Paris Connection." *Creative Review*. March 2009. (Available at [URL](https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf/) 
+Ovenden, Mark. “Harry Beck: The Paris Connection”. *Creative Review*. March 2009. (Available at [URL](https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf/) 
 [Archived version](https://web.archive.org/web/20220802212341/https://www.tubemapcentral.com/showcase/mediafiles/CreativeReview_March2009.pdf)
 
-“Evolution of the Paris metro map: from spaghetti dish to futuristic city”: https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/
+“Evolution of the Paris Metro Map: From Spaghetti Dish to Futuristic City”. Graphéine Branding, Brand Strategy and Brand Design. *Https://Grapheine.Com/*. 30 March 2017. https://grapheine.com/en/magazine/evolution-of-the-paris-Metro-map/.
 
 Агенти Змін. *Схема Швидкісного Транспорту*. *https://a3.kyiv.ua/*. [URL](http://a3.kyiv.ua/projects/metromap). Accessed 19 November 2026. *(The author is the creator of the Kyiv rapid transit map).*
 
-Monmonier, Mark. (1996). How to Lie with Maps. https://www.researchgate.net/publication/37420071_How_to_Lie_with_Maps
+Monmonier, Mark S. *How to lie with maps*. Third edition, The University of Chicago Press, 2018.
+
 
 
 
