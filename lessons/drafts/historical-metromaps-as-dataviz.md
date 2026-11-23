@@ -422,7 +422,7 @@ Look at the following map of the Kyiv rapid transit system from 2010.
 
 ![Kyiv Rapid Transit Map, 2010](/assets/images/historical-metromaps-as-dataviz/kyiv-metro-plan-2010.jpg "Kyiv Rapid Transit Map, 2010") 
 
-Figure . Kyiv Rapid Transit Map, 2010. By UrbanRail.Net Source: OrangeSmile.com.<!--we need to find a good source and rights of use; cannot be used in this state-->
+Figure . Kyiv Rapid Transit Map, 2010. By UrbanRail.Net. Courtesy Robert Schwandl www.urbanrail.net 
 
 <!--alternative maps
 * here? https://transphoto.org/articles/764/?st=30&lang=en
