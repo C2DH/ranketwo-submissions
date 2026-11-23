@@ -387,7 +387,7 @@ Now return to the same Zenodo dataset you examined in subsection 3.a. Apply the 
 * Who benefits from the data being open: researchers, the institution that deposited it or the communities the data concerns? Try to be specific.
 * Are there uses of this data that would be ethically problematic even if they are technically permitted by the licence? Can you think of an example?
 
-### 3.c c Bringing it all together: evaluating Lea’s choices
+### 3.c Bringing it all together: evaluating Lea’s choices
 
 <!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
 
@@ -400,16 +400,22 @@ Lea is ready to deposit her collection. She has three categories of material, ea
 
 1. Oral history recordings and transcripts. Nine of the twelve participants have given explicit consent for public access. Two have asked for their contributions to be restricted to researchers at recognised institutions for twenty years. One has consented to sharing within the local history community only, not with the general public or with researchers outside the region.
 2. Digitised family photographs. All were donated by community members who signed a deposit agreement allowing publication under a Creative Commons Attribution licence (CC BY). However, several photographs depict individuals whose living relatives have not been contacted.
-3. Transcribed letters and diaries. The original authors died before 1854 and the texts are out of copyright. However, the letters contain detailed information about family conflicts, financial difficulties and health conditions that living descendants might find distressing if published without contextual framing.
+3. Transcribed letters and diaries. The original authors died before 1954 and the texts are out of copyright. However, the letters contain detailed information about family conflicts, financial difficulties and health conditions that living descendants might find distressing if published without contextual framing.
 
 For each category, consider the following questions:
 * Is there any material that should not be made publicly available, even if it is legally permissible to do so?
 * What CARE considerations apply? Whose interests and authority must be considered beyond the legal minimum?
 * What licence would you attach to the material that can be shared?
 
-Then reflect on the two frameworks together:
-* The phrase *handle data with care and share if possible* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in the phrase? What conditions would make sharing impossible, or irresponsible?
 
+Then reflect on the two frameworks together using the [Data Ethics Canvas](https://theodi.org/tools), a planning tool developed by the Open Data Institute (ODI) to help projects think through who could be affected by how data is used and shared.
+
+![Data Ethics Canvas](assets/images/data-criticism/Data-Ethics-Canvas.png)
+
+* Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
+* Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
+* The phrase *handle data with care and share if possible* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in the phrase? What conditions would make sharing impossible, or irresponsible?
+* Finally, consider the initial question and reflect on how the GDPR and the CARE principles point in the same direction for your category, and where they pull apart.
 
 <!-- in the above version, the questions about metadata schemas and repository types have been removed. The exercise now stays within what students have learned, connects back to earlier parts of the lesson, and ends with two reflection questions.-->
 
