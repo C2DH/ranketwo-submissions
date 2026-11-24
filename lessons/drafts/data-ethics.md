@@ -96,7 +96,7 @@ Now compare the two archives on the following two points and write a short respo
 
 > Tip: The September 11 Digital Archive no longer has an active contribution form. You can consult an archived version from 2004 on the Internet Archive: [Contribute form of the September 11 Digital Archive](https://web.archive.org/web/20040202174803/http://911digitalarchive.org/stories/add.html). This gives you a sense of what contributors were asked to agree to at the time of submission.
 
-### 1.d The ethics of participatory digital archives: consent, immediacy and long-term reuse – 40 mins
+### 1.d From immediate sharing to long-term preservation – 40 mins
 
 The September 11 Digital Archive is an example of a born-digital archive – that is, a collection of material created in digital form from the outset – built from crowdsourced contributions, meaning material voluntarily submitted by members of the public rather than selected by an institution.
 
@@ -181,7 +181,7 @@ For the purposes of this lesson, we use a combined model that draws on RDMkit an
 Extra: The SSHOC League of Data (SSHOC LoD) is a pilot gamification of the CESSDA Data Management Expert Guide® (DMEG) (https://lod.sshopencloud.eu).
 
 
-### 2.b Ethics at every stage — tracing the data lifecycle
+### 2.b Ethics across the data lifecycle | 40 mins 
 
 Return to the video animation: we know that Lea has her family’s oral testimonies and photographs from community members, and that she has digitised them. Now she wishes to make this material available through the online archive of a local history project.
 
@@ -298,7 +298,7 @@ Oral History Society. “Ethical and Legal Matters”. https://www.ohs.org.uk/et
 UK Data Service. “Consent for Data Sharing”. https://ukdataservice.ac.uk/learning-hub/research-data-management/ethical-issues/consent-for-data-sharing/
 
 
-## 3 Handling data with care, sharing if possible
+## 3 Sharing data responsibly
 
 <!--
 Need for a short introductive text that familiarises learners with the topic: when and why FAIR and CARE principles
@@ -324,7 +324,7 @@ The FAIR principles emerged from the open science movement of the 2010s, which p
 
 As open data initiatives expanded, marginalised voices pointed out that frameworks designed for scientific efficiency often replicated patterns of unequal power relations – data was being collected about communities without their meaningful participation or benefit. The CARE principles were developed by the Global Indigenous Data Alliance in direct response to this problem (Carroll et al. 2020).
 
-### 3.a The FAIR principles
+### 3.a Looking at data through the FAIR lens
 
 Handle data with care and share if possible – this sounds like a good idea, but what does it mean in practice? The FAIR principles were published in 2016 by a consortium of researchers, librarians and data managers. They have since become a standard reference point in open science, required by major research funders in Europe and elsewhere (Wilkinson et al. 2016). Go to [the original paper in Scientific Data](https://doi.org/10.1038/sdata.2016.18) and read the abstract and the brief description of each principle (p. 1–3). Then explore the GO FAIR website (https://www.go-fair.org/fair-principles/) for a more user-friendly explanation.
 
@@ -370,7 +370,7 @@ An open file format is a type of file that anyone can open and use, because its 
 </details>
 -->
 
-### 3.b CARE: collective benefit, authority to control, responsibility and ethics
+### 3.b Looking at data through the CARE lens
 
 The FAIR principles focus on the technical aspects of making data accessible and reusable, but they do not address whether data should be shared and whose interests are considered. The CARE principles were developed by the [Global Indigenous Data Alliance (GIDA)](https://www.gida-global.org/careprinciples) to address this gap. They respond to concerns that open data practices, while efficient for science, can reinforce unequal power dynamics and extract knowledge from Indigenous communities (Carroll et al., 2020; Tuhiwai Smith, 2012). More broadly, CARE highlights ethical issues that arise in contexts where power is uneven and some voices are marginalised. The underlying concerns about consent, power, benefit and community authority apply to any situation in which researchers use data about communities that have historically been marginalised, exploited or excluded from the research process. Historians working with data about enslaved people, colonial subjects, asylum seekers or victims of state violence should ask the same fundamental questions (Risam 2019; D’Ignazio and Klein 2020).
 
@@ -387,7 +387,7 @@ Now return to the same Zenodo dataset you examined in subsection 3.a. Apply the 
 * Who benefits from the data being open: researchers, the institution that deposited it or the communities the data concerns? Try to be specific.
 * Are there uses of this data that would be ethically problematic even if they are technically permitted by the licence? Can you think of an example?
 
-### 3.c Bringing it all together: evaluating Lea’s choices
+### 3.c Handle with care, share if possible: evaluating Lea’s choices
 
 <!-- Sofia: this is too extended and in many ways beyond what has been developed in the other parts. we should discuss in what ways this could be a collective assignment using elements from all 3 lessons-->
 
