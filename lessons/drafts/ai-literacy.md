@@ -158,7 +158,7 @@ Now reflect on the following:
 
 ![Tweets by Microsoft's chatbot Tay](IMAGE-PATH/microsoft-tay.jpg)
 
-*In March 2016, Microsoft shut down its chatbot Tay within a day after users taught it to post Nazi content. Video: https://www.youtube.com/results?search_query=microsoft+tay*
+*In March 2016, Microsoft shut down its chatbot Tay within a day after users taught it to post Nazi content. Video: https://www.youtube.com/watch?v=Lr4yi9onykg
 
 4. The Gemini images were the result of an attempt to make AI outputs more diverse. What does this case show about attempts to fix bias?
 5. Tay learned from its conversations with users. What does this case show about where bias can come from?
