@@ -189,8 +189,128 @@ The <strong>Tay case</strong> shows bias created <strong>after training, through
 20 mins
 
 
-### 1.a TITLE
 
+## 2 Algorithmic Curation: From Search Rankings to Recommender Feeds
+
+*Computational Literacy*
+
+*Learning objectives:*
+* Compare pull-based search and push-based recommender systems, explain how they rank and filter historical content, and examine the blurry line between algorithm and AI.
+
+Algorithms are technologies of power (Presner 2024). Every algorithm embodies choices: about what data to collect, which categories to use, what counts as relevant and what gets ignored. These decisions carry values and assumptions, even when the output looks objective and mathematical. Classifying is itself an exercise of power: whoever designs or controls the categories in search rankings, risk scores or content recommendations influences what happens as a result. And because algorithms operate automatically and opaquely, their effects often seem natural or inevitable rather than the result of design choices that could be questioned or changed.
+
+Nowhere is this more visible than in algorithmic curation. Search engines work on a **pull** basis: we enter a query, and the system ranks the results it considers most relevant. Recommender systems work on a **push** basis: they predict what we might want to see and present it to us without our asking. Both decide what rises to the top and what disappears, and so they influence what a society remembers, pays attention to and treats as true.
+
+For historians, this curation happens not only on Google or social media but also in digital archives, libraries and museums. In this section, you will explore how search engines rank results, investigate the algorithms behind a historical newspaper platform, and look at how recommender systems shape what we find.
+
+### 2.a How search engines rank
+
+Google describes its search process in three steps:
+
+1. **Crawling:** crawlers discover web pages and examine their content.
+2. **Indexing:** the content is tagged with metadata and categorised.
+3. **Ranking:** matching content is ranked and returned for a query.
+
+Ranking is based on several signals, weighted differently for each query. Freshness, for example, counts more for news than for definitions.
+
+| Signal | What it considers |
+|---|---|
+| **Meaning** | What the query is really asking |
+| **Relevance** | Keyword matches and interaction data |
+| **Quality** | Expertise, authority, trust |
+| **Usability** | Mobile-friendly, fast, secure |
+| **Context** | Location, search history, settings |
+
+Today, search also relies on AI. Language models interpret the meaning of a query, so that a search for "change laptop brightness" also finds pages that say "adjust". To do this, words and documents are turned into **embeddings**: long lists of numbers that place texts with similar meanings close together in a mathematical space. This is where the line between a classic algorithm and AI begins to blur.
+
+![Embeddings: words such as "cat", "dog", "apple" and "banana" placed in a 3D space, with similar words close together](IMAGE-PATH/embeddings.png)
+
+**Task**
+
+Open the [Search Methods Explorer](https://oberbics-private-search-engine.hf.space). It lets you search historical German and English newspapers using three different ranking methods: **keyword**, **semantic** and **hybrid**.
+
+1. Enter the same historical query with each of the three methods. How do the top five results differ?
+2. Which method finds articles that don't contain your exact search words? Why?
+3. Which method would you trust most for your own research, and why? What might each method make you miss?
+
+25 mins
+
+### 2.b Investigating the algorithms of a historical newspaper platform
+
+Historical platforms also rely on algorithms. [Impresso](https://impresso-project.ch/app/search) gives access to millions of digitised historical newspaper articles from Switzerland and Luxembourg, and offers many filters to search and explore them.
+
+**Task**
+
+Go to Impresso and explore the different filter types. For three filter types, including at least one that involves images or illustrations, write a short entry (100–150 words each) answering:
+
+1. What does this filter do?
+2. What algorithm or technique is likely behind it?
+3. What could go wrong, and what might a researcher miss as a result?
+
+<details>
+<summary>Need help? (click to expand)</summary>
+
+<ul>
+<li><strong>Named entities</strong> (people, places, organisations) → Named Entity Recognition and Classification (NERC)</li>
+<li><strong>Topics</strong> → topic modelling</li>
+<li><strong>Images and illustrations</strong> → image similarity detection, which visually matches illustrations, photos or graphics across the collection, independently of the text</li>
+<li><strong>"Similar articles" and text reuse</strong> → fuzzy text-reuse detection</li>
+<li><strong>Full-text search on scanned pages</strong> → OCR (optical character recognition), including special handling for older Fraktur (blackletter) typefaces</li>
+</ul>
+</details>
+
+30 mins
+
+### 2.c Recommender systems
+
+A recommender system is a type of machine learning that uses data to predict, narrow down and find what people are looking for among a rapidly growing number of options (NVIDIA). Recommender systems learn from two kinds of feedback:
+
+- **Explicit feedback:** thumbs up or down, star ratings, written reviews
+- **Implicit feedback:** songs played, videos watched, items bought, browsing history
+
+They mostly use two approaches:
+
+- **Content-based filtering** uses metadata and tags to suggest items similar to what you liked in the past.
+- **Collaborative filtering** ignores the content itself and uses the feedback of all users to make suggestions. *User-based* filtering finds people whose tastes resemble yours and recommends what they liked. *Item-based* filtering finds items that tend to be rated alike.
+
+Recommender systems have consequences. On social media, they can create **echo chambers**, in which users mostly see content that confirms their views. This can lead to polarisation and encourage the spread of false information.
+
+![Network graph of retweets showing two separate clusters, red and blue, with few connections between them](IMAGE-PATH/echo-chambers.png)
+
+*Echo chambers on social media. Source: https://dl.acm.org/doi/10.1145/3159652.3160597*
+
+Recommender systems are also used in archives, libraries and museums, for example in library catalogues ("users who borrowed this book also borrowed…"), in the American Philosophical Society's PAL tool for archives and manuscript collections, or in museum collections such as the Rijksmuseum's.
+
+**Task**
+
+Open the [Recommender Exercise](https://oberbics-recommender-exercise.hf.space/). It recommends movies using collaborative filtering, based on star ratings that around 900 people gave in 1997–98 (the MovieLens dataset).
+
+**Step 1: Understand the algorithm.** Start with the first page, which explains how the recommender works. Read it carefully and answer:
+
+1. What information does the algorithm use to make a recommendation, and what does it ignore?
+2. What is the difference between user-based and item-based filtering?
+3. What does "similarity" mean here, and how is it measured? Why might it matter that each person's average rating is subtracted first?
+
+**Step 2: Try it yourself.** Now go to the exercise and rate the ten movies listed, or mark those you haven't seen. Click *Recommend* and follow how the app calculates your recommendations.
+
+4. Do the recommendations fit your taste? Why or why not?
+5. Change the neighbourhood size (k) and the minimum number of shared movies. How do the recommendations change? What do these settings control?
+6. Whose taste decides what you are recommended here? What happens if your taste is very different from that of the people in the dataset?
+
+**Step 3: Transfer to history.**
+
+7. Imagine the same method used in a digital archive, based on what other researchers have viewed. Which sources, topics or perspectives might rarely or never be recommended?
+
+30 mins
+
+### Reading/viewing suggestions  
+
+- Presner, T. (2024). *Ethics of the Algorithm: Digital Humanities and Holocaust Memory*. Princeton University Press.
+- Makhortykh, M., Rohrbach, T., & Sydorova, M. (2025). Invisible in search? Auditing aesthetic bias in the visual representation of Holocaust victims on Google. *arXiv*. https://doi.org/10.48550/arXiv.2511.20036
+- Google. How Search works: Ranking results. https://www.google.com/search/howsearchworks/how-search-works/ranking-results/
+- NVIDIA. What is a recommendation system? https://www.nvidia.com/en-us/glossary/recommendation-system/
+- Mönnich, M., & Spiering, M. (2008). Adding value to the library catalog by implementing a recommendation system. *D-Lib Magazine*, 14(5/6). https://dlib.org/dlib/may08/monnich/05monnich.html
+- Aroyo, L., et al. (2007). Personalized museum experience: The Rijksmuseum use case. *Museums and the Web 2007*. https://museumsandtheweb.com/mw2007/papers/aroyo/aroyo.html
 
 
 ### 1.b TITLE
