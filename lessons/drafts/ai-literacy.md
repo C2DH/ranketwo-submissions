@@ -73,9 +73,11 @@ This matters for historians. When algorithms reproduce perceived cultural norms,
 
 In its simplest form, an algorithm is **a precise prescription of the steps and decisions needed to solve a problem**. A very simple algorithm is an instruction for how to make a sandwich: take two slices of bread, spread butter and jam on one slice, put the second slice on top and cut it in two halves. Watch the video below to see what happens when such instructions are followed exactly as written.
 
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eIOfbN7Hzpo" title="Exact Instructions Challenge" frameborder="0" allowfullscreen></iframe>
+-->
 
-*Video: Exact Instructions Challenge, https://www.youtube.com/watch?v=eIOfbN7Hzpo*
+*Video: [Exact Instructions Challenge](https://www.youtube.com/watch?v=eIOfbN7Hzpo)*
 
 As the video shows, every step has to be spelled out. What seems obvious to a human must be made explicit, and every instruction reflects a decision made by whoever wrote it.
 
@@ -93,7 +95,7 @@ In everyday language, however, the word "algorithm" is used much more broadly. T
 
 Algorithms in this second sense do more than calculate. They shape what we see, and through that, how the world looks. A well-known example is the interiors of fast-food restaurants, which have become more and more alike over the past decades. Algorithms define aesthetics by reproducing perceived cultural norms: what gets photographed, liked and recommended gets copied.
 
-![McDonald's interiors in 1987, 1997, 2007 and 2026](IMAGE-PATH/mcdonalds-over-the-years.jpg)
+![McDonald's interiors in 1987, 1997, 2007 and 2026](/assets/images/ai-literacy/mcdonalds-over-the-years.jpg)
 
 *"Style is an algorithm": McDonald's interiors over the years. Source: https://www.reddit.com/r/generationology/comments/1vh642d/mcdonalds_over_the_years/*
 
@@ -152,13 +154,13 @@ Now reflect on the following:
 
 **Part 3: Two cases.** Look at the following two cases.
 
-![Gemini-generated images of German soldiers in 1943](IMAGE-PATH/gemini-1943-soldiers.jpg)
+![Gemini-generated images of German soldiers in 1943](/assets/images/ai-literacy/gemini-1943-soldiers.jpg)
 
 *In February 2024, Google paused Gemini's image generation of people after criticism of images like these. Source: The Guardian, 22 February 2024.*
 
-![Tweets by Microsoft's chatbot Tay](IMAGE-PATH/microsoft-tay.jpg)
+![Tweets by Microsoft's chatbot Tay](/assets/images/ai-literacy/microsoft-tay.jpg)
 
-*In March 2016, Microsoft shut down its chatbot Tay within a day after users taught it to post Nazi content. Video: https://www.youtube.com/watch?v=Lr4yi9onykg
+*In March 2016, Microsoft shut down its chatbot Tay within a day after users taught it to post Nazi content. [Video:](https://www.youtube.com/watch?v=Lr4yi9onykg)*
 
 4. The Gemini images were the result of an attempt to make AI outputs more diverse. What does this case show about attempts to fix bias?
 5. Tay learned from its conversations with users. What does this case show about where bias can come from?
@@ -179,11 +181,13 @@ First, a foundation model learns from a huge corpus of texts or images. That cor
 <details>
 <summary>Need help? (click to expand)</summary>
 
+<div>
 The <strong>CEO, nurse and teacher images</strong> and the <strong>DeepL translations</strong> most likely come from the first stage, the <strong>training data</strong>. The huge corpus a model learns from overrepresents some people in some roles: more texts and images show men as CEOs and doctors, and women as nurses. The model learns these patterns as "normal" and reproduces them. Fine-tuning and human feedback can reinforce such patterns or soften them, depending on which examples and preferences were chosen.
 
 The <strong>Gemini case</strong> shows bias created in the <strong>later stages</strong>, through fine-tuning, alignment and the instructions added to make outputs more diverse. These corrections were meant to counter the bias in the training data. Attempts to correct bias are themselves decisions built into the system, for example an instruction to show more diversity. Applied without historical context, such a correction can produce new distortions: in this case, ethnically diverse German soldiers of 1943.
 
 The <strong>Tay case</strong> shows bias created <strong>after training, through users</strong>. Tay learned from its conversations with users on Twitter. Within hours, users deliberately fed it racist and antisemitic content, which it then repeated. Its bias was not in the original training data but came in through interaction after it was released, made possible by a design that let it learn from users without safeguards.
+</div>
 </details>
 
 20 mins
